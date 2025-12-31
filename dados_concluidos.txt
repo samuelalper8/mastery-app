@@ -1,0 +1,2649 @@
+
+
+// MÓDULO: ALFABETO ANIMAL (ABC PHRASES)
+A - Alligators act angry | Éi - Á-li-guei-tors éct én-gri | Jacarés agem com raiva | Alfabeto | A1
+B - Bears buy bread | Bí - Bérs bái bréd | Ursos compram pão | Alfabeto | A1
+C - Cats cook cakes | Cí - Kéts cúk kêiks | Gatos cozinham bolos | Alfabeto | A1
+D - Dogs drive dreams | Dí - Dógs dráiv dríms | Cachorros dirigem sonhos | Alfabeto | A1
+E - Elephants eat eggs | Í - É-le-fants ít égz | Elefantes comem ovos | Alfabeto | A1
+F - Frogs fix fans | Éf - Frógs fíks féns | Sapos consertam ventiladores | Alfabeto | A1
+G - Giraffes grow gardens | Djí - Dji-ráfs grôu gár-dens | Girafas cultivam jardins | Alfabeto | A1
+H - Horses help humans | Eitch - Rór-ses rélp riú-mans | Cavalos ajudam humanos | Alfabeto | A1
+I - Iguanas are interesting | Ái - I-guá-nas ár ín-tres-ting | Iguanas são interessantes | Alfabeto | A1
+J - Jaguars jump joyfully | Djêi - Djá-guars djâmp djói-fu-li | Jaguares pulam alegremente | Alfabeto | A1
+K - Kangaroos kick keys | Kêi - Kên-ga-rúz kíc kís | Cangurus chutam chaves | Alfabeto | A1
+L - Lions love life | Él - Lái-ons lâv láif | Leões amam a vida | Alfabeto | A1
+M - Monkeys make money | Ém - Mân-kis mêik mâ-ni | Macacos fazem dinheiro | Alfabeto | A1
+N - Narwhals need naps | Én - Nár-uals níd néps | Narvais precisam de sonecas | Alfabeto | A1
+O - Owls open ovens | Ôu - Áuls ôu-pen ó-vens | Corujas abrem fornos | Alfabeto | A1
+P - Pandas paint pictures | Pí - Pén-das pêint píc-tchars | Pandas pintam quadros | Alfabeto | A1
+Q - Quails quiet quickly | Kiú - Kuêi-ols kuái-et kuík-li | Codornas se aquietam rápido | Alfabeto | A1
+R - Rabbits run races | Ár - Ré-bits rân rêi-ces | Coelhos correm corridas | Alfabeto | A1
+S - Snakes sell snacks | És - Snéiks sél snéks | Cobras vendem lanches | Alfabeto | A1
+T - Tigers tell tales | Tí - Tái-guers tél têils | Tigres contam contos | Alfabeto | A1
+U - Urchins use umbrellas | Iú - Âr-tchins iúz âm-bré-las | Ouriços usam guarda-chuvas | Alfabeto | A1
+V - Vultures visit valleys | Ví - Vâl-tchars ví-zit vé-lis | Abutres visitam vales | Alfabeto | A1
+W - Wolves want water | Dâ-bol-iú - Uúlvs uónt uó-ta | Lobos querem água | Alfabeto | A1
+X - X-ray fish x-ray | Éks - Éks-rêi físh éks-rêi | Peixes raio-x fazem raio-x | Alfabeto | A1
+Y - Yaks yell yes | Uái - Iéks iél iés | Iaques gritam sim | Alfabeto | A1
+Z - Zebras zip zippers | Zí - Zí-bras zíp zí-pers | Zebras fecham zíperes | Alfabeto | A1
+Reliable | Ri-lái-a-bol | Confiável / De confiança | Adjetivo | B1
+Efficient | E-fí-shent | Eficiente | Adjetivo | B2
+Proactive | Pro-ác-tiv | Proativo | Adjetivo | B2
+Diligent | Dí-li-djent | Diligente / Dedicado | Adjetivo | C1
+Stubborn | Stâ-born | Teimoso | Adjetivo | B1
+Flexible | Flék-si-bol | Flexível | Adjetivo | B1
+Ambitious | Em-bí-shas | Ambicioso | Adjetivo | B2
+Punctual | Pânk-tchu-al | Pontual | Adjetivo | A2
+Resourceful | Ri-sór-sful | Engenhoso / Que resolve problemas | Adjetivo | C1
+Trustworthy | Trâst-uôr-di | Digno de confiança | Adjetivo | B2
+Decisive | Di-sái-siv | Decisivo / Resoluto | Adjetivo | B2
+Detail-oriented | Di-têil-o-ri-én-ted | Orientado a detalhes / Detalhista | Adjetivo | B2
+Innovative | Í-no-vei-tiv | Inovador | Adjetivo | B2
+Assertive | A-sêr-tiv | Assertivo | Adjetivo | C1
+Resilient | Ri-zí-li-ent | Resiliente | Adjetivo | C1
+Scalable | Skêi-la-bol | Escalável | TI | B2
+Robust | Ro-bâst | Robusto (sistema forte) | TI | B2
+Deprecated | Dé-pre-kei-ted | Descontinuado / Obsoleto (código) | TI | C1
+Null | Nâl | Nulo / Vazio | TI | A2
+Encrypted | En-críp-ted | Criptografado | TI | B2
+Secure | Se-kiúr | Seguro | TI | A2
+Offline | Óf-láin | Desconectado | TI | A1
+Online | Ón-láin | Conectado | TI | A1
+Compatible | Com-pé-ti-bol | Compatível | TI | B1
+User-friendly | Iú-zer-frénd-li | Fácil de usar / Intuitivo | TI | B1
+Automated | Ó-to-mei-ted | Automatizado | TI | B2
+Buggy | Bâ-gui | Cheio de erros (Informal) | TI | B1
+Responsive | Ris-pón-siv | Responsivo (site/design) | TI | B2
+Virtual | Vûr-tchu-al | Virtual | TI | A2
+Digital | Dí-dji-tal | Digital | TI | A1
+Liable | Lái-a-bol | Responsável (juridicamente) | Fisco | C1
+Exempt | Eg-zêmpt | Isento | Fisco | B2
+Deductible | Di-dâc-ti-bol | Dedutível (imposto) | Fisco | C1
+Fiscal | Fís-cal | Fiscal | Fisco | B2
+Statutory | Stá-tchu-tó-ri | Estatutário / Legal | Fisco | C1
+Binding | Báin-ding | Vinculativo (obrigatório) | Jurídico | C1
+Void | Vóid | Nulo / Sem efeito | Jurídico | C1
+Due | Diú | Devido / Vencido (prazo) | Financeiro | B1
+Overdue | Ôu-ver-diú | Atrasado (pagamento) | Financeiro | B2
+Net | Nét | Líquido (valor) | Financeiro | B1
+Gross | Grôs | Bruto (valor) | Financeiro | B1
+Profitable | Pró-fi-ta-bol | Lucrativo | Financeiro | B2
+Bankrupt | Bênk-râpt | Falido | Financeiro | B2
+Solvent | Sól-vent | Solvente (com dinheiro) | Financeiro | C1
+Brand-new | Brénd-niú | Novinho em folha | Geral | A2
+Second-hand | Sé-cond-rénd | De segunda mão / Usado | Geral | B1
+Faulty | Fól-ti | Defeituoso | Geral | B2
+Broken | Brôu-ken | Quebrado | Geral | A1
+Damaged | Dá-ma-djed | Danificado | Geral | B1
+Impeccable | Im-pé-ca-bol | Impecável | Geral | C1
+Filthy | Fíl-fi | Imundo / Muito sujo | Geral | B2
+Spotless | Spót-les | Impecável / Sem mancha (limpo) | Geral | B2
+Outstanding | Áut-stén-ding | Excepcional / Pendente (conta) | Geral | B2
+Average | É-ve-radj | Médio / Mediano | Geral | A2
+Unique | Iu-ník | Único | Geral | B1
+Common | Có-mon | Comum | Geral | A1
+Grateful | Grêit-ful | Grato | Emoção | B1
+Proud | Práud | Orgulhoso | Emoção | A2
+Overwhelmed | Ôu-ver-uél-md | Sobrecarregado | Emoção | B2
+Anxious | Ënk-shas | Ansioso | Emoção | B1
+Confident | Cón-fi-dent | Confiante | Emoção | B1
+Upset | Âp-sét | Chateado / Triste | Emoção | A2
+Supportive | Su-pór-tiv | Que apoia / Compreensivo | Emoção | B2
+Strict | Stríkt | Rigoroso / Severo (com filhos) | Emoção | B1
+Loving | Lâ-ving | Amoroso | Emoção | A2
+Jealous | Djé-las | Ciumento / Invejoso | Emoção | B1
+Curious | Kiú-ri-as | Curioso | Emoção | A2
+Exhausted | Eg-zós-ted | Exausto | Emoção | B1
+Crucial | Crú-shal | Crucial | Negócios | B2
+Essential | E-sén-shal | Essencial | Negócios | B1
+Mandatory | Mén-da-tó-ri | Obrigatório | Negócios | B2
+Optional | Óp-sho-nal | Opcional | Negócios | A2
+Significant | Sig-ní-fi-cant | Significativo | Negócios | B2
+Minor | Mái-nor | Menor / Pequeno | Negócios | B1
+Major | Mêi-djor | Maior / Principal | Negócios | B1
+Relevant | Ré-le-vant | Relevante | Negócios | B2
+Urgent | Âr-djent | Urgente | Negócios | A2
+Feasible | Fí-zi-bol | Viável / Possível de fazer | Negócios | C1
+Viable | Vái-a-bol | Viável (economicamente) | Negócios | C1
+
+
+// MÓDULO: ADVÉRBIOS DE MODO (HOW? - ESSENCIAL PARA TI/OBRAS)
+Automatically | Ó-to-mé-ti-ca-li | Automaticamente | Advérbio | B1
+Manually | Mé-niu-a-li | Manualmente | Advérbio | B1
+Efficiently | E-fí-shent-li | Eficientemente | Advérbio | B2
+Thoroughly | FÓ-rôu-li | Minuciosamente / Completamente | Advérbio | C1
+Deliberately | Di-lí-be-rat-li | Deliberadamente / De propósito | Advérbio | C1
+Accidentally | Ak-si-dén-ta-li | Acidentalmente | Advérbio | B1
+Barely | BÉR-li | Mal / Apenas (quase nada) | Advérbio | B2
+Specifically | Spe-sí-fi-ca-li | Especificamente | Advérbio | B2
+Randomly | RÉN-dom-li | Aleatoriamente | Advérbio | B1
+Simultaneously | Sai-mul-têi-ni-as-li | Simultaneamente | Advérbio | C1
+Properly | PRÓ-per-li | Adequadamente / Como deve ser | Advérbio | B1
+Promptly | PRÓMPT-li | Prontamente / Imediatamente | Advérbio | C1
+Reluctantly | Ri-lâc-tant-li | Relutantemente / A contragosto | Advérbio | C2
+Eagerly | Í-guer-li | Ansiosamente / Com vontade | Advérbio | C1
+Seamlessly | SÍM-les-li | Perfeitamente / Sem interrupções (TI) | Advérbio | C2
+Hastily | RÊIS-ti-li | Apressadamente | Advérbio | C2
+Steadily | STÉ-di-li | Constantemente / De forma estável | Advérbio | B2
+Vigorously | VÍ-go-ros-li | Vigorosamente | Advérbio | C1
+
+// MÓDULO: TEMPO E FREQUÊNCIA (WHEN? - CRONOGRAMAS)
+Currently | CÂ-rrent-li | Atualmente | Advérbio | B1
+Nowadays | NÁU-a-dêis | Hoje em dia | Advérbio | B1
+Lately | LÊIT-li | Ultimamente | Advérbio | B1
+Recently | RÍ-cent-li | Recentemente | Advérbio | A2
+Formerly | FÓR-mer-li | Anteriormente / Antigamente | Advérbio | C1
+Previously | PRÍ-vi-as-li | Previamente | Advérbio | B2
+Annually | É-niu-a-li | Anualmente | Advérbio | B1
+Quarterly | KUÓR-ter-li | Trimestralmente | Advérbio | B2
+Seldom | SÉL-dom | Raramente (Formal) | Advérbio | C1
+Occasionally | O-kêi-zho-na-li | Ocasionalmente | Advérbio | B2
+Constantly | CÓNS-tant-li | Constantemente | Advérbio | B2
+Eventually | I-vén-tchu-a-li | Eventualmente / No final das contas | Advérbio | B2
+Immediately | I-mí-di-at-li | Imediatamente | Advérbio | B1
+Temporarily | Tém-po-ré-ri-li | Temporariamente | Advérbio | B2
+Permanently | PÊR-ma-nent-li | Permanentemente | Advérbio | B2
+Indefinitely | In-dé-fi-nit-li | Indefinidamente (sem prazo) | Advérbio | C1
+Meanwhile | MÍN-uái-ol | Entretanto / Enquanto isso | Advérbio | B2
+
+// MÓDULO: GRAU E INTENSIDADE (HOW MUCH? - NEGOCIAÇÃO)
+Extremely | Eks-trím-li | Extremamente | Advérbio | B1
+Entirely | In-tái-ar-li | Inteiramente | Advérbio | B2
+Totally | TÔU-ta-li | Totalmente | Advérbio | A2
+Absolutely | Eb-so-lút-li | Absolutamente | Advérbio | B1
+Fairly | FÉR-li | Razoavelmente / Justamente | Advérbio | B2
+Highly | RÁI-li | Altamente | Advérbio | B1
+Partially | PÁR-sha-li | Parcialmente | Advérbio | B2
+Virtually | VÛR-tchu-a-li | Virtualmente / Praticamente | Advérbio | C1
+Approximately | A-pró-ksi-met-li | Aproximadamente | Advérbio | B1
+Significantly | Sig-ní-fi-cant-li | Significativamente | Advérbio | B2
+Substantially | Sab-stén-sha-li | Substancialmente | Advérbio | C1
+Scarcely | SCÉRS-li | Escassamente / Mal (quase não) | Advérbio | C2
+Overwhelmingly | Ôu-ver-uél-min-li | Esmagadoramente | Advérbio | C2
+Practically | PRÁC-ti-ca-li | Praticamente | Advérbio | B1
+Utterly | Â-ter-li | Totalmente / Completamente (negativo) | Advérbio | C2
+
+// MÓDULO: OPINIÃO E PROBABILIDADE (CERTAINTY - AUDITORIA)
+Obviously | ÓB-vi-as-li | Obviamente | Advérbio | B1
+Apparently | A-pé-rent-li | Aparentemente | Advérbio | B2
+Presumably | Pri-zú-ma-bli | Presumivelmente | Advérbio | C1
+Undoubtedly | Ân-dáu-ted-li | Indubitavelmente / Sem dúvida | Advérbio | C1
+Allegedly | A-lé-djed-li | Alegadamente / Supostamente | Advérbio | C2
+Reportedly | Ri-pór-ted-li | Segundo relatos / Consta que | Advérbio | C2
+Theoretically | Fi-o-ré-ti-ca-li | Teoricamente | Advérbio | C1
+Hypothetically | Rai-po-fé-ti-ca-li | Hipoteticamente | Advérbio | C2
+Frankly | FRÊNK-li | Francamente | Advérbio | B2
+Honestly | Ó-nest-li | Honestamente | Advérbio | B1
+Naturally | NÉ-tchu-ra-li | Naturalmente | Advérbio | B1
+Surprisingly | Sar-prái-zing-li | Surpreendentemente | Advérbio | B1
+Inevitably | In-é-vi-ta-bli | Inevitavelmente | Advérbio | C1
+Ironically | Ai-ró-ni-ca-li | Ironicamente | Advérbio | C1
+
+
+// MÓDULO: AGRICULTURA DE PRECISÃO & SAFRA (CROPS)
+Cash crops | Késh cróps | Culturas comerciais (ex: soja, milho) | Agro | B2
+Soybean harvest | Sói-bín rár-vest | Colheita de soja | Agro | B1
+Corn yield | Córn iíld | Produtividade / Rendimento do milho | Agro | C1
+Sowing season | Sô-in sí-zon | Época de semeadura / plantio | Agro | B2
+Soil health | Sóil rélf | Saúde / fertilidade do solo | Agro | B2
+Fertilizer application | Fêr-ti-lái-zer a-pli-kêi-shon | Aplicação de fertilizante | Agro | B1
+Pesticide spraying | Pés-ti-sáid sprêi-in | Pulverização de defensivos | Agro | B2
+Irrigation system | I-ri-guêi-shon sís-tem | Sistema de irrigação | Agro | B1
+Crop rotation | Cróp ro-têi-shon | Rotação de culturas | Agro | C1
+Genetically modified (GMO) | Dje-né-ti-ca-li mó-di-fáid | Transgênico / OGM | Agro | C1
+Storage silos | Stó-radj sái-lôs | Silos de armazenamento | Agro | B2
+Tillage | Tí-ladj | Aragem / Preparo do solo | Agro | C1
+
+
+
+// MÓDULO: PECUÁRIA & MANEJO (LIVESTOCK)
+Livestock management | Láiv-stók mé-nadj-ment | Manejo de gado / rebanho | Agro | B2
+Cattle ranching | Ké-tol rân-tchin | Pecuária de corte | Agro | B1
+Feedlot | Fíd-lót | Confinamento | Agro | B2
+Pasture grazing | Pás-tchar grêi-zin | Pastoreio / Pastagem | Agro | B2
+Breeding stock | Brí-din stók | Rebanho de reprodução / Matrizes | Agro | C1
+Dairy farm | Dêi-ri fárm | Fazenda de leite | Agro | A2
+Poultry farming | Pôul-tri fár-min | Avicultura | Agro | B1
+Slaughterhouse | Sló-ter-ráus | Frigorífico / Abatedouro | Agro | B2
+Weight gain | Uêit guêin | Ganho de peso (animal) | Agro | B1
+Ear tagging | Íar té-guin | Brincagem / Identificação animal | Agro | B1
+
+
+
+// MÓDULO: MAQUINÁRIO RURAL (MACHINERY)
+Combine harvester | Cóm-báin rár-ves-ter | Colheitadeira | Agro | B2
+Tractor | Tréc-tor | Trator | Agro | A1
+Plow | Pláu | Arado | Agro | B1
+Sprayer | Sprêi-ar | Pulverizador | Agro | B1
+Planter | Plén-ter | Plantadeira | Agro | B1
+Grain cart | Guêin cárt | Graneleiro | Agro | B2
+Maintenance log | Mêin-te-nans lóg | Registro de manutenção | Agro | B1
+
+
+
+// MÓDULO: AGROBUSINESS & AUDITORIA (BUSINESS)
+Commodities market | Co-mó-di-tis már-ket | Mercado de commodities | Agro | C1
+Rural credit | Rú-ral cré-dit | Crédito rural | Agro | B2
+Land valuation | Lénd va-liu-êi-shon | Avaliação de terras | Agro | C1
+Supply chain | Sa-plái tchêin | Cadeia de suprimentos | Agro | B2
+Export duties | Éks-pórt diú-tis | Taxas de exportação | Fisco | C1
+Farm subsidies | Fárm sâb-si-dis | Subsídios agrícolas | Fisco | C1
+Environmental compliance | En-vai-ron-mén-tal com-plái-ans | Conformidade ambiental | Agro | C2
+Fair trade | Fér trêid | Comércio justo | Agro | B2
+Spot price | Spót práis | Preço à vista (mercado) | Finanças | C1
+Futures contract | Fiú-tchurs cón-trékt | Contrato futuro | Finanças | C1
+
+
+
+// MÓDULO: LAZER NA FAZENDA (FARM LEISURE)
+Horseback riding | Rórs-bék rái-din | Cavalgar / Andar a cavalo | Lazer | A2
+Fishing rod | Fí-shin ród | Vara de pesca | Lazer | A2
+Bonfire night | Bón-fái-ar náit | Noite de fogueira | Lazer | B1
+Barbecue grill | Bár-be-kiú grí-ol | Churrasqueira | Lazer | A2
+Hammock | Ré-moc | Rede de descanso | Lazer | B1
+Countryside | Cân-tri-sáid | Interior / Campo | Lazer | B1
+Fresh air | Frésh ér | Ar puro | Lazer | A1
+Barn | Bárn | Celeiro | Lazer | A2
+Deck | Dék | Terraço / Deck de madeira | Lazer | B1
+Wilderness | Uíul-der-nes | Natureza selvagem | Lazer | C1
+
+// ESTRUTURAS PRONTAS (AGRO)
+The yield has increased this year | Dê iíld réz in-crís-t dís í-ar | A produtividade aumentou este ano | Agro | B2
+We need to check the soil p
+H | Ui níd tu tchék dê sóil pii-êitch | Precisamos checar o p
+H do solo | Agro | B1
+The cattle are ready for the feedlot | Dê ké-tol ar ré-di fór dê fíd-lót | O gado está pronto para o confinamento | Agro | B2
+Rural credit is essential for growth | Rú-ral cré-dit iz e-sén-tchal fór grôuf | O crédito rural é essencial para o crescimento | Agro | C1
+Let's enjoy the sunset on the deck | Léts en-djói dê sân-set ón dê dék | Vamos curtir o pôr do sol no deck | Lazer | B1
+
+
+// MÓDULO: ANÁLISE FINANCEIRA (FINANCIAL ANALYSIS)
+Shareholders' Equity | Shér-rôul-ders É-kwi-ti | Capital Próprio / Património Líquido | Finanças | C1
+Amortization | A-mór-ti-zêi-shon | Amortização (ativos intangíveis) | Finanças | C1
+Depreciation | Di-pri-shi-êi-shon | Depreciação (ativos tangíveis) | Finanças | C1
+Deferred Tax Asset | Di-fêrd Téks Á-set | Ativo por imposto diferido | Fisco | C2
+Deferred Tax Liability | Di-fêrd Téks Lai-a-bí-li-ti | Passivo por imposto diferido | Fisco | C2
+Working Capital | Uôr-king Cá-pi-tal | Fundo de maneio / Capital de giro | Finanças | B2
+Accounts Payable | A-cáunts Pêi-a-bol | Contas a pagar | Finanças | B1
+Accounts Receivable | A-cáunts Ri-sí-va-bol | Contas a receber | Finanças | B1
+Accrued Expenses | A-crúd Eks-pén-ses | Custos acrescidos / Gastos a pagar | Finanças | C1
+Prepaid Expenses | Prí-pêid Eks-pén-ses | Custos diferidos / Pagamentos antecipados | Finanças | B2
+Liquidity Ratio | Li-kuí-di-ti Rêi-shi-ôu | Rácio de liquidez | Finanças | C2
+Solvency Ratio | Sól-ven-si Rêi-shi-ôu | Rácio de solvabilidade | Finanças | C2
+Earnings Before Interest and Taxes (EBIT) | Êr-nings bi-fór ín-trest ênd ták-ses | Resultado antes de juros e impostos | Finanças | C1
+Cash Flow Statement | Késh Flôu Stêit-ment | Demonstração de fluxos de caixa | Finanças | B2
+Consolidated Financial Statements | Con-só-li-dêi-ted Fi-nán-shal Stêit-ments | Demonstrações financeiras consolidadas | Finanças | C2
+Minority Interest | Mai-nó-ri-ti Ín-trest | Interesses minoritários | Finanças | C2
+Bad Debt | Béd Dét | Dívidas de cobrança duvidosa / Incumprimento | Finanças | B2
+Write-off | Ráit-óf | Abate ao ativo / Anulação de dívida | Finanças | C1
+Leverage | Lé-ve-radj | Alavancagem financeira | Finanças | C1
+Break-even Point | Brêik-í-ven Póint | Ponto de equilíbrio | Finanças | B2
+
+// MÓDULO: AUDITORIA DE CAMPO (TECHNICAL AUDITING)
+Materiality Threshold | Ma-ti-ri-á-li-ti Fré-shôuld | Limite de materialidade | Auditoria | C2
+Substantive Testing | Sâb-stén-tiv Tés-ting | Testes substantivos (detalhe) | Auditoria | C1
+Compliance Testing | Com-plái-ans Tés-ting | Testes de conformidade | Auditoria | B2
+Analytical Procedures | A-na-lí-ti-cal Pro-sí-djurs | Procedimentos analíticos | Auditoria | C1
+Qualified Opinion | Kuá-li-fáid O-pí-ni-on | Parecer com reservas | Auditoria | C2
+Unqualified Opinion | Ân-kuá-li-fáid O-pí-ni-on | Parecer sem reservas (limpo) | Auditoria | C2
+Adverse Opinion | Ad-vêrs O-pí-ni-on | Parecer adverso / negativo | Auditoria | C2
+Disclaimer of Opinion | Dis-clêi-mer óv O-pí-ni-on | Escusa de opinião | Auditoria | C2
+Going Concern | Gô-ing Con-sêrn | Continuidade das operações | Auditoria | C1
+Internal Audit | In-têr-nal Ó-dit | Auditoria interna | Auditoria | B1
+External Audit | Eks-têr-nal Ó-dit | Auditoria externa | Auditoria | B1
+Risk Assessment | Rísk A-sés-ment | Avaliação de risco | Auditoria | B2
+Sample Size | Sém-pol Sáiz | Tamanho da amostra | Auditoria | B1
+Vouching | Váu-tching | Verificação de documentos suporte | Auditoria | C2
+Traceability | Trêi-sa-bí-li-ti | Rastreabilidade | Auditoria | C1
+Engagement Letter | En-guêidj-ment Lé-ter | Carta de contratação / compromisso | Auditoria | C1
+
+// MÓDULO: MOBILIDADE INTERNACIONAL & EXPAT LIFE
+Double Taxation Treaty | Dâ-bol Tak-sêi-shon Trí-ti | Acordo de Dupla Tributação (ADT) | Fisco | C1
+Tax Residency | Téks Ré-zi-den-si | Residência fiscal | Fisco | C1
+Digital Nomad Visa | Dí-dji-tal Nô-mád Ví-za | Visto de nómada digital | Viagem | B2
+Work Permit | Uôrk Pêr-mit | Autorização de trabalho | Viagem | B1
+Expatriate (Expat) | Eks-pêi-tri-eit | Expatriado | Viagem | B2
+Relocation Allowance | Ri-lo-kêi-shon A-láu-ans | Subsídio de mudança | Executivo | B2
+Cost of Living | Cóst óv Lí-ving | Custo de vida | Viagem | A2
+Consular Services | Cón-su-lar Sêr-vi-ces | Serviços consulares | Viagem | B1
+Border Control | Bór-der Con-trôul | Controlo de fronteiras | Viagem | A2
+Customs Declaration | Câs-toms De-cla-rêi-shon | Declaração alfandegária | Viagem | B1
+Overseas Assignment | Ôu-ver-sís A-sáin-ment | Missão / Trabalho no estrangeiro | Executivo | C1
+Cultural Shock | Câl-tchu-ral Shók | Choque cultural | Viagem | B1
+Language Barrier | Lán-guêidj Bé-ri-er | Barreira linguística | Viagem | B1
+Work-from-anywhere | Uôrk-fróm-é-ni-uér | Trabalhar a partir de qualquer lugar | Digital | B1
+
+// MÓDULO: ESTRATÉGIA & ECONOMIA (PLUS)
+Economies of Scale | I-có-no-mis óv Scêi-ol | Economias de escala | Business | C1
+Capital Expenditure (Cap
+Ex) | Cá-pi-tal Eks-pén-di-tchar | Despesas de capital (investimento) | Finanças | C1
+Operating Expenses (Op
+Ex) | Ó-pe-rêi-ting Eks-pén-ses | Despesas operacionais | Finanças | C1
+Market Penetration | Már-ket Pe-ne-trêi-shon | Penetração de mercado | Business | B2
+Sustainable Growth | Sas-têi-na-bol Grôuf | Crescimento sustentável | Business | B2
+Competitive Advantage | Com-pé-ti-tiv Ad-ván-têidj | Vantagem competitiva | Business | B2
+Monopoly | Mo-nó-po-li | Monopólio | Business | B1
+Oligopoly | O-li-gó-po-li | Oligopólio | Business | C1
+Inflation Rate | In-flêi-shon Rêit | Taxa de inflação | Business | B1
+Gross Domestic Product (GDP) | Grôus Do-més-tic Pró-dact | Produto Interno Bruto (PIB) | Business | B2
+
+// MÓDULO: SLANGS DE ESCRITÓRIO & FILLERS
+Water cooler talk | Uó-ter cú-ler tók | Conversa de corredor / café | Networking | B1
+Ping someone | Píng sâm-uãn | Mandar uma mensagem rápida a alguém | Digital | B1
+Take it offline | Têik it óf-láin | Discutir em privado / fora da reunião | Executivo | B2
+In the pipeline | In dê páip-láin | Em preparação / a caminho | Business | B2
+Ballpark figure | Ból-párk fí-guiur | Valor aproximado / estimativa | Finanças | B2
+Off the top of my head | Óf dê tóp óv mai réd | De cabeça (sem consultar) | Networking | B2
+Get our ducks in a row | Guét áuar dâks in a rôu | Organizar-se / Alinhar as coisas | Gestão de Projetos | C1
+Up to speed | Âp tu spíd | A par de tudo / Atualizado | Networking | B1
+
+
+// MÓDULO: PROCEDIMENTOS DE CAMPO (FIELDWORK)
+Perform a walkthrough | Per-FÓR-ma-UÓ-kfrú | Realizar um teste de trajetória / walkthrough | Auditoria | C1
+Tick and tie | TÍ-kan-TÁI | Conferir e cruzar dados (verificar se batem) | Auditoria | B2
+Vouching the invoices | VÁU-tchin-di-ÍN-vói-ces | Verificar a veracidade das faturas (origem) | Auditoria | C1
+Tracing the flow | TRÊI-sin-de-FLÔU | Rastrear o fluxo da transação | Auditoria | B2
+Sample size selection | SÉM-pol-sáiz-se-LÉK-shon | Seleção do tamanho da amostra | Auditoria | B1
+Ghost assets | GÔUST-Á-sets | Ativos fantasma (registados mas inexistentes) | Auditoria | C2
+Hard close | RÁRD-CLÔUZ | Fecho contabilístico definitivo | Auditoria | B2
+Soft close | SÓFT-CLÔUZ | Fecho contabilístico preliminar | Auditoria | B1
+Inventory count | ÍN-ven-tó-ri-CÁUNT | Contagem de inventário / stock | Auditoria | A2
+
+
+
+// MÓDULO: RISCO & CETICISMO (RISK & SKEPTICISM)
+Professional skepticism | pro-FÉ-sho-nal-SKÉP-ti-si-zom | Ceticismo profissional | Auditoria | C2
+Red flags | RÉD-FLÉGS | Sinais de alerta / Indícios de fraude | Auditoria | B1
+Material misstatement | ma-TÍ-ri-al-mís-STÊIT-ment | Erro material / Declaração incorreta relevante | Auditoria | C2
+Risk of fraud | RÍS-kóv-FRÓD | Risco de fraude | Auditoria | B2
+Control deficiency | con-TRÔUL-de-FÍ-shen-si | Deficiência de controlo | Auditoria | C1
+Significant deficiency | sig-NÍ-fi-cant-de-FÍ-shen-si | Deficiência significativa | Auditoria | C2
+Material weakness | ma-TÍ-ri-al-UÍK-nes | Fraqueza material (falha grave de controlo) | Auditoria | C2
+Override of controls | ôu-ver-RÁI-dóv-con-TRÔULS | Sobreposição / burla de controlos pela gestão | Auditoria | C2
+
+
+
+// MÓDULO: PARECER & RELATÓRIO (REPORTING)
+Clean audit opinion | CLÍ-nó-dit-o-PÍ-ni-on | Parecer limpo (sem ressalvas) | Auditoria | B2
+Qualified opinion | KUÁ-li-fái-do-PÍ-ni-on | Parecer com reservas | Auditoria | C1
+Adverse opinion | ad-VÊRS-o-PÍ-ni-on | Parecer adverso / negativo | Auditoria | C2
+Disclaimer of opinion | dis-CLÊI-mer-ó-vo-PÍ-ni-on | Escusa de opinião | Auditoria | C2
+Emphasis of matter | ÉM-fa-si-zóv-MÉ-rer | Ênfase em determinado assunto | Auditoria | C1
+Going concern issue | GÔ-in-con-SÊR-ní-shu | Problema de continuidade da empresa | Auditoria | C1
+Management letter | MÉ-nadj-ment-LÉ-rer | Carta de recomendações à gerência | Auditoria | B2
+
+// ESTRUTURAS FAST ENGLISH (BIG FOUR STYLE)
+We need to perform a walkthrough | Ui-NÍ-du-per-FÓR-ma-UÓ-kfrú | Precisamos de realizar um walkthrough | Fast English | B2
+Did you tick and tie the balances? | DÍ-dja-TÍ-kan-TÁI-de-BÉ-lan-ces? | Cruzaste os saldos? | Fast English | B2
+There’s a material misstatement here | Dér-za-ma-TÍ-ri-al-mís-STÊIT-ment-Í-ar | Há um erro material aqui | Fast English | C1
+The controls are effective | De-con-TRÔUL-zar-e-FÉK-tiv | Os controlos são eficazes | Fast English | B2
+We found some red flags | Ui-FÁUND-sâm-RÉD-FLÉGS | Encontrámos alguns sinais de alerta | Fast English | B1
+Is the sample representative? | Íz-de-SÉM-pol-re-pre-ZÉN-ta-tiv? | A amostra é representativa? | Fast English | B2
+Let's review the audit trail | Léts-ri-VIÚ-di-ó-di-TRÊIL | Vamos rever o trilho de auditoria | Fast English | B2
+The opinion is unqualified | Di-o-PÍ-ni-o-ni-zân-KUÁ-li-fáid | O parecer é sem reservas (limpo) | Fast English | C1
+We detected an override of controls | Ui-di-TÉK-te-de-nôu-ver-RÁI-dóv-con-TRÔULS | Detetámos uma burla de controlos | Fast English | C2
+
+
+
+// MÓDULO: TERMOS DE REUNIÃO DE FECHO (EXIT MEETING)
+Executive summary | eg-ZÉ-kiu-tiv-SÂ-ma-ri | Sumário executivo | Executivo | B2
+Findings and recommendations | FÁIN-din-zen-re-co-men-DÊI-shons | Constatações e recomendações | Auditoria | B2
+Management response | MÉ-nadj-ment-ris-PÓNS | Resposta da gerência | Auditoria | B1
+Action plan | ÁK-shon-PLÉN | Plano de ação | Executivo | A2
+Follow-up audit | FÓ-lou-â-PÓ-dit | Auditoria de seguimento | Auditoria | B1
+
+
+// MÓDULO: ALFÂNDEGA E IMIGRAÇÃO (CUSTOMS & IMMIGRATION)
+What's the purpose of your visit? | Uá-ts-de-PÂR-pa-só-vior-VÍ-zit? | Qual o propósito da sua visita? | Autoridades | B1
+Business or pleasure? | BÍ-zi-ne-sór-PLÉ-jur? | Negócios ou lazer? | Autoridades | A2
+How long are you staying? | Rau-LÓN-ar-iu-STÊI-in? | Quanto tempo você vai ficar? | Autoridades | A2
+Where will you be staying? | UÉR-ui-liu-bi-STÊI-in? | Onde você vai ficar hospedado? | Autoridades | A2
+Anything to declare? | É-ni-fín-tu-di-CLÉR? | Algo a declarar? | Autoridades | B1
+Open your bag, please | Ôu-pe-nior-BÉG-plíz | Abra sua bolsa, por favor | Autoridades | A1
+Your passport, please | Ior-PÉS-pórt-plíz | Seu passaporte, por favor | Autoridades | A1
+I'm here for a business meeting | Aim-Í-ar-fôr-a-BÍ-zi-nes-MÍ-tin | Estou aqui para uma reunião de negócios | Autoridades | B1
+I have nothing to declare | Ai-RÁ-va-NÂ-fín-tu-di-CLÉR | Não tenho nada a declarar | Autoridades | B1
+Please step aside | Plíz-STÉ-pa-SÁID | Por favor, dê um passo para o lado (afaste-se) | Autoridades | B2
+
+// MÓDULO: POLÍCIA E SEGURANÇA (POLICE & SECURITY)
+I'd like to report a theft | Aid-LÁIK-tu-ri-PÓR-ta-FÉFT | Gostaria de reportar um furto | Segurança | B2
+My wallet has been stolen | Mai-UÓ-le-réz-bin-STÔU-len | Minha carteira foi roubada | Segurança | B1
+I've lost my passport | Áiv-LÓS-mai-PÉS-pórt | Perdi meu passaporte | Segurança | A2
+Can you help me, please? | Ké-niu-RÉLP-mi-plíz? | Pode me ajudar, por favor? | Segurança | A1
+I'm a victim of a crime | Aim-a-VÍK-tim-ó-va-CRÁIM | Sou vítima de um crime | Segurança | B2
+What happened? | Uá-RÉ-pend? | O que aconteceu? | Segurança | A1
+License and registration, please | LÁI-sen-sén-re-djis-TRÊI-shon-plíz | Habilitação e documento do carro, por favor | Segurança | B1
+Am I in trouble? | A-mai-in-TRÂ-bol? | Estou em apuros? / Fiz algo errado? | Segurança | B2
+I didn't know I was speeding | Ai-DÍDNT-nôu-ai-uóz-SPÍ-din | Não sabia que estava acima da velocidade | Segurança | B1
+I need a lawyer | Ai-NÍ-da-LÓ-ier | Eu preciso de um advogado | Segurança | C1
+
+// MÓDULO: BOMBEIROS E EMERGÊNCIA (FIRE & DISASTER)
+There is a fire! | Dê-ri-za-FÁI-ar! | Tem um incêndio! | Emergência | A1
+Call the fire department | CÓL-de-FÁI-ar-di-PÁRT-ment | Chame os bombeiros | Emergência | B1
+Get out of the building! | Guê-RÁU-ra-de-BÍL-din! | Saiam do prédio! | Emergência | A2
+Is everyone out? | Iz-É-vri-uãn-ÁUT? | Estão todos fora? | Emergência | B1
+I smell smoke | Ai-SMÉL-SMÔUK | Estou sentindo cheiro de fumaça | Emergência | A2
+The building is on fire | De-BÍL-din-iz-ón-FÁI-ar | O prédio está pegando fogo | Emergência | A2
+Don't use the elevator | DÔUNT-iúz-di-É-le-vêi-ra | Não use o elevador | Emergência | B1
+
+// MÓDULO: SOCORRISTAS E MÉDICO (RESCUE & MEDICAL)
+Call an ambulance! | CÓ-le-NÁM-biu-lans! | Chame uma ambulância! | Emergência | A1
+Someone call 911 | SÂ-muan-CÓL-nain-uan-uan | Alguém ligue para o 911 | Emergência | A2
+He's not breathing | Ríz-NÓT-BRÍ-vin | Ele não está respirando | Emergência | B2
+She's unconscious | Shíz-ân-CÓN-shas | Ela está inconsciente | Emergência | C1
+I'm having chest pains | Aim-RÁ-vin-TCHÉST-pêins | Estou com dores no peito | Emergência | B2
+Is there a doctor here? | Iz-dê-ra-DÓK-tôr-Í-ar? | Tem algum médico aqui? | Emergência | B1
+Where does it hurt? | UÉR-da-zit-RÂRT? | Onde dói? | Emergência | A2
+I think my arm is broken | Ai-FÍNK-mai-ÁRM-iz-BRÔU-ken | Acho que meu braço está quebrado | Emergência | B1
+Help is on the way | RÉL-pi-zón-de-UÊI | A ajuda está a caminho | Emergência | B1
+Stay with me | STÊI-uif-mi | Fique comigo (não desmaie) | Emergência | B1
+
+// MÓDULO: SITUAÇÕES GERAIS DE AJUDAI'm lost | Aim-LÓST | Estou perdido | Ajuda | A1
+I've been separated from my group | Áiv-bin-SÉ-pa-rêi-red-fróm-mai-GRÚP | Me separei do meu grupo | Ajuda | B2
+Can I use your phone? | K'nai-iúz-ior-FÔUN? | Posso usar seu telefone? | Ajuda | A2
+I need to contact my embassy | Ai-NÍ-du-CÓN-tékt-mai-ÉM-ba-si | Preciso contatar minha embaixada | Ajuda | C1
+It's an emergency | Its-a-ni-MÊR-djen-si | É uma emergência | Ajuda | A2
+
+
+// MÓDULO: A CANÇÃO DO CORPO (BODY ACTIONS)
+My hands clap clap | Mái rénds clép clép | Minhas mãos batem palmas | Corpo | A1
+My feet walk walk | Mái fít uók uók | Meus pés andam | Corpo | A1
+My eyes see the world | Mái áis sí dê uôrld | Meus olhos veem o mundo | Corpo | A1
+My ears hear the sound | Mái í-ars rí-ar dê sáund | Meus ouvidos ouvem o som | Corpo | A1
+My mouth talks and sings | Mái máuf tóks ênd síngs | Minha boca fala e canta | Corpo | A1
+My nose smells the rose | Mái nôuz sméls dê rôuz | Meu nariz cheira a rosa | Corpo | A1
+My heart beats for you | Mái rárt bíts fór iú | Meu coração bate por você | Corpo | A1
+My brain thinks fast | Mái brêin finks fést | Meu cérebro pensa rápido | Corpo | A1
+My legs run far | Mái légs rân fár | Minhas pernas correm longe | Corpo | A1
+My arms hug tight | Mái árms râg táit | Meus braços abraçam forte | Corpo | A1
+
+
+// MÓDULO: COMUNICAÇÃO DIGITAL & REUNIÕES VIRTUAIS
+You're on mute | Iú ár ón miút | Você está no mudo | Digital | A2
+Can you hear me? | Kén iú rí-ar mi? | Consegue ouvir-me? | Digital | A1
+The connection is unstable | Dê co-nék-shon iz ân-stêi-ba-bol | A ligação está instável | Digital | B1
+Let me share my screen | Lét mi shér mai scrín | Deixe-me partilhar o meu ecrã | Digital | B1
+There is a lag | Dér iz a lég | Há um atraso (na imagem/som) | Digital | B1
+Could you repeat that? | Kud iú ri-pít dét? | Poderia repetir isso? | Digital | A1
+I'll send the meeting link | Áil sénd dê mí-ting línk | Vou enviar o link da reunião | Digital | A2
+The audio is cutting out | Di ó-di-ou iz câ-ting áut | O áudio está a falhar/cortar | Digital | B1
+Let's wait for the others | Léts uêit fór di á-ders | Vamos esperar pelos outros | Digital | A2
+I'm recording the session | Aim ri-cór-ding dê sé-shon | Estou a gravar a sessão | Digital | B1
+Breakout rooms | Brêi-káut rúms | Salas de discussão/grupos pequenos | Digital | B2
+Put it in the chat | Pút it in dê tchét | Coloque no chat/bate-papo | Digital | A2
+Can everyone see my screen? | Kén é-vri-uãn sí mai scrín? | Todos conseguem ver o meu ecrã? | Digital | A2
+I have a hard stop at 3 | Ai rév a rárd stóp ét frí | Tenho mesmo de sair às 3 (reunião agendada) | Digital | C1
+Follow-up email | Fó-lou-âp í-mêil | E-mail de acompanhamento | Digital | B1
+
+// MÓDULO: IMOBILIÁRIO (REAL ESTATE)
+Real Estate Agent | Rí-ol es-têit êi-djent | Agente imobiliário | Imobiliário | A2
+Property Valuation | Pró-per-ti va-liu-êi-shon | Avaliação do imóvel | Imobiliário | C1
+Lease Agreement | Lís a-grí-ment | Contrato de arrendamento | Imobiliário | B2
+Landlord | Lénd-lórd | Senhorio / Proprietário | Imobiliário | B1
+Tenant | Té-nant | Inquilino | Imobiliário | B1
+Down payment | Dáun pêi-ment | Entrada / Sinal (pagamento inicial) | Imobiliário | B2
+Mortgage rates | Mór-guêidj rêits | Taxas de hipoteca/crédito habitação | Imobiliário | B2
+Escrow | É-scrôu | Conta de garantia (fundo de terceiros) | Imobiliário | C2
+Closing costs | Clô-zing cósts | Custos de fecho de negócio (escritura) | Imobiliário | C1
+Square footage | Scuér fú-têidj | Metragem quadrada (área útil) | Imobiliário | B1
+Appraisal | A-prêi-zal | Avaliação técnica do valor do imóvel | Imobiliário | C1
+Foreclosure | Fór-clô-jur | Penhora / Execução de hipoteca | Imobiliário | C2
+Realtor | Rí-al-tor | Corretor de imóveis | Imobiliário | B1
+Listing | Lís-ting | Anúncio de venda/arrendamento | Imobiliário | B2
+
+// MÓDULO: CONSTRUÇÃO TÉCNICA (DETALHES)
+Load-bearing wall | Lôud-bé-ring uôl | Parede mestre / de suporte | Construção | C1
+Structural integrity | Strâc-tchu-ral in-té-gri-ti | Integridade estrutural | Construção | C1
+Electrical wiring | I-léc-tri-cal uái-ring | Cablagem/fiação elétrica | Construção | B2
+Piping and Plumbing | Pái-ping ênd plâm-bing | Tubagem e canalização | Construção | B2
+Insulation | In-su-lêi-shon | Isolamento (térmico/acústico) | Construção | B2
+Drywall installation | Drái-uôl in-sta-lêi-shon | Instalação de gesso cartonado | Construção | B1
+Floor plan | Flór plén | Planta baixa / do piso | Construção | B1
+Surveying | Sêr-vêi-ing | Levantamento topográfico | Construção | C1
+Renovation project | Re-no-vêi-shon pró-djékt | Projeto de renovação/remodelação | Construção | B1
+Safety helmet | Sêif-ti rél-met | Capacete de segurança | Construção | A2
+High-visibility vest | Rái-vi-zi-bí-li-ti vést | Colete refletor | Construção | A2
+Foundation slab | Fáun-dêi-shon sléb | Laje de fundação | Construção | C1
+Exposed brick | Eks-pôuzd brík | Tijolo burro / à vista | Construção | B1
+Ceiling height | Sí-ling ráit | Pé-direito (altura do teto) | Construção | B2
+
+// MÓDULO: COMUNICAÇÃO POR TELEFONE (PHONING)
+Who's calling, please? | Rúz có-ling plíz? | Quem fala, por favor? | Telefone | A2
+Could you hold on a second? | Kud iú rôuld ón a sé-cond? | Pode aguardar um segundo? | Telefone | B1
+I'll put you through | Áil pút iú frú | Vou passar a chamada | Telefone | B1
+The line is busy | Dê láin iz bí-zi | A linha está ocupada | Telefone | A2
+I'm calling about... | Aim có-ling a-báut... | Estou a ligar sobre... | Telefone | A2
+Leave a message | Lív a mé-sedj | Deixar uma mensagem | Telefone | B1
+Pick up the phone | Pík âp dê fôun | Atender o telefone | Telefone | A1
+I can't get through | Ai kânt guét frú | Não consigo completar a chamada | Telefone | B2
+You're breaking up | Iú ár brêi-king âp | A sua voz está a falhar | Telefone | B1
+I'll call you back | Áil cól iú bék | Ligo-lhe de volta | Telefone | A2
+
+// MÓDULO: VERBOS DE AÇÃO TÉCNICA
+Adjust | A-djâst | Ajustar | Técnico | B1
+Assemble | A-sém-bol | Montar / Reunir | Técnico | B1
+Calibrate | Cá-li-brêit | Calibrar | Técnico | C1
+Dismantle | Dis-mén-tol | Desmontar | Técnico | B2
+Inspect | In-spékt | Inspecionar | Técnico | B1
+Maintain | Mêin-têin | Manter / Fazer manutenção | Técnico | B2
+Overhaul | Ôu-ver-ról | Revisão completa / Remodelação total | Técnico | C2
+Reinforce | Ri-in-fórs | Reforçar | Técnico | B2
+Standardize | Stén-dar-dáiz | Padronizar | Técnico | C1
+Upgrade | Âp-grêid | Atualizar para uma versão melhor | Técnico | B1
+ MÓDULO ADIÇÃO (SOMANDO IDEIAS)
+Furthermore  Fâr-der-mór  Além disso (Formal)  Conectivos  C1
+Moreover  Mór-ôu-ver  Além do mais  Conectivos  C1
+In addition to  In-a-dí-shon-tu  Além de  Conectivos  B2
+Besides  Bi-sáids  Além disso  Ademais  Conectivos  B1
+Also  Ól-sôu  Também  Conectivos  A1
+As well as  Éz-uél-éz  Assim como  Bem como  Conectivos  B1
+Not only... but also  Nót-ôun-li... bât-ól-sôu  Não só... mas também  Conectivos  B2
+Additionally  A-dí-sho-na-li  Adicionalmente  Conectivos  B2 MÓDULO CONTRASTE (OPOSTOS E RESSALVAS)
+However  Rau-é-ver  No entanto  Porém  Conectivos  B1
+Nevertheless  Né-ver-de-lés  Todavia  Mesmo assim  Conectivos  C1
+Although  Ol-dôu  Embora  Conectivos  B1
+Even though  Í-ven-dôu  Muito embora (Mais enfático)  Conectivos  B2
+Despite  Dis-páit  Apesar de  Conectivos  B2
+In spite of  In-spáit-óv  Apesar de  Conectivos  B2
+On the other hand  Ón-di-ó-der-rénd  Por outro lado  Conectivos  B2
+Whereas  Uér-éz  Enquanto que (comparação direta)  Conectivos  C1
+Conversely  Con-vêrs-li  Por outro lado  Inversamente  Conectivos  C2
+On the contrary  Ón-de-cón-tre-ri  Pelo contrário  Conectivos  B2 MÓDULO CAUSA E CONSEQUÊNCIA (LÓGICA)
+Therefore  Dér-fór  Portanto  Conectivos  B2
+Consequently  Cón-se-kuent-li  Consequentemente  Conectivos  C1
+Thus  Dâs  Assim  Desta forma (Formal)  Conectivos  C1
+Hence  Réns  Daí  Por isso  Conectivos  C2
+As a result  Éz-a-ri-zâlt  Como resultado  Conectivos  B1
+Due to  Diú-tu  Devido a  Conectivos  B2
+Because of  Bi-cóz-óv  Por causa de  Conectivos  A2
+So  Sôu  Então  Por isso  Conectivos  A1
+For this reason  Fór-dís-rí-zon  Por essa razão  Conectivos  B1 MÓDULO COMPARAÇÃO (SEMELHANÇAS)
+Similarly  Sí-mi-lar-li  Similarmente  Conectivos  B2
+Likewise  Láik-uáiz  Da mesma forma  Igualmente  Conectivos  C1
+In the same way  In-de-sêim-uêi  Do mesmo modo  Conectivos  B1
+Just as  Djâst-éz  Assim como  Conectivos  B2
+Equally  Í-kua-li  Igualmente  Conectivos  B1 MÓDULO CONDIÇÃO (REGRAS E HIPÓTESES)
+Unless  Ân-lés  A menos que  Conectivos  B1
+Provided that  Pro-vái-ded-dét  Contanto que  Desde que  Conectivos  C1
+As long as  Éz-lóng-éz  Desde que  Enquanto  Conectivos  B1
+In case  In-kêis  Caso  Na hipótese de  Conectivos  B1
+Suppose  Sa-pôuz  Suponha que  Conectivos  B2
+Even if  Í-ven-íf  Mesmo se  Conectivos  B1 MÓDULO CLARIFICAÇÃO E EXEMPLO (EXPLICANDO MELHOR)
+In other words  In-ó-der-uôrds  Em outras palavras  Conectivos  B2
+That is to say  Dét-iz-tu-sêi  Isto é  Quer dizer  Conectivos  C1
+For instance  Fór-ín-stans  Por exemplo (Formal)  Conectivos  B2
+Such as  Sâtch-éz  Tais como  Conectivos  B1
+Namely  Nêim-li  Nomeadamente  A saber  Conectivos  C1
+To clarify  Tu-clé-ri-fái  Para esclarecer  Conectivos  B2
+Specifically  Spe-sí-fi-ca-li  Especificamente  Conectivos  B2 MÓDULO ÊNFASE (DESTAQUE)
+Indeed  In-díd  De fato  Realmente  Conectivos  C1
+Undoubtedly  Ân-dáu-ted-li  Sem dúvida  Indubitavelmente  Conectivos  C1
+Obviously  Ób-vi-as-li  Obviamente  Conectivos  B1
+In fact  In-fékt  Na verdade  De fato  Conectivos  B1
+Particularly  Par-tí-kiu-lar-li  Particularmente  Conectivos  B2
+Especially  Es-pé-sha-li  Especialmente  Conectivos  A2
+Clearly  Clí-ar-li  Claramente  Conectivos  B1 MÓDULO TEMPO E SEQUÊNCIA (ORDEM DOS FATOS)
+Meanwhile  Mín-uái-ol  Enquanto isso  Entretanto  Conectivos  B2
+Subsequently  Sâb-si-kuent-li  Subsequentemente  Depois  Conectivos  C1
+Thereafter  Dér-áf-ter  Posteriormente  Conectivos  C2
+Eventually  I-vén-tchu-a-li  Finalmente  Com o tempo  Conectivos  B2
+Initially  I-ní-sha-li  Inicialmente  Conectivos  B2
+Firstly  Fêrs-t-li  Primeiramente  Conectivos  B1
+Finally  Fái-na-li  Finalmente  Conectivos  A2
+In the meantime  In-de-mín-táim  Nesse meio tempo  Conectivos  B2
+
+
+// MÓDULO: VERBOS IRREGULARES ESSENCIAIS (TOP 50)
+Be (Was/Were, Been) | Bí (Uóz/Uêr, Bín) | Ser / Estar | Verbos Irregulares | A1
+Become (Became, Become) | Bi-câm (Bi-kêim, Bi-câm) | Tornar-se | Verbos Irregulares | B1
+Begin (Began, Begun) | Bi-guín (Bi-gén, Bi-gân) | Começar | Verbos Irregulares | A1
+Break (Broke, Broken) | Brêik (Brôuk, Brôu-ken) | Quebrar | Verbos Irregulares | A2
+Bring (Brought, Brought) | Bríng (Brót, Brót) | Trazer | Verbos Irregulares | A2
+Build (Built, Built) | Bíuld (Bílt, Bílt) | Construir | Verbos Irregulares | A2
+Buy (Bought, Bought) | Bái (Bót, Bót) | Comprar | Verbos Irregulares | A1
+Catch (Caught, Caught) | Kétch (Kót, Kót) | Pegar / Apanhar | Verbos Irregulares | A2
+Choose (Chose, Chosen) | Tchúz (Tchôuz, Tchôu-zen) | Escolher | Verbos Irregulares | A2
+Come (Came, Come) | Câm (Kêim, Câm) | Vir | Verbos Irregulares | A1
+Cost (Cost, Cost) | Cóst (Cóst, Cóst) | Custar | Verbos Irregulares | A1
+Cut (Cut, Cut) | Cât (Cât, Cât) | Cortar | Verbos Irregulares | A1
+Do (Did, Done) | Dú (Díd, Dân) | Fazer (ação) | Verbos Irregulares | A1
+Draw (Drew, Drawn) | Dró (Drú, Drón) | Desenhar / Traçar | Verbos Irregulares | A2
+Drink (Drank, Drunk) | Drínk (Drénk, Drânk) | Beber | Verbos Irregulares | A1
+Drive (Drove, Driven) | Dráiv (Drôuv, Drí-ven) | Dirigir | Verbos Irregulares | A2
+Eat (Ate, Eaten) | Ít (Êit, Í-ten) | Comer | Verbos Irregulares | A1
+Fall (Fell, Fallen) | Fól (Fél, Fó-len) | Cair | Verbos Irregulares | A2
+Feel (Felt, Felt) | Fí-ol (Félt, Félt) | Sentir | Verbos Irregulares | A1
+Find (Found, Found) | Fáind (Fáund, Fáund) | Encontrar | Verbos Irregulares | A1
+Fly (Flew, Flown) | Flái (Flú, Flôn) | Voar | Verbos Irregulares | A2
+Forget (Forgot, Forgotten) | For-guét (For-gót, For-gó-ten) | Esquecer | Verbos Irregulares | A2
+Get (Got, Gotten/Got) | Guét (Gót, Gó-ten) | Pegar / Ficar / Conseguir | Verbos Irregulares | A1
+Give (Gave, Given) | Gív (Guêiv, Guí-ven) | Dar | Verbos Irregulares | A1
+Go (Went, Gone) | Gôu (Uênt, Gón) | Ir | Verbos Irregulares | A1
+Grow (Grew, Grown) | Grôu (Grú, Grôn) | Crescer | Verbos Irregulares | B1
+Have (Had, Had) | Rév (Réd, Réd) | Ter | Verbos Irregulares | A1
+Hear (Heard, Heard) | Rí-ar (Rêrd, Rêrd) | Ouvir | Verbos Irregulares | A2
+Hit (Hit, Hit) | Rít (Rít, Rít) | Bater / Atingir | Verbos Irregulares | A2
+Hold (Held, Held) | Rôuld (Réld, Réld) | Segurar / Manter | Verbos Irregulares | B1
+Keep (Kept, Kept) | Kíp (Képt, Képt) | Guardar / Manter | Verbos Irregulares | A2
+Know (Knew, Known) | Nôu (Niú, Nôn) | Saber / Conhecer | Verbos Irregulares | A1
+Leave (Left, Left) | Lív (Léft, Léft) | Sair / Deixar | Verbos Irregulares | A2
+Lend (Lent, Lent) | Lénd (Lént, Lént) | Emprestar | Verbos Irregulares | B1
+Let (Let, Let) | Lét (Lét, Lét) | Deixar / Permitir | Verbos Irregulares | A2
+Lose (Lost, Lost) | Lúz (Lóst, Lóst) | Perder | Verbos Irregulares | A2
+Make (Made, Made) | Mêik (Mêid, Mêid) | Fazer (criar) | Verbos Irregulares | A1
+Meet (Met, Met) | Mít (Mét, Mét) | Encontrar / Conhecer | Verbos Irregulares | A1
+Pay (Paid, Paid) | Pêi (Pêid, Pêid) | Pagar | Verbos Irregulares | A1
+Put (Put, Put) | Pút (Pút, Pút) | Colocar | Verbos Irregulares | A1
+Read (Read, Read) | Ríd (Réd, Réd) | Ler (Passado lê-se "Réd") | Verbos Irregulares | A1
+Run (Ran, Run) | Rân (Rén, Rân) | Correr | Verbos Irregulares | A2
+Say (Said, Said) | Sêi (Séd, Séd) | Dizer | Verbos Irregulares | A1
+See (Saw, Seen) | Sí (Só, Sín) | Ver | Verbos Irregulares | A1
+Sell (Sold, Sold) | Sél (Sôuld, Sôuld) | Vender | Verbos Irregulares | A2
+Send (Sent, Sent) | Sénd (Sént, Sént) | Enviar | Verbos Irregulares | A1
+Show (Showed, Shown) | Shôu (Shôu-d, Shôn) | Mostrar | Verbos Irregulares | A2
+Sit (Sat, Sat) | Sít (Sét, Sét) | Sentar | Verbos Irregulares | A1
+Sleep (Slept, Slept) | Slíp (Slépt, Slépt) | Dormir | Verbos Irregulares | A1
+Speak (Spoke, Spoken) | Spík (Spôuk, Spôu-ken) | Falar | Verbos Irregulares | A2
+Spend (Spent, Spent) | Spénd (Spént, Spént) | Gastar (dinheiro/tempo) | Verbos Irregulares | A2
+Stand (Stood, Stood) | Sténd (Stúd, Stúd) | Ficar de pé | Verbos Irregulares | B1
+Steal (Stole, Stolen) | Stí-ol (Stôul, Stôu-len) | Roubar | Verbos Irregulares | B1
+Take (Took, Taken) | Teik (Túk, Têi-ken) | Tomar / Levar | Verbos Irregulares | A1
+Teach (Taught, Taught) | Títch (Tót, Tót) | Ensinar | Verbos Irregulares | A2
+Tell (Told, Told) | Tél (Tôuld, Tôuld) | Contar / Dizer a alguém | Verbos Irregulares | A1
+Think (Thought, Thought) | Fink (Fót, Fót) | Pensar | Verbos Irregulares | A1
+Understand (Understood, Understood) | An-der-sténd (An-der-stúd) | Entender | Verbos Irregulares | A1
+Wear (Wore, Worn) | Uér (Uór, Uórn) | Vestir / Usar | Verbos Irregulares | A2
+Win (Won, Won) | Uín (Uón, Uón) | Vencer / Ganhar | Verbos Irregulares | A2
+Write (Wrote, Written) | Ráit (Rôut, Rí-ten) | Escrever | Verbos Irregulares | A1
+
+// MÓDULO: VERBOS DE NEGÓCIOS & TI (REGULARES -ED)
+Accept (Accepted) | Ak-cépt (Ak-cép-ted) | Aceitar | Verbos Regulares | B1
+Achieve (Achieved) | A-tchív (A-tchív-d) | Alcançar | Verbos Regulares | B2
+Allow (Allowed) | A-láu (A-láu-d) | Permitir | Verbos Regulares | B1
+Analyze (Analyzed) | É-na-láiz (É-na-láiz-d) | Analisar | Verbos Regulares | B2
+Ask (Asked) | Ésk (Ésk-t) | Perguntar | Verbos Regulares | A1
+Audit (Audited) | Ó-dit (Ó-di-ted) | Auditar | Verbos Regulares | B2
+Automate (Automated) | Ó-to-meit (Ó-to-mei-ted) | Automatizar | Verbos Regulares | B2
+Calculate (Calculated) | Cál-kiu-leit (Cál-kiu-lei-ted) | Calcular | Verbos Regulares | B1
+Call (Called) | Cól (Cól-d) | Ligar / Chamar | Verbos Regulares | A1
+Change (Changed) | Tchêindj (Tchêindj-d) | Mudar | Verbos Regulares | A1
+Clean (Cleaned) | Clín (Clín-d) | Limpar | Verbos Regulares | A1
+Close (Closed) | Clôuz (Clôuz-d) | Fechar | Verbos Regulares | A1
+Code (Coded) | Côud (Côu-ded) | Codificar / Programar | Verbos Regulares | B1
+Compile (Compiled) | Com-pái-ol (Com-pái-old) | Compilar | Verbos Regulares | B2
+Complete (Completed) | Com-plít (Com-plí-ted) | Completar | Verbos Regulares | A2
+Confirm (Confirmed) | Con-fârm (Con-fârm-d) | Confirmar | Verbos Regulares | A2
+Connect (Connected) | Co-néct (Co-néc-ted) | Conectar | Verbos Regulares | A2
+Cook (Cooked) | Cúk (Cúk-t) | Cozinhar | Verbos Regulares | A1
+Copy (Copied) | Có-pi (Có-pid) | Copiar | Verbos Regulares | A1
+Crash (Crashed) | Crésh (Crésh-t) | Travar (sistema) / Bater | Verbos Regulares | B1
+Create (Created) | Cri-êit (Cri-êi-ted) | Criar | Verbos Regulares | A2
+Debug (Debugged) | Di-bâg (Di-bâg-d) | Depurar | Verbos Regulares | B1
+Decide (Decided) | Di-sáid (Di-sái-ded) | Decidir | Verbos Regulares | A2
+Deliver (Delivered) | Di-lí-ver (Di-lí-verd) | Entregar | Verbos Regulares | B1
+Deploy (Deployed) | Di-plói (Di-plói-d) | Implantar | Verbos Regulares | B2
+Design (Designed) | Di-záin (Di-záin-d) | Projetar | Verbos Regulares | B1
+Develop (Developed) | Di-vé-lop (Di-vé-lop-t) | Desenvolver | Verbos Regulares | B1
+Discuss (Discussed) | Dis-câs (Dis-câs-t) | Discutir | Verbos Regulares | B1
+Download (Downloaded) | Dáun-lôud (Dáun-lôu-ded) | Baixar | Verbos Regulares | A2
+Employ (Employed) | Em-plói (Em-plói-d) | Empregar | Verbos Regulares | B1
+Ensure (Ensured) | En-shúr (En-shúr-d) | Garantir | Verbos Regulares | B2
+Execute (Executed) | Ek-se-kiút (Ek-se-kiú-ted) | Executar | Verbos Regulares | B2
+Explain (Explained) | Eks-plêin (Eks-plêin-d) | Explicar | Verbos Regulares | A2
+File (Filed) | Fái-ol (Fái-old) | Arquivar / Protocolar | Verbos Regulares | B1
+Finish (Finished) | Fí-nish (Fí-nish-t) | Terminar | Verbos Regulares | A1
+Fix (Fixed) | Fíks (Fíks-t) | Consertar | Verbos Regulares | A1
+Follow (Followed) | Fó-lou (Fó-lou-d) | Seguir | Verbos Regulares | A1
+Guarantee (Guaranteed) | Ga-ran-tí (Ga-ran-tí-d) | Garantir | Verbos Regulares | B1
+Happen (Happened) | Ré-pen (Ré-pen-d) | Acontecer | Verbos Regulares | A2
+Help (Helped) | Rélp (Rélp-t) | Ajudar | Verbos Regulares | A1
+Hire (Hired) | Rá-ier (Rá-ier-d) | Contratar | Verbos Regulares | B1
+Import (Imported) | Im-pórt (Im-pór-ted) | Importar | Verbos Regulares | B1
+Include (Included) | In-clúd (In-clú-ded) | Incluir | Verbos Regulares | A2
+Increase (Increased) | In-crís (In-crís-t) | Aumentar | Verbos Regulares | B1
+Install (Installed) | Ins-tól (Ins-tól-d) | Instalar | Verbos Regulares | A2
+Invest (Invested) | In-vést (In-vés-ted) | Investir | Verbos Regulares | B1
+Invite (Invited) | In-váit (In-vái-ted) | Convidar | Verbos Regulares | A2
+Join (Joined) | Djóin (Djóin-d) | Juntar-se / Entrar | Verbos Regulares | A2
+Learn (Learned) | Lârn (Lârn-d) | Aprender | Verbos Regulares | A1
+Like (Liked) | Láik (Láik-t) | Gostar | Verbos Regulares | A1
+Listen (Listened) | Lí-sen (Lí-sen-d) | Escutar | Verbos Regulares | A1
+Live (Lived) | Lív (Lív-d) | Morar / Viver | Verbos Regulares | A1
+Load (Loaded) | Lôud (Lôu-ded) | Carregar | Verbos Regulares | B1
+Look (Looked) | Lúk (Lúk-t) | Olhar | Verbos Regulares | A1
+Love (Loved) | Lâv (Lâv-d) | Amar | Verbos Regulares | A1
+Manage (Managed) | Mé-nadj (Mé-nadj-d) | Gerenciar | Verbos Regulares | B1
+Move (Moved) | Múv (Múv-d) | Mover / Mudar | Verbos Regulares | A1
+Need (Needed) | Níd (Ní-ded) | Precisar | Verbos Regulares | A1
+Negotiate (Negotiated) | Ne-gôu-shi-eit (Ne-gôu-shi-ei-ted) | Negociar | Verbos Regulares | B2
+Offer (Offered) | Ó-fer (Ó-fer-d) | Oferecer | Verbos Regulares | A2
+Open (Opened) | Ôu-pen (Ôu-pen-d) | Abrir | Verbos Regulares | A1
+Order (Ordered) | Ór-der (Ór-der-d) | Pedir / Encomendar | Verbos Regulares | A2
+Organize (Organized) | Ór-ga-náiz (Ór-ga-náiz-d) | Organizar | Verbos Regulares | A2
+Owe (Owed) | Ôu (Ôu-d) | Dever (dinheiro) | Verbos Regulares | B1
+Plan (Planned) | Plén (Plén-d) | Planejar | Verbos Regulares | A2
+Play (Played) | Plêi (Plêi-d) | Jogar / Brincar | Verbos Regulares | A1
+Prepare (Prepared) | Pri-pér (Pri-pér-d) | Preparar | Verbos Regulares | A2
+Print (Printed) | Prínt (Prín-ted) | Imprimir | Verbos Regulares | A2
+Process (Processed) | Pró-cess (Pró-ces-st) | Processar | Verbos Regulares | B1
+Produce (Produced) | Pro-dús (Pro-dús-t) | Produzir | Verbos Regulares | B1
+Promise (Promised) | Pró-mis (Pró-mis-t) | Prometer | Verbos Regulares | A2
+Provide (Provided) | Pro-váid (Pro-vái-ded) | Fornecer | Verbos Regulares | B1
+Receive (Received) | Ri-sív (Ri-sív-d) | Receber | Verbos Regulares | A2
+Recommend (Recommended) | Re-co-ménd (Re-co-mén-ded) | Recomendar | Verbos Regulares | B1
+Reduce (Reduced) | Ri-dús (Ri-dús-t) | Reduzir | Verbos Regulares | B1
+Refund (Refunded) | Ri-fând (Ri-fân-ded) | Reembolsar | Verbos Regulares | B1
+Register (Registered) | Ré-djis-ter (Ré-djis-ter-d) | Registrar | Verbos Regulares | B1
+Reject (Rejected) | Ri-djéct (Ri-djéc-ted) | Rejeitar | Verbos Regulares | B1
+Remember (Remembered) | Ri-mém-ber (Ri-mém-ber-d) | Lembrar | Verbos Regulares | A2
+Report (Reported) | Ri-pórt (Ri-pór-ted) | Relatar | Verbos Regulares | B1
+Request (Requested) | Ri-kuést (Ri-kués-ted) | Solicitar | Verbos Regulares | B1
+Require (Required) | Ri-kuái-ar (Ri-kuái-ar-d) | Exigir / Requerer | Verbos Regulares | B1
+Return (Returned) | Ri-târn (Ri-târn-d) | Retornar / Devolver | Verbos Regulares | A2
+Save (Saved) | Sêiv (Sêiv-d) | Salvar / Economizar | Verbos Regulares | A1
+Schedule (Scheduled) | Ské-djul (Ské-djul-d) | Agendar | Verbos Regulares | B1
+Search (Searched) | Sârtch (Sârtch-t) | Pesquisar | Verbos Regulares | A2
+Select (Selected) | Se-léct (Se-léc-ted) | Selecionar | Verbos Regulares | A2
+Sign (Signed) | Sáin (Sáin-d) | Assinar | Verbos Regulares | B1
+Solve (Solved) | Sólv (Sólv-d) | Resolver | Verbos Regulares | B1
+Start (Started) | Stárt (Stár-ted) | Começar | Verbos Regulares | A1
+Stay (Stayed) | Stêi (Stêi-d) | Ficar | Verbos Regulares | A1
+Stop (Stopped) | Stóp (Stóp-t) | Parar | Verbos Regulares | A1
+Study (Studied) | Stâ-di (Stâ-di-d) | Estudar | Verbos Regulares | A1
+Submit (Submitted) | Sab-mít (Sab-mí-ted) | Enviar / Submeter | Verbos Regulares | B1
+Suggest (Suggested) | Su-djést (Su-djés-ted) | Sugerir | Verbos Regulares | B1
+Support (Supported) | Su-pórt (Su-pór-ted) | Apoiar | Verbos Regulares | B1
+Talk (Talked) | Tók (Tók-t) | Conversar | Verbos Regulares | A1
+Test (Tested) | Tést (Tés-ted) | Testar | Verbos Regulares | B1
+Thank (Thanked) | Fênk (Fênk-t) | Agradecer | Verbos Regulares | A1
+Touch (Touched) | Tâtch (Tâtch-t) | Tocar | Verbos Regulares | A1
+Travel (Traveled) | Tré-vel (Tré-vel-d) | Viajar | Verbos Regulares | A1
+Try (Tried) | Trái (Trái-d) | Tentar | Verbos Regulares | A1
+Update (Updated) | Âp-dêit (Âp-dêi-ted) | Atualizar | Verbos Regulares | A2
+Use (Used) | Iúz (Iúz-d) | Usar | Verbos Regulares | A1
+Validate (Validated) | Vá-li-deit (Vá-li-dei-ted) | Validar | Verbos Regulares | B2
+Verify (Verified) | Vé-ri-fái (Vé-ri-fái-d) | Verificar | Verbos Regulares | B1
+Visit (Visited) | Ví-zit (Ví-zi-ted) | Visitar | Verbos Regulares | A1
+Wait (Waited) | Uêit (Uêi-ted) | Esperar | Verbos Regulares | A1
+Walk (Walked) | Uók (Uók-t) | Andar | Verbos Regulares | A1
+Want (Wanted) | Uónt (Uón-ted) | Querer | Verbos Regulares | A1
+Watch (Watched) | Uótch (Uótch-t) | Assistir | Verbos Regulares | A1
+Work (Worked) | Uôrk (Uôrk-t) | Trabalhar | Verbos Regulares | A1
+Worry (Worried) | Uâ-ri (Uâ-ri-d) | Preocupar-se | Verbos Regulares | A2
+
+
+// MÓDULO: REDUÇÕES BÁSICAS (THE BIG FIVE)
+I am going to | Aim GÔ-na | Eu vou (futuro) | Pronúncia Rápida | A2
+I want to | Ai UÓ-na | Eu quero | Pronúncia Rápida | A2
+I have to | Ai GÓ-ra | Eu tenho que | Pronúncia Rápida | B1
+Let me | LÉ-mi | Deixe-me | Pronúncia Rápida | A2
+Give me | GUÍ-mi | Me dê | Pronúncia Rápida | A2
+
+// MÓDULO: PERGUNTAS "ATROPELADAS"
+What are you doing? | Uá-tcha DÚ-in? | O que você está fazendo? | Pronúncia Rápida | B1
+Do you want a...? | D'iu-UÓ-na...? | Você quer um...? | Pronúncia Rápida | B1
+What do you think? | Uá-tcha FÍNK? | O que você acha? | Pronúncia Rápida | B2
+Could you...? | CÚ-dja...? | Você poderia...? | Pronúncia Rápida | B1
+Would you...? | UÚ-dja...? | Você iria/faria...? | Pronúncia Rápida | B1
+Don't you...? | DÔN-tcha...? | Você não...? | Pronúncia Rápida | B1
+
+// MÓDULO: CONEXÕES DE TRABALHO (BUSINESS FLOW)
+I have a meeting | Ai-RÁ-va MÍ-tin | Eu tenho uma reunião | Pronúncia Rápida | B1
+What is it? | Uá-TÍ-zit? | O que é isso? | Pronúncia Rápida | A2
+I'll check it | Áil-TCHÉ-kit | Eu vou verificar | Pronúncia Rápida | B1
+Let's talk about it | Léts-TÓ-ka-báu-rit | Vamos falar sobre isso | Pronúncia Rápida | B2
+Out of office | Áu-ra Ó-fis | Fora do escritório | Pronúncia Rápida | B1
+As soon as possible | Éz-SÚ-néz PÓ-si-bol | O mais rápido possível | Pronúncia Rápida | B2
+
+// MÓDULO: CONEXÕES SOCIAIS E FAMÍLIAI don't know | Ai DÂ-nou | Eu não sei | Pronúncia Rápida | A2
+Kind of | KÁIN-da | Meio que / Tipo isso | Pronúncia Rápida | B1
+Sort of | SÓR-ra | Mais ou menos / Tipo | Pronúncia Rápida | B1
+A lot of | A LÓ-ra | Muito de / Muitos | Pronúncia Rápida | A2
+Because | CÂZ | Porque (abreviado) | Pronúncia Rápida | A2
+See you later | SÍ-ia LÊI-ra | Vejo você mais tarde | Pronúncia Rápida | A1
+How is it going? | Rau-ZÍ-t-GÔ-in? | Como estão as coisas? | Pronúncia Rápida | B1
+
+// MÓDULO: "T" QUE VIRA "R" (FLAP T - AMERICANO)
+Water | UÓ-ra | Água | Pronúncia Rápida | A1
+Better | BÉ-ra | Melhor | Pronúncia Rápida | A2
+Computer | Com-PIÚ-ra | Computador | Pronúncia Rápida | A2
+Audit it | Ó-di-rit | Audite isso | Pronúncia Rápida | C1
+Edit it | É-di-rit | Edite isso | Pronúncia Rápida | B2
+
+// MÓDULO: ESTRUTURAS AVANÇADAS COM "H" MUDOI love him | Ai LÂ-vim | Eu o amo | Pronúncia Rápida | B1
+I tell her | Ai TÉ-ler | Eu digo a ela | Pronúncia Rápida | B1
+Is he here? | I-zi RÍ-ar? | Ele está aqui? | Pronúncia Rápida | B1
+What's his name? | Uá-tsiz NÊIM? | Qual o nome dele? | Pronúncia Rápida | B1
+
+
+// MÓDULO: REUNIÕES & TRABALHO (SPEED CONNECT)
+I have got to go | Áiv-GÓ-ra-GÔ | Eu tenho que ir | Fast English | B1
+What are you going to do? | Uá-tcha-GÔ-na-DÚ? | O que você vai fazer? | Fast English | B2
+Did you finish the report? | DÍ-dja-FÍ-nish-dê-ri-PÓRT? | Você terminou o relatório? | Fast English | B1
+I'll let you know | Ái-LÉ-tcha-NÔ | Eu te aviso / Eu te deixo saber | Fast English | B2
+What do you need? | Uá-dja-NÍD? | Do que você precisa? | Fast English | B1
+We have a lot of work | Ui-RÁ-va-LÓ-ra-UÔRK | Nós temos muito trabalho | Fast English | B2
+I don't know yet | Ai-DÂ-nô-IÉT | Eu não sei ainda | Fast English | B1
+How is it going? | Rau-ZÍ-t-GÔ-in? | Como estão as coisas? | Fast English | B2
+Is he coming? | Í-zi-CÂ-min? | Ele vem? / Ele está vindo? | Fast English | B1
+Could you help me? | CÚ-dja-RÉLP-mi? | Você poderia me ajudar? | Fast English | B1
+
+// MÓDULO: CONVERSA COM ESPOSA (FAST ROMANCE)
+Do you want to go out? | D'iu-UÓ-na-GÔ-ÁUT? | Você quer sair? | Fast English | A2
+I love you so much | Ai-LÂ-vi-sô-MÂTCH | Eu te amo tanto | Fast English | A1
+Did you see that? | DÍ-dja-SÍ-dét? | Você viu aquilo? | Fast English | A2
+I'll be right back | Ái-bi-RÁI-BÉK | Já volto / Volto logo | Fast English | A2
+Give me a kiss | GUÍ-mi-a-KÍS | Me dê um beijo | Fast English | A1
+I miss you | Ai-MÍ-shia | Sinto sua falta | Fast English | A1
+What do you want to eat? | Uá-tcha-UÓ-na-Ít? | O que você quer comer? | Fast English | B1
+Don't you love it? | DÔN-tcha-LÂ-vit? | Você não ama isso? | Fast English | B1
+Tell her I'm here | TÉ-ler-aim-RÍ-ar | Diga a ela que estou aqui | Fast English | B1
+Would you like some? | UÚ-dja-LÁIK-sâm? | Você gostaria de um pouco? | Fast English | A2
+
+// MÓDULO: PERGUNTAS DE RUA & VIAGEM
+Where is the...? | UÉ-ri-zê...? | Onde é o/a...? | Fast English | A1
+How much is it? | Ráu-MÂ-tchí-zit? | Quanto custa? | Fast English | A1
+I've got a problem | Áiv-GÓ-ra-PRÓ-blem | Eu tenho um problema | Fast English | B1
+Check it out | TCHÉ-ki-DÁUT | Dá uma olhada / Confira | Fast English | B1
+What time is it? | Uá-TÁI-mí-zit? | Que horas são? | Fast English | A1
+Take it easy | TÊI-ki-Í-zi | Relaxa / Vá com calma | Fast English | B1
+Come on | CÂ-MÓN | Vamos / Qual é | Fast English | A1
+Get out of here | Guê-RÁU-ra-RÍ-ar | Caia fora daqui / Não acredito | Fast English | B2
+Should have told me | SHÚ-ra-TÔUL-mi | Deveria ter me dito | Fast English | C1
+Could have been better | CÚ-ra-BÍN-BÉ-ra | Poderia ter sido melhor | Fast English | C1
+
+// MÓDULO: EXPRESSÕES CURTAS (LINKING SOUNDS)
+Sort of | SÓR-ra | Mais ou menos / Tipo | Fast English | B1
+Kind of | KÁIN-da | Meio que | Fast English | B1
+Out of | ÁU-ra | Fora de | Fast English | B1
+Lot of | LÓ-ra | Muito de | Fast English | A2
+Couple of | CÂ-pa-la | Uns dois / Um par de | Fast English | B1
+Front of | FRÂN-ra | Frente de | Fast English | B2
+Instead of | In-STÉ-ra | Em vez de | Fast English | B2
+Because of | bi-CÂ-za | Por causa de | Fast English | B1
+
+// MÓDULO: "T" MUDO (STOP T) - INGLÊS MODERNO
+I can't do it | Ai-KÊN-DÚ-it | Eu não consigo fazer (o T de can't some) | Fast English | B1
+It's not right | Its-NÓ-RÁIT | Não está certo | Fast English | B1
+Wait a minute | UÊI-ra-MÍ-nit | Espere um minuto | Fast English | A2
+Not at all | NÓ-ra-RÓL | De jeito nenhum | Fast English | B2
+I hate it | Ai-RÊI-rit | Eu odeio isso | Fast English | B1
+Put it down | PÚ-ri-DÁUN | Coloque no chão / Largue isso | Fast English | B1
+Set it up | SÉ-ri-RÂP | Configure isso / Prepare | Fast English | B2
+Let it go | LÉ-ri-GÔ | Deixe pra lá / Solte | Fast English | A2
+Forget it | For-GUÉ-rit | Esqueça | Fast English | A2
+
+
+// MÓDULO: SAUDAÇÕES & GÍRIAS (GREETINGS & SLANG)
+What's up, bro? | Uá-tsâp-brô? | E aí, mano? | Amigos | A1
+Long time no see! | Lón-táim-nô-sí! | Quanto tempo! | Amigos | A2
+How's it hanging? | Rau-zít-rén-guin? | Como estão as coisas? / E aí? | Amigos | B2
+What'cha been up to? | Uá-tcha-bín-âp-tu? | O que você tem feito? | Amigos | B1
+Same old, same old | Sêi-môuld-sêi-môuld | Tudo na mesma / O mesmo de sempre | Amigos | B1
+Yo, dude! | Iô-diúd! | E aí, cara! | Amigos | A1
+My man! | Mai-mén! | Meu bom! / Grande homem! | Amigos | A2
+How's life treating you? | Rau-zláif-trí-rin-iú? | Como a vida está te tratando? | Amigos | B2
+
+// MÓDULO: NOSTALGIA (BACK IN THE DAY)
+Remember when we...? | Ri-mém-ber-uén-ui...? | Lembra quando a gente...? | Amigos | B1
+Back in the day | Bé-kin-de-dêi | Naquela época / No meu tempo | Amigos | B1
+Those were the days | fôuz-uêr-de-dêis | Aqueles eram bons tempos | Amigos | B2
+We used to get in so much trouble | Ui-iús-tu-gué-rin-sô-mâtch-TRÂ-bol | A gente costumava se meter em tanta encrenca | Amigos | B2
+Do you remember that time? | D'iu-ri-mém-ber-dét-táim? | Você lembra daquela vez? | Amigos | B1
+We were just kids | Ui-uêr-djâst-KÍDS | Nós éramos apenas crianças | Amigos | A2
+That takes me back | Dét-têiks-mi-BÉK | Isso me traz recordações | Amigos | C1
+Good times, man | Gúd-táims-mén | Bons tempos, cara | Amigos | A2
+
+// MÓDULO: ATUALIZANDO A VIDA (CATCHING UP)
+How's the family? | Rau-zde-FÉ-mi-li? | Como vai a família? | Amigos | A1
+How's your wife doing? | Rau-zior-uáif-DÚ-in? | Como vai sua esposa? | Amigos | B1
+Are the kids big now? | Ar-de-KÍDS-bíg-náu? | As crianças estão grandes agora? | Amigos | A2
+You haven't changed a bit | Iú-rá-vent-tchêindjd-a-BÍT | Você não mudou nada | Amigos | B2
+We should grab a beer sometime | Ui-shúd-gré-ba-BÍR-sâm-táim | A gente devia tomar uma cerveja qualquer hora | Amigos | B1
+Let's catch up soon | Léts-ké-tchâp-SÚN | Vamos nos atualizar em breve | Amigos | B2
+Are you still living in...? | Ar-iu-stíu-LÍ-vin-in...? | Você ainda está morando em...? | Amigos | B1
+
+// MÓDULO: GÍRIAS DE CONCORDÂNCIA & REAÇÃO
+For sure! | For-SHÚR! | Com certeza! | Amigos | A2
+No way! | Nô-UÊI! | Não acredito! / De jeito nenhum! | Amigos | B1
+That's sick! | Déts-SÍK! | Isso é muito louco! (Legal) | Amigos | B1
+I'm down | Aim-DÁUN | Eu topo / Tô dentro | Amigos | B2
+No worries | Nô-UÂ-ris | Sem problemas / Relaxa | Amigos | B1
+Totally | TÔU-ra-li | Totalmente / Com certeza | Amigos | B1
+My bad | Mai-BÉD | Erro meu / Foi mal | Amigos | A2
+I feel you | Ai-FÍ-liu | Te entendo / Te saquei | Amigos | B2
+No cap | Nô-KÉP | Sem mentira / É sério | Amigos | C1
+
+// MÓDULO: DESPEDIDAS CASUAIS
+Catch you later | KÉ-tcha-LÊI-ra | Te vejo mais tarde / Até mais | Amigos | A2
+Take care, bro | TÊI-kér-brô | Se cuida, mano | Amigos | B1
+See ya! | SÍ-ia! | Até! | Amigos | A1
+Peace out | PÍS-áut | Valeu / Fui (paz) | Amigos | B2
+Don't be a stranger | Dôunt-bi-a-STRÊIN-djer | Não some não / Apareça | Amigos | B2
+Stay safe | STÊI-sêif | Fique bem / Se cuida | Amigos | B1
+I'm outta here | Aim-ÁU-ra-Í-ar | Tô saindo / Fui | Amigos | B2
+
+
+// MÓDULO: CONCEITOS DE CRÉDITO (CREDIT CONCEPTS)
+Tax Credit | TÉKS-CRÉ-dit | Crédito tributário | Fisco | B1
+Input Tax Credit (ITC) | ÍN-pút-TÉKS-CRÉ-dit | Crédito sobre entradas (compras) | Fisco | C1
+Output Tax | ÁUT-pút-TÉKS | Imposto sobre saídas (vendas) | Fisco | C1
+Tax Offset | TÉKS-ÓF-sét | Compensação de imposto | Fisco | C2
+Non-cumulative system | Nón-kiú-miu-la-tiv-SÍS-tem | Sistema não-cumulativo | Fisco | C1
+Full credit neutrality | FÚL-CRÉ-dit-nu-TRÁ-li-ti | Neutralidade plena de crédito | Fisco | C2
+Financial Credits | fi-NÁN-shal-CRÉ-dits | Créditos financeiros (baseados no pagamento) | Fisco | C1
+
+// MÓDULO: MECÂNICA DE CRÉDITO NO IVA (VAT CREDIT MECHANICS)
+Credit Chain | CRÉ-dit-TCHÊIN | Cadeia de crédito | Fisco | B2
+Tax Debit | TÉKS-DÉ-bit | Débito tributário | Fisco | B1
+Value Added Tax (VAT) | VÁT | Imposto sobre Valor Agregado (IVA) | Fisco | B1
+Carry forward | KÉ-ri-FÓR-uard | Transportar saldo credor para períodos futuros | Fisco | C1
+Tax Refund | TÉKS-RI-fând | Reembolso / Restituição de imposto | Fisco | B1
+Credit entitlement | CRÉ-dit-en-TÁI-tol-ment | Direito ao crédito | Fisco | C2
+Zero-rating | ZÍ-rôu-RÊI-tin | Alíquota zero (com manutenção de crédito) | Fisco | C2
+
+// MÓDULO: AUDITORIA DE CRÉDITOS (CREDIT AUDIT & TECH)
+Credit validation | CRÉ-dit-va-li-DÊI-shon | Validação de créditos | Auditoria | B2
+Immediate credit recovery | i-MÍ-di-it-CRÉ-dit-ri-CÂ-ve-ri | Recuperação imediata de crédito | Auditoria | C1
+Real-time credit matching | RÍ-ol-táim-CRÉ-dit-MÁ-tchin | Cruzamento de créditos em tempo real | Auditoria | C2
+Spurious credits | SPÚ-ri-os-CRÉ-dits | Créditos indevidos / falsos | Auditoria | C2
+Unused credits | ÂN-iúzd-CRÉ-dits | Créditos acumulados e não utilizados | Auditoria | B2
+Tax amnesty | TÉKS-ÁM-nes-ti | Amnistia fiscal | Fisco | B2
+
+// MÓDULO: FAST ENGLISH - FALANDO SOBRE CRÉDITOS
+The credits are fully recoverable | De-CRÉ-di-tsar-FÚ-li-ri-CÂ-ve-ra-bol | Os créditos são totalmente recuperáveis | Fast English | B2
+We offset the input tax | Ui-ÓF-sét-di-ÍN-pút-TÉKS | Nós compensamos o imposto de entrada | Fast English | C1
+It prevents tax cascading | Ít-pri-VÉNTS-TÉKS-cas-KÊI-din | Evita a cumulatividade (efeito cascata) | Fast English | C2
+The credit is triggered by payment | De-CRÉ-di-tiz-TRÍ-guêrd-bái-PÊI-ment | O crédito é acionado pelo pagamento | Fast English | C1
+Check the credit balance | TCHÉK-de-CRÉ-dit-BÉ-lans | Verifique o saldo de créditos | Fast English | B1
+We need to speed up refunds | Ui-NÍ-du-SPÍ-dâp-RI-fânds | Precisamos acelerar os reembolsos | Fast English | B2
+Is the credit chain broken? | Íz-de-CRÉ-dit-tchêin-BRÔU-ken? | A cadeia de crédito está quebrada? | Fast English | C1
+Instant tax offsetting | ÍNS-tant-TÉKS-ÓF-sé-tin | Compensação de imposto instantânea | Fast English | C2
+
+
+// MÓDULO: TI & DESENVOLVIMENTO (CORE)
+Frontend | Frónt-énd | Interface do utilizador | TI/Tech | B1
+Backend | Bék-énd | Lógica do servidor e base de dados | TI/Tech | B1
+Framework | Frêim-uôrk | Conjunto de ferramentas pré-moldadas | TI/Tech | B2
+API | Ei-Pí-Ái | Interface de programação de aplicações | TI/Tech | B2
+Sandbox | Sênd-bóks | Ambiente de teste isolado | TI/Tech | B2
+Deployment | Di-plói-ment | Implantação de código em produção | TI/Tech | B2
+Repository | Ri-pó-zi-tó-ri | Local de armazenamento de código | TI/Tech | B1
+Pull Request | Púl Ri-kuést | Solicitação para fundir código | TI/Tech | B2
+Code Review | Côud Ri-viú | Revisão de código por pares | TI/Tech | B1
+Debugging | Di-bâ-guing | Processo de encontrar e corrigir erros | TI/Tech | B1
+Latency | Lêi-ten-si | Atraso na resposta da rede | TI/Tech | B2
+Encryption | En-críp-shon | Cifragem de dados para segurança | TI/Tech | C1
+Scalability | Scêi-la-bí-li-ti | Capacidade de crescimento do sistema | TI/Tech | C1
+Redundancy | Ri-dân-dan-si | Duplicação de sistemas por segurança | TI/Tech | C1
+Legacy System | Lé-ga-si Sís-tem | Sistema antigo ainda em uso | TI/Tech | B2
+Full Stack | Fúl Sték | Desenvolvedor que actua em todas as frentes | TI/Tech | B1
+Hard Drive | Rárd Dráiv | Disco rígido | TI/Tech | A2
+Throughput | Frú-pút | Taxa de transferência de dados | TI/Tech | C1
+Firewall | Fái-er-uôl | Barreira de segurança de rede | TI/Tech | B1
+
+// MÓDULO: FISCO, AUDITORIA & ECONOMIAVAT 
+(Value Added Tax) | Ví-Ei-Tí | Imposto sobre o Valor Acrescentado (IVA) | Fisco | B2
+Income Tax | Ín-câm Téks | Imposto de rendimento | Fisco | B2
+Compliance | Com-plái-ans | Conformidade com leis e normas | Fisco | C1
+Asset | Á-set | Ativo / Bem de valor | Fisco | B2
+Liability | Lai-a-bí-li-ti | Passivo / Obrigações financeiras | Fisco | C1
+Equity | É-kwi-ti | Capital próprio / Património líquido | Fisco | C1
+Auditing | Ó-di-ting | Processo de fiscalização contabilística | Fisco | B2
+Tax Evasion | Téks I-vêi-shon | Evasão / Fuga fiscal (Ilegal) | Fisco | C1
+Tax Avoidance | Téks A-vói-dans | Elisão fiscal (Legal) | Fisco | C1
+Internal Revenue Service | In-têr-nal Ré-ve-niu Sêr-vis | Receita Federal (Órgão) | Fisco | C1
+Ledger | Lé-djer | Livro razão / Registro de contas | Fisco | C1
+Balance Sheet | Bé-lans Shít | Balanço patrimonial | Fisco | B2
+Profit and Loss (P&L) | Pró-fit ênd Lós | Demonstração de resultados | Fisco | B2
+Tax Bracket | Téks Bré-ket | Faixa de tributação | Fisco | B2
+Withholding Tax | Uif-rôul-ding Téks | Imposto retido na fonte | Fisco | C1
+Fiscal Year | Fís-cal Í-ar | Ano fiscal / exercício | Fisco | B2
+
+// MÓDULO: CONSTRUÇÃO CIVIL & ENGENHARIA
+Reinforced Concrete | Ri-in-fórs-t Cón-crit | Betão armado | Obras | B2
+Foundation | Fáun-dêi-shon | Alicerce / Fundação | Obras | B1
+Scaffolding | Scé-fôl-ding | Andaimes | Obras | B2
+Crane | Crêin | Guindaste | Obras | A2
+Insulation | In-su-lêi-shon | Isolamento térmico ou acústico | Obras | B2
+Mortar | Mór-tar | Argamassa | Obras | B2
+Drywall | Drái-uôl | Gesso cartonado | Obras | B1
+Beams | Bíms | Vigas de sustentação | Obras | B2
+Columns | Có-lâms | Pilares / Colunas | Obras | B1
+Site Manager | Sáit Mé-nadj-er | Gestor de obra / Estaleiro | Obras | B1
+Building Codes | Bíl-ding Côuds | Normas de construção | Obras | C1
+Safety Goggles | Sêif-ti Gó-guels | Óculos de proteção | Obras | A2
+Blueprint | Blú-print | Desenho técnico / Planta | Obras | B1
+
+// MÓDULO: EXECUTIVO & NEGOCIAÇÃO (C1+)
+Bottom Line | Bó-tom Láin | Resultado líquido / O que importa | Executivo | C1
+Takeaway | Têi-ka-uêi | Ponto principal para levar da reunião | Executivo | B2
+Stakeholder | Stêik-rôul-der | Parte interessada no projecto | Executivo | C1
+Milestone | Máil-stôun | Marco importante ou etapa | Executivo | B2
+Outsource | Áut-sórs | Terceirizar serviços | Executivo | B1
+Benchmark | Béntch-márk | Referência de mercado | Executivo | C1
+Brainstorm | Brêin-stórm | Torneio de ideias | Executivo | B1
+Niche Market | Nítch Már-ket | Mercado de nicho | Executivo | B2
+Core Competency | Cór Com-pé-ten-si | Competência principal da empresa | Executivo | C1
+Empowerment | Em-páu-er-ment | Autonomia para decidir | Executivo | C1
+Scalable | Scêi-la-bol | Escalável / Que pode crescer | Executivo | B2
+
+// MÓDULO: PHRASAL VERBS PROFISSIONAIS
+Follow up | Fó-lou âp | Dar continuidade a um contacto | Gramática | B1
+Call off | Cól óf | Cancelar um evento ou reunião | Gramática | B2
+Look into | Lúk ín-tu | Investigar um problema ou erro | Gramática | B2
+Run out of | Rân áut óv | Ficar sem (tempo, dinheiro, stock) | Gramática | B1
+Back down | Bék dáun | Ceder numa negociação | Gramática | C1
+Bring up | Bríng âp | Mencionar um assunto em reunião | Gramática | B1
+Carry out | Ké-ri áut | Executar uma tarefa ou plano | Gramática | B2
+Set up | Sét âp | Configurar ou organizar algo | Gramática | B1
+
+// MÓDULO: VIAGEM & EMERGÊNCIAS
+Boarding Pass | Bór-ding Pés | Cartão de embarque | Viagem | A2
+Customs | Câs-toms | Alfândega | Viagem | B1
+Baggage Claim | Bé-guêidj Clêim | Recolha de bagagem | Viagem | A2
+Delayed | Di-lêid | Atrasado | Viagem | A2
+Cancelled | Cén-seld | Cancelado | Viagem | A2
+Layover | Lêi-ôu-ver | Escala / Conexão longa | Viagem | B1
+Car Rental | Cár Rén-tal | Aluguer de viaturas | Viagem | B1
+Shuttle | Shâ-tol | Transporte de curta distância (Transfer) | Viagem | B1
+Insurance | In-shú-rans | Seguro (Saúde, Carro, etc.) | Viagem | B2
+
+// MÓDULO: METÁFORAS & IDIOMATISMOS DE ELITE (ADVANCED IDIOMS)
+The elephant in the room | Di é-le-fant in dê rúm | Um problema óbvio que todos ignoram | Eloquência | C1
+Burn the midnight oil | Bêrn dê míd-nait óil | Trabalhar arduamente até tarde da noite | Eloquência | B2
+Piece of cake | Pís óv quêik | Algo muito fácil de realizar | Eloquência | A2
+Bite the bullet | Báit dê bú-let | Encarar uma situação difícil com coragem | Eloquência | C1
+Jump on the bandwagon | Djâmp ón dê bénd-ué-gon | Seguir uma tendência popular | Eloquência | B2
+Back to the drawing board | Bék tu dê dró-in bórd | Recomeçar do zero após um fracasso | Eloquência | B2
+Barking up the wrong tree | Bár-king âp dê rông trí | Seguir uma pista ou suposição errada | Eloquência | B1
+Best of both worlds | Bést óv bôuf uôrlds | O melhor de dois cenários diferentes | Eloquência | B2
+Blessing in disguise | Blé-ssing in dís-gáiz | Um mal que vem para o bem | Eloquência | C1
+In a nutshell | In a nât-shél | Em resumo / De forma resumida | Eloquência | B1
+Read between the lines | Ríd bi-tuín dê láins | Ler nas entrelinhas / Perceber o implícito | Eloquência | C1
+Steal someone's thunder | Stíl sâm-uãns fân-der | Roubar o protagonismo de alguém | Eloquência | C2
+Under the weather | Ân-der dê ué-der | Sentir-se um pouco doente / indisposto | Eloquência | B1
+
+// MÓDULO: PROVA DE VINHOS (WINE TASTING)
+This wine has a great body | Dís uáin réz a grêit bó-di | Este vinho tem uma excelente estrutura / corpo | Vinhos | B2
+Notes of oak and vanilla | Nôuts óv ôuk ênd va-ní-la | Notas de carvalho e baunilha | Vinhos | C1
+A dry red wine | A drái réd uáin | Um vinho tinto seco | Vinhos | B1
+Sweet and fruity | Suít ênd frú-ti | Doce e frutado | Vinhos | A2
+High tannins | Rái té-nins | Taninos altos (sensação de secura na boca) | Vinhos | C1
+Crisp and refreshing | Crísp ênd ri-fré-shing | Fresco e refrescante (geralmente vinhos brancos) | Vinhos | B2
+The finish is long | Dê fí-nish iz lóng | O final de boca é prolongado | Vinhos | C1
+Vintage year | Vín-têidj í-ar | Ano de colheita / Safra especial | Vinhos | B2
+Pairing with red meat | Pé-ring uif réd mít | Harmonização com carne vermelha | Vinhos | B1
+Let the wine breathe | Lét dê uáin bríf | Deixar o vinho arejar / respirar | Vinhos | B2
+Full-bodied Cabernet | Fúl-bó-did ca-ber-né | Um Cabernet encorpado | Vinhos | C1
+Sommelier's choice | So-me-li-êis tchóis | Escolha do escanção / sommelier | Vinhos | C1
+
+// MÓDULO: GASTRONOMIA & CULINÁRIA (FINE DINING)
+A savory dish | A sêi-vo-ri dísh | Um prato salgado / saboroso | Gastronomia | B1
+Sautéed vegetables | Sô-têid vé-dje-ta-bols | Vegetais salteados | Gastronomia | B2
+Slow-cooked brisket | Slôu-cúct brís-ket | Peito de boi cozinhado lentamente | Gastronomia | B2
+Al dente pasta | Al dén-ti pás-ta | Massa ao ponto (firme) | Gastronomia | B1
+Seasoned with herbs | Sí-zond uif rêrbs | Temperado com ervas | Gastronomia | B1
+Chef's signature dish | Tchéfs síg-na-tchar dísh | Prato de assinatura do chef | Gastronomia | C1
+A hint of spice | A rínt óv spáis | Um toque / leve sabor de especiarias | Gastronomia | B1
+Garnish with parsley | Gár-nish uif párs-li | Guarnecer com salsa | Gastronomia | B2
+Decadent dessert | Dé-ca-dent di-zêrt | Sobremesa rica / indulgente | Gastronomia | C1
+Melt-in-your-mouth | Mélt-in-iór-máuf | Derrete na boca | Gastronomia | B1
+Farm-to-table | Fárm-tu-têi-bol | Do produtor para a mesa (fresco) | Gastronomia | C1
+
+// MÓDULO: FAST NATIVE PHRASES (RESTAURANTE)
+Can we start with some appetizers? | K'nui-stárt-uif-sâm-A-pe-tái-zers? | Podemos começar com umas entradas? | Restaurante | B1
+Is the tip included? | Íz-de-TÍP-in-clú-ded? | A gorjeta está incluída? | Restaurante | B1
+I'd like my steak medium-rare | Aid-láik-mai-stêik-MÍ-di-um-RÉR | Gostaria do bife malpassado para o ponto | Restaurante | B2
+Everything was top-notch | É-vri-fín-uóz-tóp-NÓTCH | Estava tudo excelente / de primeira | Restaurante | C1
+The service was impeccable | De-SÊR-vi-suóz-im-PÉ-ca-bol | O serviço foi impecável | Restaurante | C1
+Compliments to the chef | Cóm-pli-ments-tu-de-TCHÉF | Elogios ao chef | Restaurante | B1
+
+
+// MÓDULO: COM OS PAIS (PARENTS - MOM & DAD)
+How are you feeling today? | Rau-ariu-FÍ-lin-tu-DÊI? | Como vocês estão se sentindo hoje? | Família | A2
+Do you need anything from the store? | D'iu-NÍD-é-ni-fín-frâm-de-STÓR? | Vocês precisam de algo da loja/mercado? | Família | B1
+I'll come visit you this weekend | Áil-câm-VÍ-zi-tchiu-dís-uí-KÉND | Vou visitar vocês este fim de semana | Família | A2
+Thanks for everything, Mom | Fénks-fôr-É-vri-fín, MÓM | Obrigado por tudo, mãe | Família | A1
+Dad, can you give me some advice? | DÉD, k'niu-GUÍ-mi-sâm-ad-VÁIS? | Pai, você pode me dar um conselho? | Família | B2
+Let me help you with that | LÉ-mi-RÉLP-iu-uif-DÉT | Deixa eu te ajudar com isso | Família | B1
+How was your doctor's appointment? | Rau-uóz-ior-DÓK-tôrs-a-PÓINT-ment? | Como foi sua consulta médica? | Família | B2
+I love you guys | Ai-LÂ-viu-GÁIZ | Amo vocês | Família | A1
+Is everything okay at home? | Iz-É-vri-fín-ôu-KÊI-at-RÔM? | Está tudo bem em casa? | Família | A2
+
+// MÓDULO: COM O IRMÃO (BROTHER / BRO)
+What's up, man? | Uá-tsâp-MÉN? | E aí, cara? | Família | A1
+You wanna hang out later? | Iu-UÓ-na-rén-GÁUT-lêi-ra? | Quer dar um rolê mais tarde? | Família | B1
+Did you see the game last night? | DÍ-dja-SÍ-de-GUÊIM-lást-NÁIT? | Você viu o jogo ontem à noite? | Família | B1
+Stop bothering me! | STÓP-BÁ-vring-mi! | Para de me amolar/encher! | Família | B1
+Can I borrow your...? | K'nai-BÓ-rôu-ior...? | Posso pegar emprestado seu/sua...? | Família | B1
+You're late as usual | Iúr-LÊI-ré-ziú-ju-al | Você está atrasado como sempre | Família | B2
+Don't tell Mom about this | DÔUNT-tél-MÓM-a-báu-rís | Não conta isso pra mãe | Família | B2
+That's my bro! | Déts-mai-BRÔ! | Esse é meu irmão! (Orgulho) | Família | A2
+We used to do that all the time | Ui-iús-tu-DÚ-dét-ól-de-TÁIM | A gente fazia isso o tempo todo | Família | B2
+
+// MÓDULO: COM A SOBRINHA (NIECE)
+How's school going, sweetie? | Rau-SKÚL-GÔ-in, SUÍ-ri? | Como vai a escola, docinho/querida? | Família | B1
+You're getting so big! | Iúr-GUÉ-rin-sô-BÍG! | Você está ficando tão grande! | Família | A2
+Do you want to play a game? | D'iu-UÓ-na-PLÊI-a-GUÊIM? | Você quer brincar/jogar algo? | Família | A2
+What's your favorite cartoon? | Uá-tsior-FÊI-vri-car-TÚN? | Qual o seu desenho favorito? | Família | A2
+Uncle Samuel is here! | ÂN-col-SÉ-miu-ôu-iz-Í-ar! | O tio Samuel está aqui! | Família | A1
+High five! | RÁI-FÁIV! | Toca aqui! (Mão espalmada) | Família | A1
+You're so smart! | Iúr-sô-SMÁRT! | Você é tão esperta! | Família | A1
+Give me a hug | GUÍ-mi-a-RÂG | Me dá um abraço | Família | A1
+What do you want to be when you grow up? | Uá-tcha-UÓ-na-BÍ-uén-iu-GRÔU-âp? | O que você quer ser quando crescer? | Família | B1
+
+// MÓDULO: MOMENTOS DE REFEIÇÃO EM FAMÍLIA (DINNER TIME)
+Pass me the salt, please | PÁS-mi-de-SÓLT-plíz | Passa o sal, por favor | Família | A1
+This food is amazing! | Dís-FÚ-diz-a-MÊI-zin! | Esta comida está incrível! | Família | A2
+Who wants dessert? | RÚ-uónts-di-ZÊRT? | Quem quer sobremesa? | Família | B1
+Let's take a family photo | Léts-TÊI-ka-FÉ-m-li-FÔ-rou | Vamos tirar uma foto em família | Família | A2
+I'll do the dishes tonight | Áil-DÚ-de-DÍ-shiz-tu-NÁIT | Eu lavo a louça hoje à noite | Família | B1
+
+
+// MÓDULO: NO UBER / TÁXI (THE RIDE)
+Where are you at? | Uér-iú-ÉT? | Onde você está? (O motorista ligando) | Uber | A2
+I'll be there in five | Ái-bi-dê-rin-FÁIV | Chego aí em cinco minutos | Uber | B1
+Are you taking the freeway? | Ar-iu-TÊI-kin-de-FRÍ-uêi? | Você vai pela rodovia/via rápida? | Uber | B2
+Can you turn up the AC? | K'ni-têr-NÂP-di-êi-SÍ? | Pode aumentar o ar condicionado? | Uber | B1
+Can you turn down the radio? | K'ni-têr-DÁUN-de-RÊI-di-ôu? | Pode baixar o rádio? | Uber | B1
+How's the traffic looking? | Rau-zde-TRÁ-fi-klú-kin? | Como está o trânsito? | Uber | B1
+You can drop me off here | Iu-k'n-DRÓ-pi-mí-óf-Í-ar | Pode me deixar aqui | Uber | B2
+Keep the change | KÍP-de-TCHÊINDJ | Fique com o troco | Uber | A2
+I'll give you five stars | Ái-guí-viu-FÁIV-stárs | Vou te dar cinco estrelas | Uber | A2
+Watch out for the bikers | UÁ-tcháut-fôr-de-BÁI-kers | Cuidado com os ciclistas | Uber | B2
+
+// MÓDULO: NO AVIÃO (IN-FLIGHT FLOW)
+Can I squeeze past you? | K'nai-SKUÍ-z-pés-tchiu? | Posso dar uma "espremidinha" pra passar? | Avião | B2
+Mind if I sit here? | MÁIN-di-fai-SÍ-tí-ar? | Se importa se eu sentar aqui? | Avião | B1
+Could I get a blanket? | CÚ-dai-guê-ra-BLÁN-ket? | Poderia me arranjar um cobertor? | Avião | B2
+Chicken or pasta? | TCHÍ-ken-ôr-PÁS-ta? | Frango ou massa? (O que você vai ouvir) | Avião | A1
+I'll go with the chicken | Ái-gô-uif-de-TCHÍ-ken | Vou de frango | Avião | A2
+Can I have some water, please? | K'nai-rá-v-sâm-UÓ-ra-plíz? | Pode me dar um pouco de água, por favor? | Avião | A2
+How much longer for the flight? | Rau-mâtch-LÓN-guêr-fôr-de-FLÁIT? | Quanto falta para o voo acabar? | Avião | B1
+My screen isn't working | Mai-SCRÍ-ní-zent-UÔR-kin | Minha tela não está funcionando | Avião | B1
+Can I have an extra pillow? | K'nai-rá-va-néks-tra-PÍ-lôu? | Pode me dar um travesseiro extra? | Avião | B1
+
+// MÓDULO: COM DESCONHECIDOS NA RUA (STREET TALK)
+Excuse me, do you have the time? | SKIÚ-zmi, d'iu-rá-vde-TÁIM? | Licença, você tem horas? | Rua | A1
+Excuse me, am I headed the right way? | SKIÚ-zmi, a-mai-RÉ-ded-de-RÁIT-uêi? | Licença, estou indo pelo caminho certo? | Rua | B2
+Is it far from here? | Í-zit-FÁR-frâm-Í-ar? | É longe daqui? | Rua | A2
+It's just around the corner | Its-djâs-ta-RÁUN-de-CÓR-ner | É logo ali na esquina | Rua | B1
+Do you know where the subway is? | D'iu-NÔU-uér-de-SÂ-buêi-iz? | Sabe onde fica o metrô? | Rua | B1
+I love your shoes! | Ai-LÂ-vior-SHÚ-z! | Amei seus sapatos! (Puxando assunto) | Rua | A2
+Where did you get that? | UÉ-dja-GUÉT-dét? | Onde você comprou isso? | Rua | B1
+Have a good one! | RÁ-va-gú-DUÂN! | Tenha um bom dia! (Muito comum na rua) | Rua | B1
+Sorry, I didn't catch that | SÓ-ri, ai-DÍDNT-ké-tch-DÉT | Desculpe, não entendi/ouvi o que disse | Rua | B2
+Could you take a picture of me? | CÚ-dja-têi-ka-PÍK-tchar-ó-vmi? | Poderia tirar uma foto minha? | Rua | B1
+
+// MÓDULO: PEQUENOS FAVORES & AJUDA (HELP)
+Could you hold the door? | CÚ-dja-RÔULD-de-DÓR? | Pode segurar a porta? | Rua | A2
+Do you mind if I cut in line? | D'iu-MÁIN-di-fai-CÂ-rin-LÁIN? | Se importa se eu passar na frente? | Rua | C1
+I'm in a huge rush | Aim-í-na-RÚ-dj-RÂSH | Estou com muita pressa | Rua | B2
+Can I use your phone for a sec? | K'nai-iúz-ior-FÔUN-fôr-a-SÉK? | Posso usar seu fone por um segundo? | Rua | B2
+Is this seat taken? | Iz-DÍS-sí-t-TÊI-ken? | Este lugar está ocupado? | Rua | B1
+
+// MÓDULO: GÍRIAS E FILLERS DE CONEXÃO
+Like | LÁI-k | Tipo / Sabe... (Palavra de preenchimento) | Rua | B1
+You know what I mean? | Iu-nô-uá-ra-MÍN? | Entende o que eu quero dizer? | Rua | B2
+To be honest | Tu-bi-Ó-nest | Pra ser sincero | Rua | B1
+Anyway | É-ni-uêi | Enfim / De qualquer forma | Rua | A2
+Pretty much | PRÍ-ri-MÂTCH | Praticamente / Basicamente | Rua | B2
+I mean | Ai-MÍN | Quer dizer... | Rua | B1
+Basically | BÊI-si-ca-li | Basicamente | Rua | B1
+
+
+// MÓDULO: ADIÇÃO E CONTINUIDADE (ADDING IDEAS)
+Moreover | môr-ÔU-ver | Além disso / Ademais | Adição | C1
+Furthermore | fêr-der-MÓR | Além do mais / Outrossim | Adição | C1
+In addition | in-a-DÍ-shon | Além disso | Adição | B2
+Also | ÓL-sôu | Também | Adição | A1
+Additionally | a-DÍ-sho-na-li | Adicionalmente | Adição | B2
+As well as | éz-UÉ-léz | Bem como | Adição | B1
+Not to mention | NÓ-tu-MÉN-shon | Sem mencionar | Adição | B2
+What's more | uáts-MÓR | Além disso / O que é mais | Adição | B2
+
+
+
+// MÓDULO: CONTRASTE E OPOSIÇÃO (CONTRASTING)
+However | rau-É-ver | No entanto / Contudo | Contraste | B1
+On the other hand | Ó-nd-Â-der-rénd | Por outro lado | Contraste | B2
+Nevertheless | NÉ-ver-de-LÉS | Todavia / No entanto | Contraste | C1
+Despite that | dis-PÁI-t-DÉT | Apesar disso | Contraste | B2
+In spite of | in-SPÁI-róv | Apesar de | Contraste | C1
+Conversely | cón-VÊRS-li | Por outro lado / Inversamente | Contraste | C2
+Even so | Í-ven-SÔ | Mesmo assim | Contraste | B1
+On the contrary | ón-de-CÓN-tre-ri | Pelo contrário | Contraste | B2
+
+
+
+// MÓDULO: CAUSA E CONSEQUÊNCIA (CAUSE & EFFECT)
+Therefore | DÉR-fór | Portanto / Assim sendo | Causa/Efeito | B2
+Consequently | CÓN-se-kuent-li | Consequentemente | Causa/Efeito | C1
+As a result | É-za-ri-ZÂLT | Como resultado | Causa/Efeito | B2
+For this reason | fôr-DÍS-rí-zon | Por esta razão | Causa/Efeito | B1
+Due to | DÚ-tu | Devido a | Causa/Efeito | B2
+Since | SÍNS | Já que / Visto que | Causa/Efeito | A2
+Thus | DÂS | Desta forma / Assim | Causa/Efeito | C1
+Hence | RÉNS | Daí / Por conseguinte | Causa/Efeito | C2
+
+
+
+// MÓDULO: SEQUÊNCIA E ORDEM (SEQUENCING)
+First of all | FÊRS-ta-vól | Em primeiro lugar | Sequência | A2
+To begin with | tu-bi-GUÍN-uif | Para começar | Sequência | B1
+Secondly | SÉ-cond-li | Em segundo lugar | Sequência | B1
+Next | NÉKST | A seguir | Sequência | A1
+Then | DÉN | Então / Depois | Sequência | A1
+Meanwhile | MÍN-uáil | Enquanto isso | Sequência | B2
+Simultaneously | sái-mol-TÊI-ni-os-li | Simultaneamente | Sequência | C2
+Finally | FÁI-na-li | Finalmente / Por fim | Sequência | A2
+
+
+
+// MÓDULO: ILUSTRAÇÃO E ÊNFASE (ILLUSTRATION & EMPHASIS)
+For instance | fôr-ÍNS-tans | Por exemplo | Ilustração | B2
+For example | fôr-eg-ZÁM-pol | Por exemplo | Ilustração | A1
+In fact | in-FÉKT | De facto / Na verdade | Ênfase | B1
+Indeed | in-DÍD | De facto / Sem dúvida | Ênfase | C1
+Specifically | spe-SÍ-fi-ca-li | Especificamente | Ilustração | B2
+Notably | NÔU-ta-bli | Notavelmente | Ênfase | C2
+To illustrate | tu-Í-las-trêit | Para ilustrar | Ilustração | C1
+Above all | a-BÂ-vól | Acima de tudo | Ênfase | B2
+
+
+
+// MÓDULO: CONCLUSÃO E RESUMO (CONCLUDING)
+In conclusion | in-con-CLÚ-shon | Em conclusão | Conclusão | B2
+To sum up | tu-SÂ-mâp | Para resumir | Conclusão | B2
+Overall | ÔU-ver-ól | No geral | Conclusão | B1
+All in all | Ó-li-NÓL | No fim de contas / No geral | Conclusão | B2
+Basically | BÊI-si-ca-li | Basicamente | Conclusão | B1
+In a nutshell | in-a-NÂT-shél | Em resumo | Conclusão | B2
+To wrap up | tu-RÉP-âp | Para encerrar | Conclusão | B1
+Ultimately | ÂL-ti-met-li | Em última análise / No final das contas | Conclusão | C1
+
+
+
+// MÓDULO: FAST ENGLISH TRANSITIONS (CONNECTED FLOW)
+First off | FÊRS-tóf | Para começar | Fast English | B1
+In a way | in-a-UÊI | De certa forma | Fast English | B1
+Kind of | KÁIN-da | Meio que | Fast English | B1
+More or less | MÓ-ra-LÉS | Mais ou menos | Fast English | A2
+On top of that | ón-TÓ-pav-DÉT | Além de tudo isso | Fast English | B2
+As far as I know | é-z-FÁ-ra-zai-NÔU | Pelo que eu saiba | Fast English | B2
+At the end of the day | é-di-ÉND-ov-de-DÊI | No fim de contas | Fast English | B2
+
+
+// MÓDULO: TI & DESENVOLVIMENTO (CORE)
+Frontend | Frónt-énd | Interface do utilizador | TI/Tech | B1
+Backend | Bék-énd | Lógica do servidor e base de dados | TI/Tech | B1
+Framework | Frêim-uôrk | Conjunto de ferramentas pré-moldadas | TI/Tech | B2
+API | Ei-Pí-Ái | Interface de programação de aplicações | TI/Tech | B2
+Sandbox | Sênd-bóks | Ambiente de teste isolado | TI/Tech | B2
+Deployment | Di-plói-ment | Implantação de código em produção | TI/Tech | B2
+Repository | Ri-pó-zi-tó-ri | Local de armazenamento de código | TI/Tech | B1
+Pull Request | Púl Ri-kuést | Solicitação para fundir código | TI/Tech | B2
+Code Review | Côud Ri-viú | Revisão de código por pares | TI/Tech | B1
+Debugging | Di-bâ-guing | Processo de encontrar e corrigir erros | TI/Tech | B1
+Latency | Lêi-ten-si | Atraso na resposta da rede | TI/Tech | B2
+Encryption | En-críp-shon | Cifragem de dados para segurança | TI/Tech | C1
+Scalability | Scêi-la-bí-li-ti | Capacidade de crescimento do sistema | TI/Tech | C1
+Redundancy | Ri-dân-dan-si | Duplicação de sistemas por segurança | TI/Tech | C1
+Legacy System | Lé-ga-si Sís-tem | Sistema antigo ainda em uso | TI/Tech | B2
+Full Stack | Fúl Sték | Desenvolvedor que actua em todas as frentes | TI/Tech | B1
+Hard Drive | Rárd Dráiv | Disco rígido | TI/Tech | A2
+Throughput | Frú-pút | Taxa de transferência de dados | TI/Tech | C1
+Firewall | Fái-er-uôl | Barreira de segurança de rede | TI/Tech | B1
+
+// MÓDULO: FISCO, AUDITORIA & ECONOMIAVAT 
+(Value Added Tax) | Ví-Ei-Tí | Imposto sobre o Valor Acrescentado (IVA) | Fisco | B2
+Income Tax | Ín-câm Téks | Imposto de rendimento | Fisco | B2
+Compliance | Com-plái-ans | Conformidade com leis e normas | Fisco | C1
+Asset | Á-set | Ativo / Bem de valor | Fisco | B2
+Liability | Lai-a-bí-li-ti | Passivo / Obrigações financeiras | Fisco | C1
+Equity | É-kwi-ti | Capital próprio / Património líquido | Fisco | C1
+Auditing | Ó-di-ting | Processo de fiscalização contabilística | Fisco | B2
+Tax Evasion | Téks I-vêi-shon | Evasão / Fuga fiscal (Ilegal) | Fisco | C1
+Tax Avoidance | Téks A-vói-dans | Elisão fiscal (Legal) | Fisco | C1
+Internal Revenue Service | In-têr-nal Ré-ve-niu Sêr-vis | Receita Federal (Órgão) | Fisco | C1
+Ledger | Lé-djer | Livro razão / Registro de contas | Fisco | C1
+Balance Sheet | Bé-lans Shít | Balanço patrimonial | Fisco | B2
+Profit and Loss (P&L) | Pró-fit ênd Lós | Demonstração de resultados | Fisco | B2
+Tax Bracket | Téks Bré-ket | Faixa de tributação | Fisco | B2
+Withholding Tax | Uif-rôul-ding Téks | Imposto retido na fonte | Fisco | C1
+Fiscal Year | Fís-cal Í-ar | Ano fiscal / exercício | Fisco | B2
+
+// MÓDULO: CONSTRUÇÃO CIVIL & ENGENHARIA
+Reinforced Concrete | Ri-in-fórs-t Cón-crit | Betão armado | Obras | B2
+Foundation | Fáun-dêi-shon | Alicerce / Fundação | Obras | B1
+Scaffolding | Scé-fôl-ding | Andaimes | Obras | B2
+Crane | Crêin | Guindaste | Obras | A2
+Insulation | In-su-lêi-shon | Isolamento térmico ou acústico | Obras | B2
+Mortar | Mór-tar | Argamassa | Obras | B2
+Drywall | Drái-uôl | Gesso cartonado | Obras | B1
+Beams | Bíms | Vigas de sustentação | Obras | B2
+Columns | Có-lâms | Pilares / Colunas | Obras | B1
+Site Manager | Sáit Mé-nadj-er | Gestor de obra / Estaleiro | Obras | B1
+Building Codes | Bíl-ding Côuds | Normas de construção | Obras | C1
+Safety Goggles | Sêif-ti Gó-guels | Óculos de proteção | Obras | A2
+Blueprint | Blú-print | Desenho técnico / Planta | Obras | B1
+
+// MÓDULO: EXECUTIVO & NEGOCIAÇÃO (C1+)
+Bottom Line | Bó-tom Láin | Resultado líquido / O que importa | Executivo | C1
+Takeaway | Têi-ka-uêi | Ponto principal para levar da reunião | Executivo | B2
+Stakeholder | Stêik-rôul-der | Parte interessada no projecto | Executivo | C1
+Milestone | Máil-stôun | Marco importante ou etapa | Executivo | B2
+Outsource | Áut-sórs | Terceirizar serviços | Executivo | B1
+Benchmark | Béntch-márk | Referência de mercado | Executivo | C1
+Brainstorm | Brêin-stórm | Torneio de ideias | Executivo | B1
+Niche Market | Nítch Már-ket | Mercado de nicho | Executivo | B2
+Core Competency | Cór Com-pé-ten-si | Competência principal da empresa | Executivo | C1
+Empowerment | Em-páu-er-ment | Autonomia para decidir | Executivo | C1
+Scalable | Scêi-la-bol | Escalável / Que pode crescer | Executivo | B2
+
+// MÓDULO: PHRASAL VERBS PROFISSIONAIS
+Follow up | Fó-lou âp | Dar continuidade a um contacto | Gramática | B1
+Call off | Cól óf | Cancelar um evento ou reunião | Gramática | B2
+Look into | Lúk ín-tu | Investigar um problema ou erro | Gramática | B2
+Run out of | Rân áut óv | Ficar sem (tempo, dinheiro, stock) | Gramática | B1
+Back down | Bék dáun | Ceder numa negociação | Gramática | C1
+Bring up | Bríng âp | Mencionar um assunto em reunião | Gramática | B1
+Carry out | Ké-ri áut | Executar uma tarefa ou plano | Gramática | B2
+Set up | Sét âp | Configurar ou organizar algo | Gramática | B1
+
+// MÓDULO: VIAGEM & EMERGÊNCIAS
+Boarding Pass | Bór-ding Pés | Cartão de embarque | Viagem | A2
+Customs | Câs-toms | Alfândega | Viagem | B1
+Baggage Claim | Bé-guêidj Clêim | Recolha de bagagem | Viagem | A2
+Delayed | Di-lêid | Atrasado | Viagem | A2
+Cancelled | Cén-seld | Cancelado | Viagem | A2
+Layover | Lêi-ôu-ver | Escala / Conexão longa | Viagem | B1
+Car Rental | Cár Rén-tal | Aluguer de viaturas | Viagem | B1
+Shuttle | Shâ-tol | Transporte de curta distância (Transfer) | Viagem | B1
+Insurance | In-shú-rans | Seguro (Saúde, Carro, etc.) | Viagem | B2
+
+// ADICIONE MAIS LINHAS ABAIXO SEGUINDO O PADRÃO
+
+
+// MÓDULO: COOL & APPROVAL (ALGO PORREIRO/LEGAL)
+That's fire | Déts-FÁI-ar | Isso é incrível / Está "top" | Gírias | B1
+That's lit | Déts-LÍT | Está muito animado / Excelente | Gírias | B1
+Sick | SÍK | Brutal / Incrível (sentido positivo) | Gírias | B1
+Gucci | GÚ-tchi | Está tudo bem / Tudo ótimo | Gírias | B2
+Dope | DÔUP | Excelente / Fixe / Legal | Gírias | A2
+Goat | GÔUT | O melhor de todos os tempos (Greatest Of All Time) | Gírias | C1
+Savage | SÉ-vedj | Alguém destemido / Resposta "na lata" | Gírias | B2
+Clutch | CLÂTCH | Fazer algo crucial no momento certo | Gírias | C1
+
+
+
+// MÓDULO: SOCIAL DYNAMICS (DINÂMICA SOCIAL)
+Homie | RÔ-mi | Amigo chegado / Parceiro | Gírias | A2
+Day one | DÊI-uân | Amigo de longa data (desde o primeiro dia) | Gírias | B2
+Ghosting | GÔS-tin | Desaparecer / Parar de responder (vácuo) | Gírias | B1
+Flake | FLÊIK | Pessoa que fura planos / pouco fiável | Gírias | B2
+Low key | LÔU-kí | Algo discreto / "Na minha" | Gírias | B1
+High key | RÁI-kí | Algo óbvio / Claramente | Gírias | B2
+Tea | TÍ | Fofoca / O "babado" | Gírias | B1
+Shady | SHÊI-di | Suspeito / Alguém que não inspira confiança | Gírias | B1
+Salty | SÓL-ti | Estar amargo / Chateado por pouco | Gírias | B2
+
+
+
+// MÓDULO: MONEY & GRIND (DINHEIRO E TRABALHO)
+Hustle | RÂ-sol | Esforço / Trabalhar duro para vencer | Gírias | B1
+Chasing the bag | TCHÊI-sin-de-BÉG | Atrás do dinheiro / Focado em lucrar | Gírias | C1
+Stacks | STÉKS | Grandes quantias de dinheiro (maços) | Gírias | B2
+Grand | GRÉND | Mil dólares/libras | Gírias | B1
+Bucks | BÂKS | Dólares (Moeda) | Gírias | A2
+Broke | BRÔUK | Falido / Sem dinheiro | Gírias | A2
+Ballin' | BÓ-lin | Viver luxuosamente / Estar por cima | Gírias | B2
+Bread / Dough | BRÉD / DÔU | Dinheiro (Gíria comum) | Gírias | B1
+
+
+
+// MÓDULO: TRUTH & REALNESS (VERDADE E REALIDADE)
+No cap | Nô-KÉP | Sem mentira / É verdade | Gírias | B2
+For real? | Fôr-RÍ-ol? | É sério? / A sério? | Gírias | A2
+Facts | FÉKTS | Verdade absoluta / Concordo plenamente | Gírias | B1
+Keep it 100 | KÍ-pit-uân-RÂN-dred | Ser 100% real / honesto | Gírias | C1
+Real talk | RÍ-ol-TÓK | Conversa séria / papo reto | Gírias | B2
+Period | PÍ-ri-od | Ponto final (fim de discussão) | Gírias | B1
+I'm dead | Aim-DÉD | Estou a rir-me muito / "Morri" de rir | Gírias | B1
+
+
+
+// MÓDULO: FAST ENGLISH - STREET STYLE (FALA ATROPELADA)
+Watcha doin'? | UÁ-tcha-DÚ-in? | O que estás a fazer? | Fast English | B1
+I'mma... | Á-ma... | Eu vou... (I am going to) | Fast English | B1
+Finna | FÍ-na | Vou fazer algo agora (Fixing to) | Fast English | C1
+Gotta run | GÓ-ra-RÂN | Tenho de fugir / ir embora | Fast English | A2
+Whassup? | Uá-SÂP? | E aí? / Como é? | Fast English | A1
+Bet | BÉT | Combinado / Com certeza | Fast English | B1
+Word | UÊRD | Concordo / É isso mesmo | Fast English | B2
+My bad | Mai-BÉD | Foi mal / Erro meu | Fast English | A2
+Chill out | TCHÍ-láut | Relaxa / Calma | Fast English | B1
+Cut it out | CÂ-ri-RÁUT | Pára com isso / Corta essa | Fast English | B2
+
+
+// MÓDULO: CAFÉ DA MANHÃ (BREAKFAST & COFFEE SHOP)
+Can I get a large latte? | K'nai-gué-ra-lárdj-LÁ-rei? | Pode me dar um latte grande? | Café da Manhã | A2
+To go, please | Tu-GÔU-plíz | Para levar, por favor | Café da Manhã | A1
+I'll have the scrambled eggs | Áil-rá-vde-SCRÉM-bold-égs | Vou querer os ovos mexidos | Café da Manhã | B1
+Does it come with toast? | Dâ-zit-CÂM-uif-tôust? | Acompanha torrada? | Café da Manhã | A2
+A croissant, please | A-cruá-SÓN-plíz | Um croissant, por favor | Café da Manhã | A1
+No sugar for me | Nô-SHÚ-gar-fôr-mi | Sem açúcar para mim | Café da Manhã | A1
+With skim milk, please | Uif-SKÍ-míuk-plíz | Com leite desnatado, por favor | Café da Manhã | B1
+Is there a seat over there? | Iz-dê-ra-SÍ-rôu-ver-dêr? | Tem um lugar ali? | Café da Manhã | B1
+Just a black coffee | Djâs-ta-BLÉK-có-fi | Apenas um café preto | Café da Manhã | A1
+Can I have a refill? | K'nai-rá-va-RÍ-fíu? | Pode me dar um refil? | Café da Manhã | B1
+
+// MÓDULO: ALMOÇO E RESTAURANTE (LUNCH & DINING)
+A table for two, please | A-TÊI-bol-fôr-TÚ-plíz | Uma mesa para dois, por favor | Restaurante | A1
+I have a reservation | Ái-RÁ-va-re-zer-VÊI-shon | Eu tenho uma reserva | Restaurante | B1
+We're not ready to order yet | Uir-NÓ-ré-ri-tu-ÓR-der-iét | Ainda não estamos prontos para pedir | Restaurante | B1
+What do you recommend? | Uá-tcha-RE-co-ménd? | O que você recomenda? | Restaurante | B2
+I'll have the same as him | Áil-rá-vde-SÊI-mé-zim | Vou querer o mesmo que ele | Restaurante | B2
+Can we have the bill, please? | K'nui-rá-vde-BÍU-plíz? | Pode nos trazer a conta? | Restaurante | A2
+Is service included? | Iz-SÊR-vi-sin-CLÚ-ded? | O serviço está incluso? | Restaurante | B1
+Where are the restrooms? | UÉ-rar-de-RÉST-rúms? | Onde ficam os banheiros? | Restaurante | A1
+I'm allergic to peanuts | Aim-a-LÊR-dji-ki-tu-PÍ-nâts | Sou alérgico a amendoim | Restaurante | B2
+The food was delicious | De-FÚ-d-uóz-de-LÍ-shas | A comida estava deliciosa | Restaurante | A2
+
+// MÓDULO: HOTELARIA E CHECK-IN (HOTEL & SERVICES)
+I'm checking in | Aim-TCHÉ-ki-nín | Estou fazendo o check-in | Hotel | A2
+Is breakfast included? | Iz-BRÉ-kfas-tin-CLÚ-ded? | O café da manhã está incluso? | Hotel | B1
+What time is check-out? | Uá-TÁI-miz-TCHÉ-káut? | Que horas é o check-out? | Hotel | A2
+Can I have an extra towel? | K'nai-rá-va-néks-tra-TÁU-ol? | Pode me dar uma toalha extra? | Hotel | B1
+The Wi-Fi isn't working | De-UÁI-fái-Í-zent-uôr-kin | O Wi-Fi não está funcionando | Hotel | B1
+Can you call me a taxi? | Kén-iu-CÓ-mi-a-TÉK-si? | Pode me chamar um táxi? | Hotel | A2
+I'd like to leave a message | Aid-LÁIK-tu-LÍ-va-mé-sedj | Gostaria de deixar uma mensagem | Hotel | B2
+Is there a gym here? | Iz-dê-ra-DJÍ-mí-ar? | Tem academia aqui? | Hotel | B1
+The AC is too cold | Di-ÊI-SÍ-iz-tú-côuld | O ar condicionado está gelado demais | Hotel | B1
+I'd like to check out | Aid-LÁIK-tu-TCHÉ-káut | Gostaria de fazer o check-out | Hotel | A2
+
+// MÓDULO: FAST ENGLISH EM MOVIMENTO (TRANSPORT)
+Where can I find a cab? | UÉR-k'nai-fáin-da-KÉB? | Onde encontro um táxi? | Viagem | B1
+How much to the airport? | Ráu-MÂ-tch-tu-di-ÉR-pórt? | Quanto para o aeroporto? | Viagem | B1
+Is this the right gate? | Iz-DÍS-de-ráit-GUÊIT? | Este é o portão certo? | Viagem | A2
+I've lost my luggage | Áiv-LÓS-mai-LÂ-guêidj | Perdi minha bagagem | Viagem | B2
+My flight was delayed | Mai-FLÁI-t-uóz-di-LÊID | Meu voo atrasou | Viagem | B1
+Keep the change | KÍP-de-TCHÊINDJ | Fique com o troco | Viagem | A2
+Can you take a photo of us? | Ké-niu-TÊI-ka-FÔ-rou-ó-vâs? | Pode tirar uma foto nossa? | Viagem | A2
+
+
+// MÓDULO: GESTÃO DE CRISES (CRISIS MANAGEMENT & PR)
+Damage control | Dá-madj con-trôul | Controlo de danos | Crise | C1
+Spin the narrative | Spín dê ná-ra-tiv | Mudar a perspectiva da história (RP) | Crise | C2
+Public Relations (PR) stunt | Pâ-blic ri-lêi-shons stânt | Jogada de marketing / relações públicas | Crise | B2
+Press release | Prés ri-lís | Comunicado de imprensa | Crise | B1
+Accountability | A-cáun-ta-bí-li-ti | Prestação de contas / Responsabilidade | Crise | C1
+Mitigate the fallout | Mí-ti-guêit dê fá-láut | Mitigar as consequências negativas | Crise | C2
+Transparecy is paramount | Trans-pé-ren-si iz pá-ra-máunt | A transparência é primordial | Crise | C1
+Issue a formal apology | Í-shu a fór-mal a-pó-lo-dji | Emitir um pedido de desculpas formal | Crise | B2
+Fact-checking | Fékt-tché-king | Verificação de factos | Crise | B1
+Weather the storm | Ué-der dê stórm | Aguentar a tempestade (fase difícil) | Crise | C1
+
+// MÓDULO: ORATÓRIA & PALESTRAS (PUBLIC SPEAKING)
+Opening hook | Ôu-pe-ning rúk | Gancho de abertura (para prender a atenção) | Oratória | B2
+Keynote speaker | Kí-nôut spí-ker | Orador principal / de destaque | Oratória | C1
+Engage the audience | En-guêidj di ó-di-ens | Envolver o público | Oratória | B2
+Call to action (CTA) | Cól tu ác-shon | Chamada para a ação | Oratória | B1
+Wrap up | Rép âp | Concluir / Finalizar | Oratória | B1
+Transitioning to Q&A | Tran-zí-sho-ning tu kiú-énd-êi | Passando para perguntas e respostas | Oratória | B2
+Thought-provoking | Fót-pro-vô-king | Que faz pensar / Instigante | Oratória | C1
+Captivate the room | Cáp-ti-vêit dê rúm | Cativar a sala | Oratória | C1
+Visual aids | Ví-ju-al êids | Recursos visuais (slides, etc.) | Oratória | B1
+
+// MÓDULO: MACROECONOMIA & GEOPOLÍTICA (GLOBAL CONTEXT)
+Emerging markets | E-mêr-djing már-kets | Mercados emergentes | Economia | B2
+Trade deficit | Trêid dé-fi-sit | Défice comercial | Economia | C1
+Bull market | Búl már-ket | Mercado em alta (optimista) | Economia | B2
+Bear market | Bér már-ket | Mercado em baixa (pessimista) | Economia | B2
+Gross Domestic Product (GDP) | Djí-dí-pí | Produto Interno Bruto (PIB) | Economia | B2
+Fiscal austerity | Fís-cal ós-té-ri-ti | Austeridade fiscal | Economia | C2
+Supply and demand | Sa-plái ênd di-mánd | Oferta e procura | Economia | B1
+Interest rates hike | Ín-trest rêits ráik | Aumento das taxas de juro | Economia | C1
+Trade barriers | Trêid bé-ri-ers | Barreiras comerciais | Economia | B2
+
+// MÓDULO: BIOHACKING & ALTA PERFORMANCE (PERFORMANCE)
+Flow state | Flôu stêit | Estado de fluxo (foco total) | Performance | C1
+Circadian rhythm | Sêr-kêi-di-an rí-fom | Ritmo circadiano (relógio biológico) | Performance | C1
+Cognitive load | Cóg-ni-tiv lôud | Carga cognitiva | Performance | C2
+Intermittent fasting | In-ter-mí-tent fás-ting | Jejum intermitente | Performance | B1
+Sleep hygiene | Slíp ráidj-ín | Higiene do sono | Performance | B2
+Dopamine detox | Dô-pa-mín dí-tóks | Desintoxicação de dopamina | Performance | C1
+Core habits | Cór ré-bits | Hábitos fundamentais | Performance | B1
+Deep work | Díp uôrk | Trabalho profundo / focado | Performance | C1
+Longevity | Lon-djé-vi-ti | Longevidade | Performance | B2
+
+// PHRASAL VERBS EXECUTIVOS (ADVANCED)
+Pencil in | Pén-sil ín | Agendar provisoriamente | Executivo | B2
+Iron out | Ái-ron áut | Resolver detalhes / Ajustar | Executivo | C1
+Gear up | Guí-ar âp | Preparar-se para algo | Executivo | B1
+Brush up on | Brâsh âp ón | Reciclar / Praticar algo esquecido | Executivo | B1
+Zero in on | Zí-rôu ín ón | Focar intensamente num ponto | Executivo | C1
+Closer look | Clô-zer lúk | Olhar mais atento / detalhado | Executivo | B1
+Stand out | Sténd áut | Destacar-se | Executivo | B1
+Keep up with | Kíp âp uif | Acompanhar o ritmo de | Executivo | B2
+
+// FAST ENGLISH: INFLUÊNCIA E PODER
+It's a win-win | Í-tsa-UÍN-uín | É uma situação onde todos ganham | Fast English | B1
+Bottom line is... | BÓ-tom-lái-niz... | O que importa no final é... | Fast English | B2
+Give me a heads-up | GUÍ-mi-a-RÉ-dsâp | Dá-me um aviso prévio | Fast English | B2
+Think big | FÍNK-bíg | Pense grande | Fast English | A1
+Make it happen | MÊI-kit-RÉ-pen | Faça acontecer | Fast English | B1
+Cut the small talk | CÂT-de-SMÓL-tók | Corta a conversa fiada | Fast English | B2
+
+
+// MÓDULO: INGLÊS JURÍDICO - CONTRATOS (LEGAL ENGLISH)
+Non-disclosure Agreement (NDA) | Nón-dis-clô-jur a-grí-ment | Acordo de Confidencialidade | Jurídico | C1
+Indemnification | In-dém-ni-fi-kêi-shon | Indemnização / Ressarcimento | Jurídico | C1
+Termination Clause | Ter-mi-nêi-shon clóz | Cláusula de rescisão | Jurídico | B2
+Force Majeure | Fórs Ma-jêr | Força maior (eventos imprevisíveis) | Jurídico | C2
+Boilerplate | Bói-ler-plêit | Cláusulas padrão / modelos fixos | Jurídico | C1
+Intellectual Property (IP) | In-te-léc-tchu-al pró-per-ti | Propriedade Intelectual | Jurídico | B2
+Liability Limitation | Lai-a-bí-li-ti li-mi-têi-shon | Limitação de responsabilidade | Jurídico | C1
+Governing Law | Gâ-ver-ning Ló | Lei regente / Jurisdição aplicável | Jurídico | C1
+Binding Agreement | Báin-ding a-grí-ment | Acordo vinculativo | Jurídico | B2
+Waiver | Uêi-ver | Renúncia de direito / Dispensa | Jurídico | C2
+Assignment | A-sáin-ment | Cessão de direitos ou posição contratual | Jurídico | C1
+Breach of Contract | Brítch óv cón-trékt | Quebra de contrato | Jurídico | B2
+In witness whereof | In uít-nes ué-róf | Em testemunho do que (expressão formal) | Jurídico | C2
+Hereinafter | Rí-ar-in-éf-ter | Daqui em diante / Doravante | Jurídico | C2
+Whereas | Uér-éz | Considerando que (introdução de contrato) | Jurídico | C2
+Arbitration Clause | Ar-bi-trêi-shon clóz | Cláusula de arbitragem | Jurídico | C1
+Liquidated Damages | Lí-kwi-dêi-ted dá-ma-djes | Perdas e danos prefixados | Jurídico | C2
+Severability | Se-ve-ra-bí-li-ti | Divisibilidade (validade parcial do contrato) | Jurídico | C2
+Confidentiality | Cón-fi-den-shi-á-li-ti | Confidencialidade | Jurídico | B1
+Execution Date | Ek-se-kiú-shon dêit | Data de assinatura/execução | Jurídico | B2
+
+// MÓDULO: PSICOLOGIA DA PERSUASÃO & VENDAS (SALES)
+Value Proposition | Vá-liu pro-po-zí-shon | Proposta de valor | Vendas | B2
+Pain Points | Pêin póints | Pontos de dor (problemas do cliente) | Vendas | B2
+Objection Handling | Ob-djék-shon rén-dling | Gestão de objeções | Vendas | C1
+Social Proof | Sô-shal prúf | Prova social (depoimentos/casos) | Vendas | B2
+Scarcity | Scér-si-ti | Escassez (gatilho mental) | Vendas | C1
+Rapport | Ra-pór | Sintonia / Conexão com o cliente | Vendas | C1
+Closing the deal | Clô-zing dê dí-ol | Fechar o negócio | Vendas | B1
+Upsell | Âp-sél | Venda de um produto/serviço superior | Vendas | B1
+Cross-sell | Crós-sél | Venda de produtos complementares | Vendas | B1
+Lead Nurturing | Líd nâr-tchu-ring | Nutrição de potenciais clientes | Vendas | B2
+Conversion Funnel | Con-vêr-shon fâ-nel | Funil de conversão | Vendas | B2
+Call to Action (CTA) | Cól tu ác-shon | Chamada para ação | Vendas | B1
+Follow-through | Fó-lou frú | Cumprimento de promessas / Execução | Vendas | B2
+Incentive | In-sén-tiv | Incentivo | Vendas | B1
+Authority Building | Ó-fó-ri-ti bíl-ding | Construção de autoridade | Vendas | C1
+Cold Calling | Côuld có-ling | Contacto a frio (sem aviso prévio) | Vendas | B1
+Discovery Call | Dis-câ-ve-ri cól | Chamada de diagnóstico / descoberta | Vendas | B2
+Unique Selling Point (USP) | Iu-ník sé-ling póint | Diferencial competitivo único | Vendas | C1
+Hard Sell | Rárd sél | Venda agressiva / direta | Vendas | B2
+Soft Sell | Sóft sél | Venda sutil / consultiva | Vendas | B2
+
+// MÓDULO: REUNIÕES DE CONSULTORIA (CONSULTANCY)
+Deliverables | Di-lí-ve-ra-bols | Entregas (resultados do projeto) | Consultoria | B2
+Scope of Work (SOW) | Scôup óv uôrk | Escopo do trabalho | Consultoria | B2
+Milestone | Máil-stôun | Marco / Etapa importante | Consultoria | B1
+Roadmap | Rôud-mép | Plano de ação / Roteiro | Consultoria | B1
+Feasibility | Fi-zi-bí-li-ti | Viabilidade | Consultoria | C1
+Gap Analysis | Gép a-ná-li-si | Análise de lacunas (onde estamos vs onde queremos) | Consultoria | C1
+Best Practices | Bést prác-ti-ces | Melhores práticas | Consultoria | B1
+Benchmarking | Béntch-már-king | Comparação com referências de mercado | Consultoria | C1
+Scalability | Scêi-la-bí-li-ti | Escalabilidade | Consultoria | B2
+Change Management | Tchêindj mé-nadj-ment | Gestão de mudança | Consultoria | C1
+Strategic Alignment | Stra-tí-djic a-láin-ment | Alinhamento estratégico | Consultoria | C1
+Advisory | Ad-vái-zo-ri | Assessoria / Consultoria | Consultoria | B2
+Insights | Ín-sáits | Percepções / Compreensões profundas | Consultoria | B2
+Methodology | Me-fo-dó-lo-dji | Metodologia | Consultoria | B2
+Optimization | Op-ti-mai-zêi-shon | Otimização | Consultoria | B1
+
+// MÓDULO: GESTÃO DE CONFLITOS & ÉTICA
+Unbiased | Ân-bái-as-d | Imparcial / Sem preconceitos | Ética | C1
+Conflicting Interests | Con-flíc-ting ín-trests | Conflito de interesses | Ética | B2
+Integrity | In-té-gri-ti | Integridade | Ética | B1
+Transparency | Trans-pé-ren-si | Transparência | Ética | B1
+Whistleblower | Uís-sel-blôu-er | Denunciante (irregularidades internas) | Ética | C2
+Code of Conduct | Côud óv cón-dact | Código de conduta | Ética | B2
+Accountability | A-cáun-ta-bí-li-ti | Prestação de contas / Responsabilidade | Ética | C1
+Due Care | Diú kér | Diligência devida / Cuidado necessário | Ética | C2
+Compliance Officer | Com-plái-ans ó-fi-cer | Responsável pela conformidade | Ética | C1
+Malpractice | Mál-prác-tis | Má prática / Negligência profissional | Ética | C1
+
+// MÓDULO: TERMINOLOGIA TÉCNICA (FISCAL PLUS)
+Withholding | Uif-rôul-ding | Retenção (na fonte) | Fisco | C1
+Exemption | Eg-zémp-shon | Isenção | Fisco | B2
+Assessment | A-sés-ment | Avaliação / Lançamento (imposto) | Fisco | B2
+Refund | Ri-fând | Reembolso / Restituição | Fisco | A2
+Surcharge | Sâr-tchárdj | Sobretaxa | Fisco | B2
+Toll | Tôul | Taxa / Portagem | Fisco | A2
+Stamp Duty | Stémp diú-ti | Imposto de selo | Fisco | B2
+Double Taxation | Dâ-bol tak-sêi-shon | Dupla tributação | Fisco | B2
+Tax Haven | Téks rêi-ven | Paraíso fiscal | Fisco | C1
+Customs Duty | Câs-toms diú-ti | Direitos aduaneiros | Fisco | B2
+
+
+// MÓDULO: ACADEMIA & LIFESTYLE (GYM & FITNESS)
+Do you want to hit the gym? | D'iu-UÓ-na-RÍT-de-DJÍM? | Queres ir para a academia? | Academia | A2
+What's your PR today? | Uá-tsior-PÍ-ÁR-tu-DÊI? | Qual é o teu recorde pessoal (Personal Record) hoje? | Academia | B1
+One more rep! | UÂN-mór-RÉP! | Mais uma repetição! | Academia | A1
+I'm feeling the pump | Aim-FÍ-lin-de-PÂMP | Estou a sentir o "pump" (músculo inchado pós-treino) | Academia | B2
+Time for some cardio | TÁIM-fôr-sâm-CÁR-di-ôu | Hora de fazer um pouco de cardio | Academia | A2
+I need a spotter | Ai-NÍD-a-SPÓ-ra | Preciso de alguém para me ajudar no peso (segurança) | Academia | B2
+What's your split? | Uá-tsior-SPLÍT? | Qual é a tua divisão de treino (ex: Peito/Costas)? | Academia | B2
+I'm cutting right now | Aim-CÂ-tin-RÁIT-náu | Estou em fase de "cutting" (perda de gordura) | Academia | B1
+Are you bulking? | Ar-iu-BÂL-kin? | Estás em fase de "bulking" (ganho de massa)? | Academia | B1
+Leg day is tough | LÉG-dêi-iz-TÂF | Dia de perna é duro | Academia | A2
+No pain, no gain | NÔ-pêin-NÔ-guêin | Sem dor, sem ganho | Academia | A1
+Pre-workout is kicking in | Prí-UÔR-káu-ri-z-KÍ-kin-ín | O pré-treino está a fazer efeito | Academia | B2
+
+// MÓDULO: GÍRIAS DE ESPORTES (SPORTS SLANG)
+The ball is in your court | De-BÓ-li-zín-ior-CÔRT | A bola está do teu lado (A decisão é tua) | Esportes | B2
+That's a game-changer | Dé-tsa-GUÊIM-tchêin-djer | Isso muda o jogo (muda tudo) | Esportes | B1
+We're in the home stretch | Uír-ín-de-RÔM-strétch | Estamos na reta final | Esportes | B2
+He's a team player | Rí-za-TÍM-plêi-ar | Ele joga para a equipa | Esportes | B1
+Knock it out of the park | NÓ-ki-ráu-ra-de-PÁRK | Superar as expectativas (fazer um home-run) | Esportes | C1
+Slam dunk! | SLÉM-DÂN-K! | Sucesso garantido! / Enterrada! | Esportes | B1
+Touch base | TÂ-tch-BÊIS | Entrar em contacto rápido | Esportes | B1
+Level the playing field | LÉ-vol-de-PLÊI-in-fíuld | Igualar as condições de disputa | Esportes | C1
+
+// MÓDULO: TECNOLOGIA & IA (TECH & AI)
+How's the AI tool? | Rau-zde-êi-ÁI-tú-ol? | Como está a ferramenta de IA? | Tecnologia | B1
+Prompt Engineering | PRÓMPT-en-dji-NÍ-rin | Engenharia de prompts (instruções para IA) | Tecnologia | C1
+Machine Learning models | Ma-SHÍN-lêr-nin-MÓ-dêls | Modelos de aprendizado de máquina | Tecnologia | B2
+Cloud-based solution | CLÁUD-bêis-d-so-LÚ-shon | Solução baseada na nuvem | Tecnologia | B1
+Is it scalable? | Í-zit-SKÊI-la-bol? | Isso é escalável? | Tecnologia | B2
+LLM (Large Language Model) | É-l-é-l-ÉM | Modelo de linguagem de grande escala | Tecnologia | C1
+Fine-tuning the model | FÁIN-tú-nin-de-MÓ-del | Ajustar o modelo para uma tarefa específica | Tecnologia | C2
+AI Hallucination | êi-ÁI-ra-lu-si-NÊI-shon | Alucinação de IA (quando a IA inventa factos) | Tecnologia | C1
+User Interface (UI) | IÚ-zer-Ín-ter-fêis | Interface do utilizador | Tecnologia | B1
+Deep dive into data | DÍP-dáiv-Ín-tu-DÊI-ta | Análise profunda dos dados | Tecnologia | B2
+Real-time analytics | RÍ-ol-táim-a-na-LÍ-tiks | Analítica em tempo real | Tecnologia | C1
+Cybersecurity breach | SÁI-ber-se-kiú-ri-ti-brítch | Violação de cibersegurança | Tecnologia | C1
+Big Data insights | BÍG-DÊI-ta-ÍN-sáits | Percepções de grandes volumes de dados | Tecnologia | C1
+Automated workflow | Ó-to-mêi-red-UÔRK-flôu | Fluxo de trabalho automatizado | Tecnologia | B2
+
+// MÓDULO: FAST TECH & GADGETS
+My laptop is freezing | Mai-LÉP-tó-piz-FRÍ-zin | O meu portátil está a travar | Tecnologia | A2
+Charge your phone | TCHÁRDJ-ior-FÔUN | Carrega o teu telemóvel | Tecnologia | A1
+The battery is low | De-BÉ-re-ri-iz-LÔU | A bateria está fraca | Tecnologia | A2
+Is there Wi-Fi here? | Íz-dê-ra-UÁI-fái-Í-ar? | Há Wi-Fi aqui? | Tecnologia | A1
+Log in to the system | LÓ-guín-tu-de-SÍS-tem | Entrar no sistema | Tecnologia | B1
+Reset your password | Ri-SÉT-ior-PÉS-uôrd | Redefine a tua palavra-passe | Tecnologia | B1
+Backup your files | BÉ-kâ-pior-FÁI-ols | Faz o backup dos teus ficheiros | Tecnologia | B1
+It's a high-tech device | Í-tsa-rái-TÉK-di-VÁIS | É um dispositivo de alta tecnologia | Tecnologia | B2
+The screen is cracked | De-SCRÍ-niz-CRÉ-kt | O ecrã está rachado | Tecnologia | B1
+Turn it off and on again | TÂR-ni-RÓF-en-DÓN-a-guên | Desliga e liga novamente | Tecnologia | A2
+
+
+// MÓDULO: LINGUAGEM FIGURADA (HIPÉRBOLES & METÁFORAS)
+I could eat a horse | Ai cúd ít a rórs | Estou com tanta fome que comeria um cavalo | Hipérbole | B2
+This bag weighs a ton | Dís bég uêis a tân | Esta mala pesa uma tonelada | Hipérbole | B1
+Taking forever | Têi-king fo-ré-ver | Demorando uma eternidade | Hipérbole | A2
+A million times | A mí-lion táims | Um milhão de vezes (Muitas vezes) | Hipérbole | B1
+Dying of laughter | Dái-ing óv láf-ter | Morrendo de rir | Hipérbole | B2
+Drowning in work | Dráu-ning in uôrk | Afogando em trabalho (Atolado) | Metáfora | C1
+Time is money | Táim iz mâ-ni | Tempo é dinheiro | Metáfora | A2
+Data is the new oil | Dêi-ta iz dê niú ói-ol | Dados são o novo petróleo | Metáfora | C1
+The black sheep | Dê blék shíp | A ovelha negra | Metáfora | B1
+Rollercoaster of emotions | Rôu-ler-côs-ter óv i-môu-shons | Montanha-russa de emoções | Metáfora | B2
+Clear as crystal | Clí-ar éz crís-tal | Claro como cristal | Símile | B2
+Busy as a bee | Bí-zi éz a bí | Ocupado como uma abelha | Símile | B1
+Piece of cake | Pís óv kêik | Mamão com açúcar / Muito fácil | Idioma | A2
+Cost an arm and a leg | Cóst ên árm ênd a lég | Custar os olhos da cara (muito caro) | Idioma | C1
+Hit the nail on the head | Rít dê nêi-ol ón dê réd | Acertar na mosca / no ponto exato | Idioma | C1
+
+
+// MÓDULO: SOCIAL SKILLS & NETWORKING (EVENTOS)
+Break the ice | Brêik dê áis | Quebrar o gelo (iniciar conversa) | Networking | B1
+Common ground | Có-mon gráund | Pontos em comum | Networking | B1
+Put a face to a name | Pút a fêis tu a nêim | Associar o rosto ao nome (conhecer pessoalmente) | Networking | B2
+Elevator pitch | É-le-vêi-tor pítch | Apresentação pessoal curta e impactante | Networking | B2
+Small talk | Smól tók | Conversa casual / Quebra-gelo | Networking | A2
+Keep in touch | Kíp in tâtch | Manter contacto | Networking | A2
+Mingle | Mín-gol | Circular e conversar num evento | Networking | B2
+Introduce someone | In-tro-diúss sâm-uãn | Apresentar alguém | Networking | A1
+Exchange business cards | Eks-tchêindj bí-zi-nes cárds | Trocar cartões de visita | Networking | A2
+Follow up later | Fó-lou âp lêi-ter | Dar seguimento mais tarde | Networking | B1
+What do you do for a living? | Uát du iú du fór a lí-ving | O que faz profissionalmente? | Networking | A2
+How's business going? | Ráu-z bí-zi-nes gô-ing | Como vão os negócios? | Networking | B1
+I've heard a lot about you | Áiv rêrd a lót a-báut iú | Já ouvi falar muito de si (positivo) | Networking | B2
+It's a pleasure to meet you | Its a plé-jur tu mít iú | É um prazer conhecê-lo | Networking | A1
+Are you enjoying the event? | Ar iú in-djói-ing di i-vént | Está a gostar do evento? | Networking | A2
+
+// MÓDULO: CONECTORES E TRANSIÇÕES AVANÇADAS (ESCRITA)
+Furthermore | Fâr-der-mór | Além disso / Adicionalmente | Escrita | C1
+Nevertheless | Né-ver-de-lés | Todavia / Contudo | Escrita | C1
+Notwithstanding | Nót-uif-stên-ding | Não obstante / Apesar de | Escrita | C2
+Consequently | Cón-se-kuent-li | Consequentemente | Escrita | B2
+In light of | In láit óv | À luz de / Tendo em conta | Escrita | C1
+Provided that | Pro-vái-ded dét | Contanto que / Desde que | Escrita | B2
+Hence | Réns | Daí / Por conseguinte | Escrita | C1
+With regard to | Uif ri-gárd tu | No que diz respeito a | Escrita | B2
+On behalf of | Ón bi-rêf óv | Em nome de | Escrita | B2
+To sum up | Tu sâm âp | Para resumir | Escrita | B1
+As a matter of fact | Éz a mé-ter óv fékt | De facto / Na realidade | Escrita | B2
+Under no circumstances | Ân-der nô sêr-cums-tén-ces | Em circunstância alguma | Escrita | C1
+In accordance with | In a-cór-dans uif | De acordo com / Em conformidade | Escrita | C1
+Conversely | Cón-vêrs-li | Por outro lado / Inversamente | Escrita | C2
+Therefore | Dér-fór | Portanto | Escrita | B1
+
+// MÓDULO: AUDITORIA E FISCALIDADE AVANÇADA (CONSULTORIA)
+Materiality | Ma-ti-ri-á-li-ti | Materialidade (relevância contabilística) | Fisco | C2
+Discrepancy | Dis-cré-pan-si | Discrepância / Divergência | Fisco | B2
+Substantiate | Sâb-stén-shi-êit | Substanciar / Comprovar com evidências | Fisco | C1
+Shortfall | Shórt-fól | Défice / Insuficiência de fundos | Fisco | C1
+Tax Liability | Téks Lai-a-bí-li-ti | Passivo / Obrigação fiscal | Fisco | C1
+Statutory | Stá-tchu-tó-ri | Estatutário / Previsto na lei | Fisco | C1
+Forensic Accounting | Fo-rén-sic A-cáun-ting | Contabilidade forense (investigação) | Fisco | C2
+Due Diligence | Diú Dí-li-djens | Diligência devida (investigação prévia) | Fisco | C2
+Non-compliance | Nón-com-plái-ans | Incumprimento / Inconformidade | Fisco | C1
+Reconciliation | Re-con-si-li-êi-shon | Reconciliação (bancária/contas) | Fisco | B2
+Incur | In-kâr | Incorrer (em custos/despesas) | Fisco | C1
+Audit Trail | Ó-dit trêil | Trilho de auditoria (registo de passos) | Fisco | C1
+Internal Controls | In-têr-nal Con-trôuls | Controlos internos | Fisco | B2
+Misstatement | Mís-stêit-ment | Declaração incorreta / Erro material | Fisco | C2
+Accountability | A-cáun-ta-bí-li-ti | Prestação de contas / Responsabilidade | Fisco | C1
+
+// MÓDULO: DIPLOMACIA E POLIDEZ (REUNIÕES DIFÍCEIS)
+I'm afraid I can't | Aim a-frêid ai kânt | Receio não poder (negativa educada) | Reuniões | B1
+With all due respect | Uif ól diú ris-pékt | Com todo o respeito | Reuniões | B2
+Could you clarify that? | Kud iú clé-ri-fái dét | Poderia esclarecer isso? | Reuniões | B1
+I see your point, but | Ai sí iór póint, bât | Percebo o seu ponto, mas... | Reuniões | B1
+May I interrupt? | Mêi ai in-te-râpt | Posso interromper? | Reuniões | A2
+To be perfectly honest | Tu bí pêr-fekt-li ó-nest | Para ser perfeitamente honesto | Reuniões | B2
+What are your thoughts? | Uát ar iór fóts | Quais são os seus pensamentos/opinião? | Reuniões | B1
+Let's find a compromise | Léts fáind a cóm-pro-máiz | Vamos encontrar um meio-termo | Reuniões | B2
+I'll look into it | Áil lúk ín-tu it | Vou investigar / verificar isso | Reuniões | B1
+Can we move on to? | Kén ui múv ón tu | Podemos passar para...? | Reuniões | B1
+
+
+// MÓDULO: MECANISMO DE SPLIT PAYMENT (THE SPLIT)
+Split Payment | SPLÍ-t-PÊI-ment | Pagamento repartido (divisão automática) | Fisco/TI | C1
+Real-time settlement | RÍ-ol-táim-SÉ-tol-ment | Liquidação em tempo real | Fisco/TI | C1
+Payment Processor | PÊI-ment-PRÓ-ce-ssor | Processador de pagamento (Banco/Adquirente) | Fisco/TI | B2
+Automated withholding | Ó-to-mêi-red-uif-RÔUL-ding | Retenção automatizada | Fisco/TI | C1
+Net amount | NÉ-ta-MÁUNT | Valor líquido (o que sobra para a empresa) | Fisco/TI | B2
+Gross amount | GRÔU-sa-MÁUNT | Valor bruto (total pago pelo cliente) | Fisco/TI | B2
+Tax segregation | TÉKS-se-gre-GUÊI-shon | Segregação do imposto no ato da compra | Fisco/TI | C2
+
+// MÓDULO: TECNOLOGIA & INTEGRAÇÃO (IT AUDIT)
+API Integration | Ei-Pí-Ái-in-te-GRÊI-shon | Integração via API (entre banco e empresa) | TI/Tech | B2
+Smart Checkout | SMÁRT-TCHÉ-káut | Checkout inteligente que calcula o Split | TI/Tech | B2
+Blockchain ledger | BLÓK-tchêin-LÉ-djer | Registro distribuído (possível tecnologia de controle) | TI/Tech | C1
+Instant clearing | ÍNS-tant-CLÍ-rin | Compensação instantânea | TI/Tech | C1
+Gateway configuration | GUÊIT-uêi-con-fi-guiu-RÊI-shon | Configuração do portal de pagamento | TI/Tech | B2
+Electronic Invoice (NF-e) | i-léc-TRÓ-nic-ÍN-vóiss | Nota Fiscal Eletrônica (gatilho do Split) | Fisco/TI | B1
+
+// MÓDULO: IMPACTO NO FLUXO DE CAIXA (CASH FLOW IMPACT)
+Cash flow management | KÉSH-flôu-MÉ-nadj-ment | Gestão de fluxo de caixa | Finanças | B2
+Working capital pressure | UÔR-kin-CÁ-pi-tal-PRÉ-shur | Pressão no capital de giro | Finanças | C1
+Immediate credit | i-MÍ-di-it-CRÉ-dit | Crédito imediato (para o fisco) | Finanças | B2
+Transaction fee | tran-ZÁK-shon-FÍ | Taxa de transação | Finanças | A2
+Liability reduction | lai-a-BÍ-li-ti-ri-DÂK-shon | Redução do passivo fiscal acumulado | Finanças | C1
+
+// ESTRUTURAS FAST ENGLISH (EXPLICAÇÃO DO SPLIT)
+The bank splits the payment | De-BÉNK-SPLÍTS-de-PÊI-ment | O banco divide o pagamento | Fast English | B1
+One part goes to the taxman | UÂN-PÁRT-GÔ-zu-de-TÉKS-mén | Uma parte vai para o fisco | Fast English | B1
+It's an automated process | Í-tsa-nó-to-MÊI-red-PRÓ-ce-ss | É um processo automatizado | Fast English | B2
+No more manual tax filing | NÔ-mór-MÉ-niu-al-TÉKS-FÁI-lin | Chega de declaração manual de impostos | Fast English | C1
+The tax is collected at source | De-TÉKS-iz-co-LÉK-te-det-SÓRS | O imposto é recolhido na fonte | Fast English | C2
+It reduces tax evasion | Ít-ri-DÚ-ces-TÉKS-i-VÊI-shon | Reduz a evasão fiscal | Fast English | C1
+Is your ERP ready for Split? | Í-zior-Í-ÁR-PÍ-RÉ-ri-fôr-SPLÍT? | Seu ERP está pronto para o Split? | Fast English | B2
+The settlement is instant | De-SÉ-tol-men-tiz-ÍNS-tant | A liquidação é instantânea | Fast English | B2
+We need to sync the NF-e | Ui-NÍ-du-SÍNK-de-É-ni-É-fí | Precisamos sincronizar a NF-e | Fast English | B2
+
+
+// MÓDULO: PENSAMENTO CRÍTICO & RESOLUÇÃO DE PROBLEMAS
+Analyze | A-na-láiz | Analisar | Lógica | B2
+Hypothesis | Rai-pó-fe-sis | Hipótese | Lógica | C1
+Inference | Ín-fe-rens | Inferência | Lógica | C1
+Root cause | Rút cóz | Causa raiz | Lógica | B2
+Bias | Bái-as | Viés / Preconceito cognitivo | Lógica | C1
+Logical fallacy | Ló-dji-cal fá-la-si | Falácia lógica | Lógica | C2
+Deductive reasoning | Di-dâc-tiv rí-zo-ning | Raciocínio dedutivo | Lógica | C1
+Paradigm shift | Pa-ra-dáim shíft | Mudança de paradigma | Lógica | C1
+Synergy | Sí-ner-dji | Sinergia | Lógica | B2
+Constraint | Con-strêint | Restrição / Limitação | Lógica | B2
+Synthesis | Sín-fe-sis | Síntese | Lógica | C1
+Evidence-based | É-vi-dens bêist | Baseado em evidências | Lógica | B2
+Critical factor | Crí-ti-cal féc-tor | Fator crítico | Lógica | B2
+Outcome | Áut-câm | Resultado / Desfecho | Lógica | B1
+Trade-off | Trêid-óf | Troca compensatória / Equilíbrio | Lógica | C1
+Scalability | Scêi-la-bí-li-ti | Escalabilidade | Lógica | B2
+Viability | Vai-a-bí-li-ti | Viabilidade | Lógica | C1
+Mindset | Máind-sét | Mentalidade / Atitude mental | Lógica | B1
+Brainstorming | Brêin-stór-ming | Chuva de ideias | Lógica | B1
+Implementation | Im-ple-men-têi-shon | Implementação | Lógica | B1
+
+// MÓDULO: FALSOS COGNATOS (FALSE FRIENDS - CUIDADO!)
+Actually | Á-tchu-a-li | Na verdade (NÃO é atualmente) | Geral | B1
+Eventually | I-vén-tchu-a-li | Finalmente / Com o tempo (NÃO é eventualmente) | Geral | B2
+Pretend | Pri-ténd | Fingir (NÃO é pretender) | Geral | B1
+Intend | In-ténd | Pretender | Geral | B1
+Push | Púsh | Empurrar (NÃO é puxe) | Geral | A2
+Pull | Púl | Puxar | Geral | A2
+Library | Lái-bré-ri | Biblioteca (NÃO é livraria) | Geral | A2
+Bookstore | Búk-stór | Livraria | Geral | A2
+Novel | Nó-vel | Romance / Livro (NÃO é novela) | Geral | B1
+Soap opera | Sôup ó-pe-ra | Novela | Geral | B1
+Parents | Pé-rents | Pais (NÃO é parentes) | Geral | A1
+Relatives | Ré-la-tivs | Parentes | Geral | A2
+Attend | A-ténd | Assistir / Participar (NÃO é atender) | Geral | B1
+Answer / Assist | Án-ser / A-síst | Atender (telefone / pessoa) | Geral | B1
+Expert | Éks-pêrt | Especialista (NÃO é esperto) | Geral | B1
+Smart / Clever | Smárt / Clé-ver | Esperto | Geral | A2
+Notice | Nô-tis | Notar / Perceber (NÃO é notícia) | Geral | B1
+News | Niús | Notícia | Geral | A1
+Exquisite | Eks-kuí-zit | Refinado / Belíssimo (NÃO é esquisito) | Geral | C1
+Strange / Weird | Strêindj / Uírd | Esquisito | Geral | A2
+
+// MÓDULO: ADJETIVOS DE AUTORIDADE & NUANCES
+Thorough | Fó-rôu | Minucioso / Completo | Geral | B2
+Reliable | Ri-lái-a-bol | Confiável | Geral | B1
+Straightforward | Strêit-fór-uard | Direto / Simples | Geral | B2
+Subtle | Sâ-tol | Sutil | Geral | C1
+Abundant | A-bân-dant | Abundante | Geral | B1
+Scarce | Scérs | Escasso | Geral | B2
+Strenuous | Stré-niu-as | Extenuante / Árduo | Geral | C1
+Pivotal | Pí-vo-tal | Crucial / Central | Geral | C1
+Overwhelming | Ôu-ver-uél-ming | Esmagador / Intenso | Geral | B2
+Invaluable | In-vá-liu-a-bol | Inestimável (muito valioso) | Geral | C1
+Feasible | Fí-zi-bol | Viável | Geral | B2
+Ambiguous | Am-bí-guiu-as | Ambíguo | Geral | C1
+Coherent | Co-rí-rent | Coerente | Geral | B2
+Concise | Con-sáiz | Conciso | Geral | B2
+
+// MÓDULO: VERBOS DE AÇÃO AVANÇADOS
+Enhance | En-ráns | Melhorar / Realçar | Geral | B2
+Mitigate | Mí-ti-guêit | Mitigar / Atenuar | Geral | C1
+Acquire | A-kuái-ar | Adquirir | Geral | B1
+Accomplish | A-cóm-plish | Realizar / Concluir | Geral | B1
+Acknowledge | Ac-nó-lêidj | Reconhecer / Confirmar recepção | Geral | B2
+Address | A-drés | Lidar com / Abordar (um problema) | Geral | B1
+Allocate | Á-lo-kêit | Alocar / Distribuir | Geral | B2
+Ascertain | A-ser-têin | Averiguar / Certificar-se | Geral | C2
+Commence | Co-méns | Iniciar (Formal) | Geral | C1
+Devise | Di-váiz | Conceber / Elaborar plano | Geral | C1
+Embody | Em-bó-di | Personificar / Incorporar | Geral | C2
+Foster | Fós-ter | Promover / Estimular | Geral | C1
+Hinder | Rín-der | Impedir / Atrapalhar | Geral | C2
+Leverage | Lé-ve-radj | Alavancar / Tirar partido de | Geral | B2
+Oversee | Ôu-ver-sí | Supervisionar | Geral | B2
+Sustain | Sas-têin | Sustentar / Manter | Geral | B1
+Undertake | Ân-der-têik | Empreender / Assumir tarefa | Geral | C1
+Yield | Yíld | Render / Produzir | Geral | B2
+
+// MÓDULO: VOCABULÁRIO GERAL (EXPANSÃO FINAL)
+Weather: Foggy | Fó-gui | Nevoeiro | Geral | A2
+Weather: Scorching | Scór-tching | Calor escaldante | Geral | B2
+Personality: Outgoing | Áut-gô-ing | Extrovertido | Geral | B1
+Personality: Reliable | Ri-lái-a-bol | Confiável | Geral | B1
+Personality: Stubborn | Stâ-born | Teimoso | Geral | B1
+Household: Dishwasher | Dísh-uó-sher | Máquina de lavar louça | Geral | A2
+Household: Wardrobe | Uór-drôub | Guarda-roupa | Geral | A2
+Household: Cutlery | Câ-tle-ri | Talheres | Geral | B1
+Food: Bland | Blénd | Sem sabor / Insonso | Geral | B1
+Food: Savory | Sêi-vo-ri | Salgado / Apurado | Geral | B1
+Health: Sore throat | Sór frôut | Dor de garganta | Geral | A2
+Health: Sprain | Sprêin | Entorse / Torção | Geral | B1
+Shopping: Receipt | Ri-sít | Recibo / Talão | Geral | A2
+Shopping: Discount | Dís-cáunt | Desconto | Geral | A2
+Society: Homeless | Rôm-lés | Sem-abrigo | Geral | B1
+Society: Heritage | Ré-ri-têidj | Património / Herança cultural | Geral | B2
+Time: Fortnight | Fórt-náit | Quinzena (Duas semanas) | Geral | B1
+Time: Quarterly | Kuór-ter-li | Trimestralmente | Geral | B2
+
+
+// MÓDULO: MÉTRICAS DE DESEMPENHO (PERFORMANCE METRICS)
+Latency | Lêi-ten-si | Latência (atraso na resposta) | TI/Performance | B2
+Throughput | Frú-pút | Taxa de transferência (volume processado) | TI/Performance | C1
+Response time | Ris-póns táim | Tempo de resposta | TI/Performance | B1
+Uptime | Âp-táim | Tempo de atividade (sistema no ar) | TI/Performance | B2
+Downtime | Dáun-táim | Tempo de inatividade (sistema fora) | TI/Performance | B2
+Bottleneck | Bó-tol-nék | Gargalo (ponto que trava o processo) | TI/Performance | B2
+Load time | Lôud táim | Tempo de carregamento | TI/Performance | A2
+Bandwidth | Bênd-uif | Largura de banda | TI/Performance | B1
+Scalability | Skêi-la-bí-li-ti | Escalabilidade (capacidade de crescer) | TI/Performance | C1
+CPU Usage | Cí-pí-iú Iú-sidj | Uso do processador | TI/Performance | B1
+Memory Leak | Mé-mo-ri Lík | Vazamento de memória (erro) | TI/Performance | C1
+Benchmark | Béntch-márk | Teste de referência / Comparativo | TI/Performance | B2
+
+
+
+// MÓDULO: FERRAMENTAS & AMBIENTES (TOOLS & ENVIRONMENTS)
+Debugger | Di-bâ-guer | Ferramenta de depuração | TI/Tools | B1
+IDE (Integrated Development Environment) | Ái-dí-í | Ambiente de desenvolvimento integrado | TI/Tools | B2
+Compiler | Com-pái-ler | Compilador | TI/Tools | B1
+Interpreter | In-têr-pre-ter | Interpretador (Python usa isso) | TI/Tools | B1
+Terminal / Console | Têr-mi-nal / Cón-sôl | Linha de comando | TI/Tools | A2
+Repository (Repo) | Ri-pó-zi-tó-ri | Repositório de código (Git
+Hub) | TI/Tools | B1
+Framework | Frêim-uôrk | Estrutura de base para desenvolvimento | TI/Tools | B1
+Library | Lái-bré-ri | Biblioteca de funções | TI/Tools | A2
+API (Application Programming Interface) | êi-pí-ái | Interface de programação | TI/Tools | B2
+Dashboard | Désh-bórd | Painel de controle visual | TI/Tools | B1
+Logs | Lógs | Registos de eventos do sistema | TI/Tools | A2
+
+
+
+// MÓDULO: OTIMIZAÇÃO & AÇÕES (OPTIMIZATION)
+Refactor | Ri-fék-tor | Refatorar (melhorar o código sem mudar a função) | TI/Dev | C1
+Optimize | Óp-ti-máiz | Otimizar | TI/Dev | B2
+Cache clearing | Késh clí-ring | Limpeza de cache | TI/Dev | B1
+Query tuning | Kuí-ri tú-ning | Ajuste fino de consulta (SQL) | TI/Dev | C1
+Load balancing | Lôud bé-lan-sing | Balanceamento de carga | TI/Dev | C1
+Minify | Mí-ni-fái | Minificar (reduzir tamanho de arquivos) | TI/Dev | C1
+Compress | Com-prés | Comprimir | TI/Dev | B1
+Deploy | Di-plói | Implantar / Colocar em produção | TI/Dev | B2
+Rollback | Rôul-bék | Reverter para a versão anterior | TI/Dev | B2
+Monitor | Mó-ni-tor | Monitorar (o sistema) | TI/Dev | A2
+
+// ESTRUTURAS FAST ENGLISH (TECH TALK)
+The system is lagging | Dê sís-tem iz lé-guin | O sistema está travando/lento | Fast Tech | B1
+We need to scale up | Ui níd tu skêi-ol âp | Precisamos aumentar a capacidade | Fast Tech | B2
+It's a heavy query | Its a ré-vi kuí-ri | É uma consulta pesada (banco de dados) | Fast Tech | B2
+Check the logs first | Tchék dê lógs fârst | Verifique os registos primeiro | Fast Tech | A2
+Run a benchmark test | Rân a béntch-márk tést | Rode um teste de desempenho | Fast Tech | B2
+The server timed out | Dê sêr-ver táim-d áut | O servidor excedeu o tempo limite | Fast Tech | B1
+Optimize the loop | Óp-ti-máiz dê lúp | Otimize o laço de repetição | Fast Tech | B2
+Memory is maxed out | Mé-mo-ri iz méks-d áut | A memória está cheia/no máximo | Fast Tech | B1
+
+
+// MÓDULO: AÇÃO & MOVIMENTO (MOVEMENT)
+Get up | Guét âp | Levantar-se (da cama) | Ação | A1
+Wake up | Uêik âp | Acordar | Ação | A1
+Sit down | Sít dáun | Sentar-se | Ação | A1
+Stand up | Sténd âp | Ficar de pé | Ação | A1
+Go away | Gôu a-uêi | Ir embora | Ação | A1
+Come back | Câm bék | Voltar | Ação | A1
+Turn around | Târn a-ráund | Virar-se | Ação | A2
+Run away | Rân a-uêi | Fugir | Ação | A2
+Hurry up | Râ-ri âp | Apressar-se | Ação | A2
+Slow down | Slôu dáun | Desacelerar / Ir devagar | Ação | A2
+Walk away | Uók a-uêi | Afastar-se / Ir embora andando | Ação | B1
+Get in | Guét ín | Entrar (carro/táxi) | Ação | A2
+Get out | Guét áut | Sair (carro/táxi/lugar) | Ação | A2
+Get on | Guét ón | Subir/Entrar (ônibus/trem/avião) | Ação | A2
+Get off | Guét óf | Descer/Sair (ônibus/trem/avião) | Ação | A2
+
+// MÓDULO: COMUNICAÇÃO & FALA (COMMUNICATION)
+Call back | Cól bék | Retornar a ligação | Comunicação | A2
+Speak up | Spík âp | Falar mais alto | Comunicação | B1
+Shut up | Shât âp | Calar a boca (Grosseiro) | Comunicação | B1
+Write down | Ráit dáun | Anotar | Comunicação | B1
+Point out | Póint áut | Salientar / Apontar algo | Comunicação | B2
+Bring up | Bríng âp | Mencionar um assunto | Comunicação | B2
+Talk over | Tók ôu-ver | Discutir algo detalhadamente | Comunicação | B2
+Ask out | Ésk áut | Convidar para sair (encontro) | Social | B1
+Cut in | Cât ín | Interromper (conversa) | Comunicação | B2
+Hang up | Réng âp | Desligar o telefone | Comunicação | B1
+
+// MÓDULO: MENTE & APRENDIZADO (THINKING)
+Figure out | Fí-guiur áut | Entender / Resolver charada | Mente | B2
+Find out | Fáind áut | Descobrir (informação) | Mente | B1
+Think over | Fink ôu-ver | Pensar a respeito / Refletir | Mente | B2
+Look up | Lúk âp | Pesquisar (em lista/dicionário) | Mente | A2
+Make up | Mêik âp | Inventar (história/desculpa) | Mente | B2
+Catch on | Kétch ón | Entender / Tornar-se popular | Mente | C1
+Come up with | Câm âp uif | Ter uma ideia / Criar | Mente | B2
+Go over | Gôu ôu-ver | Revisar | Mente | B2
+Read up on | Ríd âp ón | Pesquisar / Ler sobre algo | Mente | C1
+
+// MÓDULO: EMOÇÕES & RELACIONAMENTOS (FEELINGS)
+Calm down | Cálm dáun | Acalmar-se | Emoção | B1
+Cheer up | Tchí-ar âp | Animar-se | Emoção | B1
+Give up | Gív âp | Desistir | Emoção | B1
+Let down | Lét dáun | Decepcionar | Emoção | B2
+Grow apart | Grôu a-párt | Afastar-se (com o tempo) | Emoção | C1
+Get over | Guét ôu-ver | Superar (ex/doença) | Emoção | B2
+Look down on | Lúk dáun ón | Menosprezar | Emoção | C1
+Look up to | Lúk âp tu | Admirar alguém | Emoção | B2
+Put up with | Pút âp uif | Aturar / Tolerar | Emoção | C1
+Freak out | Frík áut | Surtar / Entrar em pânico | Emoção | B2
+Break up | Brêik âp | Terminar relacionamento | Emoção | B1
+Make up | Mêik âp | Fazer as pazes | Emoção | B2
+
+// MÓDULO: TRABALHO & NEGÓCIOS (WORK)
+Burn out | Bârn áut | Esgotar-se (trabalho) | Trabalho | B2
+Slack off | Slék óf | Fazer corpo mole / Preguiça | Trabalho | C1
+Take on | Têik ón | Assumir (tarefa/responsabilidade) | Trabalho | B2
+Carry out | Ké-ri áut | Executar / Realizar | Trabalho | B2
+Fill in | Fíl ín | Preencher (ou substituir alguém) | Trabalho | B1
+Hand in | Rénd ín | Entregar (trabalho/relatório) | Trabalho | B1
+Lay off | Lêi óf | Demitir (corte de pessoal) | Trabalho | C1
+Knuckle down | Nâ-col dáun | Começar a trabalhar sério | Trabalho | C2
+Call off | Cól óf | Cancelar (reunião/evento) | Trabalho | B2
+Put off | Pút óf | Adiar | Trabalho | B2
+Set up | Sét âp | Configurar / Montar | Trabalho | B1
+Wrap up | Rép âp | Concluir / Finalizar | Trabalho | B2
+
+// MÓDULO: PROBLEMAS & RESOLUÇÃO (TROUBLE)
+Break down | Brêik dáun | Quebrar (máquina/carro) | Problema | B1
+Run out of | Rân áut óv | Ficar sem (acabou o estoque) | Problema | B1
+Cut off | Cât óf | Cortar (energia/telefone) | Problema | B2
+Fall apart | Fól a-párt | Desmoronar (coisa ou plano) | Problema | B2
+Mess up | Més âp | Estragar tudo / Errar feio | Problema | B2
+Mix up | Míks âp | Confundir coisas | Problema | B2
+Sort out | Sórt áut | Resolver / Organizar | Solução | B2
+Deal with | Dí-ol uif | Lidar com | Solução | B1
+Work out | Uôrk áut | Resolver-se / Funcionar bem | Solução | B2
+
+// MÓDULO: DIA A DIA & DIVERSOS (GENERAL)
+Look after | Lúk áf-ter | Cuidar de (alguém/pet) | Geral | A2
+Look for | Lúk fór | Procurar | Geral | A2
+Throw away | Frôu a-uêi | Jogar fora | Geral | A2
+Try on | Trái ón | Experimentar (roupa) | Geral | A2
+Turn on | Târn ón | Ligar (aparelho) | Geral | A1
+Turn off | Târn óf | Desligar (aparelho) | Geral | A1
+Turn up | Târn âp | Aumentar (volume) / Aparecer | Geral | B1
+Turn down | Târn dáun | Baixar (volume) / Rejeitar | Geral | B2
+Use up | Iúz âp | Gastar tudo / Consumir até o fim | Geral | B2
+Show off | Shôu óf | Exibir-se | Geral | B2
+Check in | Tchék ín | Dar entrada (hotel/voo) | Viagem | A2
+Check out | Tchék áut | Pagar e sair / Conferir | Viagem | A2
+Pick up | Pík âp | Pegar / Buscar (alguém/algo) | Geral | A2
+Drop off | Dróp óf | Deixar (alguém/algo) | Geral | A2
+Hold on | Rôuld ón | Esperar / Segurar firme | Geral | A2
+Carry on | Ké-ri ón | Continuar | Geral | B1
+Go on | Gôu ón | Continuar / Acontecer | Geral | A2
+End up | Énd âp | Acabar (acontecendo algo) | Geral | B2
+Keep up | Kíp âp | Manter o ritmo | Geral | B2
+Watch out | Uótch áut | Cuidado! / Prestar atenção | Geral | A2
+Pass out | Pés áut | Desmaiar | Saúde | B2
+Pass away | Pés a-uêi | Falecer (eufemismo para morrer) | Saúde | B2
+
+
+// MÓDULO: GANHANDO TEMPO PARA PENSAR (BUYING TIME)
+Well... | UÉ-ol... | Bem... (O clássico para começar) | Fillers | A1
+Let me think... | LÉ-mi-FÍNK... | Deixa-me pensar... | Fillers | A2
+Actually... | ÁK-tchu-a-li... | Na verdade... | Fillers | B1
+Basically... | BÊI-si-ca-li... | Basicamente... | Fillers | B1
+The thing is... | De-FÍN-guiz... | A questão é que... / O negócio é que... | Fillers | B2
+To be honest... | Tu-bi-Ó-nest... | Para ser sincero... | Fillers | B1
+How can I put this? | Rau-k'nai-PÚ-rís? | Como posso dizer isso? | Fillers | B2
+I mean... | Ai-MÍN... | Quero dizer... / Ou seja... | Fillers | B1
+You know? | Iu-NÔU? | Sabe? (No final das frases) | Fillers | A2
+Kind of / Sort of | KÁIN-da / SÓR-ra | Tipo... / Mais ou menos... | Fillers | B1
+
+// MÓDULO: CONCORDÂNCIA E ESCUTA ATIVA (KEEPING THE FLOW)
+Right | RÁIT | Certo / Pois é | Fillers | A1
+Exactly | eg-ZÁK-t-li | Exatamente | Fillers | B1
+Totally | TÔU-ra-li | Totalmente / Com certeza | Fillers | B1
+For sure | fôr-SHÚR | Com certeza | Fillers | A2
+I see what you mean | Ai-SÍ-uá-tchiu-MÍN | Entendo o que você quer dizer | Fillers | B2
+That makes sense | Dét-MÊIK-SÉNS | Isso faz sentido | Fillers | B1
+I bet | Ai-BÉT | Imagino / Com certeza | Fillers | B2
+No doubt | Nô-DÁUT | Sem dúvida | Fillers | C1
+Fair enough | FÉR-i-NÂF | Justo / Aceitável | Fillers | B2
+
+// MÓDULO: REAÇÕES RÁPIDAS (AVOIDING AWKWARD SILENCE)
+Wow, that's crazy! | UÁU-déts-CRÊI-zi! | Uau, que loucura! | Reações | A2
+No way! | Nô-UÊI! | Não acredito! / Mentira! | Reações | B1
+Is that so? | Í-z-dét-SÔ? | É mesmo? / É assim? | Reações | B2
+Oh, I see | Ôu-ai-SÍ | Ah, entendi | Reações | A2
+Good for you! | GÚD-fôr-iú! | Que bom para você! (Sincero ou irônico) | Reações | B1
+That's interesting | Déts-ÍN-tres-tin | Isso é interessante | Reações | B1
+Tell me about it! | TÉ-mi-a-BÁU-rit! | Nem me diga! (Concordando plenamente) | Reações | B2
+Unbelievable | ân-bi-LÍ-va-bol | Inacreditável | Reações | C1
+
+// MÓDULO: MUDANDO DE ASSUNTO OU ENCERRANDO (TRANSITIONS)
+Anyway... | É-ni-uêi... | Enfim... / De qualquer forma... | Transição | A2
+So, as I was saying... | SÔ-é-zai-uóz-SÊI-in... | Então, como eu estava dizendo... | Transição | B2
+By the way... | Bái-de-UÊI... | Por falar nisso... / A propósito... | Transição | B1
+Long story short | LÓN-stó-ri-SHÓRT | Resumindo... / Para encurtar a história | Transição | C1
+Moving on... | MÚ-vi-NÓN... | Seguindo em frente... / Passando para o próximo ponto | Transição | B2
+To wrap things up | Tu-RÉP-fíng-zâp | Para encerrar... | Transição | C1
+
+// MÓDULO: FILLERS ESTILO "STREET" (CASUAL GLUE)
+Like... | LÁI-k... | Tipo... (Usado em quase toda frase) | Street | B1
+You know what I mean? | Iu-nô-uá-ra-MÍN? | Entende o que eu digo? | Street | B2
+Or whatever | ór-uá-RÉ-ver | Ou tanto faz / Ou algo assim | Street | B2
+And stuff | en-STÂF | E coisas do tipo / E tal | Street | B1
+Pretty much | PRÍ-ri-MÂTCH | Praticamente / Basicamente | Street | B2
+I guess | Ai-GUÉS | Eu acho / Suponho | Street | B1
+
+
+// MÓDULO: GANHAR TEMPO COM AUTORIDADE (BUYING TIME - ELITE)
+That’s a great question, let me consider that | Déts-a-grêit-KUÉS-tchon, LÉ-mi-con-SÍ-der-dét | Essa é uma ótima pergunta, deixe-me refletir sobre isso | Reunião | C1
+To put it simply... | Tu-PÚ-rit-SÍM-pli... | Para simplificar... / De forma simples... | Reunião | B2
+If I’m not mistaken... | Í-faim-nót-mis-TÊI-ken... | Se não me engano... | Reunião | B2
+Correct me if I’m wrong, but... | co-RÉK-t-mi-í-faim-RÓNG, bât... | Corrija-me se eu estiver errado, mas... | Reunião | C1
+I was just about to say that | Ai-uóz-djâst-a-BÁU-tu-sêi-DÉT | Eu estava mesmo prestes a dizer isso | Reunião | B1
+Let me rephrase that | LÉ-mi-ri-FRÊI-zdét | Deixe-me reformular isso | Reunião | B2
+From my perspective... | Frôm-mai-per-SPÉK-tiv... | Do meu ponto de vista... / Na minha perspetiva... | Reunião | B2
+Broadly speaking... | BRÓD-li-SPÍ-kin... | De um modo geral... | Reunião | C1
+
+// MÓDULO: INTERRUPÇÕES E "PONTES" (JUMPING IN & BRIDGING)
+If I could just jump in here... | Í-fai-cúd-djâst-DJÂMP-in-Í-ar... | Se eu pudesse apenas intervir aqui... | Reunião | C1
+Going back to what you said... | GÔ-in-BÉK-tu-uát-chiu-SÉD... | Voltando ao que você disse... | Reunião | B2
+I’d like to preface this by saying... | Aid-láik-tu-PRÉ-fa-sís-bái-SÊI-in... | Gostaria de prefaciar isto dizendo... | Reunião | C2
+Building on your point... | BÍL-din-ón-ior-PÓINT... | Pegando carona no seu ponto... / Complementando... | Reunião | C1
+Just to clarify... | Djâst-tu-CLÉ-ri-fái... | Apenas para esclarecer... | Reunião | B1
+In light of recent developments... | In-LÁI-tóv-RÍ-sent-di-VÉ-lop-ments... | À luz dos acontecimentos recentes... | Reunião | C1
+
+// MÓDULO: CONCORDÂNCIA E TRANSIÇÃO FORMAL
+I take your point | Ai-TÊIK-ior-PÓINT | Entendo o seu ponto / Aceito o seu argumento | Reunião | B2
+I couldn't agree more | Ai-CÚDNT-a-GRÍ-mór | Não poderia estar mais de acordo | Reunião | B2
+That's a valid concern | Déts-a-VÁ-lid-con-SÊRN | Essa é uma preocupação válida | Reunião | B2
+Having said that... | RÁ-vin-SÉD-dét... | Dito isto... / No entanto... | Reunião | C1
+Nevertheless... | NÉ-ver-de-LÉS... | Todavia... / No entanto... | Reunião | C1
+Consequently... | CÓN-se-kuent-li... | Consequentemente... | Reunião | B2
+Moving on to the next item | MÚ-vi-NÓN-tu-de-NÉKST-ÁI-tem | Passando para o próximo item | Reunião | B1
+
+// MÓDULO: REAÇÕES PROFISSIONAIS RÁPIDAS (FAST BOARDROOM)
+Essentially... | e-SÉN-sha-li... | Essencialmente... | Reunião | B2
+Ideally... | ai-DÍ-a-li... | Idealmente... | Reunião | B2
+Presumably... | pri-ZÚ-ma-bli... | Presumivelmente... | Reunião | C1
+Indubitably | in-DÚ-bi-ta-bli | Indubitavelmente | Reunião | C2
+I’m with you on that | Aim-UÍF-iu-ón-DÉT | Estou consigo nessa / Concordo | Reunião | B2
+Let's look at the big picture | Léts-LÚ-kat-de-BÍG-PÍK-tchar | Vamos olhar para o cenário geral | Reunião | B2
+
+
+// MÓDULO: VOCABULÁRIO ERUDITO (INTELLECTUAL LEXICON)
+Quintessential | kuin-te-SÉN-shal | A representação perfeita de algo | C2 | Erudito
+Ubiquitous | iu-BÍ-kui-tas | Onipresente / que está em todo o lado | C2 | Erudito
+Paradigm shift | PÁ-ra-dáim-shíft | Mudança de paradigma | C2 | Negócios
+Myriad | MÍ-ri-ad | Uma quantidade imensa / miríade | C2 | Erudito
+Exacerbate | eg-ZÁ-cer-bêit | Agravar / piorar uma situação | C2 | Análise
+Cognizant | CÓG-ni-zant | Ciente / consciente de algo | C2 | Formal
+Prevalent | PRÉ-va-lent | Predominante / comum | C2 | Formal
+Pragmatic | prag-MÁ-tic | Pragmático / focado em resultados práticos | C2 | Negócios
+
+// MÓDULO: ESTRATÉGIA E FISCO DE ELITE (C-LEVEL TAX & STRATEGY)
+Fiduciary duty | fi-DÚ-shi-é-ri-DÚ-ri | Dever fiduciário (responsabilidade legal) | C2 | Fisco
+Litigation | li-ti-GUÊI-shon | Litígio / processo judicial | C2 | Jurídico
+Mitigation of risk | mi-ti-GUÊI-sho-nóv-RÍSK | Mitigação de risco | C2 | Auditoria
+Contingency plan | con-TÍN-djen-si-PLÉN | Plano de contingência | C2 | Estratégia
+Inherent risk | in-RÍ-rent-RÍSK | Risco inerente | C2 | Auditoria
+Tax avoidance | TÉKS-a-VÓI-dans | Elisão fiscal (legal) | C2 | Fisco
+Tax evasion | TÉKS-i-VÊI-shon | Evasão fiscal (ilegal) | C2 | Fisco
+Statutory compliance | STÁ-tchu-tó-ri-com-PLÁI-ans | Conformidade estatutária/legal | C2 | Jurídico
+Consolidated financial statements | con-SÓ-li-dêi-red-fi-NÁN-shal-STÊIT-ments | Demonstrações financeiras consolidadas | C2 | Finanças
+
+// MÓDULO: EXPRESSÕES IDIOMÁTICAS NUANCEADAS (NUANCED IDIOMS)
+A moot point | a-MÚT-PÓINT | Um ponto irrelevante ou discutível | C2 | Debate
+Devil's advocate | DÉ-vol-z-ÁD-vo-quêit | Advogado do diabo | C2 | Debate
+The thin end of the wedge | de-FÍN-énd-óv-de-UÉDJ | O início de algo que terá consequências graves | C2 | Análise
+Back to square one | BÉK-tu-SKUÉR-uân | Voltar à estaca zero | C2 | Negócios
+In the red / In the black | in-de-RÉD / in-de-BLÁK | No prejuízo / No lucro | C2 | Finanças
+At a deadlock | é-ra-DÉD-lók | Em impasse total | C2 | Negócios
+To cut a long story short | tu-CÂ-ra-LÓN-stó-ri-SHÓRT | Para encurtar a história | C2 | Social
+
+// MÓDULO: CETICISMO E ANÁLISE CRÍTICA (CRITICAL THINKING)
+Implicitly | im-PLÍ-sit-li | Implicitamente | C2 | Análise
+Explicitly | eks-PLÍ-sit-li | Explicitamente | C2 | Análise
+Plausible | PLÓ-zi-bol | Plausível / Verossímil | C2 | Análise
+Fallacious | fa-LÊI-shas | Falacioso / Enganador | C2 | Análise
+Empirical evidence | em-PÍ-ri-ca-LÉ-vi-dens | Evidência empírica | C2 | Auditoria
+Ambiguity | am-bi-GUIÚ-i-ri | Ambiguidade | C2 | Análise
+Conjecture | con-DJÉK-tchar | Conjectura / Suposição | C2 | Análise
+
+// MÓDULO: FAST ENGLISH C2 (THE FLUID INTELLECTUAL)
+I'm inclined to believe | aim-in-CLÁIN-du-bi-LÍV | Estou inclinado a acreditar | C2 | Fast English
+It stands to reason | ít-STÁNDS-tu-RÍ-zon | É lógico / É razoável supor | C2 | Fast English
+Bearing in mind | BÉ-rin-in-MÁIND | Tendo em conta / Levando em consideração | C2 | Fast English
+For all intents and purposes | fôr-ÓL-in-TÉN-tsen-PÂR-pa-ses | Para todos os efeitos | C2 | Fast English
+In light of the above | in-LÁI-róv-di-a-BÂV | Diante do exposto / À luz do que foi dito | C2 | Fast English
+The crux of the matter | de-CRÂK-sóv-de-MÉ-rer | O cerne da questão | C2 | Fast English
+Taking everything into account | TÊI-ki-NÉ-vri-fín-ín-tu-a-CÁUNT | Levando tudo em conta | C2 | Fast English
+Needless to say | NÍD-lés-tu-SÊI | Nem é preciso dizer | C2 | Fast English
+
+// MÓDULO ADVÉRBIOS DE MODO (HOW - ESSENCIAL PARA TIOBRAS)
+Automatically  Ó-to-mé-ti-ca-li  Automaticamente  Advérbio  B1
+Manually  Mé-niu-a-li  Manualmente  Advérbio  B1
+Efficiently  E-fí-shent-li  Eficientemente  Advérbio  B2
+Thoroughly  FÓ-rôu-li  Minuciosamente  Completamente  Advérbio  C1
+Deliberately  Di-lí-be-rat-li  Deliberadamente  De propósito  Advérbio  C1
+Accidentally  Ak-si-dén-ta-li  Acidentalmente  Advérbio  B1
+Barely  BÉR-li  Mal  Apenas (quase nada)  Advérbio  B2
+Specifically  Spe-sí-fi-ca-li  Especificamente  Advérbio  B2
+Randomly  RÉN-dom-li  Aleatoriamente  Advérbio  B1
+Simultaneously  Sai-mul-têi-ni-as-li  Simultaneamente  Advérbio  C1
+Properly  PRÓ-per-li  Adequadamente  Como deve ser  Advérbio  B1
+Promptly  PRÓMPT-li  Prontamente  Imediatamente  Advérbio  C1
+Reluctantly  Ri-lâc-tant-li  Relutantemente  A contragosto  Advérbio  C2
+Eagerly  Í-guer-li  Ansiosamente  Com vontade  Advérbio  C1
+Seamlessly  SÍM-les-li  Perfeitamente  Sem interrupções (TI)  Advérbio  C2
+Hastily  RÊIS-ti-li  Apressadamente  Advérbio  C2
+Steadily  STÉ-di-li  Constantemente  De forma estável  Advérbio  B2
+Vigorously  VÍ-go-ros-li  Vigorosamente  Advérbio  C1 
+
+//MÓDULO TEMPO E FREQUÊNCIA (WHEN - CRONOGRAMAS)
+Currently  CÂ-rrent-li  Atualmente  Advérbio  B1
+Nowadays  NÁU-a-dêis  Hoje em dia  Advérbio  B1
+Lately  LÊIT-li  Ultimamente  Advérbio  B1
+Recently  RÍ-cent-li  Recentemente  Advérbio  A2
+Formerly  FÓR-mer-li  Anteriormente  Antigamente  Advérbio  C1
+Previously  PRÍ-vi-as-li  Previamente  Advérbio  B2
+Annually  É-niu-a-li  Anualmente  Advérbio  B1
+Quarterly  KUÓR-ter-li  Trimestralmente  Advérbio  B2
+Seldom  SÉL-dom  Raramente (Formal)  Advérbio  C1
+Occasionally  O-kêi-zho-na-li  Ocasionalmente  Advérbio  B2
+Constantly  CÓNS-tant-li  Constantemente  Advérbio  B2
+Eventually  I-vén-tchu-a-li  Eventualmente  No final das contas  Advérbio  B2
+Immediately  I-mí-di-at-li  Imediatamente  Advérbio  B1
+Temporarily  Tém-po-ré-ri-li  Temporariamente  Advérbio  B2
+Permanently  PÊR-ma-nent-li  Permanentemente  Advérbio  B2
+Indefinitely  In-dé-fi-nit-li  Indefinidamente (sem prazo)  Advérbio  C1
+Meanwhile  MÍN-uái-ol  Entretanto  Enquanto isso  Advérbio  B2 
+
+//MÓDULO GRAU E INTENSIDADE (HOW MUCH - NEGOCIAÇÃO)
+Extremely  Eks-trím-li  Extremamente  Advérbio  B1
+Entirely  In-tái-ar-li  Inteiramente  Advérbio  B2
+Totally  TÔU-ta-li  Totalmente  Advérbio  A2
+Absolutely  Eb-so-lút-li  Absolutamente  Advérbio  B1
+Fairly  FÉR-li  Razoavelmente  Justamente  Advérbio  B2
+Highly  RÁI-li  Altamente  Advérbio  B1
+Partially  PÁR-sha-li  Parcialmente  Advérbio  B2
+Virtually  VÛR-tchu-a-li  Virtualmente  Praticamente  Advérbio  C1
+Approximately  A-pró-ksi-met-li  Aproximadamente  Advérbio  B1
+Significantly  Sig-ní-fi-cant-li  Significativamente  Advérbio  B2
+Substantially  Sab-stén-sha-li  Substancialmente  Advérbio  C1
+Scarcely  SCÉRS-li  Escassamente  Mal (quase não)  Advérbio  C2
+Overwhelmingly  Ôu-ver-uél-min-li  Esmagadoramente  Advérbio  C2
+Practically  PRÁC-ti-ca-li  Praticamente  Advérbio  B1
+Utterly  Â-ter-li  Totalmente  Completamente (negativo)  Advérbio  C2 
+
+//MÓDULO OPINIÃO E PROBABILIDADE (CERTAINTY - AUDITORIA)
+Obviously  ÓB-vi-as-li  Obviamente  Advérbio  B1
+Apparently  A-pé-rent-li  Aparentemente  Advérbio  B2
+Presumably  Pri-zú-ma-bli  Presumivelmente  Advérbio  C1
+Undoubtedly  Ân-dáu-ted-li  Indubitavelmente  Sem dúvida  Advérbio  C1
+Allegedly  A-lé-djed-li  Alegadamente  Supostamente  Advérbio  C2
+Reportedly  Ri-pór-ted-li  Segundo relatos  Consta que  Advérbio  C2
+Theoretically  Fi-o-ré-ti-ca-li  Teoricamente  Advérbio  C1
+Hypothetically  Rai-po-fé-ti-ca-li  Hipoteticamente  Advérbio  C2
+Frankly  FRÊNK-li  Francamente  Advérbio  B2
+Honestly  Ó-nest-li  Honestamente  Advérbio  B1
+Naturally  NÉ-tchu-ra-li  Naturalmente  Advérbio  B1
+Surprisingly  Sar-prái-zing-li  Surpreendentemente  Advérbio  B1
+Inevitably  In-é-vi-ta-bli  Inevitavelmente  Advérbio  C1
+Ironically  Ai-ró-ni-ca-li  Ironicamente  Advérbio  C1
+
+
+// MÓDULO: LIDERANÇA & MOTIVAÇÃO (LEADERSHIP)
+Lead by example | Líd bái eg-zâm-pol | Liderar pelo exemplo | Liderança | C1
+Empower your team | Em-páu-er iór tím | Dar autonomia à sua equipa | Liderança | C1
+Constructive feedback | Con-strâc-tiv fíd-bék | Crítica construtiva | Liderança | B2
+Foster a positive culture | Fós-ter a pó-zi-tiv câl-tchar | Promover uma cultura positiva | Liderança | C1
+Delegate effectively | Dé-le-guêit e-fék-tiv-li | Delegar de forma eficaz | Liderança | B2
+Inspire confidence | In-spái-ar cón-fi-dens | Inspirar confiança | Liderança | C1
+Set clear expectations | Sét clí-ar eks-pek-têi-shons | Definir expectativas claras | Liderança | B2
+Leading from the front | Lí-ding fróm dê frânt | Liderar na linha da frente | Liderança | C2
+Accountability is key | A-cáun-ta-bí-li-ti iz kí | A responsabilidade é a chave | Liderança | C1
+Keep the team engaged | Kíp dê tím en-guêidjd | Manter a equipa engajada | Liderança | B2
+Mentorship program | Mén-tor-shíp prô-grém | Programa de mentoria | Liderança | B1
+Recognize achievements | Re-cóg-náiz a-tchív-ments | Reconhecer conquistas | Liderança | B2
+
+// ESTRUTURAS DE LIDERANÇA (SENTENCES)
+I value your contribution to this project | Ai vá-liu iór con-tri-biú-shon tu dís pró-djékt | Valorizo a sua contribuição para este projeto | Liderança | B2
+What do you need from me to succeed? | Uát du iú níd fróm mi tu sac-síd? | Do que precisa de mim para ter sucesso? | Liderança | B2
+Let's brainstorm a solution together | Léts brêin-stórm a so-lú-shon tu-gué-der | Vamos pensar numa solução juntos | Liderança | B1
+I trust your judgment on this matter | Ai trâst iór djâdj-ment ón dís mé-ter | Confio no seu critério sobre este assunto | Liderança | C1
+How can we improve our workflow? | Ráu kén ui im-prúv áuar uôrk-flôu? | Como podemos melhorar o nosso fluxo de trabalho? | Liderança | B2
+
+// MÓDULO: MODA DE LUXO & ESTILO (HIGH-END FASHION)
+Bespoke suit | Bi-spôuk sút | Fato feito por medida (alfaiataria) | Moda | C2
+Tailored fit | Têi-lord fít | Ajuste de alfaiataria / sob medida | Moda | B2
+Designer label | Di-zái-ner lêi-bol | Grife / Etiqueta de designer | Moda | B1
+High-end brand | Rái-énd brénd | Marca de luxo / topo de gama | Moda | B2
+Cufflinks | Câf-línks | Botões de punho | Moda | B1
+Sophisticated look | So-fís-ti-kêi-ted lúk | Visual sofisticado | Moda | B2
+Statement piece | Stêit-ment pís | Peça de destaque / marcante | Moda | C1
+Ready-to-wear | Ré-di-tu-uér | Pronto-a-vestir | Moda | B1
+Fabric quality | Fé-bric kuá-li-ti | Qualidade do tecido | Moda | B2
+Timeless elegance | Táim-lés é-le-gans | Elegância intemporal | Moda | C1
+Silk tie | Sílk tái | Gravata de seda | Moda | A2
+Leather briefcase | Lé-der bríf-kêis | Pasta de couro (documentos) | Moda | B1
+Wristwatch | Ríst-uótch | Relógio de pulso | Moda | A1
+Aesthetically pleasing | Es-fé-ti-ca-li plí-zing | Esteticamente agradável | Moda | C1
+
+// MÓDULO: COMPRAS DE LUXO (LUXURY SHOPPING)
+Limited edition | Lí-mi-ted i-dí-shon | Edição limitada | Luxo | B1
+Exclusive collection | Eks-clú-siv co-léc-shon | Coleção exclusiva | Luxo | B2
+Personal shopper | Pêr-so-nal shó-per | Assistente pessoal de compras | Luxo | B1
+Luxury boutique | Lâk-shu-ri bu-tík | Boutique de luxo | Luxo | B2
+Flagship store | Flég-shíp stór | Loja principal / conceito | Luxo | C1
+Premium materials | Prí-mi-um ma-tí-ri-als | Materiais de alta qualidade | Luxo | B2
+Craftsmanship | Cráfts-man-shíp | Artesanato / Trabalho artesanal de mestre | Luxo | C2
+Brand heritage | Brénd ré-ri-têidj | Herança / História da marca | Luxo | C1
+Custom-made | Câs-tom-mêid | Feito por encomenda / personalizado | Luxo | B2
+Top-tier quality | Tóp-tí-ar kuá-li-ti | Qualidade de primeira linha | Luxo | C1
+
+// FAST ENGLISH: ESTILO E LIDERANÇA
+He's a sharp dresser | Ríz-a-SHÁRP-dré-sser | Ele veste-se de forma impecável/elegante | Estilo | B2
+Dress for success | DRÉS-fôr-sac-SÉS | Vista-se para o sucesso | Estilo | B1
+Keep your head up | KÍP-ior-RÉ-dâp | Mantenha a cabeça erguida (confiança) | Liderança | B1
+Take the lead | TÊI-ka-LÍD | Tome a liderança / iniciativa | Liderança | B1
+Suit up! | SÚ-tâp! | Vista o fato! / Prepare-se! | Estilo | A2
+
+
+// MÓDULO: CONCEITOS BÁSICOS DA REFORMA (TAX REFORM CORE)
+Tax Reform | TÉKS-ri-FÓRM | Reforma Tributária | Fisco/Legal | B1
+Constitutional Amendment | Cón-sti-TÚ-sho-nal-a-MÉND-ment | Emenda Constitucional | Fisco/Legal | C1
+Dual VAT System | DÚ-al-VÁT-SÍS-tem | Sistema de IVA Dual (IBS + CBS) | Fisco/Legal | C1
+Consumption Tax | Con-SÂMP-shon-TÉKS | Imposto sobre o consumo | Fisco/Legal | B2
+Destination Principle | Des-ti-NÊI-shon-PRÍN-si-pol | Princípio do destino | Fisco/Legal | C1
+Tax Burden | TÉKS-BÂR-den | Carga tributária | Fisco/Legal | B2
+Simplify the system | SÍM-pli-fái-de-SÍS-tem | Simplificar o sistema | Fisco/Legal | B1
+Non-cumulative system | Nón-kiú-miu-la-tiv-SÍS-tem | Sistema não-cumulativo | Fisco/Legal | C1
+
+// MÓDULO: NOVOS IMPOSTOS (NEW TAXES - CBS & IBS)
+Contribution on Goods and Services (CBS) | Cón-tri-BÚ-shon-ón-GÚDS-en-SÊR-vi-ces | CBS (Contribuição sobre Bens e Serviços) | Fisco/Legal | C1
+Goods and Services Tax (IBS) | GÚDS-en-SÊR-vi-ces-TÉKS | IBS (Imposto sobre Bens e Serviços) | Fisco/Legal | C1
+Selective Tax (Sin Tax) | Se-LÉK-tiv-TÉKS | Imposto Seletivo (Imposto do Pecado) | Fisco/Legal | C1
+Excise Tax | ÉK-sáiz-TÉKS | Imposto sobre produtos específicos | Fisco/Legal | C1
+Standard Rate | STÉN-dard-RÊIT | Alíquota padrão | Fisco/Legal | B2
+Reduced Rate | Ri-DÚST-RÊIT | Alíquota reduzida | Fisco/Legal | B2
+Zero Tax Rate | ZÍ-rôu-TÉKS-RÊIT | Alíquota zero | Fisco/Legal | B1
+
+// MÓDULO: TRANSIÇÃO & IMPLEMENTAÇÃO (FAST ENGLISH FLOW)
+Transition period | Tran-ZÍ-shon-PÍ-ri-od | Período de transição | Fisco/Legal | B2
+Phasing out old taxes | FÊI-zin-ÁU-rôuld-TÉK-ses | Extinguindo impostos antigos gradualmente | Fisco/Legal | C1
+Implementation phase | Im-ple-men-TÊI-shon-FÊIZ | Fase de implementação | Fisco/Legal | B2
+Tax Cashback | TÉKS-KÉSH-bék | Devolução de imposto (Cashback social) | Fisco/Legal | B2
+Revenue neutral | RÉ-ve-niu-NÚ-tral | Neutralidade de arrecadação | Fisco/Legal | C2
+Deadlines and milestones | DÉD-lái-zen-MÁIL-stôuns | Prazos e marcos importantes | Fisco/Legal | B2
+It starts in 2026 | Ít-STÁRTS-in-tu-táun-zen-tuên-ti-SÍKS | Começa em 2026 | Fisco/Legal | A2
+
+// MÓDULO: AUDITORIA & COMPLIANCE (AUDIT FLOW)
+Tax compliance | TÉKS-com-PLÁI-ans | Conformidade fiscal | Auditoria | C1
+Adjust the ERP system | a-DJÂST-di-Í-ÁR-PÍ-SÍS-tem | Ajustar o sistema ERP | Auditoria | B2
+Tax credits recovery | TÉKS-CRÉ-dits-ri-CÂ-ve-ri | Recuperação de créditos tributários | Auditoria | C1
+Ancillary obligations | Án-si-lé-ri-o-bli-GUÊI-shons | Obrigações acessórias | Auditoria | C2
+Audit trail | Ó-di-TRÊIL | Trilha de auditoria | Auditoria | C1
+Tax planning | TÉKS-PLÉ-nin | Planejamento tributário | Auditoria | B2
+Impact assessment | ÍM-pék-ta-SÉS-ment | Avaliação de impacto | Auditoria | C1
+
+// ESTRUTURAS PRONTAS PARA REUNIÕES (FAST TAX TALK)
+The reform aims to simplify... | De-ri-FÓRM-êim-ztu-SÍM-pli-fái... | A reforma visa simplificar... | Reuniões | B2
+How will it affect our margin? | Rau-uí-lit-a-FÉK-táuar-MÁR-djin? | Como isso afetará nossa margem? | Reuniões | C1
+We need to map the transition | Ui-NÍ-du-MÉP-de-tran-ZÍ-shon | Precisamos mapear a transição | Reuniões | B2
+What's the estimated rate? | Uá-ts-di-ÉST-i-mêi-red-RÊIT? | Qual a alíquota estimada? | Reuniões | B2
+The CBS will replace federal taxes | De-CÍ-BÍ-ÉS-uí-ri-PLÊIS-FÉ-de-ral-TÉK-ses | A CBS substituirá os impostos federais | Reuniões | C1
+It's a huge shift for the industry | Í-tsa-HÚ-dj-SHÍFT-fôr-di-ÍN-das-tri | É uma mudança enorme para a indústria | Reuniões | B2
+We are analyzing the Sin Tax impact | Uir-a-na-LÁI-zin-de-SÍN-ték-sÍM-pékt | Estamos analisando o impacto do Imposto Seletivo | Reuniões | C2
+Are you ready for the new VAT? | Á-riu-RÉ-ri-fôr-de-NÚ-VÁT? | Você está pronto para o novo IVA? | Reuniões | B1
+
+
+// MÓDULO: PAQUERA & ELOGIOS (FLIRTING & COMPLIMENTS)
+You look stunning tonight | Iú lúk stâ-ning tu-náit | Você está deslumbrante esta noite | Romance | A2
+I love your smile | Ai lâv iór smái-ol | Eu amo o seu sorriso | Romance | A1
+I'm so lucky to be with you | Aim sô lâ-ki tu bí uif iú | Tenho tanta sorte de estar com você | Romance | B1
+You have a great sense of humor | Iú rév a grêit séns óv riú-mor | Você tem um ótimo senso de humor | Romance | B1
+I couldn't take my eyes off you | Ai cúdnt têik mai áiz óf iú | Não consegui tirar os olhos de você | Romance | B2
+You're not just beautiful, you're smart | Iúr nót djâst biú-ti-ful, iúr smárt | Você não é só bonita, você é inteligente | Romance | B1
+Would you like to go out for dinner? | Ud iú láik tu gôu áut fór dí-ner? | Você gostaria de sair para jantar? | Romance | A2
+
+// MÓDULO: CONVÍVIO DIÁRIO & LOGÍSTICA (DAILY ROUTINE)
+How was your day, honey? | Ráu uóz iór dêi, râ-ni? | Como foi o seu dia, querida? | Rotina | A1
+Do you need help with anything? | Du iú níd rélp uif é-ni-fíng? | Você precisa de ajuda com alguma coisa? | Rotina | A2
+I'll take care of the dishes tonight | Áil têik kér óv dê dí-shes tu-náit | Eu cuido da louça hoje à noite | Rotina | A2
+What should we have for dinner? | Uát shúd ui rév fór dí-ner? | O que devemos comer no jantar? | Rotina | B1
+I'm going to the supermarket, do you need anything? | Aim gô-ing tu dê su-per-már-ket, du iú níd é-ni-fíng? | Vou ao supermercado, você precisa de algo? | Rotina | A2
+Can you wake me up at seven? | Kén iú uêik mi âp ét sé-ven? | Você pode me acordar às sete? | Rotina | A1
+I'll be home a bit late tonight | Áil bí rôm a bít lêit tu-náit | Chegarei um pouco tarde hoje à noite | Rotina | B1
+
+// MÓDULO: FILHOS & EDUCAÇÃO (KIDS & FAMILY)
+It's time to get ready for school | Its táim tu guét ré-di fór skúl | É hora de se arrumar para a escola | Família | A2
+Did you finish your homework? | Díd iú fí-nish iór rôm-uôrk? | Você terminou seu dever de casa? | Família | A1
+Let's go to the park this weekend | Léts gôu tu dê párk dís uí-kénd | Vamos ao parque este fim de semana | Família | A2
+Don't forget to brush your teeth | Dôunt for-guét tu brâsh iór tíf | Não se esqueça de escovar os dentes | Família | A1
+I'm so proud of you | Aim sô práud óv iú | Estou tão orgulhoso de você | Família | B1
+We need to talk about the kids' school | Ui níd tu tók a-báut dê kíds skúl | Precisamos conversar sobre a escola das crianças | Família | B1
+
+// MÓDULO: APOIO & RESOLUÇÃO DE CONFLITOS (SUPPORT & CONFLICT)
+I'm sorry, I didn't mean to upset you | Aim só-ri, ai dídnt mín tu âp-sét iú | Desculpe, não tive a intenção de te chatear | Relacionamento | B2
+Let's talk about this when we're both calm | Léts tók a-báut dís uén uír bôuf cám | Vamos conversar sobre isso quando estivermos calmos | Relacionamento | C1
+I understand how you feel | Ai ân-der-sténd ráu iú fíl | Eu entendo como você se sente | Relacionamento | B1
+I'm here for you, no matter what | Aim rí-ar fór iú, nô mé-ter uát | Estou aqui por você, não importa o que aconteça | Relacionamento | B2
+Can we find a compromise? | Kén ui fáind a cóm-pro-máiz? | Podemos encontrar um meio-termo? | Relacionamento | B2
+I value your opinion | Ai vá-liu iór o-pí-ni-on | Eu valorizo a sua opinião | Relacionamento | C1
+What can I do to make it better? | Uát kén ai du tu mêik it bé-ter? | O que posso fazer para melhorar as coisas? | Relacionamento | B1
+
+// MÓDULO: DATAS ESPECIAIS & FUTURO (SPECIAL OCCASIONS)
+Happy anniversary, my love | Ré-pi a-ni-vêr-sa-ri, mai lâv | Feliz aniversário (de casamento/namoro), meu amor | Romance | A2
+I've planned a surprise for you | Áiv plénd a sur-práiz fór iú | Planejei uma surpresa para você | Romance | B2
+Where would you like to travel next? | Uér ud iú láik tu tré-vel nékst? | Para onde você gostaria de viajar na próxima vez? | Viagem | B1
+You're the best thing that ever happened to me | Iúr dê bést fíng dét é-ver ré-pend tu mi | Você é a melhor coisa que já me aconteceu | Romance | C1
+Let's grow old together | Léts grôu ôuld tu-gué-der | Vamos envelhecer juntos | Romance | C2
+ 
+//MÓDULO ADVÉRBIOS DE MODO (HOW - ESSENCIAL PARA TIOBRAS)
+Automatically  Ó-to-mé-ti-ca-li  Automaticamente  Advérbio  B1
+Manually  Mé-niu-a-li  Manualmente  Advérbio  B1
+Efficiently  E-fí-shent-li  Eficientemente  Advérbio  B2
+Thoroughly  FÓ-rôu-li  Minuciosamente  Completamente  Advérbio  C1
+Deliberately  Di-lí-be-rat-li  Deliberadamente  De propósito  Advérbio  C1
+Accidentally  Ak-si-dén-ta-li  Acidentalmente  Advérbio  B1
+Barely  BÉR-li  Mal  Apenas (quase nada)  Advérbio  B2
+Specifically  Spe-sí-fi-ca-li  Especificamente  Advérbio  B2
+Randomly  RÉN-dom-li  Aleatoriamente  Advérbio  B1
+Simultaneously  Sai-mul-têi-ni-as-li  Simultaneamente  Advérbio  C1
+Properly  PRÓ-per-li  Adequadamente  Como deve ser  Advérbio  B1
+Promptly  PRÓMPT-li  Prontamente  Imediatamente  Advérbio  C1
+Reluctantly  Ri-lâc-tant-li  Relutantemente  A contragosto  Advérbio  C2
+Eagerly  Í-guer-li  Ansiosamente  Com vontade  Advérbio  C1
+Seamlessly  SÍM-les-li  Perfeitamente  Sem interrupções (TI)  Advérbio  C2
+Hastily  RÊIS-ti-li  Apressadamente  Advérbio  C2
+Steadily  STÉ-di-li  Constantemente  De forma estável  Advérbio  B2
+Vigorously  VÍ-go-ros-li  Vigorosamente  Advérbio  C1 
+
+//MÓDULO TEMPO E FREQUÊNCIA (WHEN - CRONOGRAMAS)
+Currently  CÂ-rrent-li  Atualmente  Advérbio  B1
+Nowadays  NÁU-a-dêis  Hoje em dia  Advérbio  B1
+Lately  LÊIT-li  Ultimamente  Advérbio  B1
+Recently  RÍ-cent-li  Recentemente  Advérbio  A2
+Formerly  FÓR-mer-li  Anteriormente  Antigamente  Advérbio  C1
+Previously  PRÍ-vi-as-li  Previamente  Advérbio  B2
+Annually  É-niu-a-li  Anualmente  Advérbio  B1
+Quarterly  KUÓR-ter-li  Trimestralmente  Advérbio  B2
+Seldom  SÉL-dom  Raramente (Formal)  Advérbio  C1
+Occasionally  O-kêi-zho-na-li  Ocasionalmente  Advérbio  B2
+Constantly  CÓNS-tant-li  Constantemente  Advérbio  B2
+Eventually  I-vén-tchu-a-li  Eventualmente  No final das contas  Advérbio  B2
+Immediately  I-mí-di-at-li  Imediatamente  Advérbio  B1
+Temporarily  Tém-po-ré-ri-li  Temporariamente  Advérbio  B2
+Permanently  PÊR-ma-nent-li  Permanentemente  Advérbio  B2
+Indefinitely  In-dé-fi-nit-li  Indefinidamente (sem prazo)  Advérbio  C1
+Meanwhile  MÍN-uái-ol  Entretanto  Enquanto isso  Advérbio  B2 
+
+//MÓDULO GRAU E INTENSIDADE (HOW MUCH - NEGOCIAÇÃO)
+Extremely  Eks-trím-li  Extremamente  Advérbio  B1
+Entirely  In-tái-ar-li  Inteiramente  Advérbio  B2
+Totally  TÔU-ta-li  Totalmente  Advérbio  A2
+Absolutely  Eb-so-lút-li  Absolutamente  Advérbio  B1
+Fairly  FÉR-li  Razoavelmente  Justamente  Advérbio  B2
+Highly  RÁI-li  Altamente  Advérbio  B1
+Partially  PÁR-sha-li  Parcialmente  Advérbio  B2
+Virtually  VÛR-tchu-a-li  Virtualmente  Praticamente  Advérbio  C1
+Approximately  A-pró-ksi-met-li  Aproximadamente  Advérbio  B1
+Significantly  Sig-ní-fi-cant-li  Significativamente  Advérbio  B2
+Substantially  Sab-stén-sha-li  Substancialmente  Advérbio  C1
+Scarcely  SCÉRS-li  Escassamente  Mal (quase não)  Advérbio  C2
+Overwhelmingly  Ôu-ver-uél-min-li  Esmagadoramente  Advérbio  C2
+Practically  PRÁC-ti-ca-li  Praticamente  Advérbio  B1
+Utterly  Â-ter-li  Totalmente  Completamente (negativo)  Advérbio  C2 
+
+//MÓDULO OPINIÃO E PROBABILIDADE (CERTAINTY - AUDITORIA)
+Obviously  ÓB-vi-as-li  Obviamente  Advérbio  B1
+Apparently  A-pé-rent-li  Aparentemente  Advérbio  B2
+Presumably  Pri-zú-ma-bli  Presumivelmente  Advérbio  C1
+Undoubtedly  Ân-dáu-ted-li  Indubitavelmente  Sem dúvida  Advérbio  C1
+Allegedly  A-lé-djed-li  Alegadamente  Supostamente  Advérbio  C2
+Reportedly  Ri-pór-ted-li  Segundo relatos  Consta que  Advérbio  C2
+Theoretically  Fi-o-ré-ti-ca-li  Teoricamente  Advérbio  C1
+Hypothetically  Rai-po-fé-ti-ca-li  Hipoteticamente  Advérbio  C2
+Frankly  FRÊNK-li  Francamente  Advérbio  B2
+Honestly  Ó-nest-li  Honestamente  Advérbio  B1
+Naturally  NÉ-tchu-ra-li  Naturalmente  Advérbio  B1
+Surprisingly  Sar-prái-zing-li  Surpreendentemente  Advérbio  B1
+Inevitably  In-é-vi-ta-bli  Inevitavelmente  Advérbio  C1
+Ironically  Ai-ró-ni-ca-li  Ironicamente  Advérbio  C1
+
+
+// MÓDULO: TI & DESENVOLVIMENTO (CORE)
+Frontend | Frónt-énd | Interface do utilizador | TI/Tech | B1
+Backend | Bék-énd | Lógica do servidor e base de dados | TI/Tech | B1
+Framework | Frêim-uôrk | Conjunto de ferramentas pré-moldadas | TI/Tech | B2
+API | Ei-Pí-Ái | Interface de programação de aplicações | TI/Tech | B2
+Sandbox | Sênd-bóks | Ambiente de teste isolado | TI/Tech | B2
+Deployment | Di-plói-ment | Implantação de código em produção | TI/Tech | B2
+Repository | Ri-pó-zi-tó-ri | Local de armazenamento de código | TI/Tech | B1
+Pull Request | Púl Ri-kuést | Solicitação para fundir código | TI/Tech | B2
+Code Review | Côud Ri-viú | Revisão de código por pares | TI/Tech | B1
+Debugging | Di-bâ-guing | Processo de encontrar e corrigir erros | TI/Tech | B1
+Latency | Lêi-ten-si | Atraso na resposta da rede | TI/Tech | B2
+Encryption | En-críp-shon | Cifragem de dados para segurança | TI/Tech | C1
+Scalability | Scêi-la-bí-li-ti | Capacidade de crescimento do sistema | TI/Tech | C1
+Redundancy | Ri-dân-dan-si | Duplicação de sistemas por segurança | TI/Tech | C1
+Legacy System | Lé-ga-si Sís-tem | Sistema antigo ainda em uso | TI/Tech | B2
+Full Stack | Fúl Sték | Desenvolvedor que actua em todas as frentes | TI/Tech | B1
+Hard Drive | Rárd Dráiv | Disco rígido | TI/Tech | A2
+Throughput | Frú-pút | Taxa de transferência de dados | TI/Tech | C1
+Firewall | Fái-er-uôl | Barreira de segurança de rede | TI/Tech | B1
+
+// MÓDULO: FISCO, AUDITORIA & ECONOMIAVAT 
+(Value Added Tax) | Ví-Ei-Tí | Imposto sobre o Valor Acrescentado (IVA) | Fisco | B2
+Income Tax | Ín-câm Téks | Imposto de rendimento | Fisco | B2
+Compliance | Com-plái-ans | Conformidade com leis e normas | Fisco | C1
+Asset | Á-set | Ativo / Bem de valor | Fisco | B2
+Liability | Lai-a-bí-li-ti | Passivo / Obrigações financeiras | Fisco | C1
+Equity | É-kwi-ti | Capital próprio / Património líquido | Fisco | C1
+Auditing | Ó-di-ting | Processo de fiscalização contabilística | Fisco | B2
+Tax Evasion | Téks I-vêi-shon | Evasão / Fuga fiscal (Ilegal) | Fisco | C1
+Tax Avoidance | Téks A-vói-dans | Elisão fiscal (Legal) | Fisco | C1
+Internal Revenue Service | In-têr-nal Ré-ve-niu Sêr-vis | Receita Federal (Órgão) | Fisco | C1
+Ledger | Lé-djer | Livro razão / Registro de contas | Fisco | C1
+Balance Sheet | Bé-lans Shít | Balanço patrimonial | Fisco | B2
+Profit and Loss (P&L) | Pró-fit ênd Lós | Demonstração de resultados | Fisco | B2
+Tax Bracket | Téks Bré-ket | Faixa de tributação | Fisco | B2
+Withholding Tax | Uif-rôul-ding Téks | Imposto retido na fonte | Fisco | C1
+Fiscal Year | Fís-cal Í-ar | Ano fiscal / exercício | Fisco | B2
+
+// MÓDULO: CONSTRUÇÃO CIVIL & ENGENHARIA
+Reinforced Concrete | Ri-in-fórs-t Cón-crit | Betão armado | Obras | B2
+Foundation | Fáun-dêi-shon | Alicerce / Fundação | Obras | B1
+Scaffolding | Scé-fôl-ding | Andaimes | Obras | B2
+Crane | Crêin | Guindaste | Obras | A2
+Insulation | In-su-lêi-shon | Isolamento térmico ou acústico | Obras | B2
+Mortar | Mór-tar | Argamassa | Obras | B2
+Drywall | Drái-uôl | Gesso cartonado | Obras | B1
+Beams | Bíms | Vigas de sustentação | Obras | B2
+Columns | Có-lâms | Pilares / Colunas | Obras | B1
+Site Manager | Sáit Mé-nadj-er | Gestor de obra / Estaleiro | Obras | B1
+Building Codes | Bíl-ding Côuds | Normas de construção | Obras | C1
+Safety Goggles | Sêif-ti Gó-guels | Óculos de proteção | Obras | A2
+Blueprint | Blú-print | Desenho técnico / Planta | Obras | B1
+
+// MÓDULO: EXECUTIVO & NEGOCIAÇÃO (C1+)
+Bottom Line | Bó-tom Láin | Resultado líquido / O que importa | Executivo | C1
+Takeaway | Têi-ka-uêi | Ponto principal para levar da reunião | Executivo | B2
+Stakeholder | Stêik-rôul-der | Parte interessada no projecto | Executivo | C1
+Milestone | Máil-stôun | Marco importante ou etapa | Executivo | B2
+Outsource | Áut-sórs | Terceirizar serviços | Executivo | B1
+Benchmark | Béntch-márk | Referência de mercado | Executivo | C1
+Brainstorm | Brêin-stórm | Torneio de ideias | Executivo | B1
+Niche Market | Nítch Már-ket | Mercado de nicho | Executivo | B2
+Core Competency | Cór Com-pé-ten-si | Competência principal da empresa | Executivo | C1
+Empowerment | Em-páu-er-ment | Autonomia para decidir | Executivo | C1
+Scalable | Scêi-la-bol | Escalável / Que pode crescer | Executivo | B2
+
+// MÓDULO: PHRASAL VERBS PROFISSIONAIS
+Follow up | Fó-lou âp | Dar continuidade a um contacto | Gramática | B1
+Call off | Cól óf | Cancelar um evento ou reunião | Gramática | B2
+Look into | Lúk ín-tu | Investigar um problema ou erro | Gramática | B2
+Run out of | Rân áut óv | Ficar sem (tempo, dinheiro, stock) | Gramática | B1
+Back down | Bék dáun | Ceder numa negociação | Gramática | C1
+Bring up | Bríng âp | Mencionar um assunto em reunião | Gramática | B1
+Carry out | Ké-ri áut | Executar uma tarefa ou plano | Gramática | B2
+Set up | Sét âp | Configurar ou organizar algo | Gramática | B1
+
+// MÓDULO: VIAGEM & EMERGÊNCIAS
+Boarding Pass | Bór-ding Pés | Cartão de embarque | Viagem | A2
+Customs | Câs-toms | Alfândega | Viagem | B1
+Baggage Claim | Bé-guêidj Clêim | Recolha de bagagem | Viagem | A2
+Delayed | Di-lêid | Atrasado | Viagem | A2
+Cancelled | Cén-seld | Cancelado | Viagem | A2
+Layover | Lêi-ôu-ver | Escala / Conexão longa | Viagem | B1
+Car Rental | Cár Rén-tal | Aluguer de viaturas | Viagem | B1
+Shuttle | Shâ-tol | Transporte de curta distância (Transfer) | Viagem | B1
+Insurance | In-shú-rans | Seguro (Saúde, Carro, etc.) | Viagem | B2
+
+// ESTRUTURAS: ABERTURA DE REUNIÕES & NETWORKING
+I'd like to welcome everyone to... | Aid láik tu uél-câm é-vri-uãn tu... | Gostaria de dar as boas-vindas a todos a... | Reuniões | B1
+Let's get down to business | Léts guét dáun tu bí-zi-nes | Vamos direto ao assunto / aos negócios | Reuniões | B2
+Thank you all for coming today | Fênk iú ól fór câ-ming tu-dêi | Obrigado a todos por virem hoje | Reuniões | A2
+Before we begin, let's briefly... | Bi-fór ui bi-guín, léts bríf-li... | Antes de começarmos, vamos brevemente... | Reuniões | B1
+Does everyone have a copy of the agenda? | Dâz é-vri-uãn rév a có-pi óv di a-djén-da? | Todos têm uma cópia da pauta? | Reuniões | B1
+It's a pleasure to finally meet you in person | Its a plé-jur tu fái-na-li mít iú in pêr-son | É um prazer finalmente conhecê-lo pessoalmente | Networking | A2
+I've been looking forward to this meeting | Áiv bín lú-king fór-uard tu dís mí-ting | Estava ansioso por esta reunião | Networking | B2
+
+// ESTRUTURAS: CONSULTORIA & AUDITORIA (FISCAL)
+Based on our latest audit, we found... | Bêist ón áuar lêi-test ó-dit, ui fáund... | Com base na nossa última auditoria, descobrimos... | Consultoria | C1
+According to the current tax regulations... | A-cór-ding tu dê câ-rent téks re-guiu-lêi-shons... | De acordo com os regulamentos fiscais atuais... | Fisco | C1
+You are eligible for a tax refund of... | Iú ár é-li-dji-bol fór a téks ri-fând óv... | Você é elegível para um reembolso de imposto de... | Fisco | B2
+We need to reconcile these accounts by... | Ui níd tu re-con-sái-ol díz a-cáunts bái... | Precisamos reconciliar estas contas até... | Fisco | B2
+Could you provide the supporting documents for...? | Kud iú pro-vái-d dê sa-pór-ting dó-kiu-ments fór...? | Poderia fornecer os documentos de suporte para...? | Auditoria | B2
+There is a discrepancy between... | Dér iz a dis-cré-pan-si bi-tuín... | Existe uma discrepância entre... | Auditoria | C1
+To ensure compliance, we recommend... | Tu en-shúr com-plái-ans, ui re-co-ménd... | Para garantir a conformidade, recomendamos... | Consultoria | C1
+
+// ESTRUTURAS: TI & SUPORTE TÉCNICO
+We are currently investigating the issue | Ui ár câ-rent-li in-vés-ti-guêi-ting di í-shu | Estamos atualmente a investigar o problema | TI/Tech | B1
+The server is experiencing some downtime | Dê sêr-ver iz eks-pi-ri-én-sing sâm dáun-táim | O servidor está a passar por algum tempo de inatividade | TI/Tech | B2
+Please, try to clear your cache and cookies | Plíz, trái tu clí-ar iór késh ênd cú-kis | Por favor, tente limpar a sua cache e cookies | TI/Tech | A2
+We will deploy the fix by tonight | Ui uíl di-plói dê fíks bái tu-náit | Vamos implementar a correção até hoje à noite | TI/Tech | B2
+This bug is affecting the performance of... | Dís bâg iz a-féc-ting dê per-fór-mans óv... | Este erro está a afetar o desempenho de... | TI/Tech | B1
+We have successfully backed up the database | Ui rév sac-sés-fu-li bék-t âp dê dêi-ta-bêis | Fizemos o backup da base de dados com sucesso | TI/Tech | B1
+Is the system up and running now? | Iz dê sís-tem âp ênd rân-ning náu? | O sistema está a funcionar agora? | TI/Tech | A2
+
+// ESTRUTURAS: NEGOCIAÇÃO & PRAZOS
+I'm afraid that deadline is too tight | Aim a-frêid dét déd-láin iz tú táit | Receio que esse prazo seja muito apertado | Negociação | B2
+Could we meet in the middle? | Kud ui mít in dê mí-dol? | Poderíamos chegar a um meio-termo? | Negociação | B2
+What if we offer a discount for...? | Uát íf ui ó-fer a dís-cáunt fór...? | E se oferecermos um desconto para...? | Negociação | B1
+I understand your point, however... | Ai ân-der-sténd iór póint, ráu-é-ver... | Compreendo o seu ponto, no entanto... | Negociação | B2
+We are willing to consider your proposal if... | Ui ár uí-ling tu con-sí-der iór pro-pô-zal íf... | Estamos dispostos a considerar a sua proposta se... | Negociação | C1
+Let's wrap this up by Friday | Léts rép dís âp bái frái-dêi | Vamos concluir isto até sexta-feira | Negociação | B1
+We need a firm commitment on... | Ui níd a fêrm co-mít-ment ón... | Precisamos de um compromisso firme em relação a... | Negociação | C1
+
+// ESTRUTURAS: E-MAILS & FORMALIDADES
+I am writing to follow up on... | Ai ém rái-ting tu fó-lou âp ón... | Escrevo para dar seguimento a... | Escrita | B1
+Please, find the attached report regarding... | Plíz, fáind di a-tétch-t ri-pórt ri-gár-ding... | Por favor, encontre o relatório em anexo referente a... | Escrita | B1
+Should you have any questions, feel free to... | Shud iú rév é-ni kués-tchans, fíl frí tu... | Caso tenha alguma dúvida, sinta-se à vontade para... | Escrita | B2
+I look forward to hearing from you soon | Ai lúk fór-uard tu rí-ring fróm iú sún | Aguardo o seu contacto em breve | Escrita | A2
+Thank you for your prompt response | Fênk iú fór iór prómpt ris-póns | Obrigado pela sua resposta rápida | Escrita | B1
+As per our previous conversation... | Éz pêr áuar prí-vi-os con-ver-sêi-shon... | Conforme a nossa conversa anterior... | Escrita | B2
+We apologize for any inconvenience caused | Ui a-pó-lo-djáiz fór é-ni in-con-vi-ni-ens cózd | Pedimos desculpa por qualquer inconveniente causado | Escrita | B2
+
+// ESTRUTURAS: OBRAS & CONSTRUÇÃO
+The project is currently on schedule | Dê pró-djékt iz câ-rent-li ón scé-djul | O projeto está atualmente dentro do cronograma | Obras | B1
+We ran into some structural issues with... | Ui rén ín-tu sâm strâc-tchu-ral í-shus uif... | Encontrámos alguns problemas estruturais com... | Obras | C1
+The foundation needs to be reinforced | Dê fáun-dêi-shon níds tu bí ri-in-fórs-t | A fundação precisa de ser reforçada | Obras | B2
+We are waiting for the building permit | Ui ár uêi-ting fór dê bíl-ding pêr-mít | Estamos à espera do alvará de construção | Obras | B1
+Safety is our top priority on site | Sêif-ti iz áuar tóp prai-ó-ri-ti ón sáit | A segurança é a nossa prioridade máxima no estaleiro | Obras | A2
+The materials will be delivered by... | Dê ma-tí-ri-ols uíl bí di-lí-verd bái... | Os materiais serão entregues até... | Obras | A2
+
+
+// MÓDULO: RESUMO DA JORNADA (THE ROADMAP)
+Part 1-5 | TI, Fisco, Obras, Executivo, Viagem, Direito Civil, Logística, Marketing, RH, Imobiliário.Part 6-10 | Finanças, Auditoria, Mobilidade, Agile, Idioms, Seguros, Networking, Conetores, Fast English.Part 11-15 | Emergências, Amigos, Família, Academia, Tech/IA, Oratória, Gastronomia, Vinhos.Part 16-20 | Liderança, Luxo, Agro, Crises, Reforma Tributária (EC 132), Split Payment, Créditos.Part 21-25 | Survival Street, Fillers (Social/Boardroom), Auditoria Big Four, Urban Slang.
+
+// MÓDULO: FRASES DE ENCERRAMENTO E IMPACTO (CLOSING STATEMENTS)
+Let's wrap this up | Léts-RÉP-di-SÂP | Vamos encerrar/concluir isto | Finalização | B1
+The mission is accomplished | De-MÍ-sho-ni-za-CÓM-plish-t | A missão está cumprida | Finalização | B2
+We've covered a lot of ground | Uiv-CÂ-verd-a-LÓ-ra-GRÁUND | Cobrimos muito terreno / Falámos de muita coisa | Finalização | C1
+Moving forward, we should... | MÚ-vin-FÓR-uard, ui-SHÚD... | Daqui para a frente, devemos... | Finalização | B2
+It was a pleasure working with you | It-uó-za-PLÉ-jur-UÔR-kin-uif-iú | Foi um prazer trabalhar consigo | Finalização | A2
+I'm confident in our results | Aim-CÓN-fi-den-ti-náuar-ri-ZÂLTS | Estou confiante nos nossos resultados | Finalização | C1
+The sky is the limit | De-SKÁI-iz-de-LÍ-mit | O céu é o limite | Finalização | B1
+
+// MÓDULO: REVISÃO DE OURO (THE GOLDEN RULES)
+Consistency is key | con-SÍS-ten-si-iz-KÍ | Consistência é a chave | Regras | B1
+Practice makes perfect | PRÁK-ti-smêiks-PÊR-fekt | A prática leva à perfeição | Regras | A2
+Listen before you speak | LÍ-sen-bi-FÓR-iu-SPÍK | Ouça antes de falar | Regras | B1
+Context is everything | CÓN-teks-ti-zÉ-vri-fín | Contexto é tudo | Regras | B2
+
+// MÓDULO: EXCEÇÕES FINAIS (THE LAST ONES)
+Wait for it... | UÊI-fô-rít... | Espera só para ver... (Suspense) | Street | A2
+Nailed it! | NÊI-uld-ít! | Acertei em cheio! / Fiz perfeitamente! | Street | B1
+Game on | GUÊI-món | O jogo começou / Vamos a isto | Street | B1
