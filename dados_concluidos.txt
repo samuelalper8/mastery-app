@@ -107,6 +107,351 @@ Urgent | Âr-djent | Urgente | Negócios | A2
 Feasible | Fí-zi-bol | Viável / Possível de fazer | Negócios | C1
 Viable | Vái-a-bol | Viável (economicamente) | Negócios | C1
 
+// MÓDULO: VARIAÇÕES E EXPRESSÕES COM "SO"
+So | Sôu | Então / Por isso | Conjunção | A1
+So | Sôu | Tão / Muito | Intensificador | A1
+So much | Sôu mátch | Tanto / Muito (incontável) | Quantificador | A1
+So many | Sôu mêni | Tantos / Muitos (contável) | Quantificador | A1
+I think so | Ai fink sôu | Acho que sim | Expressão | A1
+I don't think so | Ai dôunt fink sôu | Acho que não | Expressão | A1
+So-so | Sôu-sôu | Mais ou menos | Expressão | A2
+And so on | End sôu ón | E assim por diante | Expressão | B1
+So far | Sôu far | Até agora | Advérbio | B1
+So that | Sôu dét | De modo que / Para que | Conjunção | B1
+I hope so | Ai rôup sôu | Espero que sim | Expressão | B1
+If so | Íf sôu | Se sim / Caso seja | Condicional | B1
+So far so good | Sôu far sôu gud | Até aqui, tudo bem | Expressão Idiomática | B2
+So what? | Sôu uót? | E daí? | Expressão (Informal) | B2
+Is that so? | Íz dét sôu? | É mesmo? / Ah, é? | Pergunta Retórica | B2
+Or so | Ór sôu | Mais ou menos / Aproximadamente | Expressão | B2
+Even so | Íven sôu | Mesmo assim | Conjunção | C1
+So as to | Sôu éz tu | A fim de / Para | Gramática (Formal) | C1
+So long as | Sôu lóng éz | Contanto que | Conjunção | C1
+So be it | Sôu bi ít | Que assim seja | Expressão Formal | C2
+So to speak | Sôu tu spík | Por assim dizer | Expressão Idiomática | C2
+
+// MÓDULO: VARIAÇÕES E EXPRESSÕES COM "GET"
+Get | Gét | Pegar / Obter / Receber | Verbo Irregular | A1
+Get up | Gét âp | Levantar-se | Phrasal Verb | A1
+Get out | Gét áut | Sair | Phrasal Verb | A1
+Get ready | Gét ré-di | Preparar-se | Expressão | A2
+Get dressed | Gét drésd | Vestir-se | Expressão | A2
+Get married | Gét mé-rid | Casar-se | Expressão | A2
+Get well | Gét uél | Melhorar (saúde) | Expressão | A2
+Get lost | Gét lóst | Perder-se | Expressão | B1
+Get along | Gét a-lóng | Se dar bem (relacionamento) | Phrasal Verb | B1
+Get rid of | Gét ríd óv | Livrar-se de | Phrasal Verb | B2
+Get over | Gét ôu-ver | Superar | Phrasal Verb | B2
+Get used to | Gét iúzd tu | Acostumar-se | Gramática | B2
+Get by | Gét bái | Se virar (sobreviver) | Phrasal Verb | C1
+Get away with | Gét a-uêi uíf | Sair impune | Phrasal Verb | C1
+Get the hang of | Gét dâ réng óv | Pegar o jeito | Expressão Idiomática | C2
+
+// MÓDULO: VARIAÇÕES E EXPRESSÕES COM "WAY"
+Way | Uêi | Caminho / Jeito / Maneira | Substantivo | A1
+No way | Nôu uêi | De jeito nenhum | Expressão (Informal) | A2
+By the way | Bái dâ uêi | A propósito | Conector | A2
+On my way | Ón mái uêi | A caminho | Expressão | A2
+Anyway | Ê-ni-uêi | De qualquer forma / Enfim | Conector | B1
+In a way | Ín a uêi | De certa maneira | Expressão | B2
+Either way | Í-der uêi | De qualquer modo (entre dois) | Expressão | B2
+All the way | Ól dâ uêi | Até o fim / Totalmente | Expressão | B2
+Out of the way | Áut óv dâ uêi | Fora do caminho / Isolado | Expressão | C1
+Have it your way | Rév ít iór uêi | Faça do seu jeito | Expressão | C1
+Pave the way | Pêiv dâ uêi | Abrir caminho (preparar o terreno) | Expressão Idiomática | C2
+
+// MÓDULO: VARIAÇÕES E EXPRESSÕES COM "COULD"
+Could | Kûd | Podia / Poderia | Verbo Modal | A2
+Couldn't | Kû-dênt | Não podia / Não poderia | Verbo Modal | A2
+Could I...? | Kûd ái | Eu poderia...? | Permissão (Polido) | A2
+Could you...? | Kûd iú | Você poderia...? | Pedido (Polido) | A2
+Could be | Kûd bi | Pode ser / Poderia ser | Possibilidade | B1
+Could have | Kûd rév | Poderia ter | Passado Modal | B1
+If I could | Íf ái kûd | Se eu pudesse | Condicional | B1
+As fast as I could | Éz fést éz ái kûd | O mais rápido que pude | Expressão | B1
+How could you? | Ráu kûd iú? | Como você pôde? | Expressão (Indignação) | B2
+It could be worse | Ít kûd bi uârs | Poderia ser pior | Expressão | B2
+Who could it be? | Ru kûd ít bi? | Quem poderia ser? | Especulação | B2
+I couldn't help it | Ai kû-dênt rélp ít | Não consegui evitar | Expressão Idiomática | C1
+I couldn't agree more | Ai kû-dênt a-grí mór | Concordo plenamente | Expressão | C1
+Could do with | Kûd du uíf | Estar precisando de / Cairia bem | Expressão Idiomática | C2
+Couldn't care less | Kû-dênt kér lés | Não estou nem aí | Expressão (Informal) | C2
+
+// MÓDULO: VARIAÇÕES E EXPRESSÕES COM "SHOULD"
+Should | Xûd | Deveria / Deve | Verbo Modal | A2
+Shouldn't | Xû-dênt | Não deveria | Verbo Modal | A2
+I should go | Ai xûd gôu | Eu deveria ir | Frase | A2
+You should try | Iú xûd trái | Você deveria tentar | Conselho | A2
+What should I do? | Uót xûd ái du? | O que eu deveria fazer? | Pergunta | B1
+Should be | Xûd bi | Deve estar / Deve ser (provável) | Probabilidade | B1
+Should have | Xûd rév | Deveria ter | Passado Modal | B2
+Should have known | Xûd rév nôun | Deveria ter sabido | Expressão | B2
+You really should | Iú rí-li xûd | Você realmente deveria | Ênfase | B2
+Why should I? | Uái xûd ái? | Por que eu deveria? | Expressão (Defensiva) | B2
+It should work | Ít xûd uôrk | Deve funcionar | Expectativa | B2
+Should you need | Xûd iú níd | Caso você precise | Condicional (Formal) | C1
+I should think so | Ai xûd fink sôu | Acredito que sim / Tomara que sim | Expressão | C1
+Should've, Would've, Could've | Xû-dav, Uû-dav, Kû-dav | Teria, poderia, deveria (falar do passado sem agir) | Expressão Idiomática | C2
+Lest you should | Lést iú xûd | Para que você não... | Gramática Arcaica/Formal | C2
+
+// MÓDULO: VARIAÇÕES E EXPRESSÕES COM "WOULD"
+Would | Uûd | (Terminação -ia) Faria / Seria | Verbo Modal | A2
+Wouldn't | Uû-dênt | Não faria / Não seria | Verbo Modal | A2
+Would like | Uûd láik | Gostaria (Queria polido) | Expressão | A2
+Would you like? | Uûd iú láik? | Você gostaria? | Oferta | A2
+It would take | Ít uûd têik | Levaria (tempo) | Expressão | B1
+I would say | Ai uûd sêi | Eu diria | Opinião | B1
+That would be | Dét uûd bi | Isso seria | Reação | B1
+Would rather | Uûd rá-der | Preferiria | Preferência | B2
+Would mind | Uûd máind | Se importaria | Pedido (Formal) | B2
+Would have | Uûd rév | Teria (feito algo) | Passado Modal | B2
+Would never | Uûd né-ver | Nunca faria | Ênfase | B2
+If I were you, I would | Íf ái uâr iú, ai uûd | Se eu fosse você, eu faria | Conselho | B2
+Wouldn't miss it | Uû-dênt mís ít | Não perderia por nada | Expressão Idiomática | C1
+Whatever it would take | Uót-é-ver ít uûd têik | O que fosse necessário | Expressão | C1
+As luck would have it | Éz lâck uûd rév ít | Por obra do acaso / Por sorte | Expressão Idiomática | C2
+
+// MÓDULO: VARIAÇÕES E EXPRESSÕES COM "WILL"
+Will | Uíl | Vai / Irá (Indicador de Futuro) | Verbo Auxiliar | A1
+Won't | Uôunt | Não vai / Não irá | Verbo Auxiliar (Negativo) | A1
+I'll | Ail | Eu vou / Eu irei | Contração (I will) | A1
+Will you...? | Uíl iú | Você vai...? / Você aceita...? | Convite / Pedido | A1
+Yes, I will | Iés, ai uíl | Sim, eu vou / Aceito | Resposta Curta | A1
+Will be | Uíl bi | Estará / Será | Futuro | A2
+Will do | Uíl du | Farei / Pode deixar | Confirmação | B1
+Will power | Uíl páu-er | Força de vontade | Substantivo | B1
+Free will | Frí uíl | Livre arbítrio | Substantivo | B2
+Against my will | A-gênst mái uíl | Contra a minha vontade | Expressão | B2
+Will have | Uíl rév | Terá (feito algo) | Futuro Perfeito | B2
+That will do | Dét uíl du | Já serve / É o suficiente | Expressão Idiomática | C1
+At will | Ét uíl | À vontade / Quando quiser | Expressão Formal | C1
+Good will | Gûd uíl | Boa vontade | Substantivo | C1
+Last will | Lést uíl | Testamento / Último desejo | Termo Legal | C2
+
+// MÓDULO: VARIAÇÕES E EXPRESSÕES COM "GOT"
+Got | Gót | Consegui / Peguei / Recebi | Verbo (Passado) | A1
+I've got | Áiv gót | Eu tenho | Posse (Presente informal) | A1
+Have got to | Rév gót tu | Ter que | Obrigação | A2
+Got it | Gót ít | Entendi / Saquei | Expressão | A2
+Gotcha | Gót-cha | Entendi / Te peguei | Gíria | B1
+Got lost | Gót lóst | Perdi-me / Se perdeu | Expressão | B1
+Got better | Gót bé-ter | Melhorou | Mudança de Estado | B1
+You got this | Iú gót dís | Você consegue / Vai dar certo | Incentivo | B1
+Got used to | Gót iúzd tu | Acostumou-se | Hábito | B2
+Got stuck | Gót stâck | Ficou preso / Travou | Expressão | B2
+Got fired | Gót fá-ird | Foi demitido | Voz Passiva Informal | B2
+Got away | Gót a-uêi | Escapou | Phrasal Verb (Passado) | B2
+Got to go | Gót tu gôu | Tenho que ir | Despedida | B2
+Got out of hand | Gót áut óv rénd | Saiu do controle | Expressão Idiomática | C1
+Got wind of | Gót uínd óv | Ouviu falar / Descobriu (rumor) | Expressão Idiomática | C2
+
+// MÓDULO: ADJETIVOS POR SUFIXO (PART 1: -AN, -ABLE, -IBLE)
+Urban | Âr-ban | Urbano | Adjetivo (-an) | B2
+American | A-mé-ri-can | Americano | Adjetivo (-an) | A1
+Indian | Ín-di-an | Indiano | Adjetivo (-an) | A1
+Adorable | A-dó-ra-bol | Adorável | Adjetivo (-able) | B1
+Comfortable | Kâm-for-ta-bol | Confortável | Adjetivo (-able) | A1
+Available | A-vêi-la-bol | Disponível | Adjetivo (-able) | A2
+Responsible | Ris-pón-sa-bol | Responsável | Adjetivo (-ible) | A2
+Invisible | In-ví-zi-bol | Invisível | Adjetivo (-ible) | B1
+Incorrigible | In-có-ri-dji-bol | Incorrigível | Adjetivo (-ible) | C2
+
+// MÓDULO: ADJETIVOS POR SUFIXO (PART 2: -AL, -AR, -IC, -ICAL)
+Viral | Vái-ral | Viral | Adjetivo (-al) | B2
+Educational | E-du-kêi-xo-nal | Educacional | Adjetivo (-al) | B2
+Aerial | É-ri-al | Aéreo | Adjetivo (-al) | C1
+Popular | Pó-piu-lar | Popular | Adjetivo (-ar) | A1
+Nuclear | Nú-cli-ar | Nuclear | Adjetivo (-ar) | B1
+Angular | Ên-guiu-lar | Angular | Adjetivo (-ar) | C1
+Athletic | Ef-lé-tic | Atlético | Adjetivo (-ic) | B1
+Scientific | Sai-en-tí-fic | Científico | Adjetivo (-ic) | B1
+Dogmatic | Dóg-mé-tic | Dogmático | Adjetivo (-ic) | C2
+Identical | Ai-dên-ti-cal | Idêntico | Adjetivo (-ical) | B2
+Magical | Mé-dji-cal | Mágico | Adjetivo (-ical) | A2
+Comical | Có-mi-cal | Cômico / Engraçado | Adjetivo (-ical) | C1
+
+// MÓDULO: ADJETIVOS POR SUFIXO (PART 3: -INE, -ILE, -IVE)
+Masculine | Més-kiu-lin | Masculino | Adjetivo (-ine) | B1
+Feminine | Fé-mi-nin | Feminino | Adjetivo (-ine) | B1
+Canine | Kêi-nain | Canino | Adjetivo (-ine) | C1
+Fertile | Fâr-tail | Fértil | Adjetivo (-ile) | C1
+Agile | É-djail | Ágil | Adjetivo (-ile) | C1
+Hostile | Rós-tail | Hostil | Adjetivo (-ile) | C1
+Talkative | Tó-ka-tiv | Falador / Conversador | Adjetivo (-ive) | B1
+Native | Nêi-tiv | Nativo | Adjetivo (-ive) | B1
+Furtive | Fâr-tiv | Furtivo / Discreto | Adjetivo (-ive) | C2
+
+// MÓDULO: ADJETIVOS POR SUFIXO (PART 4: -ENT, -FUL, -LESS)
+Intelligent | In-té-li-djent | Inteligente | Adjetivo (-ent) | A1
+Silent | Sái-lent | Silencioso | Adjetivo (-ent) | B1
+Potent | Pôu-tent | Potente / Forte | Adjetivo (-ent) | C1
+Beautiful | Bíu-ti-ful | Bonito / Lindo | Adjetivo (-ful) | A1
+Harmful | Rárm-ful | Prejudicial / Nocivo | Adjetivo (-ful) | B2
+Deceitful | Di-sít-ful | Enganoso / Desonesto | Adjetivo (-ful) | C2
+Careless | Kér-les | Descuidado / Desligado | Adjetivo (-less) | B2
+Useless | Iús-les | Inútil | Adjetivo (-less) | B2
+Timeless | Táim-les | Atemporal / Eterno | Adjetivo (-less) | C1
+
+// MÓDULO: ADJETIVOS POR SUFIXO (PART 5: -OUS, -SOME)
+Dangerous | Dên-dje-rôs | Perigoso | Adjetivo (-ous) | A2
+Enormous | I-nór-môs | Enorme | Adjetivo (-ous) | B1
+Fibrous | Fái-brôs | Fibroso | Adjetivo (-ous) | C2
+Awesome | Ó-sam | Incrível / Demais | Adjetivo (-some) | A2
+Handsome | Rén-sam | Bonito (geralmente p/ homens) | Adjetivo (-some) | A2
+Lonesome | Lôn-sam | Solitário | Adjetivo (-some) | C2
+
+// MÓDULO: ADJETIVOS E QUANTIFICADORES IRREGULARES (COMPARATIVOS E SUPERLATIVOS)
+Good | Gûd | Bom | Adjetivo Irregular | A1
+Better | Bé-ter | Melhor (que) | Comparativo | A1
+The best | Dâ bést | O melhor | Superlativo | A1
+
+Bad | Béd | Ruim / Mau | Adjetivo Irregular | A1
+Worse | Uârs | Pior (que) | Comparativo | A2
+The worst | Dâ uârst | O pior | Superlativo | A2
+
+Much | Mâtch | Muito (incontável) | Quantificador | A1
+Many | Mê-ni | Muitos (contável) | Quantificador | A1
+More | Mór | Mais | Comparativo | A1
+The most | Dâ môust | A maioria / O mais | Superlativo | A1
+
+Little | Lí-rol | Pequeno / Pouco | Adjetivo/Quantificador | A1
+Less | Lés | Menos | Comparativo | A2
+The least | Dâ líst | O menos / O mínimo | Superlativo | B1
+
+Far | Far | Longe | Adjetivo Irregular | A1
+Further | Fâr-der | Mais longe (metafórico/distância) | Comparativo | B1
+Farther | Fár-der | Mais longe (distância física) | Comparativo | B1
+The furthest | Dâ fâr-dest | O mais distante | Superlativo | B2
+
+// MÓDULO: COMPARATIVOS E SUPERLATIVOS (CASOS ESPECIAIS)
+Old | Ôuld | Velho | Adjetivo | A1
+Older | Ôul-der | Mais velho (que) | Comparativo | A1
+The oldest | Dâ ôul-dest | O mais velho | Superlativo | A2
+
+Late | Lêit | Tarde / Atrasado | Adjetivo | A1
+Later | Lêi-ter | Mais tarde / Depois | Comparativo | A1
+The latest | Dâ lêi-test | O mais recente (último lançamento) | Superlativo | B1
+
+Near | Ní-ar | Perto | Adjetivo | A2
+Nearer | Ní-a-rer | Mais perto | Comparativo | A2
+The nearest | Dâ ní-a-rest | O mais próximo (físico) | Superlativo | B1
+The next | Dâ nécst | O próximo (sequência) | Superlativo Irregular | A1
+
+// MÓDULO: COMPARATIVOS CVC (DOBRA A LETRA)
+Big | Big | Grande | Adjetivo | A1
+Bigger | Bí-guer | Maior (que) | Comparativo | A1
+The biggest | Dâ bí-guest | O maior | Superlativo | A1
+
+Hot | Rót | Quente | Adjetivo | A1
+Hotter | Ró-ter | Mais quente | Comparativo | A1
+The hottest | Dâ ró-test | O mais quente | Superlativo | A2
+
+Thin | Fin | Magro / Fino | Adjetivo | A2
+Thinner | Fí-ner | Mais magro | Comparativo | B1
+The thinnest | Dâ fí-nest | O mais magro | Superlativo | B1
+
+// MÓDULO: COMPARATIVOS TERMINADOS EM Y
+Happy | Ré-pi | Feliz | Adjetivo | A1
+Happier | Ré-pi-er | Mais feliz | Comparativo | A1
+The happiest | Dâ ré-pi-est | O mais feliz | Superlativo | A2
+
+Easy | Í-zi | Fácil | Adjetivo | A1
+Easier | Í-zi-er | Mais fácil | Comparativo | A1
+The easiest | Dâ í-zi-est | O mais fácil | Superlativo | A2
+
+Busy | Bí-zi | Ocupado | Adjetivo | A1
+Busier | Bí-zi-er | Mais ocupado | Comparativo | A2
+The busiest | Dâ bí-zi-est | O mais ocupado / O mais movimentado | Superlativo | B1
+
+// MÓDULO: COMPARATIVOS LONGOS (MORE/MOST)
+Important | Im-pór-tant | Importante | Adjetivo | A1
+More important | Mór im-pór-tant | Mais importante | Comparativo | A2
+The most important | Dâ môust im-pór-tant | O mais importante | Superlativo | A2
+
+Expensive | Eks-pên-siv | Caro | Adjetivo | A1
+More expensive | Mór eks-pên-siv | Mais caro | Comparativo | A1
+The most expensive | Dâ môust eks-pên-siv | O mais caro | Superlativo | A2
+
+Dangerous | Dên-dje-rôs | Perigoso | Adjetivo | A2
+More dangerous | Mór dên-dje-rôs | Mais perigoso | Comparativo | A2
+The most dangerous | Dâ môust dên-dje-rôs | O mais perigoso | Superlativo | A2
+
+// MÓDULO: VERBOS + PREPOSIÇÕES (COMUNICAÇÃO E AÇÃO)
+Agree on | A-grí ón | Concordar com (um preço/plano) | Verbo + Prep | B1
+Agree in principle | A-grí ín prín-si-pol | Concordar em princípio | Expressão | C1
+Apologize for | A-pó-lo-djaiz fór | Pedir desculpas por (motivo) | Verbo + Prep | B1
+Apologize to | A-pó-lo-djaiz tu | Pedir desculpas a (alguém) | Verbo + Prep | B1
+Argue about | Ár-guiu a-báut | Discutir sobre (algo) | Verbo + Prep | B1
+Argue with | Ár-guiu uíf | Discutir com (alguém) | Verbo + Prep | B1
+Ask about | Ésk a-báut | Perguntar sobre | Verbo + Prep | A1
+Ask for | Ésk fór | Pedir (algo) | Verbo + Prep | A1
+Belong to | Bi-lóng tu | Pertencer a | Verbo + Prep | A2
+Care about | Kér a-báut | Importar-se com (motivo) | Verbo + Prep | A2
+Care for | Kér fór | Cuidar de / Gostar de (pessoa) | Verbo + Prep | B1
+Compare to | Com-pér tu | Comparar a (mostrar semelhanças) | Verbo + Prep | B2
+Compare with | Com-pér uíf | Comparar com (analisar diferenças) | Verbo + Prep | B2
+Differ from | Dí-fer fróm | Diferir de (ser diferente) | Verbo + Prep | B2
+Differ with | Dí-fer uíf | Discordar de (ter outra ideia) | Verbo + Prep | C2
+Pay for | Pêi fór | Pagar por | Verbo + Prep | A1
+Prepare for | Pri-pér fór | Preparar-se para | Verbo + Prep | A2
+Spend on | Spênd ón | Gastar em/com | Verbo + Prep | A2
+Study for | Stâ-di fór | Estudar para | Verbo + Prep | A1
+Talk about | Tók a-báut | Falar sobre | Verbo + Prep | A1
+Think about | Fink a-báut | Pensar sobre | Verbo + Prep | A1
+Trust in | Trâst ín | Confiar em | Verbo + Prep | B2
+Wait for | Uêit fór | Esperar por | Verbo + Prep | A1
+Work for | Uôrk fór | Trabalhar para | Verbo + Prep | A1
+Worry about | Uâ-ri a-báut | Preocupar-se com | Verbo + Prep | A2
+
+// MÓDULO: ADJETIVOS E EMOÇÕES + PREPOSIÇÕES
+Angry at | Ên-gri ét | Bravo com (uma pessoa) | Adjetivo + Prep | A2
+Angry about | Ên-gri a-báut | Bravo por causa de (algo) | Adjetivo + Prep | A2
+Aware of | A-uér óv | Ciente de | Adjetivo + Prep | B2
+Capable of | Kêi-pa-bol óv | Capaz de | Adjetivo + Prep | B2
+Careless about | Kér-les a-báut | Descuidado com | Adjetivo + Prep | B2
+Familiar with | Fa-mí-li-ar uíf | Familiarizado com | Adjetivo + Prep | B2
+Fond of | Fónd óv | Que gosta de / Afeiçoado a | Adjetivo + Prep | B2
+Happy about | Ré-pi a-báut | Feliz com (um motivo) | Adjetivo + Prep | A2
+Happy for | Ré-pi fór | Feliz por (alguém) | Adjetivo + Prep | A2
+Jealous of | Djé-lôs óv | Com ciúmes de | Adjetivo + Prep | B1
+Made of | Mêid óv | Feito de | Adjetivo + Prep | B1
+Married to | Mé-rid tu | Casado com | Adjetivo + Prep | A1
+Proud of | Práud óv | Orgulhoso de | Adjetivo + Prep | B1
+Similar to | Sí-mi-lar tu | Similar a | Adjetivo + Prep | A2
+Sorry for | Só-ri fór | Com pena de / Desculpar-se por | Adjetivo + Prep | A1
+Sure of | Xâr óv | Certo de | Adjetivo + Prep | B1
+Tired of | Tái-ard óv | Cansado de | Adjetivo + Prep | A2
+Worried about | Uâ-rid a-báut | Preocupado com | Adjetivo + Prep | A2
+
+// MÓDULO: PHRASAL VERBS (AÇÃO + PREPOSIÇÃO)
+Bring up | Bring âp | Mencionar / Criar (filhos) | Phrasal Verb | B2
+Find out | Fáind áut | Descobrir | Phrasal Verb | A2
+Give up | Gív âp | Desistir | Phrasal Verb | A2
+Grow up | Grôu âp | Crescer (tornar-se adulto) | Phrasal Verb | A1
+Look for | Lûk fór | Procurar | Phrasal Verb | A1
+Look forward to | Lûk fór-uard tu | Aguardar ansiosamente | Phrasal Verb | B1
+Look up | Lûk âp | Pesquisar / Consultar | Phrasal Verb | A2
+Make up | Mêik âp | Inventar / Compensar / Fazer as pazes | Phrasal Verb | B1
+
+// MÓDULO: SUBSTANTIVOS + PREPOSIÇÕES
+Approval of | A-prú-val óv | Aprovação de | Substantivo + Prep | C1
+Awareness of | A-uér-nes óv | Consciência de | Substantivo + Prep | B2
+Belief in | Bi-líf ín | Crença em | Substantivo + Prep | B2
+Concern for | Con-sârn fór | Preocupação com | Substantivo + Prep | C1
+Confusion about | Con-fiú-jan a-báut | Confusão sobre | Substantivo + Prep | B2
+Desire for | Di-zái-ar fór | Desejo de/por | Substantivo + Prep | C1
+Fondness for | Fónd-nes fór | Afeição por | Substantivo + Prep | C2
+Grasp of | Grésp óv | Compreensão de / Domínio de | Substantivo + Prep | C1
+Hatred of | Rêi-tred óv | Ódio de | Substantivo + Prep | C1
+Hope for | Rôup fór | Esperança de/por | Substantivo + Prep | B1
+Interest in | Ín-trest ín | Interesse em | Substantivo + Prep | A2
+Love of | Lâv óv | Amor por | Substantivo + Prep | B1
+Need for | Níd fór | Necessidade de | Substantivo + Prep | B1
+Participation in | Par-ti-ci-pêi-xon ín | Participação em | Substantivo + Prep | B2
+Reason for | Rí-zon fór | Razão para / Motivo de | Substantivo + Prep | A2
+Respect for | Ris-péct fór | Respeito por | Substantivo + Prep | B1
+Success in | Sac-sés ín | Sucesso em | Substantivo + Prep | B1
+Understanding of | Ân-der-stên-ding óv | Entendimento de | Substantivo + Prep | B2
 
 // MÓDULO: ADVÉRBIOS DE MODO (HOW? - ESSENCIAL PARA TI/OBRAS)
 Automatically | Ó-to-mé-ti-ca-li | Automaticamente | Advérbio | B1
@@ -163,6 +508,336 @@ Scarcely | SCÉRS-li | Escassamente / Mal (quase não) | Advérbio | C2
 Overwhelmingly | Ôu-ver-uél-min-li | Esmagadoramente | Advérbio | C2
 Practically | PRÁC-ti-ca-li | Praticamente | Advérbio | B1
 Utterly | Â-ter-li | Totalmente / Completamente (negativo) | Advérbio | C2
+
+// MÓDULO: CONJUNÇÕES COORDENATIVAS (FANBOYS)
+For | Fór | Pois / Visto que | Conjunção (Razão) | B2
+And | End | E | Conjunção (Adição) | A1
+Nor | Nór | Nem | Conjunção (Adição Negativa) | C1
+But | Bât | Mas / Porém | Conjunção (Contraste) | A1
+Or | Ór | Ou | Conjunção (Alternativa) | A1
+Yet | Iét | Contudo / No entanto | Conjunção (Contraste) | B2
+So | Sôu | Então / Por isso | Conjunção (Consequência) | A1
+
+// MÓDULO: EXEMPLOS PRÁTICOS (FANBOYS)
+I drank some water, for I was thirsty | ... fór ái uóz fârs-ti | Bebi água, pois estava com sede | Exemplo (For) | B2
+She bought apples and oranges | ... é-pols end ó-ran-djes | Ela comprou maçãs e laranjas | Exemplo (And) | A1
+He is tired and hungry | ... tái-ard end rân-gri | Ele está cansado e com fome | Exemplo (And) | A1
+I don't like coffee, nor do I like tea | ... nór du ái láik tí | Não gosto de café, nem gosto de chá | Exemplo (Nor) | C1
+She didn't call, nor did she text | ... nór díd xi técst | Ela não ligou, nem mandou mensagem | Exemplo (Nor) | C1
+I wanted to go, but I was tired | ... bât ái uóz tái-ard | Eu queria ir, mas estava cansado | Exemplo (But) | A2
+He is small but strong | ... smól bât stróng | Ele é pequeno, mas forte | Exemplo (But) | A2
+You can eat it now or later | ... náu ór lêi-ter | Você pode comer agora ou mais tarde | Exemplo (Or) | A1
+Do you want tea or coffee? | ... tí ór có-fi? | Você quer chá ou café? | Exemplo (Or) | A1
+The weather was cold, yet sunny | ... côuld, iét sâ-ni | O tempo estava frio, contudo ensolarado | Exemplo (Yet) | B2
+It is a simple yet effective idea | ... sím-pol iét e-féc-tiv... | É uma ideia simples, porém eficaz | Exemplo (Yet) | B2
+I was hungry, so I made a sandwich | ... sôu ái mêid a sénd-uich | Eu estava com fome, então fiz um sanduíche | Exemplo (So) | A2
+It started to rain, so we went inside | ... sôu ui uênt in-sáid | Começou a chover, por isso entramos | Exemplo (So) | A2
+
+// MÓDULO: INTERJEIÇÕES - EMOÇÕES BÁSICAS
+Oh | Ôu | Ah! / Ó! (Surpresa ou compreensão) | Emoção | A1
+Wow | Uáu | Uau! (Admiração ou surpresa) | Emoção | A1
+Ouch | Áut-ch | Ai! (Expressão de dor) | Sensação | A1
+Yay | Iêi | Eba! / Viva! (Celebração) | Emoção | A1
+Ugh | Âg | Argh! / Aff! (Nojo ou aborrecimento) | Emoção | A2
+Yuck | Iâk | Eca! (Nojo intenso) | Emoção | A2
+Gosh | Góx | Poxa! / Nossa! (Surpresa leve) | Emoção | B1
+Alas | A-lés | Infelizmente / Ai de mim (Lamento) | Literário/Formal | C2
+
+// MÓDULO: INTERJEIÇÕES - REAÇÕES (ERRO, ALÍVIO, DESCOBERTA)
+Oops | Úps | Opa! / Foi mal (Erro pequeno) | Reação | A1
+Whoops | Uûps | Opa! (Variação informal de Oops) | Reação | A2
+Phew | Fíu | Ufa! (Alívio) | Reação | B1
+Aha | A-rá | Ahá! (Descoberta ou entendimento) | Reação | B1
+Uh-oh | Â-ôu | Ih... / Xi... (Percebendo um problema) | Reação | A2
+
+// MÓDULO: INTERJEIÇÕES - CONVERSAÇÃO E ATENÇÃO
+Hey | Rêi | Ei! / Oi (Chamar atenção ou olá) | Social | A1
+Hi | Rái | Oi / Olá | Social | A1
+Hmm | Râm | Hum... (Pensando ou hesitando) | Som de Pausa | A1
+Well | Uél | Bem... / Bom... (Início de frase ou pausa) | Marcador Discursivo | A1
+Shh | Xxx | Shh! (Pedindo silêncio) | Comando | A1
+Eh? | Ê? | Hã? / Né? (Pedindo repetição ou confirmação) | Conversacional | A2
+Bravo | Brá-vôu | Bravo! / Muito bem! | Aprovação | B2
+
+// MÓDULO: NOUNS - COMMON AND PROPER (L1)
+City | Sí-ri | Cidade (Lugar genérico) | Common Noun | A1
+Dog | Dóg | Cachorro (Animal genérico) | Common Noun | A1
+Car | Cár | Carro (Veículo genérico) | Common Noun | A1
+London | Lân-dan | Londres (Cidade específica) | Proper Noun | A1
+Toyota | To-iô-ta | Toyota (Marca específica) | Proper Noun | A1
+Brazil | Bra-zíl | Brasil (País específico) | Proper Noun | A1
+
+// MÓDULO: NOUNS - CONCRETE AND ABSTRACT (L2)
+Table | Têi-bol | Mesa (Objeto físico) | Concrete Noun | A1
+Music | Miú-zic | Música (Som audível) | Concrete Noun | A1
+Cloud | Cláud | Nuvem (Objeto visível) | Concrete Noun | A1
+Love | Lâv | Amor (Sentimento) | Abstract Noun | A1
+Freedom | Frí-dom | Liberdade (Conceito) | Abstract Noun | B1
+Knowledge | Nó-ledj | Conhecimento (Ideia/Saber) | Abstract Noun | B1
+
+// MÓDULO: NOUNS - COUNTABLE AND UNCOUNTABLE (L3)
+Apple | Á-pol | Maçã (Pode contar: 1 apple, 2 apples) | Countable Noun | A1
+Cat | Cét | Gato (Pode contar) | Countable Noun | A1
+Water | Uó-ter | Água (Não se conta unidades sem medida) | Uncountable Noun | A1
+Rice | Ráis | Arroz (Grãos, tratado como massa) | Uncountable Noun | A1
+Information | In-for-mêi-shon | Informação (Conceito abstrato não contável) | Uncountable Noun | A2
+
+// MÓDULO: NOUNS - SINGULAR AND PLURAL (L4)
+Box | Bócs | Caixa (Um objeto) | Singular Noun | A1
+Boxes | Bóc-ses | Caixas (Mais de um objeto) | Plural Noun | A1
+Child | Tchái-old | Criança (Uma pessoa jovem) | Singular Noun | A1
+Children | Tchíl-dren | Crianças (Plural irregular) | Plural Noun | A1
+Mouse | Máus | Camundongo (Um animal) | Singular Noun | A1
+Mice | Máis | Camundongos (Plural irregular) | Plural Noun | A2
+
+// MÓDULO: NOUNS - COLLECTIVE NOUNS (L5)
+Team | Tím | Time / Equipe (Grupo de pessoas) | Collective Noun | A1
+Family | Fé-mi-li | Família (Grupo de parentes) | Collective Noun | A1
+Flock | Flóc | Rebanho / Bando (Grupo de animais/pássaros) | Collective Noun | B1
+Crowd | Cráud | Multidão (Grupo de pessoas) | Collective Noun | A2
+
+// MÓDULO: NOUNS - GENDER NOUNS (L6)
+Actor | Ác-tor | Ator (Masculino) | Masculine Noun | A1
+Actress | Ác-tres | Atriz (Feminino) | Feminine Noun | A1
+Waiter | Uêi-ter | Garçom (Masculino) | Masculine Noun | A1
+Waitress | Uêi-tres | Garçonete (Feminino) | Feminine Noun | A1
+Parent | Pé-rent | Pai ou Mãe (Neutro/Genérico) | Neutral Noun | A2
+
+// MÓDULO: NOUNS - COMPOUND NOUNS (L7)
+Toothpaste | Tús-peist | Pasta de dente (Tooth + Paste) | Compound Noun | A1
+Bedroom | Béd-rum | Quarto (Bed + Room) | Compound Noun | A1
+Bus stop | Bâs stóp | Ponto de ônibus (Duas palavras separadas) | Compound Noun | A1
+Mother-in-law | Má-der in ló | Sogra (Com hífens) | Compound Noun | A2
+
+// MÓDULO: NOUNS - NOUN CASES (L8 - POSSESSIVE)
+John's | Djóns | Do John (Indica posse: John's car) | Genitive Case | A1
+Teacher's | Tí-tchers | Do professor (Singular: Teacher's book) | Genitive Case | A1
+Teachers' | Tí-tchers | Dos professores (Plural: Teachers' room) | Genitive Case | B1
+
+// MÓDULO: PRONOUNS - PERSONAL PRONOUNS (L9)
+I | Ái | Eu (Sujeito) | Personal Pronoun | A1
+You | Iú | Você (Sujeito ou Objeto) | Personal Pronoun | A1
+He | Rí | Ele (Sujeito) | Personal Pronoun | A1
+She | Xí | Ela (Sujeito) | Personal Pronoun | A1
+It | Ít | Ele/Ela/Isso (Neutro para coisas/animais) | Personal Pronoun | A1
+We | Uí | Nós (Sujeito) | Personal Pronoun | A1
+They | Dêi | Eles/Elas (Sujeito) | Personal Pronoun | A1
+Me | Mí | Me/Mim (Objeto: "Help me") | Personal Pronoun | A1
+Him | Rím | O/Ele (Objeto: "Call him") | Personal Pronoun | A1
+Them | Dém | Os/Eles (Objeto: "Tell them") | Personal Pronoun | A1
+
+// MÓDULO: PRONOUNS - POSSESSIVE PRONOUNS (L10)
+Mine | Máin | O meu / A minha (Substitui o substantivo: "It's mine") | Possessive Pronoun | A2
+Yours | Iórs | O seu / O teu (Substitui o substantivo) | Possessive Pronoun | A2
+His | Ríz | O dele (Substitui o substantivo) | Possessive Pronoun | A2
+Hers | Rârs | O dela (Substitui o substantivo) | Possessive Pronoun | A2
+Ours | Áu-ars | O nosso (Substitui o substantivo) | Possessive Pronoun | B1
+Theirs | Dérs | O deles (Substitui o substantivo) | Possessive Pronoun | B1
+
+// MÓDULO: PRONOUNS - DEMONSTRATIVE PRONOUNS (L11)
+This | Dís | Este/Isto (Singular, perto) | Demonstrative Pronoun | A1
+That | Dét | Aquele/Aquilo (Singular, longe) | Demonstrative Pronoun | A1
+These | Dí-iz | Estes (Plural, perto) | Demonstrative Pronoun | A1
+Those | Dôuz | Aqueles (Plural, longe) | Demonstrative Pronoun | A1
+
+// MÓDULO: PRONOUNS - INDEFINITE PRONOUNS (L12)
+Someone | Sâm-uan | Alguém (Frases afirmativas) | Indefinite Pronoun | A1
+Anybody | É-ni-bó-di | Ninguém/Qualquer um (Perguntas/Negativas) | Indefinite Pronoun | A1
+Everything | É-vri-ting | Tudo (Coisas) | Indefinite Pronoun | A1
+Nothing | Nó-ting | Nada (Coisas) | Indefinite Pronoun | A1
+Everyone | É-vri-uan | Todos / Todo mundo (Pessoas) | Indefinite Pronoun | A1
+
+// MÓDULO: PRONOUNS - INTERROGATIVE PRONOUNS (L13)
+Who | Rú | Quem? (Para pessoas) | Interrogative Pronoun | A1
+What | Uót | O que? / Qual? (Para coisas) | Interrogative Pronoun | A1
+Which | Uítch | Qual? (Opções limitadas) | Interrogative Pronoun | A1
+Whose | Rúz | De quem? (Posse) | Interrogative Pronoun | A2
+Whom | Rúm | Quem? (Objeto formal: "Whom did you call?") | Interrogative Pronoun | C1
+
+// MÓDULO: PRONOUNS - RELATIVE PRONOUNS (L14)
+Who | Rú | Que/Quem (Liga frases sobre pessoas) | Relative Pronoun | A2
+Which | Uítch | Que/O qual (Liga frases sobre coisas) | Relative Pronoun | A2
+That | Dét | Que (Liga frases sobre pessoas ou coisas) | Relative Pronoun | A2
+Whose | Rúz | Cujo/Cuja (Indica posse na oração) | Relative Pronoun | B1
+
+// MÓDULO: PRONOUNS - REFLEXIVE AND INTENSIVE (L15)
+Myself | Mái-sélf | A mim mesmo / Eu mesmo | Reflexive Pronoun | A2
+Yourself | Iór-sélf | A você mesmo / Você mesmo | Reflexive Pronoun | A2
+Himself | Rím-sélf | A ele mesmo | Reflexive Pronoun | A2
+Themselves | Dêm-sélvs | A eles mesmos | Reflexive Pronoun | B1
+
+// MÓDULO: PRONOUNS - RECIPROCAL PRONOUNS (L16)
+Each other | Ítchi ó-der | Um ao outro (Entre duas pessoas) | Reciprocal Pronoun | B1
+One another | Uan a-nó-der | Uns aos outros (Entre três ou mais) | Reciprocal Pronoun | B2
+
+// MÓDULO: DETERMINERS - ARTICLES (L17)
+The | Dâ / Dí | O, A, Os, As (Artigo Definido) | Definite Article | A1
+A | Â / Êi | Um, Uma (Antes de som de consoante) | Indefinite Article | A1
+An | Én | Um, Uma (Antes de som de vogal) | Indefinite Article | A1
+
+// MÓDULO: DETERMINERS - DEMONSTRATIVES (L18)
+This | Dís | Este/Esta (Acompanha substantivo singular perto: "This car") | Demonstrative Determiner | A1
+That | Dét | Aquele/Aquela (Acompanha substantivo singular longe: "That house") | Demonstrative Determiner | A1
+These | Dí-iz | Estes/Estas (Acompanha substantivo plural perto: "These books") | Demonstrative Determiner | A1
+Those | Dôuz | Aqueles/Aquelas (Acompanha substantivo plural longe: "Those birds") | Demonstrative Determiner | A1
+
+// MÓDULO: DETERMINERS - QUANTIFIERS (L19)
+Some | Sâm | Algum, Alguns (Afirmativas/Ofertas) | Quantifier | A1
+Any | É-ni | Algum, Nenhum (Perguntas/Negativas) | Quantifier | A1
+Many | Mé-ni | Muitos (Para contáveis: "Many friends") | Quantifier | A1
+Much | Mâtch | Muito (Para incontáveis: "Much water") | Quantifier | A1
+A lot of | A-lót-ov | Muito/Muitos (Informal, serve para ambos) | Quantifier | A1
+Few | Fiú | Poucos (Para contáveis) | Quantifier | B1
+Little | Lí-tol | Pouco (Para incontáveis) | Quantifier | B1
+All | Ól | Tudo/Todos (Totalidade) | Quantifier | A1
+Every | É-vri | Todo/Cada (Individualmente) | Quantifier | A2
+
+// MÓDULO: DETERMINERS - POSSESSIVES (L20)
+My | Mái | Meu/Minha (Sempre antes do nome: "My car") | Possessive Determiner | A1
+Your | Iór | Seu/Sua (Antes do nome) | Possessive Determiner | A1
+His | Ríz | Dele (Antes do nome) | Possessive Determiner | A1
+Her | Râr | Dela (Antes do nome) | Possessive Determiner | A1
+Its | Íts | Dele/Dela (Neutro/Animais/Coisas) | Possessive Determiner | A1
+Our | Áu-ar | Nosso/Nossa (Antes do nome) | Possessive Determiner | A1
+Their | Dér | Deles/Delas (Antes do nome) | Possessive Determiner | A1
+
+// MÓDULO: VERBS - ACTION AND STATIVE (L21)
+Run | Rân | Correr (Ação física) | Action Verb | A1
+Study | Stâ-di | Estudar (Ação mental/física) | Action Verb | A1
+Know | Nôu | Saber/Conhecer (Estado mental, não ação) | Stative Verb | A1
+Believe | Bi-lív | Acreditar (Estado mental) | Stative Verb | A2
+Like | Láik | Gostar (Sentimento/Estado) | Stative Verb | A1
+
+// MÓDULO: VERBS - TRANSITIVE AND INTRANSITIVE (L22)
+Buy | Bái | Comprar (Precisa de objeto: Buy a car) | Transitive Verb | A1
+Make | Mêik | Fazer (Precisa de objeto: Make a cake) | Transitive Verb | A1
+Arrive | A-ráiv | Chegar (Não pede objeto direto) | Intransitive Verb | A2
+Sleep | Slíp | Dormir (Ação completa em si) | Intransitive Verb | A1
+Die | Dái | Morrer (Ação completa em si) | Intransitive Verb | A2
+
+// MÓDULO: VERBS - FORMS V1 V2 V3 (L23)
+Go | Gôu | Ir (Presente/Base) | Verb Form V1 | A1
+Went | Uént | Fui/Foi (Passado Simples de Go) | Verb Form V2 | A1
+Gone | Gón | Ido (Particípio de Go) | Verb Form V3 | B1
+See | Sí | Ver (Presente/Base) | Verb Form V1 | A1
+Saw | Só | Vi/Viu (Passado Simples de See) | Verb Form V2 | A1
+Seen | Sín | Visto (Particípio de See) | Verb Form V3 | B1
+
+// MÓDULO: VERBS - INFINITIVE AND CONJUGATION (L24, L25)
+To be | Tu bí | Ser/Estar (Infinitivo) | Infinitive | A1
+To have | Tu rév | Ter (Infinitivo) | Infinitive | A1
+Am | Ém | Sou/Estou (Conjugação 1ª pessoa: I am) | Conjugation | A1
+Is | Íz | É/Está (Conjugação 3ª pessoa: He is) | Conjugation | A1
+Are | Ár | São/Estão (Conjugação Plural: We are) | Conjugation | A1
+Has | Réz | Tem (Conjugação 3ª pessoa de Have) | Conjugation | A1
+
+// MÓDULO: VERBS - GERUND -ING (L26)
+Working | Uôr-kin | Trabalhando (Ação em progresso) | Gerund/Participle | A1
+Swimming | Suí-min | Natação/Nadando (Como substantivo ou ação) | Gerund | A2
+
+// MÓDULO: VERBS - AUXILIARY AND MODALS (L27, L28)
+Do | Dú | (Auxiliar para perguntas/negativas no presente) | Auxiliary Verb | A1
+Did | Díd | (Auxiliar para passado) | Auxiliary Verb | A1
+Can | Kén | Poder/Conseguir (Habilidade/Permissão) | Modal Verb | A1
+Could | Kûd | Poderia (Passado de Can/Polidez) | Modal Verb | A2
+Should | Xûd | Deveria (Conselho) | Modal Verb | A2
+Must | Mâst | Deve (Obrigação) | Modal Verb | B1
+May | Mêi | Pode (Possibilidade/Permissão formal) | Modal Verb | B1
+
+// MÓDULO: VERBS - SIMPLE TENSES (L29)
+I work | Ái uôrk | Eu trabalho (Hábito/Presente Simples) | Simple Present | A1
+I worked | Ái uôrkt | Eu trabalhei (Passado acabado) | Simple Past | A1
+I will work | Ái uíl uôrk | Eu trabalharei (Futuro) | Simple Future | A2
+
+// MÓDULO: VERBS - PROGRESSIVE TENSES (L30)
+I am working | Ái ém uôr-kin | Estou trabalhando (Agora) | Present Progressive | A1
+I was working | Ái uóz uôr-kin | Estava trabalhando (Passado contínuo) | Past Progressive | A2
+
+// MÓDULO: VERBS - PERFECT TENSES (L31, L32)
+I have eaten | Ái rév í-ten | Eu comi (Experiência/Tempo indefinido) | Present Perfect | B1
+I had eaten | Ái réd í-ten | Eu tinha comido (Passado anterior a outro) | Past Perfect | B2
+I have been waiting | Ái rév bín uêi-tin | Tenho esperado (Ação contínua recente) | Present Perfect Cont. | B2
+
+// MÓDULO: VERBS - CONTRACTIONS (L33)
+I'm | Áim | Eu sou / Eu estou (I + am) | Contraction | A1
+You're | Iór | Você é / Você está (You + are) | Contraction | A1
+Don't | Dôunt | Não (Do + not) | Contraction | A1
+Didn't | Dí-dant | Não (Did + not - Passado) | Contraction | A1
+Won't | Uôunt | Não (Will + not - Futuro) | Contraction | A2
+Can't | Ként | Não pode (Can + not) | Contraction | A1
+
+// MÓDULO: VERBS - PHRASAL VERBS (L34)
+Get up | Guét âp | Levantar-se (Da cama) | Phrasal Verb | A1
+Give up | Gív âp | Desistir | Phrasal Verb | B1
+Look for | Lûk fór | Procurar | Phrasal Verb | A2
+Turn on | Târn ón | Ligar (Aparelho/Luz) | Phrasal Verb | A2
+Run out | Rân áut | Acabar/Esgotar (Ex: Gas ran out) | Phrasal Verb | B2
+
+// MÓDULO: ADJECTIVES - TYPES (L35)
+Blue | Blú | Azul (Atributivo: "Blue sky") | Attributive Adjective | A1
+Happy | Ré-pi | Feliz (Predicativo: "He is happy") | Predicative Adjective | A1
+Asleep | A-slíp | Adormecido (Apenas predicativo: "The baby is asleep") | Predicative Adjective | B1
+The poor | Dâ pûr | Os pobres (Adjetivo usado como substantivo coletivo) | Nominal Adjective | B2
+The rich | Dâ rítch | Os ricos (Adjetivo usado como substantivo coletivo) | Nominal Adjective | B2
+
+// MÓDULO: ADJECTIVES - COMPARISON (L36)
+Tall | Tól | Alto (Grau normal) | Adjective (Positive) | A1
+Taller | Tó-ler | Mais alto (Comparativo: "Taller than") | Comparative Adjective | A1
+The tallest | Dâ tó-lest | O mais alto (Superlativo) | Superlative Adjective | A2
+Good | Gûd | Bom | Adjective (Irregular) | A1
+Better | Bé-ter | Melhor (Comparativo de Good) | Comparative Adjective | A1
+The best | Dâ bést | O melhor (Superlativo de Good) | Superlative Adjective | A1
+Bad | Béd | Ruim | Adjective (Irregular) | A1
+Worse | Uôrs | Pior (Comparativo de Bad) | Comparative Adjective | A2
+The worst | Dâ uôrst | O pior (Superlativo de Bad) | Superlative Adjective | A2
+Expensive | Eks-pén-siv | Caro (Adjetivo longo) | Adjective | A1
+More expensive | Mór eks-pén-siv | Mais caro (Usa 'more' para longos) | Comparative Adjective | A2
+
+// MÓDULO: ADJECTIVES - ORDER EXAMPLES (L37 - OSASCOMP)
+Delicious | Di-lí-shas | Delicioso (Opinião - Vem primeiro) | Order: 1. Opinion | A1
+Tiny | Tái-ni | Minúsculo (Tamanho) | Order: 2. Size | B1
+Ancient | Êin-chent | Antigo (Idade) | Order: 3. Age | B1
+Round | Ráund | Redondo (Formato) | Order: 4. Shape | A1
+Purple | Pâr-pol | Roxo (Cor) | Order: 5. Color | A1
+Brazilian | Bra-zí-lian | Brasileiro (Origem) | Order: 6. Origin | A1
+Wooden | Uû-den | De madeira (Material) | Order: 7. Material | A2
+Sleeping | Slí-pin | De dormir (Propósito: "Sleeping bag") | Order: 8. Purpose | A2
+
+// MÓDULO: ADJECTIVES - ADJECTIVE PHRASES (L38)
+Very happy | Vé-ri ré-pi | Muito feliz (Intensificador + Adjetivo) | Adjective Phrase | A1
+Afraid of | A-frêid óv | Com medo de (Adjetivo + Preposição) | Adjective Phrase | A2
+Full of | Fûl óv | Cheio de (Adjetivo + Preposição) | Adjective Phrase | B1
+Interested in | In-tre-sted ín | Interessado em | Adjective Phrase | B1
+Good at | Gûd ét | Bom em (Habilidade) | Adjective Phrase | A1
+
+// MÓDULO: ADVERBS - FORMATION AND IDENTIFICATION (L39, L41)
+Quickly | Cuí-cli | Rapidamente (Derivado de Quick) | Adverb of Manner | A1
+Happily | Ré-pi-li | Felizmente (Derivado de Happy - y vira i) | Adverb of Manner | A2
+Simply | Sím-pli | Simplesmente (Derivado de Simple - le vira ly) | Adverb of Manner | A2
+Fast | Fést | Rápido/Rapidamente (Irregular - Igual ao adjetivo) | Irregular Adverb | A1
+Hard | Rárd | Duramente/Com força (Irregular - "Hardly" muda o sentido) | Irregular Adverb | B1
+Well | Uél | Bem (Irregular - Advérbio de Good) | Irregular Adverb | A1
+
+// MÓDULO: ADVERBS - KINDS OF ADVERBS (L40)
+Slowly | Slôu-li | Lentamente (Modo - Como?) | Adverb of Manner | A1
+Yesterday | Iés-ter-dêi | Ontem (Tempo - Quando?) | Adverb of Time | A1
+Now | Náu | Agora (Tempo - Quando?) | Adverb of Time | A1
+Here | Rír | Aqui (Lugar - Onde?) | Adverb of Place | A1
+Everywhere | É-vri-uér | Em todo lugar (Lugar - Onde?) | Adverb of Place | A2
+Always | Ól-uêis | Sempre (Frequência - Quão frequente?) | Adverb of Frequency | A1
+Never | Né-ver | Nunca (Frequência) | Adverb of Frequency | A1
+Often | Ó-fen | Frequentemente (Frequência) | Adverb of Frequency | A2
+Very | Vé-ri | Muito (Intensidade/Grau) | Adverb of Degree | A1
+Too | Tú | Demais/Também (Intensidade excessiva) | Adverb of Degree | A1
+
+// MÓDULO: ADVERBS - PHRASES AND CLAUSES (L42)
+In the morning | In dâ mór-nin | De manhã (Locução adverbial de tempo) | Adverb Phrase | A1
+At home | Ét rôum | Em casa (Locução adverbial de lugar) | Adverb Phrase | A1
+Very quickly | Vé-ri cuí-cli | Muito rapidamente (Intensificador + Advérbio) | Adverb Phrase | A2
+As soon as | Éz sún éz | Assim que (Conjunção temporal para orações) | Adverb Clause Link | B1
+Because | Bi-cóz | Porque (Conjunção de causa) | Adverb Clause Link | A1
+
+
 
 // MÓDULO: OPINIÃO E PROBABILIDADE (CERTAINTY - AUDITORIA)
 Obviously | ÓB-vi-as-li | Obviamente | Advérbio | B1
@@ -3099,3 +3774,4 @@ Bad company corrupts good character | Béd câm-pa-ni co-rrâpts gúd ké-rac-te
 Bear one another's burdens | Bér uán a-nó-ders bâr-dens | Levai as cargas uns dos outros | Relationships | C1
 Live in harmony with one another | Lív in rár-mo-ni uíf uán a-nó-der | Vivei em harmonia uns com os outros | Relationships | B2
 Encourage one another | En-câ-ridj uán a-nó-der | Encorajai-vos uns aos outros | Relationships | B2
+
