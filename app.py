@@ -6,6 +6,7 @@ import json
 from datetime import datetime, timedelta
 from gtts import gTTS
 from io import BytesIO
+import random
 
 # ==============================================================================
 # 1. CONFIGURAÇÕES E CONSTANTES
@@ -107,7 +108,7 @@ def load_data():
                     if not line or line.startswith("//"): continue
                     parts = [p.strip() for p in line.split('|')]
                     
-                    if len(parts) >= 1: # Aceita linhas parciais para não perder dados
+                    if len(parts) >= 1: # Aceita linhas parciais
                         item = {
                             "Inglês": parts[0],
                             "Pronúncia": parts[1] if len(parts) > 1 else "-",
@@ -119,7 +120,7 @@ def load_data():
         except: continue
     
     if not all_data: return pd.DataFrame()
-    # Remove apenas duplicatas exatas de linha inteira
+    # Remove duplicatas exatas de linha inteira
     df = pd.DataFrame(all_data).drop_duplicates()
     return df
 
@@ -145,7 +146,6 @@ progresso_db = carregar_progresso()
 if not df.empty:
     df['Proxima_Revisao'] = df['Inglês'].apply(lambda x: progresso_db.get(x, {}).get('proxima_revisao', '2000-01-01'))
     df['Nivel_SRS'] = df['Inglês'].apply(lambda x: progresso_db.get(x, {}).get('nivel_srs', 0))
-    # Calcula 'Saúde' da palavra (0 a 100%) baseado no nível máximo (11)
     df['Retencao'] = (df['Nivel_SRS'] / 11) * 100
     
     hoje = datetime.now().strftime("%Y-%m-%d")
@@ -171,22 +171,23 @@ with st.sidebar:
     c2.metric("💤 Futuro", len(df_futuro))
 
     st.divider()
-    modo = st.radio("Menu Principal", ["🧠 Revisão Diária", "📊 Dashboard", "📜 Missões", "📖 Banco de Dados"])
+    # ATUALIZAÇÃO DO MENU: Adicionada opção de Treino
+    modo = st.radio("Menu Principal", ["🧠 Revisão Diária (SRS)", "🏋️ Treino por Módulo", "📊 Dashboard", "📜 Missões", "📖 Banco de Dados"])
     
     with st.expander("ℹ️ Sobre o SRS"):
-        st.caption("Intervalos de revisão atuais:")
-        st.caption(f"{INTERVALOS}")
+        st.caption("O SRS calcula o momento ideal para revisar.")
 
 # ==============================================================================
 # 5. PÁGINAS DO APP
 # ==============================================================================
 
 # --- MODO 1: REVISÃO (SRS) ---
-if modo == "🧠 Revisão Diária":
-    st.title("🧠 Modo Foco")
+if modo == "🧠 Revisão Diária (SRS)":
+    st.title("🧠 Revisão Inteligente")
     
     if df_revisao.empty:
-        st.success("🎉 Você está em dia! Nenhuma revisão pendente.")
+        st.success("🎉 Você está em dia! Nenhuma revisão obrigatória.")
+        st.caption("Quer continuar estudando? Vá em 'Treino por Módulo'.")
         if not df_futuro.empty:
             st.info("Próximas revisões:")
             st.dataframe(df_futuro[['Inglês', 'Categoria', 'Proxima_Revisao']].sort_values('Proxima_Revisao').head(5), use_container_width=True)
@@ -210,7 +211,7 @@ if modo == "🧠 Revisão Diária":
         # Layout do Card
         st.markdown(f"""
         <div class="{css}">
-            <div class="meta-info">{row['Categoria']} • {row['Nível']}</div>
+            <div class="meta-info">{row['Categoria']} • {row['Nível']} (Revisão)</div>
             <div class="status-badge {bg_badge}">{badge}</div>
             <div class="eng-word">{row['Inglês']}</div>
             {f'<hr style="width:50%; margin:20px 0;"><div class="pt-word">{row["Tradução"]}</div><div class="pron">🗣️ {row["Pronúncia"]}</div>' 
@@ -233,7 +234,6 @@ if modo == "🧠 Revisão Diária":
                     if st.button("❌ Esqueci", use_container_width=True):
                         atualizar_revisao(row['Inglês'], False)
                         adicionar_xp(XP_ERRO)
-                        st.toast("Não desanime! Vai melhorar.")
                         st.session_state.show_ans = False
                         st.session_state.idx_rev = (st.session_state.idx_rev + 1) % len(df_revisao)
                         st.rerun()
@@ -241,9 +241,8 @@ if modo == "🧠 Revisão Diária":
                     if st.button("✅ Lembrei", type="primary", use_container_width=True):
                         novos_dias = atualizar_revisao(row['Inglês'], True)
                         adicionar_xp(XP_ACERTO)
-                        st.toast(f"Ótimo! +{novos_dias} dias.")
                         st.session_state.show_ans = False
-                        st.rerun() # Recarrega para remover o card da lista atual
+                        st.rerun() 
 
         if st.button("🔊 Ouvir Pronúncia"):
             try:
@@ -253,56 +252,114 @@ if modo == "🧠 Revisão Diária":
                 st.audio(sound, format='audio/mp3', start_time=0)
             except: st.error("Erro no áudio.")
 
-# --- MODO 2: DASHBOARD DE DESEMPENHO (NOVO) ---
+# --- MODO 2: TREINO POR MÓDULO (NOVO) ---
+elif modo == "🏋️ Treino por Módulo":
+    st.title("🏋️ Treino Específico")
+    
+    # Seletor de Módulo
+    categorias = sorted([c for c in df['Categoria'].unique() if c != 'Missão'])
+    selecao = st.selectbox("Escolha o Módulo para praticar:", categorias)
+    
+    # Filtra os dados
+    df_treino = df[df['Categoria'] == selecao].copy()
+    
+    if df_treino.empty:
+        st.warning("Nenhuma carta neste módulo.")
+    else:
+        st.info(f"Praticando {len(df_treino)} cartas do módulo **{selecao}**.")
+        
+        # Controle de Sessão de Treino
+        if 'idx_treino' not in st.session_state: st.session_state.idx_treino = 0
+        if 'show_ans_treino' not in st.session_state: st.session_state.show_ans_treino = False
+        
+        # Garante índice válido
+        if st.session_state.idx_treino >= len(df_treino): st.session_state.idx_treino = 0
+        
+        row = df_treino.iloc[st.session_state.idx_treino]
+        
+        # Layout do Card (Levemente diferente para indicar treino)
+        st.markdown(f"""
+        <div class="flashcard" style="border-color: #3b82f6;">
+            <div class="meta-info" style="color: #3b82f6;">MODO TREINO • {row['Categoria']}</div>
+            <div class="eng-word">{row['Inglês']}</div>
+            {f'<hr style="width:50%; margin:20px 0;"><div class="pt-word">{row["Tradução"]}</div><div class="pron">🗣️ {row["Pronúncia"]}</div>' 
+              if st.session_state.show_ans_treino else 
+              '<div style="margin-top:40px; color:#94a3b8; cursor:pointer;">(Pense na resposta...)</div>'}
+        </div>
+        """, unsafe_allow_html=True)
+        
+        # Botões
+        c1, c2, c3 = st.columns([1, 2, 1])
+        with c2:
+            st.write("")
+            if not st.session_state.show_ans_treino:
+                if st.button("👁️ REVELAR", type="primary", use_container_width=True, key="btn_rev_treino"):
+                    st.session_state.show_ans_treino = True
+                    st.rerun()
+            else:
+                col_e, col_a = st.columns(2)
+                with col_e:
+                    if st.button("❌ Errei", use_container_width=True, key="btn_err_treino"):
+                        atualizar_revisao(row['Inglês'], False) # Atualiza o SRS mesmo no treino
+                        adicionar_xp(XP_ERRO)
+                        st.session_state.show_ans_treino = False
+                        # Avança para o próximo
+                        st.session_state.idx_treino = (st.session_state.idx_treino + 1) % len(df_treino)
+                        st.rerun()
+                with col_a:
+                    if st.button("✅ Acertei", type="primary", use_container_width=True, key="btn_acert_treino"):
+                        atualizar_revisao(row['Inglês'], True) # Atualiza o SRS
+                        adicionar_xp(XP_ACERTO)
+                        st.session_state.show_ans_treino = False
+                        st.session_state.idx_treino = (st.session_state.idx_treino + 1) % len(df_treino)
+                        st.rerun()
+
+        # Navegação Manual (Pular carta)
+        st.write("")
+        if st.button("Pular Carta ⏭️"):
+            st.session_state.show_ans_treino = False
+            st.session_state.idx_treino = (st.session_state.idx_treino + 1) % len(df_treino)
+            st.rerun()
+
+# --- MODO 3: DASHBOARD ---
 elif modo == "📊 Dashboard":
     st.title("📊 Análise de Desempenho")
     
     if df.empty:
         st.warning("Sem dados suficientes para análise.")
     else:
-        # KPIs Principais
         total_cards = len(df[df['Categoria'] != 'Missão'])
-        # Consideramos 'Aprendidas' qualquer carta que não seja Nível 0
         aprendidas = len(df[(df['Nivel_SRS'] > 0) & (df['Categoria'] != 'Missão')])
-        # Masterizadas (Nível > 10, ou seja, 3 anos)
         masterizadas = len(df[(df['Nivel_SRS'] >= 10) & (df['Categoria'] != 'Missão')])
         
         k1, k2, k3 = st.columns(3)
         k1.metric("Total de Cartas", total_cards)
-        k2.metric("Em Processo de Aprendizagem", aprendidas, f"{round((aprendidas/total_cards)*100)}%")
-        k3.metric("🏆 Masterizadas (3 Anos)", masterizadas)
+        k2.metric("Em Processo", aprendidas, f"{round((aprendidas/total_cards)*100)}%")
+        k3.metric("🏆 Masterizadas", masterizadas)
 
         st.divider()
 
-        # Gráfico 1: Curva de Memória (Distribuição SRS)
         st.subheader("🧠 Saúde da Memória")
-        st.caption("Quantas cartas você tem em cada estágio de retenção (Dias)")
-        
-        # Mapeia nível SRS para dias
         srs_counts = df[df['Categoria'] != 'Missão']['Nivel_SRS'].value_counts().sort_index()
-        # Cria um DF bonito para o gráfico
         chart_data = pd.DataFrame({
             "Nível SRS": srs_counts.index,
             "Quantidade": srs_counts.values,
-            "Dias (Intervalo)": [str(INTERVALOS[min(i, 11)]) + 'd' for i in srs_counts.index]
+            "Dias": [str(INTERVALOS[min(i, 11)]) + 'd' for i in srs_counts.index]
         })
-        st.bar_chart(chart_data, x="Dias (Intervalo)", y="Quantidade", color="#3b82f6")
+        st.bar_chart(chart_data, x="Dias", y="Quantidade", color="#3b82f6")
 
         c_left, c_right = st.columns(2)
-        
         with c_left:
-            st.subheader("📚 Top 5 Módulos Fortes")
-            # Agrupa por categoria e calcula média do Nível SRS
+            st.subheader("📚 Top 5 Fortes")
             ranking = df[df['Categoria'] != 'Missão'].groupby('Categoria')['Nivel_SRS'].mean().sort_values(ascending=False).head(5)
-            st.dataframe(ranking, use_container_width=True, column_config={"Nivel_SRS": st.column_config.ProgressColumn("Retenção Média", min_value=0, max_value=11)})
+            st.dataframe(ranking, use_container_width=True)
             
         with c_right:
-            st.subheader("⚠️ Módulos Precisando de Atenção")
-            # Os 5 piores
+            st.subheader("⚠️ Top 5 Precisando Estudar")
             ranking_worst = df[df['Categoria'] != 'Missão'].groupby('Categoria')['Nivel_SRS'].mean().sort_values(ascending=True).head(5)
-            st.dataframe(ranking_worst, use_container_width=True, column_config={"Nivel_SRS": st.column_config.ProgressColumn("Retenção Média", min_value=0, max_value=11, format="%.1f")})
+            st.dataframe(ranking_worst, use_container_width=True)
 
-# --- MODO 3: MISSÕES ---
+# --- MODO 4: MISSÕES ---
 elif modo == "📜 Missões":
     st.title("📜 Quadro de Missões")
     if df_missoes.empty: st.info("Nenhuma missão ativa.")
@@ -322,13 +379,9 @@ elif modo == "📜 Missões":
                     adicionar_xp(XP_MISSAO)
                     st.rerun()
 
-# --- MODO 4: BANCO DE DADOS ---
+# --- MODO 5: BANCO DE DADOS ---
 elif modo == "📖 Banco de Dados":
     st.title("📖 Glossário Completo")
-    
-    with st.expander("🛠️ Diagnóstico do Sistema"):
-        st.write(f"Linhas totais: {len(df)}")
-        st.write(f"Duplicatas removidas na carga: {len(df) - len(df.drop_duplicates(subset=['Inglês']))} (apenas info)")
     
     termo = st.text_input("🔍 Pesquisar palavra...")
     filtro_cat = st.selectbox("Filtrar Categoria", ["Todas"] + sorted(list(df['Categoria'].unique())))
@@ -342,9 +395,5 @@ elif modo == "📖 Banco de Dados":
     st.dataframe(
         df_show[['Inglês', 'Tradução', 'Categoria', 'Nivel_SRS', 'Proxima_Revisao']],
         use_container_width=True,
-        hide_index=True,
-        column_config={
-            "Nivel_SRS": st.column_config.NumberColumn("Nível", help="0 a 11"),
-            "Proxima_Revisao": st.column_config.DateColumn("Revisar Em", format="DD/MM/YYYY")
-        }
+        hide_index=True
     )
