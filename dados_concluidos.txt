@@ -9610,29 +9610,3 @@ The Support | Dâ su-pórt | Perguntar a um amigo "Can you spot me?" (Pode me aj
 The Discipline | Dâ dí-si-plin | Dizer "I never skip leg day" (Nunca pulo perna) mesmo que as pernas doam | Missão | B1
 The Invitation | Dâ in-vi-têi-shon | Convidar alguém dizendo "Let's hit the gym" (Bora pra academia) | Missão | A2
 
-// MÓDULO: VIDA FITNESS E ACADEMIA (FITNESS & GYM)
-No pain no gain | Nôu pêin nôu guêin | Sem dor, sem ganho (O lema clássico) | Fitness | A1
-Hit the gym | Rít dâ djím | Ir para a academia (Com intenção de treinar) | Fitness | A2
-Gym rat | Djím rét | Rato de academia (Quem vive lá) | Fitness | B1
-Work out | Uôrk áut | Malhar / Treinar (Ato de fazer exercício) | Fitness | A1
-Six-pack abs | Síks péc ébs | Tanquinho (Abdômen definido) | Fitness | B1
-Spot me | Spót mí | Me dá uma ajuda? (Apoio no supino/peso) | Fitness | B2
-Ripped | Ríp-d | Trincado / Rasgado (Muito definido) | Fitness | B2
-Skip leg day | Skíp lég dêi | Pular o treino de perna (O erro do frango) | Fitness | B1
-Feel the burn | Fíil dâ bârn | Sentir queimar (Quando o músculo arde) | Fitness | B2
-Cheat day | Tchíit dêi | Dia do lixo (Dia livre da dieta) | Fitness | B1
-Warm up | Uórm âp | Aquecimento | Fitness | A2
-Cool down | Cúl dáun | Esfriar / Volta à calma (Pós-treino) | Fitness | A2
-Pump iron | Pâmp ái-ron | Puxar ferro (Treino pesado de musculação) | Fitness | C1
-Gains | Guêins | Ganhos (Massa muscular) | Fitness | B1
-Swole | Su-ôul | "Monstro" / Grandão (Ficar inchado de músculo) | Fitness | C2
-Bulking | Bâl-king | Fase de ganho de massa (Comer muito) | Fitness | C1
-Cutting | Câ-ting | Fase de definição (Secar a gordura) | Fitness | C1
-Beer belly | Bíar bé-li | Barriga de chopp | Fitness | A2
-Love handles | Lâv hén-dols | Pneuzinhos (Gordura na lateral da cintura) | Fitness | B2
-Personal trainer | Pâr-so-nal trêi-ner | Personal trainer | Fitness | A1
-
-// MISSÕES: O ATLETA (THE ATHLETE)
-The Support | Dâ su-pórt | Perguntar a um amigo "Can you spot me?" (Pode me ajudar?) antes de levantar algo pesado | Missão | B2
-The Discipline | Dâ dí-si-plin | Dizer "I never skip leg day" (Nunca pulo perna) mesmo que as pernas doam | Missão | B1
-The Invitation | Dâ in-vi-têi-shon | Convidar alguém dizendo "Let's hit the gym" (Bora pra academia) | Missão | A2
