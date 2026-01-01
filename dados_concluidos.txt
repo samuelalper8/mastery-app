@@ -2647,3 +2647,26 @@ Context is everything | CÓN-teks-ti-zÉ-vri-fín | Contexto é tudo | Regras | 
 Wait for it... | UÊI-fô-rít... | Espera só para ver... (Suspense) | Street | A2
 Nailed it! | NÊI-uld-ít! | Acertei em cheio! / Fiz perfeitamente! | Street | B1
 Game on | GUÊI-món | O jogo começou / Vamos a isto | Street | B1
+
+// MÓDULO: FREQUÊNCIA & NEGAÇÃO (NEVER & ALWAYS)
+I never eat breakfast | Ai né-ver ít bré-kfast | Eu nunca tomo café da manhã | Gramática | A1
+He is never late | Rí iz né-ver lêit | Ele nunca está atrasado | Gramática | A2
+We have never been there | Ui rév né-ver bín dér | Nós nunca estivemos lá | Gramática | B1
+I will never forget this | Ai uíl né-ver for-guét dís | Eu nunca esquecerei isso | Gramática | B1
+She never listens to me | Shí né-ver lí-sens tu mi | Ela nunca me escuta | Gramática | A2
+Never give up | Né-ver gív âp | Nunca desista | Gramática | A1
+I can never find my keys | Ai kén né-ver fáind mai kís | Eu nunca consigo encontrar minhas chaves | Gramática | B1
+You should never lie | Iú shúd né-ver lái | Você nunca deve mentir | Gramática | B1
+It never rains in summer | Ít né-ver rêins in sâ-mer | Nunca chove no verão | Gramática | A2
+They never complained | Dêi né-ver com-plêind | Eles nunca reclamaram | Gramática | B1
+Never say never | Né-ver sêi né-ver | Nunca diga nunca | Expressão | A2
+Better late than never | Bé-rer lêit dén né-ver | Antes tarde do que nunca | Expressão | B2
+I have never seen that before | Ai rév né-ver sín dét bi-fór | Eu nunca vi isso antes | Gramática | B1
+She would never do that | Shí uúd né-ver dú dét | Ela nunca faria isso | Gramática | B2
+I am never bored | Ai ém né-ver bórd | Eu nunca fico entediado | Gramática | A2
+He never showed up | Rí né-ver shôud âp | Ele nunca apareceu | Gramática | B1
+We never talk anymore | Ui né-ver tók é-ni-mór | Nós não nos falamos mais / Nunca mais nos falamos | Gramática | B2
+Never mind | Né-ver máind | Deixa pra lá / Não importa | Expressão | A1
+It was now or never | Ít uóz náu ór né-ver | Era agora ou nunca | Expressão | B1
+I promise I’ll never tell | Ai pró-mis áil né-ver tél | Prometo que nunca vou contar | Gramática | A2
+
