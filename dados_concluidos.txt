@@ -8527,3 +8527,140 @@ The Label Explorer | Dâ lêi-bol éks-plô-rer | Ler os ingredientes de um prod
 The Mirror Talk | Dâ mír-ror tók | Falar 3 frases em voz alta na frente do espelho | Missão | A1
 The Smartphone Guru | Dâ smárt-fôun gu-rú | Mudar o idioma do celular para inglês por 1 dia | Missão | B2
 The Teacher's Pet | Dâ tí-tcher's pét | Fazer uma pergunta ao professor totalmente em inglês | Missão | B1
+
+// MÓDULO: NA SALA DO DIRETOR (PRINCIPAL'S OFFICE)
+Please, take a seat | Plís, têik a sít | Por favor, sente-se | Principal Office | A1
+Why were you sent here? | Uái uâr iú sént rí-er? | Por que você foi mandado para cá? | Principal Office | B1
+I promise it won't happen again | Ái pró-mis ít uôunt ré-pen a-guên | Eu prometo que não vai acontecer de novo | Principal Office | B1
+Where is your hall pass? | Uér íz iór ról pés? | Onde está sua permissão de corredor? | Principal Office | A2
+You are suspended for three days | Iú ár sãs-pên-ded fór trí dêis | Você está suspenso por três dias | Principal Office | B2
+We need to call your parents | Uí níd tchu cól iór pé-rents | Precisamos ligar para os seus pais | Principal Office | A2
+Congratulations on your grades | Con-gré-tchu-lêi-shons ón iór grêids | Parabéns pelas suas notas | Principal Office | B1
+Did you finish the assignment? | Díd iú fí-nish dâ a-sáin-ment? | Você terminou a tarefa? | Principal Office | A2
+Keep up the good work | Kíp âp dâ gúd uôrk | Continue o bom trabalho | Principal Office | B2
+This behavior is unacceptable | Dís bi-rêi-vior íz ân-ac-cép-ta-bol | Esse comportamento é inaceitável | Principal Office | B2
+I lost my ID card | Ái lóst mái ái-dí cárd | Eu perdi minha carteirinha | Principal Office | A1
+Can I organize a club? | Kén ái ór-ga-náiz a clâb? | Posso organizar um clube? | Principal Office | B1
+Tuck in your shirt | Tâk ín iór shârt | Coloque a camisa para dentro (arrume o uniforme) | Principal Office | A2
+Don't run in the hallways | Dôunt rân ín dâ ról-uêis | Não corra nos corredores | Principal Office | A1
+See you at graduation | Sí iú ét gré-du-êi-shân | Te vejo na formatura | Principal Office | B1
+
+// MISSÕES: DESAFIOS DO DIRETOR
+The Negotiation | Dâ ni-gôu-shi-êi-shan | Negociar uma regra com alguém em inglês | Missão | B2
+The Good Student | Dâ gúd stú-dent | Simular pedir uma carta de recomendação | Missão | B1
+The Apology | Dâ a-pó-lo-dji | Pedir desculpas formalmente por um erro | Missão | A2
+
+// MÓDULO: NA CANTINA (SCHOOL CAFETERIA)
+What is for lunch today? | Uóts íz fór lântch tu-dêi? | O que tem para o almoço hoje? | Cafeteria | A1
+Smells delicious! | Sméls di-lí-shas! | Cheira delicioso! | Cafeteria | A1
+Can I have some water, please? | Kén ái rév sâm uó-ter, plís? | Posso beber um pouco de água, por favor? | Cafeteria | A1
+No onions for me, please | Nôu â-ni-ons fór mí, plís | Sem cebola para mim, por favor | Cafeteria | A2
+I am allergic to peanuts | Ái ém a-lér-djíc tú pí-nâts | Eu sou alérgico a amendoim | Cafeteria | B1
+Where do I put my tray? | Uér dú ái pút mái trêi? | Onde eu coloco minha bandeja? | Cafeteria | A2
+Can I have a napkin? | Kén ái rév a nép-kín? | Posso pegar um guardanapo? | Cafeteria | A1
+Is there a vegetarian option? | Íz dér a ve-dje-té-ri-an óp-shân? | Tem opção vegetariana? | Cafeteria | B1
+This is too spicy | Dís íz tú spái-ci | Isso está muito apimentado | Cafeteria | A2
+I dropped my fork | Ái dró-ped mái fórk | Eu deixei meu garfo cair | Cafeteria | A2
+Can I have seconds? | Kén ái rév sé-conds? | Posso repetir (pegar o segundo prato)? | Cafeteria | B2
+Enjoy your meal | En-djói iór míl | Bom apetite (dito pela tia) | Cafeteria | A1
+Keep the change | Kíp dâ tchêindj | Fique com o troco | Cafeteria | B1
+Do you have chocolate milk? | Dú iú rév tchó-co-leit mílk? | Você tem leite com chocolate? | Cafeteria | A1
+Thank you, Miss | Tênk iú, Mís | Obrigado, senhora/tia | Cafeteria | A1
+
+// MISSÕES: CULINÁRIA E PEDIDOS
+The Master Chef | Dâ més-ter chéf | Tentar cozinhar uma receita seguindo vídeo em inglês | Missão | B2
+The Healthy Choice | Dâ rél-ti tchóis | Identificar 3 frutas em inglês na sua cozinha | Missão | A1
+The Polite Order | Dâ po-láit ór-der | Simular um pedido completo com "Please" e "Thank you" | Missão | A1
+
+// MÓDULO: NA COORDENAÇÃO (COORDINATOR'S OFFICE)
+I need to change my schedule | Ái níd tchu tchêindj mái ské-djul | Preciso mudar meu horário de aulas | Coordinator | B1
+Is Mrs. Silva available? | Íz Mís-siz Síl-va a-vêi-la-bol? | A Sra. Silva está disponível? | Coordinator | A2
+I'm having trouble with Math | Áim ré-ving tró-bol uíf Méf | Estou com dificuldades em Matemática | Coordinator | B1
+When is the exam week? | Uén íz dâ éks-em uík? | Quando é a semana de provas? | Coordinator | A2
+Can I have extra time? | Kén ái rév éks-tra táim? | Posso ter tempo extra (para entregar algo)? | Coordinator | B1
+Why are you late again? | Uái ár iú lêit a-guên? | Por que você está atrasado de novo? | Coordinator | A1
+Where is your uniform? | Uér íz iór iú-ni-fórm? | Onde está seu uniforme? | Coordinator | A1
+Did you bring the signed form? | Díd iú bríng dâ sái-ned fórm? | Você trouxe o formulário assinado? | Coordinator | B1
+The Science Fair is coming | Dâ Sái-ens fér íz câ-ming | A Feira de Ciências está chegando | Coordinator | A2
+We need to talk about your grades | Uí níd tchu tók a-báut iór grêids | Precisamos falar sobre suas notas | Coordinator | B1
+Can I go to the locker? | Kén ái gôu tú dâ ló-ker? | Posso ir ao armário? | Coordinator | A1
+Who is your homeroom teacher? | Rú íz iór rôm-rûm tí-tcher? | Quem é seu professor conselheiro/regente? | Coordinator | B2
+Stop running in the hallway | Stóp râ-ning ín dâ ról-uêi | Pare de correr no corredor | Coordinator | A1
+Is there a study group? | Íz dér a stâ-di grúp? | Existe um grupo de estudos? | Coordinator | B1
+You need to focus more | Iú níd tú fô-câs mór | Você precisa focar mais | Coordinator | A2
+
+// MISSÕES: ORGANIZAÇÃO E ESTUDO
+The Organizer | Dâ ór-ga-nái-zer | Organizar a mochila narrando os itens em inglês | Missão | A1
+The Schedule Maker | Dâ ské-djul mêi-ker | Criar um horário de estudos da semana em inglês | Missão | B1
+The Problem Solver | Dâ pró-blem sól-ver | Explicar um problema (fictício) para alguém em inglês | Missão | B2
+
+// MÓDULO: NA PORTARIA (SCHOOL GATE)
+Good morning, young man | Gúd mór-ning, iâng mén | Bom dia, jovem | Porter | A1
+Where is your ID card? | Uér íz iór ái-dí cárd? | Onde está seu crachá/carteirinha? | Porter | A1
+The gate is closed now | Dâ guêit íz clôu-zd náu | O portão está fechado agora | Porter | A2
+You cannot leave early | Iú cén-nót lív âr-li | Você não pode sair mais cedo | Porter | B1
+Is your father picking you up? | Íz iór fá-der pí-king iú âp? | Seu pai vem te buscar? | Porter | B1
+Please, wait outside | Plís, uêit áut-sáid | Por favor, espere do lado de fora | Porter | A2
+Did you forget your backpack? | Díd iú fór-guét iór bék-pék? | Você esqueceu sua mochila? | Porter | A2
+Who are you waiting for? | Rú ár iú uêi-ting fór? | Por quem você está esperando? | Porter | B1
+Run, you are late! | Rân, iú ár lêit! | Corra, você está atrasado! | Porter | A1
+Show me your pass | Shôu mí iór pés | Me mostre sua permissão/passe | Porter | B1
+Have a safe trip home | Rév a sêif tríp rôm | Tenha uma volta segura para casa | Porter | B2
+Your shoelace is untied | Iór shú-lêis íz ân-táid | Seu cadarço está desamarrado | Porter | B2
+Don't block the entrance | Dôunt blók dâ én-trans | Não bloqueie a entrada | Porter | B1
+Sign your name here | Sáin iór nêim rí-er | Assine seu nome aqui | Porter | A2
+See you tomorrow | Sí iú tu-mó-rou | Até amanhã | Porter | A1
+
+// MISSÕES: O GUARDIÃO
+The Early Bird | Dâ âr-li bârd | Chegar 5 minutos antes em algum compromisso | Missão | A1
+The Greeter | Dâ grí-ter | Cumprimentar 3 pessoas em inglês antes das 9h da manhã | Missão | A1
+The Checkpoint | Dâ tchék-póint | Perguntar "Can I come in?" antes de entrar em um cômodo | Missão | A2
+
+// MÓDULO: INTERCLASSE (SPORTS TOURNAMENT)
+Pass the ball! | Pés dâ ból! | Passe a bola! | Interclass | A1
+What is the score? | Uóts íz dâ skór? | Qual é o placar? | Interclass | A2
+Our team is the best! | Áuar tím íz dâ bést! | Nosso time é o melhor! | Interclass | A1
+That was a foul! | Dét uóz a fáu-ol! | Aquilo foi falta! | Interclass | B1
+The referee is blind! | Dâ ré-fe-rí íz bláind! | O juiz é cego! | Interclass | B2
+We made the finals! | Uí mêid dâ fái-nals! | Chegamos nas finais! | Interclass | B1
+Nice shot! | Náis shót! | Boa jogada/Belo chute! | Interclass | A1
+Don't give up! | Dôunt guív âp! | Não desista! | Interclass | A2
+Where is my jersey? | Uér íz mái djâr-zi? | Onde está minha camisa (de time)? | Interclass | A2
+Defense! Defense! | Di-féns! Di-féns! | Defesa! Defesa! | Interclass | A1
+Goal! | Gôu-ol! | Gol! | Interclass | A1
+Time out! | Táim áut! | Tempo! (Pausa no jogo) | Interclass | A1
+We are the champions | Uí ár dâ tchém-pi-ons | Nós somos os campeões | Interclass | B1
+Fair play, guys | Fér plêi, gáis | Jogo limpo, galera | Interclass | A2
+Who is the MVP? | Rú íz dâ ém-ví-pí? | Quem é o melhor jogador (MVP)? | Interclass | B2
+Substitution! | Sâb-sti-tú-shân! | Substituição! | Interclass | B1
+Let's go team! | Léts gôu tím! | Vamos time! | Interclass | A1
+It's a draw | Íts a dró | É um empate | Interclass | B1
+Penalty kick | Pé-nal-ti kík | Cobrança de pênalti | Interclass | B1
+Game over | Guêim ôu-ver | Fim de jogo | Interclass | A1
+
+// MISSÕES: ESPÍRITO ESPORTIVO
+The Commentator | Dâ co-men-têi-tor | Narrar uma jogada (real ou videogame) em inglês | Missão | B2
+The Cheerleader | Dâ tchí-er-lí-der | Criar um grito de guerra curto em inglês | Missão | A1
+The Team Captain | Dâ tím kép-tan | Explicar uma regra de um esporte em inglês | Missão | B2
+
+// MÓDULO: PASSEIO ESCOLAR (FIELD TRIP)
+Don't forget your permission slip | Dôunt fór-guét iór per-mí-shân slíp | Não esqueça sua autorização (papel assinado) | Field Trip | B1
+The bus is leaving! | Dâ bâs íz lí-ving! | O ônibus está saindo! | Field Trip | A1
+Pick a partner | Pík a párt-ner | Escolha um parceiro/dupla | Field Trip | A2
+Stay with the group | Stêi uíf dâ grúp | Fique com o grupo | Field Trip | A1
+Where is the gift shop? | Uér íz dâ guíft shóp? | Onde fica a loja de lembrancinhas? | Field Trip | A2
+Don't touch the exhibits | Dôunt tâtch dâ ég-zí-bits | Não toque nas exposições/peças | Field Trip | B2
+Bring a packed lunch | Bríng a pé-ked lântch | Traga um lanche de casa/marmita | Field Trip | B1
+Let's do a headcount | Léts dú a réd-cáunt | Vamos contar as cabeças (contagem de alunos) | Field Trip | B2
+Can I sit by the window? | Kén ái sít bái dâ uín-dou? | Posso sentar na janela? | Field Trip | A2
+Listen to the guide | Lí-sen tú dâ gáid | Escute o guia | Field Trip | A2
+Take a picture of me | Têik a píc-tjur óv mí | Tire uma foto minha | Field Trip | A1
+We are going to the museum | Uí ár gô-ing tú dâ miu-zí-âm | Nós vamos ao museu | Field Trip | A1
+Look at that animal! | Lúk ét dét é-ni-mal! | Olhe aquele animal! | Field Trip | A1
+Single file line, please | Sín-gol fái-ol láin, plís | Fila indiana, por favor | Field Trip | B1
+Is there a bathroom break? | Íz dér a béf-rum brêik? | Tem uma pausa para o banheiro? | Field Trip | A2
+
+// MISSÕES: O EXPLORADOR
+The Photographer | Dâ fo-tó-gra-fer | Tirar uma foto de algo interessante e descrever em inglês | Missão | A1
+The Souvenir | Dâ su-ve-nír | Escolher uma "lembrancinha" em casa e dizer quanto custaria em dólares | Missão | A2
+The Buddy System | Dâ bâ-di sís-tem | Ensinar uma frase desse módulo para um amigo ou parente | Missão | B1
