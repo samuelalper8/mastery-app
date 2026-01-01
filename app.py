@@ -11,7 +11,7 @@ from io import BytesIO
 # ==============================================================================
 st.set_page_config(page_title="Samuel's Mastery RPG", page_icon="⚔️", layout="wide")
 
-# Nome do arquivo conforme solicitado
+# Nome do arquivo no seu GitHub
 ARQUIVO_DADOS = "dados_concluidos.txt"
 PROGRESS_FILE = "progresso_rpg.json"
 
@@ -40,23 +40,15 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # ==============================================================================
-# 2. LÓGICA DE DADOS E ÁUDIO
+# 2. LÓGICA DE DADOS E ÁUDIO (OTIMIZADA PARA CLOUD)
 # ==============================================================================
-
-def tocar_audio(texto):
-    """Gera e toca o áudio da frase em inglês"""
-    try:
-        tts = gTTS(text=texto, lang='en')
-        fp = BytesIO()
-        tts.write_to_fp(fp)
-        st.audio(fp, format='audio/mp3', autoplay=True)
-    except Exception as e:
-        st.error(f"Erro no áudio: {e}")
 
 def carregar_progresso():
     if os.path.exists(PROGRESS_FILE):
-        with open(PROGRESS_FILE, 'r', encoding='utf-8') as f:
-            return json.load(f)
+        try:
+            with open(PROGRESS_FILE, 'r', encoding='utf-8') as f:
+                return json.load(f)
+        except: return {}
     return {}
 
 def salvar_progresso(dados):
@@ -65,24 +57,17 @@ def salvar_progresso(dados):
 
 @st.cache_data
 def carregar_dados_do_arquivo():
-    """Lê o arquivo dados_concluidos.txt e transforma em DataFrame"""
     itens = []
-    
+    # No Streamlit Cloud, o caminho é relativo ao root do repositório
     if os.path.exists(ARQUIVO_DADOS):
         with open(ARQUIVO_DADOS, 'r', encoding='utf-8') as f:
             linhas = f.readlines()
     else:
-        st.warning(f"Arquivo {ARQUIVO_DADOS} não encontrado. Usando dados de exemplo.")
-        # Dados de exemplo caso o arquivo não exista
-        linhas = [
-            "Welcome | Uél-cam | Bem-vindo | Geral | A1",
-            "Example | Eg-zém-pol | Exemplo | Geral | A1"
-        ]
+        return pd.DataFrame()
 
     for linha in linhas:
         linha = linha.strip()
-        if not linha or linha.startswith("//"):
-            continue
+        if not linha or linha.startswith("//"): continue
         partes = [p.strip() for p in linha.split('|')]
         if len(partes) >= 3:
             itens.append({
@@ -95,24 +80,24 @@ def carregar_dados_do_arquivo():
     return pd.DataFrame(itens)
 
 # ==============================================================================
-# 3. CONTROLE DE ESTADO E GAMIFICAÇÃO
+# 3. INTERFACE E GAMIFICAÇÃO
 # ==============================================================================
 
 if 'xp' not in st.session_state: st.session_state.xp = 0
 if 'nivel' not in st.session_state: st.session_state.nivel = 1
 
 df = carregar_dados_do_arquivo()
+
+if df.empty:
+    st.error(f"Erro: Arquivo '{ARQUIVO_DADOS}' não encontrado no repositório!")
+    st.stop()
+
 progresso_db = carregar_progresso()
 hoje_str = datetime.now().strftime("%Y-%m-%d")
 
-# Mesclar progresso com os dados carregados
 df['Proxima'] = df['Inglês'].apply(lambda x: progresso_db.get(x, {}).get('proxima_revisao', '2000-01-01'))
 df_revisao = df[(df['Proxima'] <= hoje_str) & (df['Categoria'] != 'Missão')].copy()
 df_missoes = df[df['Categoria'] == 'Missão'].copy()
-
-# ==============================================================================
-# 4. INTERFACE DO USUÁRIO
-# ==============================================================================
 
 with st.sidebar:
     st.title("⚔️ Samuel's RPG")
@@ -124,15 +109,12 @@ with st.sidebar:
     modo = st.radio("Navegação", ["🧠 Revisão Diária", "📜 Missões Ativas", "📖 Glossário"])
 
 if modo == "🧠 Revisão Diária":
-    st.header("Sessão de Treinamento")
-    
     if df_revisao.empty:
-        st.success("🎉 Excelente! Você completou todas as revisões de hoje.")
+        st.success("🎉 Revisões concluídas!")
     else:
         if 'idx' not in st.session_state: st.session_state.idx = 0
         if 'revelado' not in st.session_state: st.session_state.revelado = False
         
-        # Garantia de índice
         idx = st.session_state.idx % len(df_revisao)
         row = df_revisao.iloc[idx]
         
@@ -140,58 +122,51 @@ if modo == "🧠 Revisão Diária":
             <div class="flashcard">
                 <div class="meta-info">{row['Categoria']} • {row['Nível']}</div>
                 <div class="eng-word">{row['Inglês']}</div>
-                {f'<hr style="width:50%"><div class="pt-word">{row["Tradução"]}</div><div class="pron">🗣️ {row["Pronúncia"]}</div>' if st.session_state.revelado else '<div style="margin-top:20px; color:#cbd5e1;">(Pense na resposta e clique em revelar)</div>'}
+                {f'<hr style="width:50%"><div class="pt-word">{row["Tradução"]}</div><div class="pron">🗣️ {row["Pronúncia"]}</div>' if st.session_state.revelado else ''}
             </div>
         """, unsafe_allow_html=True)
         
         if st.session_state.revelado:
-            tocar_audio(row['Inglês'])
+            # GERADOR DE ÁUDIO PARA NAVEGADOR (WEB-READY)
+            tts = gTTS(text=row['Inglês'], lang='en')
+            audio_fp = BytesIO()
+            tts.write_to_fp(audio_fp)
+            st.audio(audio_fp, format='audio/mp3', autoplay=True)
             
             c1, c2 = st.columns(2)
             with c1:
                 if st.button("❌ Esqueci", use_container_width=True):
-                    # Lógica SRS para erro
                     progresso_db[row['Inglês']] = {"nivel_srs": 0, "proxima_revisao": hoje_str}
                     salvar_progresso(progresso_db)
-                    st.session_state.xp += XP_ERRO
                     st.session_state.revelado = False
                     st.session_state.idx += 1
                     st.rerun()
             with c2:
                 if st.button("✅ Acertei", use_container_width=True, type="primary"):
-                    # Lógica SRS para acerto
-                    nv_atual = progresso_db.get(row['Inglês'], {}).get('nivel_srs', 0)
-                    novo_nv = min(nv_atual + 1, len(INTERVALOS) - 1)
+                    nv = progresso_db.get(row['Inglês'], {}).get('nivel_srs', 0)
+                    novo_nv = min(nv + 1, len(INTERVALOS) - 1)
                     nova_data = (datetime.now() + timedelta(days=INTERVALOS[novo_nv])).strftime("%Y-%m-%d")
                     progresso_db[row['Inglês']] = {"nivel_srs": novo_nv, "proxima_revisao": nova_data}
                     salvar_progresso(progresso_db)
                     st.session_state.xp += XP_ACERTO
                     st.session_state.revelado = False
                     st.session_state.idx += 1
-                    # Level up check
-                    if st.session_state.xp // XP_BASE_NIVEL > (st.session_state.xp - XP_ACERTO) // XP_BASE_NIVEL:
+                    if st.session_state.xp // XP_BASE_NIVEL >= st.session_state.nivel:
                         st.session_state.nivel += 1
                         st.balloons()
                     st.rerun()
         else:
-            if st.button("👁️ REVELAR RESPOSTA", use_container_width=True, type="primary"):
+            if st.button("👁️ REVELAR", use_container_width=True, type="primary"):
                 st.session_state.revelado = True
                 st.rerun()
 
 elif modo == "📜 Missões Ativas":
-    st.header("Missões de Campo")
-    if df_missoes.empty:
-        st.info("Nenhuma missão cadastrada no arquivo.")
-    else:
-        for i, m in df_missoes.iterrows():
-            with st.expander(f"🚩 {m['Inglês']}"):
-                st.write(f"**Descrição:** {m['Tradução']}")
-                if st.button("Marcar como Concluída", key=f"mis_{i}"):
-                    st.session_state.xp += XP_MISSAO
-                    st.toast(f"Missão concluída! +{XP_MISSAO} XP")
+    for i, m in df_missoes.iterrows():
+        with st.expander(f"🚩 {m['Inglês']}"):
+            st.write(m['Tradução'])
+            if st.button("Concluir", key=f"m_{i}"):
+                st.session_state.xp += XP_MISSAO
+                st.toast("+50 XP!")
 
 elif modo == "📖 Glossário":
-    st.header("Biblioteca de Conhecimento")
-    busca = st.text_input("Filtrar termo:")
-    df_mostra = df[df['Inglês'].str.contains(busca, case=False)] if busca else df
-    st.dataframe(df_mostra[['Inglês', 'Tradução', 'Pronúncia', 'Categoria', 'Nível']], use_container_width=True)
+    st.dataframe(df[['Inglês', 'Tradução', 'Pronúncia', 'Categoria']], use_container_width=True)
