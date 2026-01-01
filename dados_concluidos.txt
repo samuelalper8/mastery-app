@@ -10862,3 +10862,113 @@ One day at a time | Uán dêi ét a táime | Um dia de cada vez | Saúde Mental 
 The Self-Care Break | Dâ sélf-kér brrêik | Tirar um "Me-time" para evitar o "Burnout" | Missão | B2
 The Anxious Support | Dâ ánk-shos sâ-pórt | Ajudar um amigo dizendo "Take a deep breath" durante uma crise | Missão | B1
 The Homesick Cure | Dâ rrôum-síik kiúur | Ligar para a família quando estiver "Feeling homesick" | Missão | B1
+
+// MÓDULO: FALSOS COGNATOS (FALSE FRIENDS)
+Actually, I don't know | Á-tchu-a-li, ái dônt nôu | Na verdade, eu não sei (NÃO é atualmente) | Traidoras | B1
+I eventually found it | Ái e-vén-tchu-a-li fáund ít | Eu finalmente encontrei (NÃO é eventualmente) | Traidoras | B2
+She is very sensitive | Shíi íz vé-rri sén-si-tiv | Ela é muito sensível (NÃO é sensata) | Traidoras | B1
+Be more sensible | Bíi móor sén-si-bol | Seja mais sensato (NÃO é sensível) | Traidoras | B2
+I intend to travel | Ái in-ténd tú trré-vol | Eu pretendo viajar (NÃO é entender) | Traidoras | B1
+I don't appreciate beef | Ái dônt a-prí-shi-êit bíif | Eu não gosto de carne de vaca (NÃO é bife de porco/frango) | Traidoras | A2
+The library is closed | Dâ lái-brré-rri íz clôuzd | A biblioteca está fechada (NÃO é livraria) | Traidoras | A2
+Where is the fabric? | Uér íz dâ fé-brik? | Onde está o tecido? (NÃO é fábrica) | Traidoras | B2
+I bought a novel | Ái bót a nó-vol | Eu comprei um romance/livro (NÃO é novela) | Traidoras | B1
+My parents are here | Mái pé-rrents ár rríer | Meus pais estão aqui (NÃO é parentes/tios/primos) | Traidoras | A1
+Common relatives | Có-mon rrê-la-tivz | Parentes comuns (Aqui sim são tios, primos, etc) | Traidoras | B1
+Push the door | Púsh dâ dóor | Empurre a porta (NÃO é puxe) | Traidoras | A1
+Pull the handle | Púl dâ rrén-dol | Puxe a maçaneta | Traidoras | A1
+I need to assist them | Ái níid tú a-síst fém | Eu preciso ajudá-los (NÃO é assistir TV/jogo) | Traidoras | B1
+It's a large house | Íts a lár-dj rrảuse | É uma casa grande (NÃO é larga/estreita) | Traidoras | A2
+
+// MISSÕES: O DESVENDADOR (THE DEBUNKER)
+The Library Mix-up | Dâ lái-brré-rri míks-âp | Ir à "Library" para estudar e à "Bookstore" para comprar livros | Missão | B1
+The Door Challenge | Dâ dóor ttthé-lendj | Ler "Push" e empurrar a porta de primeira sem hesitar | Missão | A1
+The Truth Teller | Dâ trrúuf té-ler | Usar "Actually" corretamente para corrigir uma informação | Missão | B1
+
+// MÓDULO: GÍRIAS E PHRASAL VERBS (SLANG & PHRASAL VERBS)
+What’s up? | Uáts âp? | E aí? / Como vai? | Gíria | A1
+I’m down for that | Ái-ém dáun fór fét | Eu topo! / Eu alinho nessa | Gíria | B2
+No biggie | Nôu bí-gui | Sem problema / Nada de especial | Gíria | B1
+Let's hang out | Léts rrêng áut | Vamos dar um rolé / passar tempo juntos | Phrasal | B1
+I need to figure it out | Ái níid tú fí-guier ít áut | Preciso de resolver/entender isto | Phrasal | B2
+Don't give up | Dônt guív âp | Não desistas | Phrasal | A2
+I'll look into it | Áiol lúk ín-tu ít | Vou investigar / dar uma olhadela nisso | Phrasal | B2
+That's sick! | Féts síik! | Isso é brutal! / Muito fixe! | Gíria | B1
+I'm just chilling | Ái-ém djâst ttthí-ling | Estou só a relaxar | Gíria | B1
+We ran out of coffee | Uí rrén áut óv có-fi | Ficámos sem café | Phrasal | B2
+Can you fill me in? | Kén iú fíol mí ín? | Podes pôr-me a par das novidades? | Phrasal | C1
+It's up to you | Íts âp tú iú | Fica ao teu critério / Tu é que sabes | Phrasal | B1
+Check this out | Tchék fís áut | Olha só isto / Dá uma olhada | Phrasal | A2
+I'm beat | Ái-ém bíit | Estou estourado / exausto | Gíria | B1
+Go for it! | Gôu fór ít! | Força! / Vai com tudo! | Gíria | B1
+
+// MISSÕES: O NATIVO (THE NATIVE SPEAKER)
+The Socializer | Dâ sôu-sha-lái-zer | Convidar alguém para "Hang out" no fim de semana | Missão | B1
+The Problem Solver | Dâ prró-blem sól-ver | Conseguir "Figure out" um erro no código do teu RPG | Missão | B2
+The Decision Maker | Dâ de-sí-jon mêi-ker | Deixar uma escolha para o teu parceiro dizendo "It's up to you" | Missão | B1
+
+// MÓDULO: INTERAÇÃO SOCIAL (SOCIAL INTERACTION)
+How's it going? | Rráuz ít góu-ing? | Como vão as coisas? / Tudo bem? | Social | A1
+Long time no see! | Lóng táime nôu síi! | Quanto tempo! | Social | B1
+I’ve heard so much about you | Áiv rrêrd sôu mâtsh a-báut iú | Ouvi muito falar de você | Social | B2
+Small talk / Catching up | Smóol tók / Ké-tching âp | Conversa fiada / Colocar o papo em dia | Social | B1
+What have you been up to? | Uót rrév iú bíin âp tú? | O que você tem feito ultimamente? | Social | B2
+Nice meeting you | Náice míi-ting iú | Prazer em te conhecer | Social | A1
+We should grab a coffee sometime | Uí shúd grréb a có-fi sâm-táime | Deveríamos tomar um café qualquer hora | Social | B1
+I don't want to keep you | Ái dônt uónt tú kíip iú | Não quero te prender (para encerrar papo) | Social | C1
+It was great catching up | Ít uós grrêit ké-tching âp | Foi ótimo colocar o papo em dia | Social | B2
+Can I join you guys? | Kén ái djóin iú gáiz? | Posso me juntar a vocês? | Social | B1
+Give my regards to your family | Guív mái rri-gárdz tú iór fé-mi-li | Dê lembranças à sua família | Social | C1
+I'm sorry, I didn't catch your name | Ái-ém só-rri, ái dí-dent kétsh iór nêime | Desculpe, não peguei seu nome | Social | A2
+Keep in touch! | Kíip ín tâtsh! | Mantenha contato! | Social | B1
+I'll let you get back to it | Áiol lét iú guét bék tú ít | Vou deixar você voltar ao que estava fazendo | Social | C1
+Take care! | Têik kér! | Cuide-se! / Tchau! | Social | A1
+
+// MISSÕES: O CONECTADO (THE CONNECTOR)
+The Name Retriever | Dâ nêime rri-trrí-ver | Recuperar o nome de alguém educadamente usando "I didn't catch your name" | Missão | A2
+The Smooth Exit | Dâ smúuf ék-zit | Encerrar uma conversa longa de forma gentil com "I don't want to keep you" | Missão | C1
+The Coffee Invite | Dâ có-fi in-váit | Sugerir um encontro casual com "We should grab a coffee" | Missão | B1
+
+// MÓDULO: COMPUTADOR E INTERNET (COMPUTING & THE WEB)
+The Wi-Fi is acting up | Dâ uái-fái íz ék-ting âp | O Wi-Fi está dando problema | Tech | B1
+Can you share your screen? | Kén iú shéir iór skrríin? | Você pode compartilhar sua tela? | Tech | A2
+I need to back up my files | Ái níid tú bék âp mái fái-olz | Preciso fazer backup dos meus arquivos | Tech | B1
+The system is lagging | Dâ sís-tem íz lé-guing | O sistema está com lag / lento | Tech | B2
+Double-click the icon | Dâ-bol clík dâ ái-con | Clique duas vezes no ícone | Tech | A1
+I've lost my connection | Áiv lóst mái co-nék-shon | Perdi minha conexão | Tech | A2
+Enter your credentials | Én-ter iór crre-dén-sholz | Insira suas credenciais (usuário/senha) | Tech | C1
+The website is down | Dâ uéb-sáit íz dáun | O site está fora do ar | Tech | B1
+Check your spam folder | Tchék iór espém fôul-der | Verifique sua pasta de spam | Tech | A2
+Update your software | Âp-dêit iór sóft-uér | Atualize seu software | Tech | B1
+The battery is running low | Dâ bá-te-rri íz rrâ-ning lôu | A bateria está acabando | Tech | A2
+Scroll down to the bottom | Skrrôul dáun tú dâ bó-tom | Role para baixo até o final | Tech | B1
+Attach the file to the email | A-tétsh dâ fái-ol tú dâ í-mêiol | Anexe o arquivo ao e-mail | Tech | B1
+Browse the web | Brráuze dâ uéb | Navegar na web | Tech | B1
+A glitch in the system | A glítsh ín dâ sís-tem | Uma falha/bug no sistema | Tech | C1
+
+// MISSÕES: O MESTRE DIGITAL (THE DIGITAL MASTER)
+The Troubleshooting | Dâ trrrâ-bol-shúu-ting | Resolver um problema quando o "Wi-Fi is acting up" | Missão | B2
+The Safe Keeper | Dâ sêif kíi-per | Realizar um "Back up" completo de todos os módulos do RPG | Missão | B1
+The Efficient Worker | Dâ e-fí-shent uôr-ker | Enviar um e-mail e "Attach the file" corretamente para o chefe | Missão | B1
+
+// MÓDULO: COMPRAS ONLINE E ENTREGAS (ONLINE SHOPPING)
+Add to cart / Checkout | Éd tú cárt / Tchék-áut | Adicionar ao carrinho / Finalizar compra | Shopping | A1
+Track my order | Trrék mái ór-der | Rastrear o meu pedido | Shopping | B1
+Shipping and handling | Shí-ping énd rrén-dling | Frete e manuseio | Shopping | B2
+Estimated delivery date | É-sti-mêi-ted di-lí-ve-rri dêit | Data estimada de entrega | Shopping | B1
+The item is out of stock | Dâ ái-tem íz áut óv estók | O item está fora de stock | Shopping | B1
+I’d like a refund | Áid láik a rrí-fând | Eu gostaria de um reembolso | Shopping | B2
+Return policy | Rri-tûrn pó-li-si | Política de devolução | Shopping | B2
+The package was damaged | Dâ pé-ka-dj uós dé-ma-djd | A embalagem/pacote estava danificada | Shopping | B1
+A discount code / Voucher | A dís-cáunt côud / Váu-tcher | Um código de desconto / Cupão | Shopping | A2
+The order is being processed | Dâ ór-der íz bí-ing prró-sest | O pedido está sendo processado | Shopping | B1
+Standard or Express shipping | Stén-dard ór Eks-préss shí-ping | Frete padrão ou expresso | Shopping | B1
+It’s out for delivery | Íts áut fór di-lí-ve-rri | Saiu para entrega | Shopping | B2
+I never received my parcel | Ái né-ver rri-síivd mái pár-sol | Eu nunca recebi o meu pacote/encomenda | Shopping | B1
+Subscribe and save | Sâb-skrráib énd sêiv | Assine e economize | Shopping | B1
+Hidden fees | RRí-den fíiz | Taxas escondidas | Shopping | C1
+
+// MISSÕES: O COMPRADOR INTELIGENTE (THE SMART SHOPPER)
+The Tracker | Dâ trré-ker | Usar o "Tracking number" para saber onde está a sua encomenda | Missão | B1
+The Refund Master | Dâ rrí-fând més-ter | Solicitar um "Refund" após receber um produto "Damaged" | Missão | B2
+The Deal Hunter | Dâ díiol rrân-ter | Aplicar um "Discount code" antes do "Checkout" para poupar ouro | Missão | A2
