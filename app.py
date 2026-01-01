@@ -25,15 +25,16 @@ st.markdown("""
         min-height: 400px; display: flex; flex-direction: column; 
         justify-content: center; align-items: center; margin-bottom: 20px;
     }
+    .listening-icon { font-size: 80px; color: #3b82f6; margin-bottom: 20px; animation: pulse 2s infinite; }
+    @keyframes pulse { 0% { opacity: 0.5; } 50% { opacity: 1; } 100% { opacity: 0.5; } }
     .eng-word { color: #0f172a; font-size: 42px; font-weight: 800; margin-bottom: 15px; }
     .pt-word { color: #2563eb; font-size: 26px; font-weight: 600; margin-top: 20px; }
     .pron { color: #475569; font-size: 20px; font-style: italic; background: #f8fafc; padding: 5px 15px; border-radius: 8px; margin-top: 10px; }
-    .stProgress > div > div > div > div { background-color: #2563eb; }
     </style>
 """, unsafe_allow_html=True)
 
 # ==============================================================================
-# 2. FUNÇÕES DE DADOS E PERSISTÊNCIA
+# 2. FUNÇÕES DE SUPORTE
 # ==============================================================================
 
 def carregar_progresso():
@@ -46,6 +47,12 @@ def carregar_progresso():
 def salvar_progresso(xp, itens_status):
     with open(PROGRESS_FILE, 'w', encoding='utf-8') as f:
         json.dump({"xp": xp, "itens": itens_status}, f, indent=4)
+
+def gerar_audio(texto):
+    tts = gTTS(text=texto, lang='en')
+    fp = BytesIO()
+    tts.write_to_fp(fp)
+    return fp
 
 @st.cache_data
 def load_game_data():
@@ -74,77 +81,86 @@ xp_atual = st.session_state.data.get("xp", 0)
 progresso_itens = st.session_state.data.get("itens", {})
 
 # ==============================================================================
-# 3. SIDEBAR (DASHBOARD)
+# 3. SIDEBAR
 # ==============================================================================
 
 with st.sidebar:
     st.title("⚔️ Samuel's RPG")
     nivel_rpg = (xp_atual // XP_BASE_NIVEL) + 1
-    st.metric("Level", nivel_rpg)
+    st.metric("Nível", nivel_rpg)
     st.progress(min((xp_atual % XP_BASE_NIVEL) / XP_BASE_NIVEL, 1.0))
-    st.caption(f"XP Total: {xp_atual}")
     
     st.divider()
-    menu = st.radio("Menu", ["📖 Treinamento", "📊 Estatísticas", "📜 Missões", "📖 Glossário"])
+    menu = st.radio("Menu", ["📖 Treinamento", "📊 Estatísticas", "📖 Glossário"])
     
     if menu == "📖 Treinamento":
         st.divider()
-        st.subheader("🎯 Foco de Estudo")
-        tipo_estudo = st.selectbox("Estudar por:", ["Tudo (SRS)", "Módulo Específico", "Nível Específico"])
+        st.subheader("🎯 Configuração do Treino")
+        modo_estudo = st.selectbox("Modo de Foco:", ["Leitura (Tradicional)", "🎧 Escuta (Listening First)"])
+        tipo_filtro = st.selectbox("Filtrar por:", ["Tudo (SRS)", "Módulo", "Nível"])
         
-        filtro_final = None
-        if tipo_estudo == "Módulo Específico":
-            lista_modulos = sorted(df['Categoria'].unique())
-            filtro_final = st.selectbox("Selecione o Módulo:", lista_modulos)
-        elif tipo_estudo == "Nível Específico":
-            lista_niveis = sorted(df['Nível'].unique())
-            filtro_final = st.selectbox("Selecione o Nível:", lista_niveis)
+        filtro_val = None
+        if tipo_filtro == "Módulo":
+            filtro_val = st.selectbox("Qual Módulo?", sorted(df['Categoria'].unique()))
+        elif tipo_filtro == "Nível":
+            filtro_val = st.selectbox("Qual Nível?", sorted(df['Nível'].unique()))
 
 # ==============================================================================
-# 4. LÓGICA DE FILTRAGEM DE CARTAS
+# 4. FILTRAGEM E LÓGICA DO DECK
 # ==============================================================================
 
 hoje = datetime.now().strftime("%Y-%m-%d")
 df['Proxima'] = df['Inglês'].apply(lambda x: progresso_itens.get(x, {}).get('prox', '2000-01-01'))
 
 if menu == "📖 Treinamento":
-    if tipo_estudo == "Tudo (SRS)":
-        deck_atual = df[df['Proxima'] <= hoje].copy()
-    elif tipo_estudo == "Módulo Específico":
-        deck_atual = df[df['Categoria'] == filtro_final].copy()
-    else: # Nível
-        deck_atual = df[df['Nível'] == filtro_final].copy()
+    if tipo_filtro == "Tudo (SRS)":
+        deck = df[df['Proxima'] <= hoje].copy()
+    elif tipo_filtro == "Módulo":
+        deck = df[df['Categoria'] == filtro_val].copy()
+    else:
+        deck = df[df['Nível'] == filtro_val].copy()
 
 # ==============================================================================
 # 5. INTERFACE DE TREINAMENTO
 # ==============================================================================
 
 if menu == "📖 Treinamento":
-    if deck_atual.empty:
-        st.success("✨ **Objetivo Concluído!** Não há mais cartas neste filtro para hoje.")
+    if deck.empty:
+        st.success("✨ Tudo revisado por aqui! Escolha outro filtro ou módulo.")
     else:
-        st.session_state.idx %= len(deck_atual)
-        row = deck_atual.iloc[st.session_state.idx]
+        st.session_state.idx %= len(deck)
+        row = deck.iloc[st.session_state.idx]
         
-        st.markdown(f"""
-            <div class="flashcard">
-                <span style="color:#64748b; font-weight:bold;">{row['Categoria'].upper()} • {row['Nível']}</span>
-                <div class="eng-word">{row['Inglês']}</div>
-                {"<hr style='width:30%'>" if st.session_state.revelado else ""}
-                {f'<div class="pt-word">{row["Tradução"]}</div><div class="pron">🗣️ {row["Pronúncia"]}</div>' if st.session_state.revelado else ""}
-            </div>
-        """, unsafe_allow_html=True)
+        # Bloco de Áudio (Toca automaticamente se for modo Escuta ou se já estiver revelado)
+        audio_data = gerar_audio(row['Inglês'])
         
+        st.markdown('<div class="flashcard">', unsafe_allow_html=True)
+        
+        if modo_estudo == "🎧 Escuta (Listening First)" and not st.session_state.revelado:
+            # FRENTE DA CARTA NO MODO ESCUTA
+            st.markdown('<div class="listening-icon">🎧</div>', unsafe_allow_html=True)
+            st.write("### Ouça com atenção...")
+            st.audio(audio_data, format='audio/mp3', autoplay=True)
+            if st.button("🔊 Ouvir Novamente"): st.rerun()
+        else:
+            # FRENTE DA CARTA NO MODO LEITURA OU VERSO REVELADO
+            st.markdown(f'<span style="color:#64748b; font-weight:bold;">{row["Categoria"].upper()} • {row["Nível"]}</span>', unsafe_allow_html=True)
+            st.markdown(f'<div class="eng-word">{row["Inglês"]}</div>', unsafe_allow_html=True)
+            
+            if st.session_state.revelado:
+                st.markdown(f'<hr style="width:30%"><div class="pt-word">{row["Tradução"]}</div>', unsafe_allow_html=True)
+                st.markdown(f'<div class="pron">🗣️ {row["Pronúncia"]}</div>', unsafe_allow_html=True)
+                if modo_estudo == "Leitura (Tradicional)":
+                    st.audio(audio_data, format='audio/mp3', autoplay=True)
+
+        st.markdown('</div>', unsafe_allow_html=True)
+        
+        # Botões de Ação
         if not st.session_state.revelado:
-            if st.button("👁️ REVELAR", use_container_width=True, type="primary"):
+            if st.button("👁️ REVELAR RESPOSTA", use_container_width=True, type="primary"):
                 st.session_state.revelado = True
                 st.rerun()
         else:
-            # Áudio
-            tts = gTTS(text=row['Inglês'], lang='en')
-            audio_fp = BytesIO(); tts.write_to_fp(audio_fp)
-            st.audio(audio_fp, format='audio/mp3', autoplay=True)
-            
             c1, c2, c3 = st.columns(3)
             with c1:
                 if st.button("❌ Errei", use_container_width=True):
@@ -164,29 +180,13 @@ if menu == "📖 Treinamento":
                     st.session_state.revelado = False; st.session_state.idx += 1; st.rerun()
 
 elif menu == "📊 Estatísticas":
-    st.title("📊 Seu Progresso Militar")
+    st.title("📊 Desempenho do Guerreiro")
     col1, col2 = st.columns(2)
-    with col1:
-        st.write("### Domínio por Nível")
-        srs_data = pd.Series([v.get('srs', 0) for v in progresso_itens.values()]).value_counts().sort_index()
-        st.bar_chart(srs_data)
-    with col2:
-        st.write("### Conhecimento por Módulo")
-        st.write(df['Categoria'].value_counts())
-
-elif menu == "📜 Missões":
-    st.title("📜 Missões Disponíveis")
-    df_m = df[df['Categoria'] == 'Missão']
-    for i, r in df_m.iterrows():
-        with st.expander(f"🚩 {r['Inglês']}"):
-            st.write(r['Tradução'])
-            if st.button("Completar Missão", key=f"m{i}"):
-                st.session_state.data['xp'] += XP_MISSAO
-                salvar_progresso(st.session_state.data['xp'], progresso_itens)
-                st.balloons()
+    col1.metric("Palavras Conhecidas", len(progresso_itens))
+    col2.metric("XP Total", xp_atual)
+    st.bar_chart(pd.Series([v.get('srs', 0) for v in progresso_itens.values()]).value_counts().sort_index())
 
 elif menu == "📖 Glossário":
-    st.title("📖 Biblioteca de Termos")
-    busca = st.text_input("Pesquisar termo...")
-    df_view = df[df['Inglês'].str.contains(busca, case=False) | df['Tradução'].str.contains(busca, case=False)]
-    st.dataframe(df_view[['Inglês', 'Tradução', 'Pronúncia', 'Categoria', 'Nível']], use_container_width=True)
+    st.title("📖 Biblioteca")
+    busca = st.text_input("Buscar termo...")
+    st.dataframe(df[df['Inglês'].str.contains(busca, case=False) | df['Tradução'].str.contains(busca, case=False)], use_container_width=True)
