@@ -8425,3 +8425,105 @@ I want more of that | Ái uónt mór óv dhét | Eu quero mais disso | Phrase | 
 I need to know more | Ái níd tu nôu mór | Eu preciso saber mais | Phrase | A1
 You should eat more | Iú shúd ít mór | Você deveria comer mais | Phrase | A1
 I need more practice | Ái níd mór préc-tis | Eu preciso de mais prática | Phrase | A1
+
+// MÓDULO: SALA DE AULA
+May I go to the bathroom? | Mêi ai gôu tu dâ bét-rum? | Posso ir ao banheiro? | Sala de Aula | A1
+Can I drink some water? | Kén ai drínk sâm uá-der? | Posso beber água? | Sala de Aula | A1
+Can you speak slower, please? | Kén iú ispík islôu-er, pliz? | Pode falar mais devagar, por favor? | Sala de Aula | A1
+Could you speak up, please? | Kúd iú ispík áp, pliz? | Pode falar mais alto? | Sala de Aula | A2
+Could you speak softer, please? | Kúd iú ispík sóf-ter, pliz? | Pode falar mais baixo? | Sala de Aula | B1
+How do you say "..." in English? | Ráu du iú sêi "..." ín ín-glish? | Como se diz "..." em inglês? | Sala de Aula | A1
+What does "..." mean? | Uát dâz "..." mín? | O que significa "..."? | Sala de Aula | A1
+How do you spell that? | Ráu du iú is-pél dét? | Como se soletra isso? | Sala de Aula | A1
+Could you repeat that, please? | Kúd iú ri-pít dét, pliz? | Você poderia repetir isso, por favor? | Sala de Aula | A1
+I have a question. | Ai rév á qués-tchân | Eu tenho uma pergunta. | Sala de Aula | A1
+I didn't understand. | Ai díd-ênt ân-der-sténd | Eu não entendi. | Sala de Aula | A2
+How would it be if...? | Ráu uúd ít bi íf...? | Como seria se...? | Sala de Aula | B1
+Is this correct? | Iz dís co-rékt? | Isso está correto? | Sala de Aula | A1
+Sorry I'm late. | Sór-ri áim lêit | Desculpe pelo atraso. | Sala de Aula | A1
+Can you explain that again? | Kén iú éks-plêin dét á-guén? | Pode explicar isso de novo? | Sala de Aula | A2
+Can I borrow a pen? | Kén ai bór-rou á pén? | Pode me emprestar uma caneta? | Sala de Aula | A1
+Do you have an extra pencil? | Du iú rév én éks-tra pén-sil? | Você tem um lápis extra? | Sala de Aula | A1
+Which page are we on? | Uítch pêidj ár uí ón? | Em que página estamos? | Sala de Aula | A1
+Can I change seats? | Kén ai tcheindj síts? | Posso trocar de lugar? | Sala de Aula | A2
+I'm done / I've finished. | Áim dân / Áiv fí-nisht | Já acabei / Terminei. | Sala de Aula | A1
+
+// MÓDULO: INTERAÇÃO ENTRE ALUNOS
+Can you help me with this? | Kén iú rélp mí uíd dís? | Você pode me ajudar com isso? | Sala de Aula | A1
+Do you want to work together? | Du iú uónt tu uérk tu-gué-der? | Você quer trabalhar junto? | Sala de Aula | A2
+Whose turn is it? | Rúz térn íz ít? | De quem é a vez? | Sala de Aula | A2
+It's your turn. | Íts iór térn | É a sua vez. | Sala de Aula | A1
+It's my turn. | Íts mái térn | É a minha vez. | Sala de Aula | A1
+Can I borrow your eraser? | Kén ai bór-rou iór i-rêi-zer? | Pode me emprestar sua borracha? | Sala de Aula | A1
+Move a little bit, please. | Múv á lí-tol bít, pliz | Chega um pouquinho para o lado, por favor. | Sala de Aula | A2
+Did you get the answer for number 5? | Díd iú guét dâ én-suer fór nâm-ber fáiv? | Você conseguiu a resposta da número 5? | Sala de Aula | B1
+Let's compare our answers. | Léts côm-pér áu-er én-suers | Vamos comparar nossas respostas. | Sala de Aula | B1
+I'm not sure about this one. | Áim nót chúr á-báut dís uân | Não tenho certeza sobre esta aqui. | Sala de Aula | B1
+Could you send me the notes? | Kúd iú sénd mí dâ nôuts? | Você poderia me enviar as anotações? | Sala de Aula | B1
+What did the teacher say? | Uát díd dâ tí-tcher sêi? | O que o professor disse? | Sala de Aula | A2
+See you after class! | Sí iú áf-ter klés | Vejo você depois da aula! | Sala de Aula | A1
+
+// MÓDULO: CURIOSIDADES E DESAFIOS
+The Quick Brown Fox... | Dâ quík bráun fóks... | Frase que usa todas as letras do alfabeto (Pangrama) | Curiosidades | B1
+I am. | Ai ém | A frase completa mais curta da língua inglesa | Curiosidades | A1
+Pneumonoultramicroscopicsilicovolcanoconiosis | Ni-mô-no... | A maior palavra do dicionário (doença pulmonar) | Desafio | C2
+Queue | Quiú | A palavra onde 4 letras são mudas (soa como a letra Q) | Curiosidades | B2
+Ghoti = Fish? | Físh | Um jogo de sons onde "Ghoti" poderia soar como "Fish" | Fonética | C1
+"Set" | Sét | A palavra com o maior número de definições diferentes | Vocabulário | B2
+Happy vs Sad | Ré-pi vs Séd | A palavra "Happy" é usada 3x mais que "Sad" | Estatística | A1
+
+// MÓDULO: CURIOSIDADES E INTERNET
+GG (Good Game) | Gí-gí | Bom jogo (usado no final da partida) | Games | A1
+I am. | Ai ém | A frase completa mais curta do inglês | Curiosidade | A1
+The "I" is always big | Dâ ái íz ól-uêis bíg | O "I" (Eu) é sempre maiúsculo por estética histórica | Curiosidade | A1
+Noob (Newbie) | Núb | Novato ou iniciante (de forma provocativa) | Games | A1
+POV (Point of View) | Pê-ô-ví | Ponto de vista | Redes Sociais | A2
+Ghosting | Gôs-tíng | Sumir e não responder mais (virar um fantasma) | Redes Sociais | B1
+Serendipity | Sê-rên-dí-pí-ti | Encontrar algo bom por acaso | Palavra Única | C1
+Petrichor | Pé-tri-kór | Cheiro de chuva na terra seca | Palavra Única | C1
+Swagger | Sué-guer | Estilo ou gingado (palavra criada por Shakespeare) | Curiosidade | B2
+Woof Woof | Uúf Uúf | Au Au (como o cachorro late em inglês) | Onomatopeia | A1
+Achoo! | At-tchú | Atchim! (som do espirro em inglês) | Onomatopeia | A1
+
+// MÓDULO: FREE FIRE EM INGLÊS
+Enemy spotted! | É-nê-mi ispó-téd | Inimigo à vista! | Free Fire | A2
+Cover me! | Kâ-ver mí | Me dê cobertura! | Free Fire | A1
+Help me! | Rélp mí | Ajude-me! / Me salva! | Free Fire | A1
+Let's rush! | Léts râsh | Vamos avançar com tudo! (atacar rápido) | Free Fire | A2
+Loot the box | Lút dâ bóks | Saquear a caixa | Free Fire | A1
+Headshot! | Réd-shót | Tiro na cabeça! | Free Fire | A1
+Stay together | Stêi tu-gué-der | Fiquem juntos | Free Fire | A1
+The zone is shrinking | Dâ zôun íz shrín-kíng | A zona está fechando | Free Fire | B1
+Safe zone | Sêif zôun | Zona segura | Free Fire | A1
+I need a medkit | Ai níd á méd-kít | Preciso de um kit médico | Free Fire | A1
+Booyah! | Bu-iá | Vitória! (expressão exclusiva do jogo) | Free Fire | A1
+Drop the ammo | Dróp dâ é-mô | Joga a munição no chão | Free Fire | A2
+
+// MÓDULO: MUNDO ROBLOX
+Let's play an Obby | Léts plêi én ó-bi | Vamos jogar um percurso de obstáculos | Roblox | A1
+That skin is fire! | Dét iskín íz fá-ier | Essa skin é muito legal/estilosa! | Roblox | A2
+I'm lagging | Áim lé-guíng | Estou com atraso na conexão (travando) | Roblox | A2
+Friend request | Frénd ri-quést | Pedido de amizade | Roblox | A1
+Reset character | Ri-sét ké-rak-ter | Resetar o personagem | Roblox | A2
+Tycoon game | Tai-kún guêim | Jogo de construir impérios/negócios | Roblox | B1
+Don't be a scammer | Dônt bi á is-ké-mer | Não seja um golpista/enganador | Roblox | B1
+Adopt me | Á-dópt mí | Adote-me | Roblox | A1
+
+// MÓDULO: MUNDO MINECRAFT
+Mining diamonds | Mái-níng dái-mônds | Minerando diamantes | Minecraft | A1
+Crafting table | Cráf-tíng têi-bol | Bancada de trabalho | Minecraft | A1
+Build a shelter | Bíld á shél-ter | Construir um abrigo | Minecraft | A2
+Gather resources | Gué-der ri-sór-siz | Coletar recursos | Minecraft | B1
+Creepers explode | Crí-pers éks-plôud | Creepers explodem | Minecraft | A2
+Bedrock layer | Béd-rók lêi-er | Camada da rocha matriz (inquebrável) | Minecraft | B2
+Spawn point | Ispón póint | Ponto de renascimento | Minecraft | A2
+Tools and weapons | Túls énd ué-pôns | Ferramentas e armas | Minecraft | A1
+
+// MÓDULO: MISSÕES E DESAFIOS SEMANAIS
+The Movie Quest | Dâ mú-vi quést | Assistir 15 min de um filme/desenho em inglês | Missão | B1
+The Gamer Mission | Dâ guêi-mer mí-shân | Usar 3 frases de "Sala de Aula" durante o jogo | Missão | A2
+The Lyrics Hunter | Dâ lí-ríks rân-ter | Encontrar 5 palavras conhecidas em uma música | Missão | B1
+The Label Explorer | Dâ lêi-bol éks-plô-rer | Ler os ingredientes de um produto em inglês | Missão | A2
+The Mirror Talk | Dâ mír-ror tók | Falar 3 frases em voz alta na frente do espelho | Missão | A1
+The Smartphone Guru | Dâ smárt-fôun gu-rú | Mudar o idioma do celular para inglês por 1 dia | Missão | B2
+The Teacher's Pet | Dâ tí-tcher's pét | Fazer uma pergunta ao professor totalmente em inglês | Missão | B1
