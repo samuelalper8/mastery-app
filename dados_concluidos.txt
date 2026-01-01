@@ -2670,3 +2670,432 @@ Never mind | Né-ver máind | Deixa pra lá / Não importa | Expressão | A1
 It was now or never | Ít uóz náu ór né-ver | Era agora ou nunca | Expressão | B1
 I promise I’ll never tell | Ai pró-mis áil né-ver tél | Prometo que nunca vou contar | Gramática | A2
 
+// MÓDULO: O PAI NOSSO (THE LORD'S PRAYER)
+Our Father in heaven | Áu-ar Fá-der in ré-ven | Pai Nosso que estais nos céus | Prayer | A1
+Hallowed be Your name | Rá-lou-d bi Iór nêim | Santificado seja o Vosso nome | Prayer | B2
+Your kingdom come | Iór kín-g-dom câm | Venha a nós o Vosso reino | Prayer | B1
+Your will be done | Iór uíl bi dân | Seja feita a Vossa vontade | Prayer | B2
+On earth as it is in heaven | Ón ârf éz ít íz in ré-ven | Assim na terra como no céu | Prayer | A2
+Give us today our daily bread | Gív âs tu-dêi áu-ar dêi-li bréd | O pão nosso de cada dia nos dai hoje | Prayer | A2
+And forgive us our debts | Ênd for-gív âs áu-ar déts | Perdoai as nossas dívidas | Prayer | B1
+As we also have forgiven our debtors | Éz ui ól-sou rév for-gí-ven áu-ar dé-tors | Assim como nós perdoamos a quem nos tem ofendido | Prayer | B2
+And lead us not into temptation | Ênd líd âs nót ín-tu tem-ptêi-shon | E não nos deixeis cair em tentação | Prayer | B2
+But deliver us from evil | Bât di-lí-ver âs fróm í-vol | Mas livrai-nos do mal | Prayer | B1
+For Yours is the kingdom | Fór Iórs íz dê kín-g-dom | Pois Vosso é o reino | Prayer | B1
+The power and the glory | Dê páu-er ênd dê gló-ri | O poder e a glória | Prayer | B1
+For ever and ever. Amen | For é-ver ênd é-ver. É-men | Para sempre. Amém | Prayer | A1
+
+// MÓDULO: TÍTULOS DE JESUS (TITLES OF JESUS)
+Jesus of Nazareth | Jí-zas óv Né-za-reth | Jesus de Nazaré | Titles | A1
+King of Kings | Kíng óv Kíngs | Rei dos Reis | Titles | A2
+Lord of Lords | Lórd óv Lórds | Senhor dos Senhores | Titles | A2
+Prince of Peace | Príns óv Pís | Príncipe da Paz | Titles | B1
+The Good Shepherd | Dê Gúd Shé-perd | O Bom Pastor | Titles | B1
+The Light of the World | Dê Láit óv dê Uórld | A Luz do Mundo | Titles | A2
+The Bread of Life | Dê Bréd óv Láif | O Pão da Vida | Titles | A2
+Savior of the World | Sêi-vi-or óv dê Uórld | Salvador do Mundo | Titles | B1
+The Lamb of God | Dê Lém óv Gód | O Cordeiro de Deus | Titles | B1
+Alpha and Omega | Ál-fa ênd O-mê-ga | Alfa e Ômega | Titles | C1
+Son of the Living God | Sân óv dê Lí-ving Gód | Filho do Deus Vivo | Titles | B1
+The Messiah | Dê Me-sái-a | O Messias | Titles | B2
+The Way, the Truth, and the Life | Dê Uêi, dê Trúf, ênd dê Láif | O Caminho, a Verdade e a Vida | Titles | B1
+Wonderful Counselor | Uán-der-ful Cáun-se-lor | Maravilhoso Conselheiro | Titles | B2
+Mighty God | Mái-ti Gód | Deus Forte | Titles | B1
+
+// MÓDULO: ATRIBUTOS DE DEUS PAI (ATTRIBUTES OF GOD THE FATHER)
+Almighty God | Ól-mái-ti Gód | Deus Todo-Poderoso | Attributes | B1
+The Creator of all things | Dê Cri-êi-tor óv ól fíngs | O Criador de todas as coisas | Attributes | B1
+The Eternal Father | Dê I-têr-nal Fá-der | O Pai Eterno | Attributes | B1
+God is Holy | Gód íz Róu-li | Deus é Santo | Attributes | A1
+Merciful and Gracious | Mêr-si-ful ênd Grêi-shâs | Misericordioso e Gracioso | Attributes | C1
+Faithful and True | Fêif-ful ênd Trú | Fiel e Verdadeiro | Attributes | B1
+The Most High | Dê Moust Rái | O Altíssimo | Attributes | B2
+The Sovereign Lord | Dê Só-ve-rin Lórd | O Soberano Senhor | Attributes | C1
+God is Love | Gód íz lâv | Deus é Amor | Attributes | A1
+Our Refuge and Strength | Áu-ar Ré-fiú-dj ênd Strén-f | O nosso Refúgio e Fortaleza | Attributes | B2
+The Invisible God | Dê In-ví-zi-bol Gód | O Deus Invisível | Attributes | B1
+Omnipresent | Om-ni-pré-zent | Omnipresente (Onipresente) | Attributes | C1
+Omniscient | Om-ní-shient | Omnisciente (Onisciente) | Attributes | C1
+Omnipotent | Om-ní-po-tent | Omnipotente (Onipotente) | Attributes | C1
+The Just Judge | Dê Jâst Djâ-dj | O Justo Juiz | Attributes | B2
+Abba Father | Á-ba Fá-der | Aba Pai | Attributes | B1
+
+// MÓDULO: ATRIBUTOS DO ESPÍRITO SANTO (ATTRIBUTES OF THE HOLY SPIRIT)
+The Holy Spirit | Dê Róu-li Spí-rit | O Espírito Santo | Holy Spirit | A2
+The Comforter | Dê Câm-for-ter | O Consolador | Holy Spirit | B2
+The Helper | Dê Rél-per | O Ajudador / Auxiliador | Holy Spirit | A2
+The Spirit of Truth | Dê Spí-rit óv Trúf | O Espírito da Verdade | Holy Spirit | B1
+The Advocate | Dê Ád-vo-keit | O Advogado | Holy Spirit | C1
+The Spirit of Wisdom | Dê Spí-rit óv Uíz-dom | O Espírito de Sabedoria | Holy Spirit | B2
+The Breath of God | Dê Bréf óv Gód | O Sopro de Deus | Holy Spirit | B1
+The Intercessor | Dê In-ter-sé-ssor | O Intercessor | Holy Spirit | C1
+The Sanctifier | Dê Sênc-ti-fái-er | O Santificador | Holy Spirit | C1
+The Spirit of the Lord | Dê Spí-rit óv dê Lórd | O Espírito do Senhor | Holy Spirit | B1
+The Guide | Dê Gáid | O Guia | Holy Spirit | A2
+The Seal of God | Dê Síl óv Gód | O Selo de Deus | Holy Spirit | B2
+A Consuming Fire | A Con-sú-ming Fá-ier | Um Fogo Consumidor | Holy Spirit | B2
+The Spirit of Life | Dê Spí-rit óv Láif | O Espírito da Vida | Holy Spirit | B1
+
+// MÓDULO: O REINO ESPIRITUAL (THE SPIRITUAL REALM)
+The Kingdom of Heaven | Dê Kín-g-dom óv Ré-ven | O Reino dos Céus | Spiritual | B1
+The spiritual realm | Dê spí-ri-tual rélm | O mundo/reino espiritual | Spiritual | B2
+Eternal Life | I-têr-nal Láif | Vida Eterna | Spiritual | A2
+The Book of Life | Dê Búk óv Láif | O Livro da Vida | Spiritual | A2
+Angels and Archangels | Êin-djels ênd Ar-kêin-djels | Anjos e Arcanjos | Spiritual | C1
+The Throne of Grace | Dê Trôun óv Gréis | O Trono da Graça | Spiritual | B2
+Divine Providence | Di-váin Pró-vi-dens | Providência Divina | Spiritual | C1
+The presence of God | Dê pré-zens óv Gód | A presença de Deus | Spiritual | B1
+Cloud of witnesses | Cláud óv uít-ne-ses | Nuvem de testemunhas | Spiritual | C2
+
+// MÓDULO: LEIS E PRINCÍPIOS ESPIRITUAIS (SPIRITUAL LAWS)
+Sowing and reaping | Só-uing ênd rí-ping | Semear e colher (Lei da Semeadura) | Laws | C1
+Walk by faith, not by sight | Uók bái fêif, nót bái sáit | Andar por fé, não por vista | Laws | B2
+The fear of the Lord | Dê fír óv dê Lórd | O temor do Senhor | Laws | B1
+Obedience is better than sacrifice | O-bí-di-ens íz bé-ter dén sé-cri-fáis | Obediência é melhor que sacrifício | Laws | C1
+The truth will set you free | Dê trúf uíl sét iú frí | A verdade vos libertará | Laws | B1
+Love covers a multitude of sins | Lâv câ-vers a mul-ti-tiúd óv síns | O amor cobre uma multidão de pecados | Laws | B2
+The power of prayer | Dê páu-er óv pré-er | O poder da oração | Laws | A2
+
+// MÓDULO: BATALHA ESPIRITUAL (SPIRITUAL WARFARE)
+The Armor of God | Dê Ár-mor óv Gód | A Armadura de Deus | Warfare | B1
+The Sword of the Spirit | Dê Sórd óv dê Spí-rit | A Espada do Espírito | Warfare | B2
+The Shield of Faith | Dê Shíld óv Fêif | O Escudo da Fé | Warfare | B2
+Spiritual Authority | Spí-ri-tual Au-fó-ri-ti | Autoridade Espiritual | Warfare | C1
+Resist the devil | Ri-zíst dê dé-vol | Resisti ao diabo | Warfare | B2
+More than conquerors | Mór dén cón-que-rors | Mais que vencedores | Warfare | B2
+Strongholds | Stróng-hólds | Fortalezas (espirituais) | Warfare | C2
+
+// MÓDULO: GRANDES HISTÓRIAS BÍBLICAS (BIBLICAL STORIES)
+In the beginning God created the heavens and the earth | In dê bi-gí-ning Gód cri-êi-ted dê ré-vens ênd dê ârf | No princípio Deus criou os céus e a terra (Criação) | Stories | B1
+Noah built an ark to save his family | Nó-a bílt ên árk tu sêiv ríz fé-mi-li | Noé construiu uma arca para salvar a sua família (Dilúvio) | Stories | A2
+Moses led the people out of Egypt | Môu-zes léd dê pí-pol áut óv Í-djipt | Moisés liderou o povo para fora do Egito (Êxodo) | Stories | B1
+The walls of Jericho fell down | Dê uóls óv Djé-ri-cou fél dáun | As muralhas de Jericó caíram | Stories | B1
+David defeated Goliath with a stone | Dêi-vid di-fí-ted Go-lái-af uíf a stôun | Davi derrotou Golias com uma pedra | Stories | B2
+Daniel was thrown into the lions' den | Dê-niel uóz frôun ín-tu dê lái-ons dén | Daniel foi lançado na cova dos leões | Stories | B2
+Jonah was swallowed by a great fish | Djôu-na uóz suó-loud bái a grêit físh | Jonas foi engolido por um grande peixe | Stories | B2
+The Word became flesh and dwelt among us | Dê Uôrd bi-kêm flésh ênd duélt a-mông âs | O Verbo se fez carne e habitou entre nós (Encarnação) | Stories | C1
+He is not here, for He has risen | Rí íz nót rír, fór Rí réz rí-zen | Ele não está aqui, pois ressuscitou (Ressurreição) | Stories | B1
+
+// MÓDULO: PROFECIAS E APOCALIPSE (PROPHECIES & REVELATION)
+The virgin will conceive and give birth to a son | Dê vûr-djin uíl con-sív ênd gív bârf tu a sân | A virgem conceberá e dará à luz um filho | Prophecy | B2
+He was pierced for our transgressions | Rí uóz pírst fór áu-ar trans-gré-shons | Ele foi traspassado pelas nossas transgressões | Prophecy | C2
+I am coming soon | Ái ém câ-ming sún | Venho sem demora / Venho em breve | Prophecy | A1
+Every eye will see Him | É-vri ái uíl sí Rím | Todo olho O verá | Prophecy | A2
+The trumpet will sound | Dê trâm-pet uíl sáund | A trombeta soará | Prophecy | B1
+There will be no more death or mourning | Dér uíl bi nôu mór déf ór mór-ning | Não haverá mais morte nem luto | Prophecy | B2
+New heavens and a new earth | Niú ré-vens ênd a niú ârf | Novos céus e uma nova terra | Prophecy | B1
+The marriage of the Lamb has come | Dê mé-ri-idj óv dê Lém réz câm | Chegaram as bodas do Cordeiro | Prophecy | B2
+
+// MÓDULO: OS DEZ MANDAMENTOS (THE TEN COMMANDMENTS)
+You shall have no other gods before Me | Iú shél rév nôu ó-der góds bi-fór Mi | Não terás outros deuses diante de Mim | Commandments | B1
+You shall not make for yourself an idol | Iú shél nót mêik fór iór-sélf ên ái-dol | Não farás para ti nenhum ídolo | Commandments | B2
+You shall not misuse the name of the Lord | Iú shél nót mis-iúz dê nêim óv dê Lórd | Não tomarás o nome do Senhor em vão | Commandments | B2
+Remember the Sabbath day to keep it holy | Ri-mém-ber dê Sé-baf dêi tu kíp ít róu-li | Lembra-te do dia de sábado para o santificar | Commandments | B1
+Honor your father and your mother | Ó-nor iór fá-der ênd iór mâ-der | Honra o teu pai e a tua mãe | Commandments | B1
+You shall not murder | Iú shél nót mâr-der | Não matarás | Commandments | A2
+You shall not commit adultery | Iú shél nót co-mít a-dâl-te-ri | Não adulterarás | Commandments | C1
+You shall not steal | Iú shél nót stíl | Não furtarás | Commandments | A2
+You shall not give false testimony | Iú shél nót gív fóls tés-ti-mo-ni | Não dirás falso testemunho | Commandments | C1
+You shall not covet | Iú shél nót câ-vet | Não cobiçarás | Commandments | C1
+
+// MÓDULO: APLICAÇÃO PRÁTICA (LIVING THE LAW)
+Put God first in everything | Pút Gód fârst in é-vri-fing | Coloca Deus em primeiro lugar em tudo | Lifestyle | A2
+Respect your parents and elders | Ri-spéct iór pé-rents ênd él-ders | Respeita os teus pais e os mais velhos | Lifestyle | B1
+Do not cheat or lie | Dú nót chít ór lái | Não enganes nem mintas | Lifestyle | A2
+Be content with what you have | Bi con-tént uíf uót iú rév | Contenta-te com o que tens | Lifestyle | B1
+Keep your promises | Kíp iór pró-mi-ses | Cumpre as tuas promessas | Lifestyle | A2
+Treat others with kindness | Trít ó-ders uíf káind-nes | Trata os outros com bondade | Lifestyle | B1
+Be honest in your work | Bi ó-nest in iór uôrk | Sê honesto no teu trabalho | Lifestyle | B1
+Forgive those who hurt you | For-gív dôuz rú rârt iú | Perdoa aqueles que te magoam | Lifestyle | B2
+Speak the truth in love | Spík dê trúf in lâv | Fala a verdade em amor | Lifestyle | B1
+
+// MÓDULO: AS BEM-AVENTURANÇAS (THE BEATITUDES)
+Blessed are the poor in spirit | Blé-sed ár dê púr in spí-rit | Bem-aventurados os pobres de espírito | Beatitudes | B2
+For theirs is the kingdom of heaven | Fór dérs íz dê kín-g-dom óv ré-ven | Pois deles é o reino dos céus | Beatitudes | B1
+Blessed are those who mourn | Blé-sed ár dôuz rú mórn | Bem-aventurados os que choram | Beatitudes | B2
+For they will be comforted | Fór dêi uíl bi câm-for-ted | Pois eles serão consolados | Beatitudes | B2
+Blessed are the meek | Blé-sed ár dê mík | Bem-aventurados os mansos | Beatitudes | C1
+For they will inherit the earth | Fór dêi uíl in-ré-rit dê ârf | Pois eles herdarão a terra | Beatitudes | B2
+Blessed are those who hunger and thirst | Blé-sed ár dôuz rú hân-guer ênd fârst | Bem-aventurados os que têm fome e sede | Beatitudes | B2
+For they will be filled | Fór dêi uíl bi fíld | Pois eles serão fartos | Beatitudes | B1
+Blessed are the merciful | Blé-sed ár dê mêr-si-ful | Bem-aventurados os misericordiosos | Beatitudes | B2
+For they will be shown mercy | Fór dêi uíl bi shôun mêr-si | Pois alcançarão misericórdia | Beatitudes | C1
+Blessed are the pure in heart | Blé-sed ár dê piúr in rárt | Bem-aventurados os puros de coração | Beatitudes | B1
+For they will see God | Fór dêi uíl sí Gód | Pois eles verão a Deus | Beatitudes | A1
+Blessed are the peacemakers | Blé-sed ár dê pís-mêi-kers | Bem-aventurados os pacificadores | Beatitudes | B2
+For they will be called children of God | Fór dêi uíl bi cóld chíl-dren óv Gód | Pois serão chamados filhos de Deus | Beatitudes | B1
+Blessed are those who are persecuted | Blé-sed ár dôuz rú ár pâr-se-kiú-ted | Bem-aventurados os perseguidos | Beatitudes | C1
+Rejoice and be glad | Ri-djóis ênd bi gléd | Alegrai-vos e exultai | Beatitudes | B2
+Great is your reward in heaven | Grêit íz iór ri-uórd in ré-ven | Grande é o vosso galardão no céu | Beatitudes | B2
+
+// MÓDULO: FRUTOS DO ESPÍRITO (FRUITS OF THE SPIRIT)
+But the fruit of the Spirit is love | Bât dê frút óv dê Spí-rit íz lâv | Mas o fruto do Espírito é amor | Fruits | B1
+Joy | Djói | Alegria | Fruits | A1
+Peace | Pís | Paz | Fruits | A1
+Patience | Pêi-shens | Paciência (Longanimidade) | Fruits | B1
+Kindness | Káind-nes | Benignidade (Amabilidade) | Fruits | B2
+Goodness | Gúd-nes | Bondade | Fruits | B1
+Faithfulness | Fêif-ful-nes | Fidelidade | Fruits | B2
+Gentleness | Djên-tl-nes | Mansidão | Fruits | B2
+Self-control | Sélf-con-trôl | Domínio próprio | Fruits | B2
+Against such things there is no law | A-guénst sâtch fíngs dér íz nôu ló | Contra estas coisas não há lei | Fruits | B2
+
+// MÓDULO: SALMOS - LOUVOR E CONFORTO (PSALMS)
+The Lord is my shepherd, I shall not want | Dê Lórd íz mái shé-perd, ái shél nót uónt | O Senhor é o meu pastor, nada me faltará | Psalms | B1
+Even though I walk through the darkest valley | Í-ven dôu ái uók frú dê dár-kest vé-li | Ainda que eu ande pelo vale da sombra da morte | Psalms | B2
+I will fear no evil | Ái uíl fír nôu í-vol | Não temerei mal algum | Psalms | B1
+Your word is a lamp for my feet | Iór uôrd íz a lémp fór mái fít | A Tua palavra é lâmpada para os meus pés | Psalms | A2
+Be still, and know that I am God | Bi stíl, ênd nôu dét ái ém Gód | Aquietai-vos e sabei que Eu sou Deus | Psalms | B1
+He who dwells in the shelter of the Most High | Rí rú duéls in dê shél-ter óv dê Moust Rái | Aquele que habita no esconderijo do Altíssimo | Psalms | C1
+The heavens declare the glory of God | Dê ré-vens di-clér dê gló-ri óv Gód | Os céus declaram a glória de Deus | Psalms | B2
+Create in me a pure heart, O God | Cri-êit in mi a piúr rárt, ôu Gód | Cria em mim um coração puro, ó Deus | Psalms | B1
+This is the day the Lord has made | Dís íz dê dêi dê Lórd réz mêid | Este é o dia que o Senhor fez | Psalms | A1
+Delight yourself in the Lord | Di-láit iór-sélf in dê Lórd | Deleita-te no Senhor | Psalms | B2
+
+// MÓDULO: PROVÉRBIOS - SABEDORIA (PROVERBS)
+The fear of the Lord is the beginning of knowledge | Dê fír óv dê Lórd íz dê bi-gí-ning óv nó-ledj | O temor do Senhor é o princípio do conhecimento | Proverbs | B2
+Trust in the Lord with all your heart | Trâst in dê Lórd uíf ól iór rárt | Confia no Senhor de todo o teu coração | Proverbs | B1
+In all your ways submit to Him | In ól iór uêis sub-mít tu Rím | Reconhece-O em todos os teus caminhos | Proverbs | B2
+Above all else, guard your heart | A-bâv ól éls, gárd iór rárt | Sobre tudo o que se deve guardar, guarda o teu coração | Proverbs | B1
+Train up a child in the way he should go | Trêin âp a cháild in dê uêi rí shúd gôu | Instrui o menino no caminho em que deve andar | Proverbs | B2
+Iron sharpens iron | Ái-ron shár-pens ái-ron | O ferro afia o ferro | Proverbs | B1
+Pride goes before destruction | Práid gôus bi-fór dis-trâc-shon | A soberba precede a ruína | Proverbs | B2
+A gentle answer turns away wrath | A djên-tol én-ser târns a-uêi réf | A resposta branda desvia o furor | Proverbs | C1
+Death and life are in the power of the tongue | Déf ênd láif ár in dê páu-er óv dê tâng | A morte e a vida estão no poder da língua | Proverbs | B2
+
+// MÓDULO: SALMOS 100 - GRATIDÃO (PSALM 100)
+Shout for joy to the Lord, all the earth | Sháut fór djói tu dê Lórd, ól dê ârf | Celebrai com júbilo ao Senhor, todas as terras | Psalm 100 | B1
+Serve the Lord with gladness | Sârv dê Lórd uíf gléd-nes | Servi ao Senhor com alegria | Psalm 100 | B1
+Come before Him with joyful songs | Câm bi-fór Rím uíf djói-ful sóngs | Apresentai-vos diante dEle com cântico | Psalm 100 | B1
+Know that the Lord is God | Nôu dét dê Lórd íz Gód | Sabei que o Senhor é Deus | Psalm 100 | A1
+It is He who made us, and we are His | Ít íz Rí rú mêid âs, ênd ui ár Ríz | Foi Ele quem nos fez, e dEle somos | Psalm 100 | A2
+We are His people, the sheep of His pasture | Ui ár Ríz pí-pol, dê shíp óv Ríz pás-tiur | Somos o seu povo e rebanho do seu pastoreio | Psalm 100 | B2
+Enter His gates with thanksgiving | En-ter Ríz guêits uíf fênks-gí-ving | Entrai pelas portas dEle com louvor | Psalm 100 | B2
+And His courts with praise | Ênd Ríz córts uíf prêiz | E em seus átrios com hinos | Psalm 100 | C1
+Give thanks to Him and praise His name | Gív fênks tu Rím ênd prêiz Ríz nêim | Rendei-Lhe graças e bendizei o Seu nome | Psalm 100 | B1
+For the Lord is good | Fór dê Lórd íz gúd | Pois o Senhor é bom | Psalm 100 | A1
+His love endures forever | Ríz lâv en-diúrs fo-ré-ver | O Seu amor dura para sempre | Psalm 100 | B1
+His faithfulness continues through all generations | Ríz fêif-ful-nes con-tí-nius frú ól dje-ne-rêi-shons | A Sua fidelidade estende-se de geração em geração | Psalm 100 | C1
+
+// MÓDULO: SALMOS 91 - PROTEÇÃO DIVINA (PSALM 91)
+Whoever dwells in the shelter of the Most High | Rú-é-ver duéls in dê shél-ter óv dê Moust Rái | Aquele que habita no esconderijo do Altíssimo | Psalm 91 | C1
+Will rest in the shadow of the Almighty | Uíl rést in dê shé-dou óv dê Ól-mái-ti | Descansará à sombra do Omnipotente | Psalm 91 | C1
+I will say of the Lord | Ái uíl sêi óv dê Lórd | Direi do Senhor | Psalm 91 | A1
+He is my refuge and my fortress | Rí íz mái ré-fiú-dj ênd mái fór-tres | Ele é o meu refúgio e a minha fortaleza | Psalm 91 | B2
+My God, in whom I trust | Mái Gód, in rúm ái trâst | O meu Deus, em quem confio | Psalm 91 | B1
+He will save you from the fowler's snare | Rí uíl sêiv iú fróm dê fáu-lers snér | Ele te livrará do laço do passarinheiro | Psalm 91 | C2
+And from the deadly pestilence | Ênd fróm dê déd-li pés-ti-lens | E da peste perniciosa | Psalm 91 | C2
+He will cover you with His feathers | Rí uíl câ-ver iú uíf Ríz fé-ders | Ele te cobrirá com as Suas penas | Psalm 91 | B1
+And under His wings you will find refuge | Ênd ân-der Ríz uíngs iú uíl fáind ré-fiú-dj | E debaixo das Suas asas encontrarás refúgio | Psalm 91 | B2
+You will not fear the terror of night | Iú uíl nót fír dê té-rror óv náit | Não temerás o terror da noite | Psalm 91 | B1
+Nor the arrow that flies by day | Nór dê é-rrou dét fláis bái dêi | Nem a seta que voa de dia | Psalm 91 | B2
+A thousand may fall at your side | A fáu-zand mêi fól ét iór sáid | Mil cairão ao teu lado | Psalm 91 | B1
+Ten thousand at your right hand | Tén fáu-zand ét iór ráit rénd | Dez mil à tua direita | Psalm 91 | A2
+But it will not come near you | Bât ít uíl nót câm nír iú | Mas não chegará a ti | Psalm 91 | A2
+For He will command His angels concerning you | Fór Rí uíl co-ménd Ríz êin-djels con-sêr-ning iú | Porque Ele dará ordem aos Seus anjos a teu respeito | Psalm 91 | B2
+To guard you in all your ways | Tu gárd iú in ól iór uêis | Para te guardarem em todos os teus caminhos | Psalm 91 | B1
+Because he loves me, says the Lord | Bi-cóz rí lâvs mi, séz dê Lórd | Porquanto tão encarecidamente me amou, diz o Senhor | Psalm 91 | B1
+I will rescue him and protect him | Ái uíl rés-kiú rím ênd pro-téct rím | Eu o livrarei e o protegerei | Psalm 91 | B1
+
+// MÓDULO: VOCABULÁRIO DE ORAÇÃO (PRAYER VOCABULARY)
+Dear Heavenly Father | Dí-ar Ré-ven-li Fá-der | Querido Pai Celestial | Prayer Vocab | B1
+I come before You today | Ái câm bi-fór Iú tu-dêi | Eu venho diante de Ti hoje | Prayer Vocab | B1
+I thank You for Your grace | Ái fênk Iú fór Iór gréis | Eu Te agradeço pela Tua graça | Prayer Vocab | B1
+I praise Your holy name | Ái prêiz Iór róu-li nêim | Eu louvo o Teu santo nome | Prayer Vocab | B1
+Forgive me for my sins | For-gív mi fór mái síns | Perdoa-me pelos meus pecados | Prayer Vocab | A2
+Wash me clean | Uósh mi clín | Lava-me e purifica-me | Prayer Vocab | A2
+Guide my steps today | Gáid mái stéps tu-dêi | Guia os meus passos hoje | Prayer Vocab | B1
+Give me wisdom and strength | Gív mi uíz-dom ênd strén-f | Dá-me sabedoria e força | Prayer Vocab | B1
+Bless my family and friends | Blés mái fé-mi-li ênd frénds | Abençoa a minha família e amigos | Prayer Vocab | A1
+I lift up my needs to You | Ái líft âp mái níds tu Iú | Eu apresento/entrego as minhas necessidades a Ti | Prayer Vocab | B2
+Protect us from evil | Pro-téct âs fróm í-vol | Protege-nos do mal | Prayer Vocab | B1
+Speak to my heart | Spík tu mái rárt | Fala ao meu coração | Prayer Vocab | A2
+Let Your will be done | Lét Iór uíl bi dân | Seja feita a Tua vontade | Prayer Vocab | B2
+In Jesus' name, I pray | In Jí-zas nêim, ái prêi | Em nome de Jesus, eu oro | Prayer Vocab | A1
+Amen | É-men | Amém | Prayer Vocab | A1
+
+// MÓDULO: SALMOS 51 - ARREPENDIMENTO (PSALM 51)
+Have mercy on me, O God | Rév mêr-si ón mi, ôu Gód | Tem misericórdia de mim, ó Deus | Psalm 51 | B1
+According to Your unfailing love | A-cór-ding tu Iór ân-fêi-ling lâv | Segundo o Teu amor leal | Psalm 51 | B2
+Blot out my transgressions | Blót áut mái trans-gré-shons | Apaga as minhas transgressões | Psalm 51 | C2
+Wash away all my iniquity | Uósh a-uêi ól mái i-ní-qui-ti | Lava-me completamente da minha iniquidade | Psalm 51 | C1
+Cleanse me from my sin | Clénz mi fróm mái sín | Purifica-me do meu pecado | Psalm 51 | B1
+Against You only have I sinned | A-guénst Iú ôun-li rév ái sínd | Contra Ti somente pequei | Psalm 51 | B1
+Cleanse me with hyssop, and I will be clean | Clénz mi uíf rí-ssop, ênd ái uíl bi clín | Purifica-me com hissopo, e ficarei puro | Psalm 51 | C2
+Wash me, and I will be whiter than snow | Uósh mi, ênd ái uíl bi uái-ter dén snôu | Lava-me, e ficarei mais alvo que a neve | Psalm 51 | B1
+Create in me a pure heart, O God | Cri-êit in mi a piúr rárt, ôu Gód | Cria em mim um coração puro, ó Deus | Psalm 51 | B1
+Renew a steadfast spirit within me | Ri-niú a stéd-fést spí-rit ui-dín mi | Renova em mim um espírito inabalável | Psalm 51 | C1
+Do not cast me from Your presence | Dú nót cést mi fróm Iór pré-zens | Não me expulses da Tua presença | Psalm 51 | B2
+Do not take Your Holy Spirit from me | Dú nót têik Iór Róu-li Spí-rit fróm mi | Não retires de mim o Teu Espírito Santo | Psalm 51 | B1
+Restore to me the joy of Your salvation | Ri-stór tu mi dê djói óv Iór sal-vêi-shon | Restitui-me a alegria da Tua salvação | Psalm 51 | B2
+Open my lips, Lord | Ôu-pen mái líps, Lórd | Abre os meus lábios, Senhor | Psalm 51 | A2
+And my mouth will declare Your praise | Ênd mái máuf uíl di-clér Iór prêiz | E a minha boca anunciará o Teu louvor | Psalm 51 | B1
+A broken and contrite heart You will not despise | A brôu-ken ênd con-tráit rárt Iú uíl nót di-spáiz | Um coração quebrantado e contrito não desprezarás | Psalm 51 | C2
+
+// MÓDULO: PECADOS VS VIRTUDES (SINS VS VIRTUES)
+Pride vs. Humility | Práid vêr-sâs Riu-mí-li-ti | Orgulho vs. Humildade | Sins vs Virtues | B2
+Greed vs. Charity | Gríd vêr-sâs Ché-ri-ti | Avareza vs. Caridade (Generosidade) | Sins vs Virtues | B2
+Lust vs. Chastity | Lâst vêr-sâs Chés-ti-ti | Luxúria vs. Castidade | Sins vs Virtues | C1
+Envy vs. Kindness | Én-vi vêr-sâs Káind-nes | Inveja vs. Bondade | Sins vs Virtues | B1
+Gluttony vs. Temperance | Glâ-to-ni vêr-sâs Tém-pe-rens | Gula vs. Temperança | Sins vs Virtues | C2
+Wrath vs. Patience | Réf vêr-sâs Pêi-shens | Ira vs. Paciência | Sins vs Virtues | C1
+Sloth vs. Diligence | Slóf vêr-sâs Dí-li-djens | Preguiça vs. Diligência | Sins vs Virtues | C2
+
+// MÓDULO: AÇÃO DE GRAÇAS E GRATIDÃO (THANKSGIVING & GRATITUDE)
+Give thanks to the Lord, for He is good | Gív fênks tu dê Lórd, fór Rí íz gúd | Dai graças ao Senhor, porque Ele é bom | Thanksgiving | A1
+I am thankful for my family | Ái ém fênk-ful fór mái fé-mi-li | Sou grato pela minha família | Thanksgiving | A1
+Count your blessings | Cáunt iór blé-ssings | Conta as tuas bênçãos | Thanksgiving | B1
+Happy Thanksgiving! | Ré-pi Fênks-gí-ving | Feliz Dia de Ação de Graças! | Thanksgiving | A1
+We thank You for this food | Ui fênk Iú fór dís fúd | Nós Te agradecemos por este alimento | Thanksgiving | A1
+Enter His gates with thanksgiving | En-ter Ríz guêits uíf fênks-gí-ving | Entrai pelas portas dEle com ações de graças | Thanksgiving | B2
+Grateful for Your provision | Grêit-ful fór Iór pro-ví-jon | Grato pela Tua provisão | Thanksgiving | C1
+Thank You for Your many blessings | Fênk Iú fór Iór mé-ni blé-ssings | Obrigado pelas Tuas muitas bênçãos | Thanksgiving | B1
+A heart full of gratitude | A rárt fúl óv gré-ti-tiúd | Um coração cheio de gratidão | Thanksgiving | B2
+Let us give thanks to God | Lét âs gív fênks tu Gód | Demos graças a Deus | Thanksgiving | A2
+Bless the Lord, O my soul | Blés dê Lórd, ôu mái sôul | Bendiz, ó minha alma, ao Senhor | Thanksgiving | B1
+For health and strength, we thank You | Fór rélf ênd strén-f, ui fênk Iú | Pela saúde e força, nós Te agradecemos | Thanksgiving | B1
+I will praise You with my whole heart | Ái uíl prêiz Iú uíf mái rôul rárt | Louvar-Te-ei de todo o meu coração | Thanksgiving | B1
+Your faithfulness is great | Iór fêif-ful-nes íz grêit | A Tua fidelidade é grande | Thanksgiving | B1
+Thank You for another day of life | Fênk Iú fór a-nó-der dêi óv láif | Obrigado por mais um dia de vida | Thanksgiving | A2
+Grace and peace be yours | Gréis ênd pís bi iórs | Graça e paz sejam convosco | Thanksgiving | B2
+
+// MÓDULO: A CRIAÇÃO (GOD'S CREATION)
+Let there be light | Lét dér bi láit | Haja luz | Creation | A1
+God created the heavens and the earth | Gód cri-êi-ted dê ré-vens ênd dê ârf | Deus criou os céus e a terra | Creation | B1
+The sun, the moon, and the stars | Dê sân, dê mún, ênd dê stárs | O sol, a lua e as estrelas | Creation | A1
+Birds of the air and fish of the sea | Bârds óv dê ér ênd físh óv dê sí | Aves do céu e peixes do mar | Creation | B1
+Livestock and wild animals | Láiv-stók ênd uáild é-ni-mals | Gado e animais selvagens | Creation | B2
+God created mankind in His own image | Gód cri-êi-ted mén-káind in Ríz ôun í-ma-dj | Deus criou a humanidade à Sua própria imagem | Creation | B2
+Male and female He created them | Mêil ênd fi-mêil Rí cri-êi-ted dém | Homem e mulher os criou | Creation | B1
+Be fruitful and multiply | Bi frút-ful ênd mâl-ti-plái | Sede fecundos e multiplicai-vos | Creation | C1
+God saw that it was good | Gód só dét ít uóz gúd | Deus viu que era bom | Creation | A1
+The Garden of Eden | Dê Gár-den óv Í-den | O Jardim do Éden | Creation | A2
+The Tree of Life | Dê Trí óv Láif | A Árvore da Vida | Creation | A2
+The firmament of the heavens | Dê fâr-ma-ment óv dê ré-vens | O firmamento dos céus | Creation | C2
+The work of His hands | Dê uôrk óv Ríz rénds | A obra das Suas mãos | Creation | B1
+From dust you are | Fróm dâst iú ár | Do pó tu és | Creation | B1
+And to dust you will return | Ênd tu dâst iú uíl ri-târn | E ao pó retornarás | Creation | B1
+
+// MÓDULO: O FUNCIONAMENTO DO UNIVERSO (DIVINE COSMOLOGY)
+In Him all things hold together | In Rím ól fíngs rôuld tu-gué-der | NEle tudo subsiste (tudo se mantém unido) | Cosmology | B2
+He sustains all things by His powerful word | Rí sâs-têins ól fíngs bái Ríz páu-er-ful uôrd | Ele sustenta todas as coisas pela Sua palavra poderosa | Cosmology | C2
+He determines the number of the stars | Rí di-têr-mins dê nâm-ber óv dê stárs | Ele conta o número das estrelas | Cosmology | B1
+He calls them each by name | Rí cóls dém ítch bái nêim | Ele chama a cada uma pelo nome | Cosmology | A2
+The sun rises and the sun sets | Dê sân rái-zes ênd dê sân séts | O sol nasce e o sol se põe | Cosmology | A2
+There is a time for everything | Dér íz a táim fór é-vri-fing | Há um tempo para todas as coisas | Cosmology | B1
+He set the earth on its foundations | Rí sét dê ârf ón íts fáun-dêi-shons | Ele lançou os fundamentos da terra | Cosmology | C1
+The laws of the heavens | Dê lós óv dê ré-vens | As leis dos céus (ordenanças) | Cosmology | B2
+Day to day pours out speech | Dêi tu dêi pórs áut spítch | Um dia discursa a outro dia | Cosmology | C2
+Night to night reveals knowledge | Náit tu náit ri-víls nó-ledj | Uma noite revela conhecimento a outra noite | Cosmology | C1
+He controls the wind and the waves | Rí con-trôls dê uínd ênd dê uêivs | Ele controla o vento e as ondas | Cosmology | B1
+From everlasting to everlasting | Fróm e-ver-lés-ting tu e-ver-lés-ting | De eternidade a eternidade | Cosmology | C1
+The expanse of the sky | Dê eks-péns óv dê skái | A expansão dos céus (firmamento) | Cosmology | C1
+By His breath the skies became fair | Bái Ríz bréf dê skáis bi-kêm fér | Pelo Seu sopro os céus ficaram serenos | Cosmology | C2
+
+// MÓDULO: O FUNCIONAMENTO DA TERRA (EARTH SYSTEMS & CYCLES)
+Seedtime and harvest | Síd-táim ênd rár-vest | Tempo de semeadura e colheita | Earth Systems | C1
+Summer and winter | Sâ-mer ênd uín-ter | Verão e inverno | Earth Systems | A1
+Day and night will never cease | Dêi ênd náit uíl né-ver sís | Dia e noite nunca cessarão | Earth Systems | B1
+The wind blows around | Dê uínd blôus a-ráund | O vento sopra (circula) | Earth Systems | B1
+All streams flow into the sea | Ól stríms flôu ín-tu dê sí | Todos os rios correm para o mar | Earth Systems | B1
+Yet the sea is never full | Iét dê sí íz né-ver fúl | Contudo, o mar nunca se enche (Ciclo da água) | Earth Systems | B2
+The earth yields its crops | Dê ârf iílds íts cróps | A terra produz a sua colheita | Earth Systems | C1
+He sends rain on the earth | Rí sénds rêin ón dê ârf | Ele envia chuva sobre a terra | Earth Systems | A2
+The grass withers and the flowers fall | Dê grés uí-ders ênd dê fláu-ers fól | A relva murcha e as flores caem | Earth Systems | B2
+He waters the mountains | Rí uó-ters dê máun-tens | Ele rega as montanhas | Earth Systems | B1
+The sun rises at one end of the heavens | Dê sân rái-zes ét uán énd óv dê ré-vens | O sol nasce numa extremidade dos céus | Earth Systems | B2
+He shakes the earth from its place | Rí shêiks dê ârf fróm íts plêis | Ele sacode a terra do seu lugar (Terremotos) | Earth Systems | B2
+The pillars of the earth | Dê pí-lars óv dê ârf | As colunas (fundamentos) da terra | Earth Systems | C1
+The waves of the sea | Dê uêivs óv dê sí | As ondas do mar | Earth Systems | A2
+The dry land | Dê drái lénd | A terra seca | Earth Systems | A1
+
+// MÓDULO: NATUREZA HUMANA (HUMAN NATURE: BODY, SOUL, SPIRIT)
+Spirit, soul, and body | Spí-rit, sôul, ênd bó-di | Espírito, alma e corpo | Human Nature | B1
+Your body is a temple | Iór bó-di íz a tém-pol | O seu corpo é um santuário (templo) | Human Nature | B1
+The spirit is willing, but the flesh is weak | Dê spí-rit íz uí-ling, bât dê flésh íz uík | O espírito está pronto, mas a carne é fraca | Human Nature | B2
+The renewing of your mind | Dê ri-niú-ing óv iór máind | A renovação da vossa mente | Human Nature | C1
+A clear conscience | A clír cón-shens | Uma consciência limpa | Human Nature | B2
+The heart is deceitful above all things | Dê rárt íz di-sít-ful a-bâv ól fíngs | O coração é enganoso mais do que todas as coisas | Human Nature | C1
+To walk in the Spirit | Tu uók in dê Spí-rit | Andar no Espírito | Human Nature | B1
+The desires of the flesh | Dê di-zái-rs óv dê flésh | Os desejos da carne | Human Nature | B2
+The breath of life | Dê bréf óv láif | O fôlego da vida | Human Nature | B1
+Outer man and inner man | Áu-ter mén ênd í-ner mén | O homem exterior e o homem interior | Human Nature | B2
+Dividing soul and spirit | Di-vái-ding sôul ênd spí-rit | Divisão da alma e do espírito | Human Nature | C2
+Mortal body | Mór-tal bó-di | Corpo mortal | Human Nature | A2
+Transformation of the heart | Trans-for-mêi-shon óv dê rárt | Transformação do coração | Human Nature | B2
+We have the mind of Christ | Ui rév dê máind óv Cráist | Nós temos a mente de Cristo | Human Nature | B1
+Created in God's image | Cri-êi-ted in Góds í-ma-dj | Criado à imagem de Deus | Human Nature | B1
+
+// MÓDULO: FISIOLOGIA DO CORPO HUMANO (HUMAN PHYSIOLOGY)
+The heart pumps blood to the body | Dê rárt pâmps blâd tu dê bó-di | O coração bombeia sangue para o corpo | Physiology | A2
+The lungs absorb oxygen | Dê lângs ab-zórb ók-si-djen | Os pulmões absorvem oxigênio | Physiology | B2
+The brain controls all functions | Dê brêin con-trôls ól fânk-shons | O cérebro controla todas as funções | Physiology | B1
+The digestive system processes food | Dê dai-djés-tiv sís-tem pró-ce-sses fúd | O sistema digestivo processa os alimentos | Physiology | B2
+Muscles contract and relax | Mâ-sols con-tráct ênd ri-léks | Os músculos contraem e relaxam | Physiology | B2
+The skeleton provides structure | Dê ské-le-ton pro-váids strâc-tiur | O esqueleto fornece estrutura | Physiology | B2
+The immune system fights infection | Dê i-miún sís-tem fáits in-féc-shon | O sistema imunológico combate infeções | Physiology | C1
+Red blood cells carry oxygen | Réd blâd céls ké-rri ók-si-djen | Os glóbulos vermelhos transportam oxigênio | Physiology | B2
+White blood cells protect the body | Uáit blâd céls pro-téct dê bó-di | Os glóbulos brancos protegem o corpo | Physiology | B2
+Metabolism converts food into energy | Me-tá-bo-li-zm con-vêrts fúd ín-tu é-ner-dji | O metabolismo converte alimento em energia | Physiology | C1
+The kidneys filter waste | Dê kíd-nis fíl-ter uêist | Os rins filtram os resíduos | Physiology | C1
+Nerves send signals to the brain | Nêrvs sénd síg-nals tu dê brêin | Os nervos enviam sinais ao cérebro | Physiology | B1
+DNA contains genetic information | Dí-en-êi con-têins dje-né-tic in-for-mêi-shon | O DNA contém informação genética | Physiology | C1
+Homeostasis maintains balance | Ro-mi-o-stêi-sis mein-têins bé-lans | A homeostase mantém o equilíbrio | Physiology | C2
+The five senses | Dê fáiv sén-ses | Os cinco sentidos | Physiology | A2
+
+// MÓDULO: ATENÇÃO PLENA - CONCEITOS (MINDFULNESS CONCEPTS)
+Be present in the moment | Bi pré-zent in dê môu-ment | Esteja presente no momento | Mindfulness | B1
+Focus on the here and now | Fô-câs ón dê rír ênd náu | Foque no aqui e agora | Mindfulness | B1
+Observe your thoughts without judgment | Ob-zârv iór fóts ui-dáut djâdj-ment | Observe os seus pensamentos sem julgamento | Mindfulness | C1
+Let go of distractions | Lét gôu óv dis-trác-shons | Deixe ir as distrações | Mindfulness | B2
+Accept things as they are | Ac-sépt fíngs éz dêi ár | Aceite as coisas como elas são | Mindfulness | B1
+A wandering mind is normal | A uán-de-ring máind íz nór-mal | Uma mente divagante é normal | Mindfulness | B2
+Cultivate inner peace | Câl-ti-veit í-ner pís | Cultive a paz interior | Mindfulness | C1
+Awareness of your surroundings | A-uér-nes óv iór su-ráun-dings | Consciência do que o rodeia | Mindfulness | C1
+Reduce stress and anxiety | Ri-diús strés ênd eng-zái-e-ti | Reduza o stress e a ansiedade | Mindfulness | B2
+Kindness towards yourself | Káind-nes tu-uórds iór-sélf | Bondade para consigo mesmo | Mindfulness | B1
+
+// MÓDULO: TÉCNICAS PRÁTICAS (PRACTICAL TECHNIQUES)
+Focus on your breath | Fô-câs ón iór bréf | Foque na sua respiração | Techniques | A2
+Inhale deeply through your nose | In-rêil díp-li frú iór nôuz | Inspire profundamente pelo nariz | Techniques | B1
+Exhale slowly through your mouth | Eks-rêil slôu-li frú iór máuf | Expire lentamente pela boca | Techniques | B1
+Notice the sensation of the air | Nôu-tis dê sen-sêi-shon óv dê ér | Note a sensação do ar | Techniques | B2
+Scan your body from head to toe | Skén iór bó-di fróm réd tu tôu | Escaneie o seu corpo da cabeça aos pés (Body Scan) | Techniques | B2
+Release any tension you feel | Ri-lís é-ni tén-shon iú fíl | Libere qualquer tensão que sinta | Techniques | B2
+Anchor yourself in the present | Ên-cor iór-sélf in dê pré-zent | Ancore-se no presente | Techniques | C1
+Notice five things you can see | Nôu-tis fáiv fíngs iú kén sí | Note cinco coisas que você consegue ver (Grounding) | Techniques | A2
+Listen to the sounds around you | Lí-sen tu dê sáunds a-ráund iú | Ouça os sons ao seu redor | Techniques | A2
+Follow the rhythm of your breathing | Fó-lou dê rí-dem óv iór brí-ding | Siga o ritmo da sua respiração | Techniques | B2
+Return your attention to the breath | Ri-târn iór a-tén-shon tu dê bréf | Retorne a sua atenção para a respiração | Techniques | B2
+
+// MÓDULO: EMOÇÕES E SENTIMENTOS EM JESUS (JESUS' EMOTIONS & TEACHINGS)
+Jesus wept | Jí-zas uépt | Jesus chorou (Tristeza/Empatia) | Jesus' Emotions | A2
+He had compassion on them | Rí réd com-pé-shon ón dém | Ele teve compaixão deles | Jesus' Emotions | B1
+My soul is overwhelmed with sorrow | Mái sôul íz o-ver-uélmd uíf só-rrou | A minha alma está profundamente triste (Angústia) | Jesus' Emotions | C1
+Do not let your hearts be troubled | Dú nót lét iór rárts bi trâ-bold | Não se turbe o vosso coração (Ansiedade) | Jesus' Emotions | B2
+Peace I leave with you | Pís ái lív uíf iú | Deixo-vos a paz | Jesus' Emotions | A2
+He looked at them with anger | Rí lúkt ét dém uíf én-guer | Ele olhou para eles com ira (Indignação justa) | Jesus' Emotions | B1
+Deeply moved in spirit | Díp-li múvd in spí-rit | Profundamente comovido no espírito | Jesus' Emotions | C1
+Do not worry about tomorrow | Dú nót uô-rri a-báut tu-mó-rrou | Não vos preocupeis com o dia de amanhã | Jesus' Emotions | B1
+Rejoice and be glad | Ri-djóis ênd bi gléd | Alegrai-vos e exultai (Alegria) | Jesus' Emotions | B2
+Do not be afraid, just believe | Dú nót bi a-frêid, djâst bi-lív | Não temas, crê somente (Medo vs Fé) | Jesus' Emotions | A2
+Love one another as I have loved you | Lâv uán a-nó-der éz ái rév lâvd iú | Amai-vos uns aos outros como Eu vos amei (Amor) | Jesus' Emotions | B1
+Take heart! I have overcome the world | Têik rárt! Ái rév o-ver-câm dê uórld | Tende bom ânimo! Eu venci o mundo (Coragem) | Jesus' Emotions | B2
+Father, forgive them | Fá-der, for-gív dém | Pai, perdoa-lhes (Perdão/Misericórdia) | Jesus' Emotions | B1
+
+// MÓDULO: RELAÇÕES INTERPESSOAIS (BIBLICAL RELATIONSHIPS)
+Love your neighbor as yourself | Lâv iór nêi-bor éz iór-sélf | Ama o teu próximo como a ti mesmo | Relationships | B1
+The two will become one flesh | Dê tú uíl bi-câm uán flésh | Os dois se tornarão uma só carne (Casamento) | Relationships | B1
+What God has joined together | Uót Gód réz djóind tu-gué-der | O que Deus uniu | Relationships | B2
+Let no one separate | Lét nôu uán sé-pa-reit | Ninguém o separe | Relationships | B2
+Husbands, love your wives | Hâz-bands, lâv iór uáivs | Maridos, amai as vossas esposas | Relationships | A2
+Children, obey your parents | Chíl-dren, o-bêi iór pé-rents | Filhos, obedecei aos vossos pais | Relationships | A2
+As for me and my house | Éz fór mi ênd mái ráus | Quanto a mim e à minha casa | Relationships | B1
+We will serve the Lord | Ui uíl sârv dê Lórd | Serviremos ao Senhor | Relationships | A1
+A friend loves at all times | A frénd lâvs ét ól táims | O amigo ama em todo o tempo | Relationships | A1
+Greater love has no one than this | Grêi-ter lâv réz nôu uán dén dís | Ninguém tem maior amor do que este | Relationships | B2
+To lay down one's life for one's friends | Tu lêi dáun uáns láif fór uáns frénds | Dar a vida pelos seus amigos | Relationships | C1
+Bad company corrupts good character | Béd câm-pa-ni co-rrâpts gúd ké-rac-ter | As más companhias corrompem os bons costumes | Relationships | C1
+Bear one another's burdens | Bér uán a-nó-ders bâr-dens | Levai as cargas uns dos outros | Relationships | C1
+Live in harmony with one another | Lív in rár-mo-ni uíf uán a-nó-der | Vivei em harmonia uns com os outros | Relationships | B2
+Encourage one another | En-câ-ridj uán a-nó-der | Encorajai-vos uns aos outros | Relationships | B2
