@@ -10573,7 +10573,226 @@ The light turned yellow | Dâ láit tûrnd ié-lou | O sinal ficou amarelo | Tr�
 Hands-free devices only | RRéndz-frríi di-vái-siz ôun-li | Apenas dispositivos viva-voz (celular) | Trânsito | B2
 U-turn is prohibited | Iú-tûrn íz pro-rrí-bi-ted | Retorno é proibido | Trânsito | B1
 
+// MÓDULO: PAQUERA E ENCONTROS (FLIRTING & DATING)
+Can I buy you a drink? | Kén ái bái iú a drínk? | Posso te pagar uma bebida? | Social | B1
+Are you here with anyone? | Ár iú rríer uíf é-ni-uán? | Você está aqui com alguém? | Social | B1
+I love your vibe | Ái lâv iór váibe | Eu amei a sua vibe / energia | Social | A2
+You look great tonight | Iú lúk grrêit tu-náit | Você está ótimo(a) esta noite | Social | A2
+Can I have your number? | Kén ái rév iór nâm-ber? | Pode me passar o seu número? | Social | A1
+Are you on Instagram? | Ár iú ón ín-sta-grrém? | Você tem Instagram? | Social | A1
+I’d love to see you again | Áid lâv tú síi iú a-guén | Eu adoraria te ver de novo | Social | B2
+Would you like to go out sometime? | Uúd iú láik tú gôu áut sâm-táime? | Gostaria de sair qualquer hora? | Social | B2
+We have a lot in common | Uí rév a lót ín có-mon | Nós temos muito em comum | Social | B1
+Are you seeing anyone? | Ár iú síi-ing é-ni-uán? | Você está saindo com alguém? | Social | B2
+I’m really into you | Ái-ém rrí-li ín-tu iú | Estou muito afim de você | Social | C1
+Let’s get out of here | Léts guét áut óv rríer | Vamos sair daqui? (ir para outro lugar) | Social | B2
+Pick you up at eight? | Pík iú âp ét êit? | Te busco às oito? | Social | B1
+The chemistry is amazing | Dâ ké-mis-trri íz a-mêi-zing | A química está incrível | Social | C1
+It was a pleasure meeting you | Ít uós a plé-jur míi-ting iú | Foi um prazer te conhecer | Social | B1
+
+// MISSÕES: O SEDUTOR (THE CHARMER)
+The Icebreaker | Dâ áice-brêi-ker | Iniciar uma conversa com um elogio genuíno como "I love your vibe" | Missão | A2
+The Follow-up | Dâ fó-lo-âp | Conseguir o Instagram ou número para um "Second date" | Missão | B1
+The Bold Move | Dâ bôuld múuv | Convidar a pessoa para sair usando "Would you like to go out sometime?" | Missão | B2
 // MISSÕES: O CIDADÃO EXEMPLAR (THE LAW-ABIDING CITIZEN)
 The Right-Hand Rule | Dâ rráit-rrénd rrúul | Fazer o "Right turn on red" com segurança após parar totalmente | Missão | C1
 The Tow-Away Scape | Dâ tôu-a-uêi esk-êip | Identificar a placa de "Tow away zone" e mudar o local de estacionamento | Missão | B1
 The HOV Lane | Dâ rrêi-ô-ví lêin | Entrar na "Carpool lane" apenas quando estiver com passageiros | Missão | B2
+
+// MÓDULO: PROFISSÕES E CARREIRA (JOBS & PROFESSIONS)
+I’m a software developer | Ái-ém a sóft-uér di-vé-lo-per | Eu sou desenvolvedor de software | Profissão | B1
+What do you do for a living? | Uót dú iú dú fór a lí-ving? | O que você faz da vida? (Trabalho) | Profissão | A2
+I work in the healthcare field | Ái uôrk ín dâ rrélf-kér fíiol-d | Eu trabalho na área da saúde | Profissão | B2
+Self-employed / Freelancer | Sélf-em-plóid / Fríi-lén-ser | Autônomo / Freelancer | Profissão | B1
+I’m looking for a career change | Ái-ém lú-king fór a ca-rríier ttthêindj | Estou buscando uma transição de carreira | Profissão | C1
+Entrepreneur and founder | Ón-trre-pre-nêur énd fáun-der | Empreendedor e fundador | Profissão | C1
+I’m retired now | Ái-ém rri-tái-erd náu | Eu estou aposentado agora | Profissão | B1
+Skilled labor / Trades | Skí-old lêi-bor / Trrêidz | Mão de obra qualificada / Ofícios (pedreiro, eletricista, etc) | Profissão | B2
+White-collar / Blue-collar job | Uáit-có-lar / Blú-có-lar djób | Trabalho de escritório / Trabalho manual | Profissão | C1
+I run my own business | Ái rân mái ôun bí-zi-nes | Eu gerencio meu próprio negócio | Profissão | B2
+What are your main duties? | Uót ár iór mêin diú-tis? | Quais são suas principais funções? | Profissão | B1
+I’m currently unemployed | Ái-ém câ-rrent-li ân-em-plóid | No momento estou desempregado | Profissão | A2
+An entry-level position | En én-trri-lé-vol po-zí-shon | Um cargo de nível iniciante | Profissão | B2
+Management and leadership | Mé-nadj-ment énd lí-der-shíp | Gerência e liderança | Profissão | C1
+I’m a stay-at-home parent | Ái-ém a stêi-ét-rrôum pé-rrent | Eu cuido da casa e dos filhos | Profissão | B1
+
+// MISSÕES: O PROFISSIONAL GLOBAL (THE GLOBAL PRO)
+The Elevator Pitch | Dâ é-le-vêi-ter pítch | Explicar sua profissão em 30 segundos usando "What do you do for a living?" | Missão | B2
+The Business Owner | Dâ bí-zi-nes ôu-ner | Descrever como você "Run your own business" para um possível investidor | Missão | C1
+The Skill Showcase | Dâ skí-ol shôu-kêise | Listar suas "Main duties" de forma clara e profissional | Missão | B2
+
+// MÓDULO: ÁREAS DE NEGÓCIOS (BUSINESS DEPARTMENTS)
+Sales and Marketing | Sêi-ols énd már-ke-ting | Vendas e Marketing | Business | A2
+Research and Development (R&D) | Rri-sêrtch énd di-vé-lop-ment | Pesquisa e Desenvolvimento | Business | C1
+Customer Support | Câs-to-mer sâ-pórt | Suporte ao cliente | Business | A2
+Human Resources (HR) | Rriú-man rri-sór-siz | Recursos Humanos | Business | B1
+Accounting and Finance | A-cáun-ting énd fái-nans | Contabilidade e Finanças | Business | B2
+Supply Chain and Logistics | Sâ-plái ttthêin énd lo-djís-tiks | Cadeia de suprimentos e Logística | Business | C1
+Legal Department | Lí-gol di-párt-ment | Departamento Jurídico | Business | B2
+Quality Assurance (QA) | Kuá-li-ti a-shú-rans | Garantia de Qualidade (Testes) | Business | C1
+Public Relations (PR) | Pâ-blik rri-lêi-shons | Relações Públicas | Business | B2
+Information Technology (IT) | In-for-mêi-shon tek-nó-lo-dji | Tecnologia da Informação (TI) | Business | A2
+Operations Management | O-pe-rrêi-shons mé-nadj-ment | Gerência de Operações | Business | B2
+Procurement and Purchasing | Pro-kiúur-ment énd pûr-tcha-sing | Compras e Aquisições | Business | C1
+Branch and Headquarters | Bréntsh énd rréd-kuór-terz | Filial e Matriz (Sede) | Business | B2
+Wholesale and Retail | RRôul-sêiol énd rrí-têiol | Atacado e Varejo | Business | B2
+Startup and Scaling up | Stárt-âp énd skêi-ling âp | Empresa iniciante e Crescimento de escala | Business | B2
+
+// MISSÕES: O EXECUTIVO (THE EXECUTIVE)
+The Dept Finder | Dâ dépt fáin-der | Identificar qual departamento resolve um problema usando "Legal" ou "Accounting" | Missão | B1
+The HQ Visit | Dâ rréd-kuór-terz ví-zit | Marcar uma reunião na "Headquarters" (Sede) da empresa | Missão | B2
+The Supply Chain Master | Dâ sâ-plái ttthêin més-ter | Explicar o fluxo da sua "Supply Chain" para um novo parceiro | Missão | C1
+
+// MÓDULO: OBRIGAÇÕES E DEVERES (OBLIGATIONS & DUTIES)
+It is my responsibility | Ít íz mái rres-pon-sa-bí-li-ti | É minha responsabilidade | Deveres | B1
+Under the terms of the contract | Ân-der dâ têrmz óv dâ cón-trrekt | Sob os termos do contrato | Deveres | C1
+You are liable for the damages | Iú ár lái-a-bol fór dâ dé-ma-djiz | Você é legalmente responsável pelos danos | Deveres | C1
+To fulfill your obligations | Tú fúl-fíol iór o-bli-guêi-shons | Cumprir as suas obrigações | Deveres | B2
+Failure to comply with the rules | Fêi-liur tú com-plái uíf dâ rrúuls | Falha em cumprir as regras | Deveres | C1
+Meeting the deadline is mandatory | Míi-ting dâ déd-láin íz mén-da-tó-rri | Cumprir o prazo é obrigatório | Deveres | B2
+By law, you must... | Bái ló, iú mâst | Por lei, você deve... | Deveres | B1
+To abide by the law | Tú a-báid bái dâ ló | Respeitar/Seguir a lei | Deveres | C1
+A breach of duty | A bríitsh óv diú-ti | Uma quebra de dever/obrigação | Deveres | C1
+You are required to show ID | Iú ár rri-kuái-erd tú shôu ái-dí | Você é obrigado a mostrar identificação | Deveres | A2
+Perform your duties | Per-fórm iór diú-tis | Realizar os seus deveres | Deveres | B1
+Strict adherence to the policy | Strríkt ad-rrí-rens tú dâ pó-li-si | Adesão rigorosa à política | Deveres | C1
+Pay your taxes on time | Pêi iór té-ksiz ón táime | Pague os seus impostos em dia | Deveres | B2
+Breach of contract | Bríitsh óv cón-trrekt | Quebra de contrato | Deveres | B2
+You have the right to remain silent | Iú rév dâ rráit tú rri-mêin sái-lent | Tem o direito de permanecer em silêncio | Deveres | B1
+
+// MISSÕES: O CIDADÃO RESPONSÁVEL (THE RESPONSIBLE CITIZEN)
+The Rule Abider | Dâ rrúul a-bái-der | Demonstrar que você pode "Abide by the law" em uma situação oficial | Missão | C1
+The Deadline Keeper | Dâ déd-láin kíi-per | "Fulfill your obligations" entregando um projeto antes do prazo | Missão | B2
+The Policy Expert | Dâ pó-li-si éks-pert | Explicar que "Meeting the requirements" é obrigatório para a equipe | Missão | B2
+
+// MÓDULO: CONTRATOS E ACORDOS (CONTRACTS & AGREEMENTS)
+The parties involved | Dâ pár-tis in-vólvd | As partes envolvidas | Contratos | B2
+Legally binding agreement | Lí-ga-li báin-ding a-gríi-ment | Acordo juridicamente vinculativo | Contratos | C1
+The terms and conditions | Dâ têrmz énd con-dí-shons | Os termos e condições | Contratos | B1
+Termination clause | Ter-mi-nêi-shon cló-ze | Cláusula de rescisão | Contratos | C1
+Upon mutual agreement | A-pón miú-tchu-al a-gríi-ment | Mediante acordo mútuo | Contratos | B2
+Non-disclosure agreement (NDA) | Nón-dis-clôu-jur a-gríi-ment | Acordo de confidencialidade | Contratos | C1
+Effective date | E-fék-tiv dêit | Data de vigência | Contratos | B2
+To sign on the dotted line | Tú sáin ón dâ dó-ted láin | Assinar na linha pontilhada | Contratos | B1
+Breach of contract | Bríitsh óv cón-trrekt | Quebra de contrato | Contratos | B2
+Renew the contract | Rri-niú dâ cón-trrekt | Renovar o contrato | Contratos | B1
+Fine print | Fáin prrint | As letras miúdas (detalhes importantes) | Contratos | B2
+Null and void | Nâl énd vóid | Nulo e sem efeito | Contratos | C1
+Power of attorney | Páu-er óv a-tôr-ni | Procuração | Contratos | C1
+Security deposit | Se-kiú-ri-ti de-pó-zit | Depósito de garantia | Contratos | B1
+Hereby agreed | RRíier-bái a-gríid | Pelo presente (documento) acordado | Contratos | C1
+
+// MISSÕES: O NEGOCIADOR (THE NEGOTIATOR)
+The Fine Print Reader | Dâ fáin prrint rrí-der | Ler as "Fine print" antes de assinar qualquer "Binding agreement" | Missão | B2
+The NDA Guard | Dâ én-dí-êi gárd | Assinar um "NDA" para proteger as informações da sua empresa | Missão | C1
+The Clause Checker | Dâ cló-ze tché-ker | Identificar a "Termination clause" para saber como cancelar o serviço | Missão | C1
+
+// MÓDULO: BONS MODOS E ETIQUETA (MANNERS & ETIQUETTES)
+Excuse me, sorry to bother you | Eks-kiúuz mí, só-rri tú bó-der iú | Com licença, desculpe incomodá-lo | Etiqueta | A2
+After you, please | Áf-ter iú, plíiz | Depois de você, por favor (ao passar numa porta) | Etiqueta | A2
+I beg your pardon? | Ái bég iór pár-don? | Perdão? (Como disse? / Não entendi) | Etiqueta | B2
+Bless you! | Bléss iú! | Saúde! (Quando alguém espirra) | Etiqueta | A1
+I didn’t mean to be rude | Ái dí-dent míin tú bíi rrúud | Não tive a intenção de ser rude | Etiqueta | B2
+Would you mind if I...? | Uúd iú máind íf ái...? | Você se importaria se eu...? | Etiqueta | B1
+My deepest apologies | Mái díi-pest a-pó-lo-djis | Minhas sinceras desculpas | Etiqueta | C1
+Make yourself comfortable | Mêik iór-sélf cón-for-ta-bol | Sinta-se confortável / À vontade | Etiqueta | B1
+Thanks for having me | Fénks fór rré-ving mí | Obrigado por me receber (em casa/evento) | Etiqueta | B1
+It’s no trouble at all | Íts nôu trrâ-bol ét óol | Não é incômodo nenhum | Etiqueta | B2
+Please, help yourself | Plíiz, rré-olp iór-sélf | Por favor, sirva-se | Etiqueta | B1
+Pardon the mess | Pár-don dâ méss | Desculpe a bagunça | Etiqueta | B1
+I’m much obliged | Ái-ém mâtsh o-bláid-jd | Fico-lhe muito grato (Formal) | Etiqueta | C1
+May I join you? | Mêi ái djóin iú? | Posso me juntar a você(s)? | Etiqueta | B1
+Mind the gap | Máind dâ guép | Cuidado com o vão (ou espaço entre as coisas) | Etiqueta | B2
+
+// MISSÕES: O CAVALHEIRO (THE GENTLEMAN)
+The Door Opener | Dâ dóor ôu-pe-ner | Segurar a porta para alguém e dizer "After you" | Missão | A2
+The Gracious Guest | Dâ grrêi-shos guést | Ao sair da casa de um amigo, agradecer dizendo "Thanks for having me" | Missão | B1
+The Polite Intruder | Dâ po-láit in-trrú-der | Abordar alguém na rua com "Excuse me, sorry to bother you" antes de pedir informação | Missão | A2
+
+// MÓDULO: MAUS MODOS E CONFLITO (BAD MANNERS & CONFLICT)
+How rude! | Rráu rrúud! | Que rude! / Que falta de educação! | Social | A2
+Mind your own business | Máind iór ôun bí-zi-nes | Cuide da sua vida | Conflito | B1
+Don't be so pushy | Dônt bíi sôu pú-shi | Não seja tão insistente/forçado | Conflito | B2
+Stop cutting in line | Stóp câ-ting ín láin | Pare de furar a fila | Conflito | B1
+Talk to the hand | Tók tú dâ rrénd | Fala com a minha mão (Não estou te ouvindo) | Gíria | B1
+You are being very loud | Iú ár bí-ing vé-rri láud | Você está falando muito alto | Conflito | B1
+Don't roll your eyes at me | Dônt rrôul iór áiz ét mí | Não revire os olhos para mim | Conflito | B2
+That was uncalled for | Fét uós ân-cóold fór | Isso foi desnecessário / gratuito | Conflito | C1
+You have no manners | Iú rév nôu mé-nerz | Você não tem educação | Conflito | B2
+Cut it out! | Cât ít áut! | Pare com isso! / Corta essa! | Gíria | B1
+Shut up! | Shât âp! | Cala a boca! (Muito grosseiro) | Conflito | A2
+He is so full of himself | RRíi íz sôu fúl óv rrim-sélf | Ele é muito convencido / cheio de si | Descrição | B2
+Don't interrupt me | Dônt in-te-rrâpt mí | Não me interrompa | Conflito | B1
+Watch your mouth | Uótsh iór máuf | Cuidado com o que você diz (palavrões/ofensas) | Conflito | B2
+Whatever! | Uát-é-ver! | Tanto faz! (Dito de forma sarcástica) | Gíria | A2
+
+// MISSÕES: O DEFENSOR (THE DEFENDER)
+The Line Guard | Dâ láin gárd | Confrontar alguém que tenta furar a fila dizendo "Stop cutting in line" | Missão | B1
+The Boundary Setter | Dâ báun-da-rri sé-ter | Encerrar uma conversa invasiva com "Mind your own business" | Missão | B2
+The Respect Demander | Dâ rris-pékt di-mén-der | Reagir a uma grosseria gratuita dizendo "That was uncalled for" | Missão | C1
+
+// MÓDULO: ARGUMENTOS E DEFESA (ARGUMENTS & DEFENSE)
+Are you kidding me? | Ár iú kí-ding mí? | Você está brincando comigo? (Indignação) | Conflito | A2
+Get lost! | Guét lóst! | Suma daqui! / Cai fora! | Conflito | B1
+Don’t raise your voice at me | Dônt rrêize iór vóice ét mí | Não aumente o tom de voz comigo | Conflito | B2
+You’re out of line | Iú ár áut óv láine | Você passou dos limites | Conflito | C1
+You’re being unreasonable | Iú ár bí-ing ân-rrí-zo-na-bol | Você está sendo irracional / sem noção | Conflito | C1
+Don’t push your luck | Dônt púsh iór lâk | Não force a barra / Não abuse da sorte | Conflito | B2
+That’s enough! | Féts i-nâf! | Já chega! / Basta! | Conflito | A2
+I’ve had it with this! | Áiv rréd ít uíf fís! | Já estou por aqui com isso! (Saturado) | Conflito | B2
+You’ve got to be joking | iúv guót tú bíi djôu-king | Você só pode estar brincando | Conflito | B1
+Stay out of this | Stêi áut óv fís | Fique fora disso | Conflito | B1
+It’s none of your business | Íts nân óv iór bí-zi-nes | Não é da sua conta | Conflito | B2
+Whatever you say | Uát-é-ver iú sêi | O que você disser (Sarcasmo/Desistência) | Conflito | B1
+You’re wrong about this | Iú ár rrông a-báut fís | Você está errado sobre isso | Conflito | B1
+Don’t patronize me | Dônt pêi-trro-náize mí | Não fale comigo como se eu fosse inferior | Conflito | C1
+Leave me alone | Líiv mí a-lôun | Deixe-me em paz / sozinho | Conflito | A1
+
+// MISSÕES: O DIPLOMATA FIRME (THE FIRM DIPLOMAT)
+The Boundary Setter | Dâ báun-da-rri sé-ter | Usar "You’re out of line" para interromper um comportamento abusivo | Missão | C1
+The Calm Defender | Dâ cá-um di-fén-der | Responder a um grito com "Don’t raise your voice at me" | Missão | B2
+The Discussion Ender | Dâ dis-câ-shon én-der | Encerrar uma briga infrutífera com "That’s enough!" | Missão | A2
+
+// MÓDULO: ARGUMENTOS E DEFESA (ARGUMENTS & DEFENSE)
+Are you kidding me? | Ár iú kí-ding mí? | Você está brincando comigo? (Indignação) | Conflito | A2
+Get lost! | Guét lóst! | Suma daqui! / Cai fora! | Conflito | B1
+Don’t raise your voice at me | Dônt rrêize iór vóice ét mí | Não aumente o tom de voz comigo | Conflito | B2
+You’re out of line | Iú ár áut óv láine | Você passou dos limites | Conflito | C1
+You’re being unreasonable | Iú ár bí-ing ân-rrí-zo-na-bol | Você está sendo irracional / sem noção | Conflito | C1
+Don’t push your luck | Dônt púsh iór lâk | Não force a barra / Não abuse da sorte | Conflito | B2
+That’s enough! | Féts i-nâf! | Já chega! / Basta! | Conflito | A2
+I’ve had it with this! | Áiv rréd ít uíf fís! | Já estou por aqui com isso! (Saturado) | Conflito | B2
+You’ve got to be joking | iúv guót tú bíi djôu-king | Você só pode estar brincando | Conflito | B1
+Stay out of this | Stêi áut óv fís | Fique fora disso | Conflito | B1
+It’s none of your business | Íts nân óv iór bí-zi-nes | Não é da sua conta | Conflito | B2
+Whatever you say | Uát-é-ver iú sêi | O que você disser (Sarcasmo/Desistência) | Conflito | B1
+You’re wrong about this | Iú ár rrông a-báut fís | Você está errado sobre isso | Conflito | B1
+Don’t patronize me | Dônt pêi-trro-náize mí | Não fale comigo como se eu fosse inferior | Conflito | C1
+Leave me alone | Líiv mí a-lôun | Deixe-me em paz / sozinho | Conflito | A1
+
+// MISSÕES: O DIPLOMATA FIRME (THE FIRM DIPLOMAT)
+The Boundary Setter | Dâ báun-da-rri sé-ter | Usar "You’re out of line" para interromper um comportamento abusivo | Missão | C1
+The Calm Defender | Dâ cá-um di-fén-der | Responder a um grito com "Don’t raise your voice at me" | Missão | B2
+The Discussion Ender | Dâ dis-câ-shon én-der | Encerrar uma briga infrutífera com "That’s enough!" | Missão | A2
+
+// MÓDULO: PACIFICADOR (THE PEACEMAKER)
+Let’s keep it civil | Léts kíip ít sí-vol | Vamos manter o nível / a civilidade | Diplomacia | B2
+I didn’t mean to offend you | Ái dí-dent míin tú o-fénd iú | Não tive a intenção de te ofender | Diplomacia | B1
+Let's just calm down for a second | Léts djâst cá-um dáun fór a sé-cond | Vamos apenas nos acalmar por um segundo | Diplomacia | A2
+There must be a misunderstanding | Dér mâst bíi a mís-ân-der-stén-ding | Deve haver um mal-entendido | Diplomacia | B2
+I see your point, but... | Ái síi iór póint, bât... | Eu entendo o seu ponto, mas... | Diplomacia | B1
+Let's agree to disagree | Léts a-gríi tú díz-a-gríi | Vamos concordar em discordar | Diplomacia | C1
+How can we fix this? | Rráu kén uí fíks fís? | Como podemos resolver isso? | Diplomacia | A2
+I take full responsibility | Ái têik fúl rres-pon-sa-bí-li-ti | Eu assumo total responsabilidade | Diplomacia | C1
+Let’s start over, okay? | Léts stárt ôu-ver, ôu-kêi? | Vamos recomeçar, tudo bem? | Diplomacia | B1
+It’s not worth fighting about | Íts nót uôrf fái-ting a-báut | Não vale a pena brigar por isso | Diplomacia | B2
+I apologize for the confusion | Ái a-pó-lo-djáize fór dâ con-fiú-jon | Peço desculpas pela confusão | Diplomacia | B2
+Let’s find a middle ground | Léts fáind a mí-dol grráund | Vamos encontrar um meio-termo | Diplomacia | C1
+No hard feelings | Nôu rrárd fíi-lingz | Sem ressentimentos | Diplomacia | B1
+Can we talk about this later? | Kén uí tók a-báut fís lêi-ter? | Podemos falar sobre isso mais tarde? | Diplomacia | A2
+I appreciate your patience | Ái a-prí-shi-êit iór pêi-shons | Eu agradeço a sua paciência | Diplomacia | B2
+
+// MISSÕES: O DIPLOMATA (THE DIPLOMAT)
+The De-escalator | Dâ dí-és-ka-lêi-ter | Usar "Let's just calm down" quando uma discussão começar a subir de tom | Missão | B1
+The Mistake Owner | Dâ mis-têik ôu-ner | Assumir um erro com "I take full responsibility" para encerrar uma briga | Missão | C1
+The Middle Grounder | Dâ mí-dol grráun-der | Propor um "Middle ground" em uma negociação difícil | Missão | B2
