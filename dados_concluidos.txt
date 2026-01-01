@@ -837,6 +837,850 @@ Very quickly | Vé-ri cuí-cli | Muito rapidamente (Intensificador + Advérbio) 
 As soon as | Éz sún éz | Assim que (Conjunção temporal para orações) | Adverb Clause Link | B1
 Because | Bi-cóz | Porque (Conjunção de causa) | Adverb Clause Link | A1
 
+// MÓDULO: DESCRIBING - AGE (01)
+Young | Iâng | Jovem (Pessoa ou coisa) | Adjective | A1
+Old | Ôuld | Velho / Idoso (Pessoa ou coisa) | Adjective | A1
+New | Niú | Novo (Coisas) | Adjective | A1
+Teenager | Tí-nei-djer | Adolescente | Noun | A2
+Middle-aged | Mí-dol êidjd | De meia-idade | Adjective | B1
+Elderly | Él-der-li | Idoso (Termo educado para velhos) | Adjective | B2
+
+// MÓDULO: DESCRIBING - FRIENDS AND FAMILY (02)
+Relative | Ré-la-tiv | Parente (Membro da família) | Noun | B1
+Partner | Párt-ner | Parceiro / Companheiro (Amoroso ou trabalho) | Noun | A2
+Neighbor | Nêi-bor | Vizinho | Noun | A1
+Colleague | Có-lig | Colega (De trabalho) | Noun | A2
+Best friend | Bést frênd | Melhor amigo | Noun | A1
+Guest | Guést | Convidado / Hóspede | Noun | A2
+
+// MÓDULO: DESCRIBING - APPEARANCE AND BACKGROUND (03)
+Beautiful | Biú-ti-ful | Bonito(a) (Geralmente para mulheres/coisas) | Adjective | A1
+Handsome | Rén-sam | Bonito (Geralmente para homens) | Adjective | A1
+Ugly | Â-gli | Feio | Adjective | A1
+Tall | Tól | Alto (Pessoa/Prédio) | Adjective | A1
+Short | Xórt | Baixo (Pessoa) / Curto (Coisa) | Adjective | A1
+Slim | Slím | Magro (De forma saudável/elegante) | Adjective | A2
+Fat | Fét | Gordo (Pode ser ofensivo) | Adjective | A1
+Blonde | Blónd | Loiro(a) | Adjective | A1
+
+// MÓDULO: DESCRIBING - PERSONALITY TRAITS (04)
+Nice | Náis | Legal / Simpático | Adjective | A1
+Kind | Cáind | Gentil / Bondoso | Adjective | A2
+Funny | Fâ-ni | Engraçado | Adjective | A1
+Serious | Sé-ri-as | Sério | Adjective | A1
+Smart | Smárt | Esperto / Inteligente | Adjective | A1
+Lazy | Lêi-zi | Preguiçoso | Adjective | A2
+Rude | Rúd | Grosseiro / Mal-educado | Adjective | B1
+Shy | Xái | Tímido | Adjective | A2
+
+// MÓDULO: DESCRIBING - GOOD THINGS (05)
+Great | Grêit | Ótimo / Grandioso | Adjective | A1
+Wonderful | Uân-der-ful | Maravilhoso | Adjective | A1
+Amazing | A-mêi-zing | Incrível / Surpreendente | Adjective | A2
+Perfect | Pâr-fect | Perfeito | Adjective | A1
+Useful | Iús-ful | Útil | Adjective | A2
+
+// MÓDULO: DESCRIBING - BAD THINGS (06)
+Terrible | Té-ri-bol | Terrível | Adjective | A1
+Awful | Ó-ful | Horrível / Péssimo | Adjective | A2
+Horrible | Ró-ri-bol | Horrível | Adjective | A2
+Boring | Bó-rin | Chato / Entediante | Adjective | A1
+Strange | Strêindj | Estranho | Adjective | A1
+
+// MÓDULO: DESCRIBING - ANIMALS (07)
+Pet | Pét | Animal de estimação | Noun | A1
+Wild | Uái-old | Selvagem (Adjetivo para animais) | Adjective | A2
+Bird | Bârd | Pássaro | Noun | A1
+Fish | Físh | Peixe | Noun | A1
+Insect | Ín-sect | Inseto | Noun | A2
+Snake | Snêik | Cobra | Noun | A1
+
+// MÓDULO: DESCRIBING - FOOD (08)
+Delicious | Di-lí-shas | Delicioso | Adjective | A1
+Sweet | Suít | Doce | Adjective | A1
+Salty | Sól-ti | Salgado | Adjective | A2
+Spicy | Spái-si | Apimentado | Adjective | A2
+Fresh | Frésh | Fresco (Comida feita na hora) | Adjective | A1
+Meal | Míl | Refeição | Noun | A2
+Breakfast | Brék-fast | Café da manhã | Noun | A1
+
+// MÓDULO: ATTITUDE - AGREEING AND DISAGREEING (09)
+Agree | A-grí | Concordar | Verb | A1
+Disagree | Dis-a-grí | Discordar | Verb | A2
+Absolutely | Ab-so-lút-li | Com certeza / Absolutamente | Adverb | B1
+Maybe | Mêi-bi | Talvez | Adverb | A1
+Refuse | Ri-fiúz | Recusar | Verb | B1
+Accept | Ac-sépt | Aceitar | Verb | A2
+
+// MÓDULO: ATTITUDE - BEHAVIOR (10)
+Behave | Bi-rêiv | Comportar-se | Verb | B1
+Polite | Po-láit | Educado / Cortês | Adjective | A2
+Rude | Rúd | Grosseiro / Mal-educado | Adjective | B1
+Habit | Rá-bit | Hábito | Noun | A2
+Lazy | Lêi-zi | Preguiçoso | Adjective | A2
+Act | Áct | Agir / Atuar | Verb | A1
+
+// MÓDULO: ATTITUDE - EMOTIONS (11)
+Feeling | Fí-lin | Sentimento / Sensação | Noun | A1
+Mood | Múd | Humor (Estado de espírito) | Noun | B1
+Sensitive | Sén-si-tiv | Sensível | Adjective | B1
+React | Ri-áct | Reagir | Verb | B1
+Calm | Cám | Calmo | Adjective | A1
+
+// MÓDULO: ATTITUDE - POSITIVE EMOTIONS (12)
+Joy | Djói | Alegria | Noun | B1
+Excited | Ec-sái-ted | Animado / Empolgado | Adjective | A1
+Proud | Práud | Orgulhoso | Adjective | B1
+Confident | Cón-fi-dent | Confiante | Adjective | B1
+Relieved | Ri-lív-d | Aliviado | Adjective | B2
+
+// MÓDULO: ATTITUDE - NEGATIVE EMOTIONS (13)
+Angry | Ên-gri | Bravo / Irritado | Adjective | A1
+Upset | Ap-sét | Chateado / Magoado | Adjective | A2
+Scared | Skérd | Assustado | Adjective | A1
+Nervous | Nâr-vas | Nervoso | Adjective | A1
+Jealous | Djé-las | Com ciúmes / Invejoso | Adjective | B1
+Lonely | Lôn-li | Solitário | Adjective | B1
+
+// MÓDULO: ATTITUDE - MEMORY (14)
+Remember | Ri-mém-ber | Lembrar (Recordar-se) | Verb | A1
+Forget | For-guét | Esquecer | Verb | A1
+Remind | Ri-máind | Lembrar (Alguém de algo) | Verb | B1
+Memory | Mé-mo-ri | Memória | Noun | A2
+Memorize | Mé-mo-ráiz | Memorizar | Verb | B1
+
+// MÓDULO: ATTITUDE - THE BODY (15)
+Head | Réd | Cabeça | Noun | A1
+Heart | Rárt | Coração | Noun | A1
+Brain | Brêin | Cérebro | Noun | A2
+Face | Fêis | Rosto | Noun | A1
+Hands | Rénds | Mãos | Noun | A1
+Stomach | Stâ-mak | Estômago | Noun | A2
+
+// MÓDULO: ATTITUDE - WAR AND WEAPONS (16)
+War | Uór | Guerra | Noun | A2
+Peace | Pís | Paz | Noun | A2
+Fight | Fáit | Lutar / Briga | Verb/Noun | A1
+Soldier | Sôul-djer | Soldado | Noun | A2
+Gun | Gân | Arma de fogo | Noun | A2
+Army | Ár-mi | Exército | Noun | A2
+Weapon | Ué-pon | Arma (Termo genérico) | Noun | B1
+
+// MÓDULO: SITUATIONS - AMOUNT AND DISTANCE (17)
+Amount | A-máunt | Quantidade | Noun | B1
+Distance | Dís-tans | Distância | Noun | A2
+Far | Fár | Longe | Adverb/Adjective | A1
+Near | Nír | Perto (Próximo) | Adverb/Preposition | A1
+Whole | Rôul | Inteiro / Todo | Adjective | A2
+Empty | Émp-ti | Vazio | Adjective | A2
+Full | Fûl | Cheio | Adjective | A1
+
+// MÓDULO: SITUATIONS - BEGINNING AND ENDING (18)
+Begin | Bi-guín | Começar (Mais formal que start) | Verb | A1
+Start | Stárt | Começar / Iniciar | Verb | A1
+End | Énd | Fim / Terminar | Noun/Verb | A1
+Finish | Fí-nish | Terminar / Acabar (Concluir tarefa) | Verb | A1
+Over | Ôu-ver | Acabado (Geralmente predicativo: "Game over") | Adjective | A1
+
+// MÓDULO: SITUATIONS - CHANCE, LUCK, AND PROBABILITY (19)
+Chance | Tchéns | Chance / Oportunidade | Noun | A2
+Luck | Lâk | Sorte | Noun | A2
+Lucky | Lâ-ki | Sortudo / De sorte | Adjective | A2
+Probably | Pró-ba-bli | Provavelmente | Adverb | A2
+Maybe | Mêi-bi | Talvez | Adverb | A1
+Impossible | Im-pó-si-bol | Impossível | Adjective | A2
+
+// MÓDULO: SITUATIONS - EASE AND DIFFICULTY (20)
+Easy | Í-zi | Fácil | Adjective | A1
+Difficult | Dí-fi-calt | Difícil (Mais formal) | Adjective | A1
+Hard | Rárd | Difícil / Duro (Informal/Contexto físico) | Adjective | A1
+Simple | Sím-pol | Simples | Adjective | A2
+Complicated | Cóm-pli-kei-ted | Complicado | Adjective | B1
+
+// MÓDULO: SITUATIONS - SAFETY AND DANGER (21)
+Safe | Sêif | Seguro | Adjective | A2
+Dangerous | Dên-dje-ras | Perigoso | Adjective | A2
+Careful | Kér-ful | Cuidadoso | Adjective | A2
+Risk | Rísk | Risco | Noun | B1
+Save | Sêiv | Salvar / Economizar | Verb | A2
+Protect | Pro-téct | Proteger | Verb | B1
+
+// MÓDULO: SITUATIONS - DIFFICULT SITUATIONS (22)
+Problem | Pró-blem | Problema | Noun | A1
+Trouble | Tró-bol | Encrenca / Problema (Situação ruim) | Noun | A2
+Mistake | Mis-têik | Erro / Equívoco | Noun | A2
+Stuck | Stâk | Preso / Travado (Sem conseguir sair) | Adjective | B1
+Emergency | E-mâr-djen-si | Emergência | Noun | B1
+Lost | Lóst | Perdido | Adjective | A1
+
+// MÓDULO: SITUATIONS - THE WEATHER AND NATURE (23)
+Weather | Ué-der | Clima / Tempo (Meteorológico) | Noun | A1
+Rain | Rêin | Chuva | Noun/Verb | A1
+Sun | Sân | Sol | Noun | A1
+Wind | Uínd | Vento | Noun | A2
+Storm | Stórm | Tempestade | Noun | B1
+Nature | Nêi-tchar | Natureza | Noun | A2
+Hot | Rót | Quente | Adjective | A1
+Cold | Côuld | Frio | Adjective | A1
+
+// MÓDULO: COMMUNICATION - TALKING (24)
+Say | Sêi | Dizer (Foco no que foi dito) | Verb | A1
+Tell | Tél | Contar (Foco em para quem se diz) | Verb | A1
+Speak | Spík | Falar (Idioma ou formal) | Verb | A1
+Talk | Tók | Conversar (Troca de ideias) | Verb | A1
+Shout | Xáut | Gritar | Verb | A2
+Whisper | Uís-per | Sussurrar | Verb | B1
+
+// MÓDULO: COMMUNICATION - SHARING INFORMATION (25)
+Explain | Eks-plêin | Explicar | Verb | A2
+Message | Mé-sadj | Mensagem | Noun | A1
+News | Niúz | Notícia / Novidade | Noun | A2
+Describe | Dis-cráib | Descrever | Verb | A2
+Answer | Ên-ser | Responder / Resposta | Verb/Noun | A1
+Ask | Ásk | Perguntar / Pedir | Verb | A1
+
+// MÓDULO: COMMUNICATION - TRUTH AND LIES (26)
+True | Trú | Verdadeiro | Adjective | A1
+False | Fóls | Falso | Adjective | A1
+Lie | Lái | Mentira / Mentir | Noun/Verb | A2
+Secret | Sí-cret | Segredo | Noun | A2
+Promise | Pró-mis | Promessa / Prometer | Noun/Verb | A2
+Trust | Trâst | Confiar / Confiança | Verb/Noun | B1
+
+// MÓDULO: COMMUNICATION - LOOKING AND LISTENING (27)
+Look | Lûk | Olhar (Focar a visão) | Verb | A1
+See | Sí | Ver (Capacidade física) | Verb | A1
+Watch | Uótch | Assistir (Algo em movimento/TV) | Verb | A1
+Listen | Lís-sen | Escutar (Prestar atenção) | Verb | A1
+Hear | Rír | Ouvir (Capacidade física) | Verb | A1
+Notice | Nôu-tis | Notar / Perceber | Verb | B1
+
+// MÓDULO: COMMUNICATION - MUSIC AND THE ARTS (28)
+Music | Miú-zic | Música (Arte/Som geral) | Noun | A1
+Song | Sóng | Canção (Música cantada/Faixa) | Noun | A1
+Sing | Síng | Cantar | Verb | A1
+Dance | Déns | Dançar | Verb | A1
+Picture | Píc-tchar | Foto / Imagem / Quadro | Noun | A1
+Draw | Dró | Desenhar | Verb | A1
+
+// MÓDULO: EVERYDAY LIFE - EATING AND DRINKING (29)
+Eat | Ít | Comer | Verb | A1
+Drink | Drínk | Beber | Verb | A1
+Cook | Cûk | Cozinhar | Verb | A1
+Hungry | Râng-gri | Com fome | Adjective | A1
+Thirsty | Târs-ti | Com sede | Adjective | A1
+Taste | Têist | Provar / Gosto | Verb/Noun | A2
+
+// MÓDULO: EVERYDAY LIFE - DESCRIBING YOUR HEALTH (30)
+Healthy | Rél-ti | Saudável | Adjective | A1
+Sick | Síc | Doente (Geral) | Adjective | A1
+Ill | Íl | Doente (Mais formal/Grave) | Adjective | A2
+Pain | Pêin | Dor | Noun | A2
+Headache | Ré-deik | Dor de cabeça | Noun | A1
+Medicine | Mé-di-sin | Remédio | Noun | A2
+
+// MÓDULO: EVERYDAY LIFE - KNOWLEDGE AND EDUCATION (31)
+Learn | Lârn | Aprender | Verb | A1
+Teach | Títch | Ensinar | Verb | A1
+Study | Stâ-di | Estudar | Verb | A1
+Student | Stú-dent | Estudante / Aluno | Noun | A1
+Degree | Di-grí | Diploma / Grau acadêmico | Noun | B1
+Exam | Eg-zém | Prova / Exame | Noun | A1
+
+// MÓDULO: EVERYDAY LIFE - MONEY (32)
+Money | Mâ-ni | Dinheiro | Noun | A1
+Cash | Késh | Dinheiro vivo | Noun | A1
+Pay | Pêi | Pagar | Verb | A1
+Spend | Spénd | Gastar | Verb | A1
+Cost | Cóst | Custar / Custo | Verb/Noun | A1
+Wallet | Uó-let | Carteira | Noun | A2
+
+// MÓDULO: EVERYDAY LIFE - SHOPPING (33)
+Buy | Bái | Comprar | Verb | A1
+Sell | Sél | Vender | Verb | A1
+Customer | Câs-to-mer | Cliente | Noun | A2
+Price | Práis | Preço | Noun | A1
+Sale | Sêil | Promoção / Venda | Noun | A1
+Receipt | Ri-sít | Recibo / Nota fiscal | Noun | B1
+
+// MÓDULO: EVERYDAY LIFE - TIME (34)
+Clock | Clóc | Relógio (De parede/mesa) | Noun | A1
+Watch | Uótch | Relógio (De pulso) | Noun | A1
+Early | Âr-li | Cedo / Adiantado | Adverb/Adjective | A1
+Late | Lêit | Tarde / Atrasado | Adverb/Adjective | A1
+Hour | Áu-ar | Hora | Noun | A1
+Date | Dêit | Data / Encontro | Noun | A1
+
+// MÓDULO: EVERYDAY LIFE - CLOTHES (35)
+Wear | Uér | Vestir / Usar (Roupas/Acessórios) | Verb | A1
+Put on | Pût ón | Colocar / Vestir (Ação de pôr) | Phrasal Verb | A1
+Shirt | Xârt | Camisa | Noun | A1
+Pants | Pénts | Calças (EUA) | Noun | A1
+Shoes | Xúz | Sapatos | Noun | A1
+Size | Sáiz | Tamanho | Noun | A1
+
+// MÓDULO: WORK - WORKING AND RELAXING (36)
+Work | Uôrk | Trabalhar / Trabalho | Verb/Noun | A1
+Relax | Ri-léks | Relaxar | Verb | A1
+Rest | Rést | Descansar | Verb | A2
+Break | Brêik | Pausa / Intervalo | Noun | A1
+Holiday | Ró-li-dei | Feriado / Férias (UK) | Noun | A1
+Busy | Bí-zi | Ocupado | Adjective | A1
+
+// MÓDULO: WORK - MOVEMENT AND PROGRESS (37)
+Move | Múv | Mover-se / Mudar (de casa) | Verb | A1
+Progress | Pró-gres | Progresso | Noun | B1
+Improve | Im-prúv | Melhorar | Verb | A2
+Forward | Fór-uard | Para frente | Adverb | A2
+Step | Stép | Passo | Noun | A1
+Grow | Grôu | Crescer | Verb | A1
+
+// MÓDULO: WORK - RULES, LAW, AND AUTHORITY (38)
+Rule | Rúl | Regra | Noun | A1
+Law | Ló | Lei | Noun | A2
+Allowed | A-láu-d | Permitido | Adjective | A2
+Forbidden | For-bí-den | Proibido | Adjective | B1
+Police | Po-lís | Polícia | Noun | A1
+Leader | Lí-der | Líder | Noun | A2
+
+// MÓDULO: WORK - SUCCESS AND FAILURE (39)
+Success | Sac-sés | Sucesso | Noun | A1
+Fail | Fêil | Falhar / Reprovar | Verb | A2
+Win | Uín | Vencer / Ganhar (Competição) | Verb | A1
+Lose | Lúz | Perder | Verb | A1
+Goal | Gôul | Objetivo / Gol | Noun | A2
+Victory | Víc-to-ri | Vitória | Noun | B1
+
+// MÓDULO: WORK - WORK AND BUSINESS 1 (40 - BÁSICO)
+Job | Djób | Emprego / Trabalho (Específico) | Noun | A1
+Boss | Bós | Chefe | Noun | A1
+Office | Ó-fis | Escritório | Noun | A1
+Company | Câm-pa-ni | Empresa | Noun | A1
+Employee | Em-ploi-í | Empregado / Funcionário | Noun | A2
+Staff | Stéf | Equipe / Pessoal (Coletivo) | Noun | B1
+
+// MÓDULO: WORK - WORK AND BUSINESS 2 (41 - INTERMEDIÁRIO)
+Meeting | Mí-ting | Reunião | Noun | A2
+Deal | Dí-al | Acordo / Negócio | Noun | B1
+Market | Már-ket | Mercado | Noun | B1
+Contract | Cón-tract | Contrato | Noun | B1
+Manage | Mé-nadj | Gerenciar | Verb | B1
+Client | Clái-ent | Cliente (Serviços/B2B) | Noun | B1
+
+// MÓDULO: WORK - SPORTS (42)
+Sport | Spórt | Esporte | Noun | A1
+Game | Guêim | Jogo | Noun | A1
+Player | Plêi-er | Jogador | Noun | A1
+Team | Tím | Time / Equipe | Noun | A1
+Ball | Ból | Bola | Noun | A1
+Score | Scór | Pontuação / Placar | Noun | A2
+
+// MÓDULO: EXPRESSIONS - MAKE AND DO (43)
+Make | Mêik | Fazer (Criar/Produzir: "Make a cake") | Verb | A1
+Do | Dú | Fazer (Executar ação/Tarefa: "Do homework") | Verb | A1
+Make a decision | Mêik a di-sí-jan | Tomar uma decisão | Collocation | B1
+Do a favor | Dú a fêi-vor | Fazer um favor | Collocation | A2
+
+// MÓDULO: EXPRESSIONS - GIVE AND TAKE (44)
+Give | Gív | Dar | Verb | A1
+Take | Têik | Tomar / Pegar / Levar | Verb | A1
+Give up | Gív âp | Desistir | Phrasal Verb | B1
+Take off | Têik óf | Decolar / Tirar (Roupa) | Phrasal Verb | B1
+
+// MÓDULO: EXPRESSIONS - HAVE AND GET (45)
+Have | Rév | Ter (Posse) | Verb | A1
+Get | Guét | Obter / Chegar / Ficar (Mudança de estado) | Verb | A1
+Have breakfast | Rév brék-fast | Tomar café da manhã | Collocation | A1
+Get married | Guét mé-rid | Casar-se (Ação de casar) | Collocation | A2
+
+// MÓDULO: EXPRESSIONS - SET AND PUT (46)
+Set | Sét | Definir / Pôr (Mesa) / Configurar | Verb | B1
+Put | Pût | Colocar (Em um lugar) | Verb | A1
+Set up | Sét âp | Configurar / Montar | Phrasal Verb | B1
+Put on | Pût ón | Vestir / Colocar (Roupa) | Phrasal Verb | A1
+
+// MÓDULO: EXPRESSIONS - GO AND COME (47)
+Go | Gôu | Ir (Afastar-se de quem fala) | Verb | A1
+Come | Câm | Vir (Aproximar-se de quem fala) | Verb | A1
+Go back | Gôu béc | Voltar (Ir de volta) | Phrasal Verb | A1
+Come back | Câm béc | Voltar (Vir de volta) | Phrasal Verb | A1
+
+// MÓDULO: EXPRESSIONS - OTHER VERBS (48)
+Keep | Kíp | Manter / Guardar | Verb | A2
+Let | Lét | Deixar / Permitir | Verb | A2
+Keep calm | Kíp cám | Mantenha a calma | Expression | A1
+Let go | Lét gôu | Soltar / Deixar ir | Expression | B1
+
+// MÓDULO: EXPRESSIONS - INTENSIFYING ADVERBS (49)
+Very | Vé-ri | Muito | Adverb | A1
+Really | Rí-a-li | Realmente / Muito | Adverb | A1
+Absolutely | Ab-so-lút-li | Absolutamente | Adverb | B1
+Totally | Tôu-ta-li | Totalmente | Adverb | A2
+
+// MÓDULO: EXPRESSIONS - SIMILES AND PROVERBS (50, 51)
+As blind as a bat | Éz bláind éz a bét | Cego como um morcego (Não enxerga nada) | Idiom/Simile | C1
+Time is money | Táim íz mâ-ni | Tempo é dinheiro | Proverb | A2
+Better late than never | Bé-ter lêit dén né-ver | Antes tarde do que nunca | Proverb | B1
+No pain no gain | Nôu pêin nôu guêin | Sem dor, sem ganho (Esforço traz resultado) | Proverb | B1
+
+// MÓDULO: EXPRESSIONS - EASILY CONFUSED WORDS 1 (52)
+Borrow | Bó-rou | Pegar emprestado (Você pega) | Verb | A2
+Lend | Lénd | Emprestar (Você dá) | Verb | A2
+Win | Uín | Ganhar (Competição/Jogo) | Verb | A1
+Earn | Ârn | Ganhar (Dinheiro/Trabalho) | Verb | A2
+
+// MÓDULO: EXPRESSIONS - EASILY CONFUSED WORDS 2 (53)
+Rob | Rób | Roubar (Lugar ou Pessoa - "Rob a bank") | Verb | B1
+Steal | Stí-al | Roubar (Objeto - "Steal a wallet") | Verb | B1
+Lose | Lúz | Perder (Objeto/Jogo) | Verb | A1
+Miss | Mís | Perder (Hora/Transporte) / Sentir falta | Verb | A1
+
+// MÓDULO: EXPRESSIONS - COLORS (54)
+Red | Réd | Vermelho | Color | A1
+Blue | Blú | Azul | Color | A1
+Green | Grín | Verde | Color | A1
+Yellow | Ié-lou | Amarelo | Color | A1
+Black | Bléc | Preto | Color | A1
+White | Uáit | Branco | Color | A1
+
+// MÓDULO: GRAMMAR - THE PRESENT SIMPLE (01)
+I eat | Ái ít | Eu como (Hábito/Fato) | Present Simple | A1
+She reads | Xí ríds | Ela lê (3ª pessoa ganha 's') | Present Simple | A1
+They work | Dêi uôrk | Eles trabalham | Present Simple | A1
+We live | Uí lív | Nós moramos | Present Simple | A1
+He walks | Rí uóks | Ele caminha | Present Simple | A1
+
+// MÓDULO: GRAMMAR - THE PRESENT SIMPLE NEGATIVE (02)
+I do not eat | Ái dú nót ít | Eu não como | Negative Statement | A1
+She does not read | Xí dâz nót ríd | Ela não lê (Usa 'does not' para ela) | Negative Statement | A1
+He doesn't work | Rí dâ-zant uôrk | Ele não trabalha (Contração) | Negative Statement | A1
+We don't live | Uí dôunt lív | Nós não moramos (Contração) | Negative Statement | A1
+It doesn't work | Ít dâ-zant uôrk | Não funciona (Coisa/Objeto) | Negative Statement | A1
+
+// MÓDULO: GRAMMAR - PRESENT SIMPLE QUESTIONS (03)
+Do you eat? | Dú iú ít? | Você come? | Question Form | A1
+Does she read? | Dâz xí ríd? | Ela lê? (Usa 'Does' para ela) | Question Form | A1
+When do they work? | Uén dú dêi uôrk? | Quando eles trabalham? | Question Form | A1
+Where do you live? | Uér dú iú lív? | Onde você mora? | Question Form | A1
+Does it rain? | Dâz ít rêin? | Chove? (Tempo/Clima) | Question Form | A1
+
+// MÓDULO: GRAMMAR - THE PRESENT CONTINUOUS (04)
+I am eating | Ái ém í-tin | Estou comendo (Agora) | Present Continuous | A1
+She is reading | Xí íz rí-din | Ela está lendo | Present Continuous | A1
+They are working | Dêi ár uôr-kin | Eles estão trabalhando | Present Continuous | A1
+We are living | Uí ár lí-vin | Nós estamos morando | Present Continuous | A1
+It is raining | Ít íz rêi-nin | Está chovendo | Present Continuous | A1
+
+// MÓDULO: GRAMMAR - PRESENT TENSES OVERVIEW (05)
+I usually drive | Ái iú-zhua-li dráiv | Eu geralmente dirijo (Hábito) | Present Simple | A2
+I am driving today | Ái ém drái-vin tu-dêi | Estou dirigindo hoje (Ação temporária) | Present Continuous | A2
+He cooks every day | Rí cûks é-vri dêi | Ele cozinha todo dia (Rotina) | Present Simple | A1
+He is cooking now | Rí íz cû-kin náu | Ele está cozinhando agora (Momento) | Present Continuous | A1
+
+// MÓDULO: GRAMMAR - IMPERATIVES (06)
+Stop! | Stóp | Pare! | Imperative | A1
+Come here | Câm rír | Venha aqui | Imperative | A1
+Sit down | Sít dáun | Sente-se | Imperative | A1
+Don't touch | Dôunt tâtch | Não toque | Negative Imperative | A1
+Let's go | Léts gôu | Vamos (Sugestão/Convite) | Imperative | A1
+
+// MÓDULO: GRAMMAR - THE PAST SIMPLE (07)
+I worked | Ái uôrkt | Eu trabalhei (Ontem/Data definida) | Past Simple | A1
+She went | Xí uént | Ela foi (Irregular - Passado de Go) | Past Simple | A1
+They bought | Dêi bót | Eles compraram (Irregular - Passado de Buy) | Past Simple | A1
+We played | Uí plêi-d | Nós jogamos | Past Simple | A1
+It rained | Ít rêin-d | Choveu | Past Simple | A1
+
+// MÓDULO: GRAMMAR - THE PAST SIMPLE NEGATIVE (08)
+I didn't work | Ái dí-dant uôrk | Eu não trabalhei (Usa 'didn't' + verbo normal) | Negative Statement | A1
+She didn't go | Xí dí-dant gôu | Ela não foi | Negative Statement | A1
+We didn't buy | Uí dí-dant bái | Nós não compramos | Negative Statement | A1
+He didn't see | Rí dí-dant sí | Ele não viu | Negative Statement | A1
+
+// MÓDULO: GRAMMAR - PAST SIMPLE QUESTIONS (09)
+Did you work? | Díd iú uôrk? | Você trabalhou? | Question Form | A1
+Did she go? | Díd xí gôu? | Ela foi? | Question Form | A1
+When did they arrive? | Uén díd dêi a-ráiv? | Quando eles chegaram? | Question Form | A1
+What did you do? | Uót díd iú dú? | O que você fez? | Question Form | A1
+
+// MÓDULO: GRAMMAR - THE PAST CONTINUOUS (10)
+I was working | Ái uóz uôr-kin | Eu estava trabalhando (Ação em progresso no passado) | Past Continuous | A2
+They were sleeping | Dêi uér slí-pin | Eles estavam dormindo | Past Continuous | A2
+She was reading | Xí uóz rí-din | Ela estava lendo | Past Continuous | A2
+We were eating | Uí uér í-tin | Nós estávamos comendo | Past Continuous | A2
+
+// MÓDULO: GRAMMAR - THE PRESENT PERFECT SIMPLE (11)
+I have finished | Ái rév fí-nish-t | Eu terminei (Acabei de terminar/Resultado presente) | Present Perfect | A2
+She has eaten | Xí réz í-ten | Ela comeu (Experiência de vida/Sem data) | Present Perfect | A2
+We have lost | Uí rév lóst | Nós perdemos (E ainda estamos sem) | Present Perfect | A2
+I have seen | Ái rév sín | Eu vi / Tenho visto | Present Perfect | A2
+
+// MÓDULO: GRAMMAR - THE PRESENT PERFECT CONTINUOUS (12)
+I have been waiting | Ái rév bín uêi-tin | Estou esperando / Tenho esperado (Começou antes e continua) | Present Perf. Cont. | B1
+She has been working | Xí réz bín uôr-kin | Ela tem trabalhado (Recentemente) | Present Perf. Cont. | B1
+It has been raining | Ít réz bín rêi-nin | Tem chovido / Está chovendo (Há algum tempo) | Present Perf. Cont. | B1
+
+// MÓDULO: GRAMMAR - THE PAST PERFECT SIMPLE (13)
+I had finished | Ái réd fí-nish-t | Eu tinha terminado (Antes de outra coisa acontecer) | Past Perfect | B1
+She had gone | Xí réd gón | Ela tinha ido (Já tinha saído) | Past Perfect | B1
+They had met | Dêi réd mét | Eles tinham se encontrado | Past Perfect | B1
+
+// MÓDULO: GRAMMAR - THE PAST PERFECT CONTINUOUS (14)
+I had been driving | Ái réd bín drái-vin | Eu vinha dirigindo / Estivera dirigindo (Antes de algo) | Past Perf. Cont. | B2
+We had been trying | Uí réd bín trái-in | Nós vínhamos tentando | Past Perf. Cont. | B2
+
+// MÓDULO: GRAMMAR - USED TO AND WOULD (15)
+I used to smoke | Ái iúz-d tú smôuk | Eu costumava fumar (Hábito que parou) | Past Habit | B1
+I didn't use to like | Ái dí-dant iúz tú láik | Eu não costumava gostar | Past Habit | B1
+I would visit | Ái uûd ví-zit | Eu visitava (Hábito repetitivo no passado/Nostalgia) | Past Habit | B2
+
+// MÓDULO: GRAMMAR - PAST TENSES REVIEW (16)
+I did it | Ái díd ít | Eu fiz (Passado acabado) | Past Simple | A1
+I have done it | Ái rév dân ít | Eu fiz / Já fiz (Experiência/Conexão com hoje) | Present Perfect | A2
+I was doing it | Ái uóz dú-in ít | Eu estava fazendo (Interrompido) | Past Continuous | A2
+
+// MÓDULO: GRAMMAR - FUTURE WITH "GOING TO" (17)
+I am going to buy | Ái ém gôu-in tú bái | Eu vou comprar (Plano/Intenção) | Future Form | A1
+It is going to rain | Ít íz gôu-in tú rêin | Vai chover (Previsão com evidência visual) | Future Form | A1
+We are going to visit | Uí ár gôu-in tú ví-zit | Nós vamos visitar | Future Form | A1
+They are going to stay | Dêi ár gôu-in tú stêi | Eles vão ficar | Future Form | A1
+
+// MÓDULO: GRAMMAR - FUTURE WITH "WILL" (18)
+I will help you | Ái uíl rélp iú | Eu te ajudo (Decisão no momento/Promessa) | Future Simple | A1
+She will arrive soon | Xí uíl a-ráiv sún | Ela chegará em breve (Previsão neutra) | Future Simple | A1
+I won't tell | Ái uôunt tél | Eu não contarei (Recusa/Promessa negativa) | Future Simple | A1
+They will win | Dêi uíl uín | Eles vencerão | Future Simple | A1
+
+// MÓDULO: GRAMMAR - PRESENT FOR FUTURE EVENTS (19)
+The train leaves at 8 | Dâ bâs lívs ét êit | O trem sai às 8 (Horário oficial/Tabela) | Present Simple | A2
+I am flying tomorrow | Ái ém flái-in tu-mó-rou | Eu vou voar amanhã (Arranjo fixo/Passagem comprada) | Present Continuous | A2
+We are meeting him | Uí ár mí-tin rím | Nós vamos encontrar com ele (Combinado) | Present Continuous | A2
+
+// MÓDULO: GRAMMAR - THE FUTURE CONTINUOUS (20)
+I will be working | Ái uíl bí uôr-kin | Eu estarei trabalhando (Em um horário específico do futuro) | Future Continuous | B1
+She will be waiting | Xí uíl bí uêi-tin | Ela estará esperando | Future Continuous | B1
+They will be sleeping | Dêi uíl bí slí-pin | Eles estarão dormindo | Future Continuous | B1
+
+// MÓDULO: GRAMMAR - THE FUTURE PERFECT (21)
+I will have finished | Ái uíl rév fí-nish-t | Eu terei terminado (Antes de tal hora) | Future Perfect | B2
+She will have left | Xí uíl rév léft | Ela já terá saído (Quando você chegar) | Future Perfect | B2
+We will have cooked | Uí uíl rév cûk-t | Nós teremos coziinhado | Future Perfect | B2
+
+// MÓDULO: GRAMMAR - THE FUTURE IN THE PAST (22)
+I was going to call | Ái uóz gôu-in tú cól | Eu ia ligar (Mas não liguei) | Future in Past | B1
+I knew you would come | Ái niú iú uûd câm | Eu sabia que você viria | Future in Past | B1
+He promised he would help | Rí pró-mis-t rí uûd rélp | Ele prometeu que ajudaria | Future in Past | B1
+
+// MÓDULO: GRAMMAR - FUTURE REVIEW (23)
+I will do it | Ái uíl dú ít | Eu farei (Promessa) | Future Simple | A1
+I am going to do it | Ái ém gôu-in tú dú ít | Eu vou fazer (Plano) | Future Form | A1
+I am doing it tonight | Ái ém dú-in ít tu-náit | Eu vou fazer hoje à noite (Confirmado) | Present Continuous | A2
+
+// MÓDULO: GRAMMAR - THE PASSIVE (24)
+English is spoken here | Íng-glish íz spôu-ken rír | Inglês é falado aqui (Foco no idioma, não nas pessoas) | Passive Voice | A2
+The room is cleaned every day | Dâ rúm íz clín-d é-vri dêi | O quarto é limpo todo dia | Passive Voice | B1
+It is made of plastic | Ít íz mêid óv plás-tic | É feito de plástico | Passive Voice | A2
+
+// MÓDULO: GRAMMAR - THE PASSIVE IN THE PAST (25)
+The house was built in 1990 | Dâ ráus uóz bílt ín... | A casa foi construída em 1990 | Passive Past | B1
+My phone was stolen | Mái fôun uóz stôu-len | Meu telefone foi roubado (Não sei quem roubou) | Passive Past | B1
+The letter was sent yesterday | Dâ lé-ter uóz sént iés-ter-dêi | A carta foi enviada ontem | Passive Past | B1
+
+// MÓDULO: GRAMMAR - THE PASSIVE IN THE FUTURE (26)
+The work will be done | Dâ uôrk uíl bí dân | O trabalho será feito | Passive Future | B1
+The winner will be announced | Dâ uí-ner uíl bí a-náuns-t | O vencedor será anunciado | Passive Future | B1
+Everything will be forgotten | É-vri-ting uíl bí for-gó-ten | Tudo será esquecido | Passive Future | B2
+
+// MÓDULO: GRAMMAR - THE PASSIVE WITH MODALS (27)
+It can be fixed | Ít kén bí fiks-t | Isso pode ser consertado | Passive Modal | B1
+Rules must be followed | Rúls mâst bí fó-loud | Regras devem ser seguidas | Passive Modal | B1
+It might be sold | Ít máit bí sôuld | Pode ser que seja vendido | Passive Modal | B2
+
+// MÓDULO: GRAMMAR - OTHER PASSIVE CONSTRUCTIONS (28)
+I had my car washed | Ái réd mái cár uósh-t | Mandei lavar meu carro (Causative: Paguei alguém para fazer) | Causative Form | B2
+I got fired | Ái gót fái-rd | Eu fui demitido (Uso informal de 'Get' no lugar de 'Be') | Get Passive | B1
+It is said that... | Ít íz séd dét... | Dizem que... / É dito que... (Impessoal) | Impersonal Passive | B2
+
+// MÓDULO: GRAMMAR - CONDITIONAL SENTENCES (29)
+If it rains, I will stay | Íf ít rêins ái uíl stêi | Se chover, eu ficarei (1ª Condicional: Futuro provável) | First Conditional | A2
+If I were you, I would go | Íf ái uér iú ái uûd gôu | Se eu fosse você, eu iria (2ª Condicional: Hipótese/Conselho) | Second Conditional | B1
+If I had known, I would have helped | Íf ái réd nôun ái uûd rév rélp-t | Se eu soubesse, teria ajudado (3ª Condicional: Passado impossível) | Third Conditional | B2
+If you heat ice, it melts | Íf iú rít áis ít mélts | Se esquentar gelo, ele derrete (Zero Condicional: Fato/Verdade universal) | Zero Conditional | A2
+
+// MÓDULO: GRAMMAR - OTHER CONDITIONAL SENTENCES (30)
+Unless | An-lés | A menos que / Salvo se (Significa "If not") | Conjunction | B1
+As long as | Éz lóng éz | Contanto que / Desde que | Conjunction | B1
+Even if | Í-ven íf | Mesmo se / Ainda que | Conjunction | B1
+Provided that | Pro-vái-ded dét | Desde que (Formal) | Conjunction | B2
+
+// MÓDULO: GRAMMAR - CONDITIONAL REVIEW (31)
+I would buy it if I had money | Ái uûd bái ít íf ái réd mâ-ni | Eu compraria se tivesse dinheiro (Imaginário) | Second Conditional | B1
+I will call if I have time | Ái uíl cól íf ái rév táim | Eu ligo se tiver tempo (Real) | First Conditional | A2
+
+// MÓDULO: GRAMMAR - FUTURE POSSIBILITIES (32)
+It might rain | Ít máit rêin | Pode ser que chova (Possibilidade incerta) | Modal Verb | B1
+It could be true | Ít kûd bí trú | Poderia ser verdade | Modal Verb | B1
+It is likely to happen | Ít íz lái-kli tú ré-pen | É provável que aconteça | Adjective Phrase | B2
+Maybe | Mêi-bi | Talvez | Adverb | A1
+
+// MÓDULO: GRAMMAR - WISHES AND REGRETS (33)
+I wish I were rich | Ái uísh ái uér rítch | Quem dera eu fosse rico / Eu queria ser rico (Desejo irreal agora) | Subjunctive | B1
+I wish I had studied | Ái uísh ái réd stâ-did | Queria ter estudado (Arrependimento do passado) | Past Perfect | B2
+If only | Íf ôn-li | Se ao menos... / Quem dera... (Mais forte que 'I wish') | Expression | B2
+I should have gone | Ái xûd rév gón | Eu deveria ter ido (Arrependimento/Crítica) | Perfect Modal | B2
+
+// MÓDULO: GRAMMAR - FORMING QUESTIONS (34)
+Do you like it? | Dú iú láik ít? | Você gosta disso? (Presente) | Question Form | A1
+Did you go? | Díd iú gôu? | Você foi? (Passado) | Question Form | A1
+Have you seen it? | Rév iú sín ít? | Você viu isso? (Present Perfect) | Question Form | A2
+Can I help? | Kén ái rélp? | Posso ajudar? (Modal) | Question Form | A1
+Are you ready? | Ár iú ré-di? | Você está pronto? (Verbo To Be - Inverte) | Question Form | A1
+
+// MÓDULO: GRAMMAR - QUESTION WORDS (35)
+What | Uót | O que / Qual | Question Word | A1
+Where | Uér | Onde | Question Word | A1
+When | Uén | Quando | Question Word | A1
+Who | Rú | Quem | Question Word | A1
+Why | Uái | Por que | Question Word | A1
+How | Ráu | Como | Question Word | A1
+Which | Uítch | Qual (Opção limitada) | Question Word | A1
+Whose | Rúz | De quem | Question Word | A2
+
+// MÓDULO: GRAMMAR - OPEN QUESTIONS (36)
+What is your name? | Uót íz iór nêim? | Qual é o seu nome? | Open Question | A1
+Where do you live? | Uér dú iú lív? | Onde você mora? | Open Question | A1
+How are you? | Ráu ár iú? | Como vai você? | Open Question | A1
+Why are you here? | Uái ár iú rír? | Por que você está aqui? | Open Question | A1
+
+// MÓDULO: GRAMMAR - OBJECT AND SUBJECT QUESTIONS (37)
+Who called you? | Rú cól-d iú? | Quem te ligou? (Sujeito: Quem fez a ação) | Subject Question | B1
+Who did you call? | Rú díd iú cól? | Para quem você ligou? (Objeto: Quem recebeu) | Object Question | B1
+What happened? | Uót ré-pen-d? | O que aconteceu? (Sujeito) | Subject Question | B1
+What did you do? | Uót díd iú dú? | O que você fez? (Objeto) | Object Question | A2
+
+// MÓDULO: GRAMMAR - INDIRECT QUESTIONS (38)
+Can you tell me...? | Kén iú tél mí...? | Pode me dizer...? (Início polido) | Indirect Starter | A2
+Do you know where...? | Dú iú nôu uér...? | Você sabe onde...? | Indirect Starter | A2
+I wonder if... | Ái uân-der íf... | Eu me pergunto se... | Indirect Starter | B1
+Do you know where the bank is? | ...uér dâ bénk íz? | Sabe onde é o banco? (Ordem afirmativa no final) | Indirect Question | B1
+
+// MÓDULO: GRAMMAR - QUESTION TAGS (39)
+You are Brazilian, aren't you? | ... ár-nt iú? | Você é brasileiro, não é? | Question Tag | A2
+He isn't here, is he? | ... íz rí? | Ele não está aqui, está? | Question Tag | A2
+They live here, don't they? | ... dôunt dêi? | Eles moram aqui, não moram? | Question Tag | B1
+She didn't go, did she? | ... díd xí? | Ela não foi, foi? | Question Tag | B1
+
+// MÓDULO: GRAMMAR - SHORT QUESTIONS (40)
+Why not? | Uái nót? | Por que não? | Short Question | A1
+How about you? | Ráu a-báut iú? | E você? / Que tal você? | Short Question | A1
+Me? | Mí? | Eu? | Short Question | A1
+Really? | Rí-a-li? | Sério? / Verdade? | Short Question | A1
+
+// MÓDULO: GRAMMAR - SHORT ANSWERS (41)
+Yes, I am | Iés ái ém | Sim, eu sou/estou | Short Answer | A1
+No, I don't | Nôu ái dôunt | Não, eu não (faço/tenho) | Short Answer | A1
+Yes, she did | Iés xí díd | Sim, ela fez | Short Answer | A1
+No, they haven't | Nôu dêi ré-vent | Não, eles não (têm/fizeram) | Short Answer | A2
+I hope so | Ái rôup sôu | Espero que sim | Short Answer | B1
+
+// MÓDULO: GRAMMAR - QUESTIONS REVIEW (42)
+Do you know him? | Dú iú nôu rím? | Você conhece ele? | Question Review | A1
+Where is it? | Uér íz ít? | Onde está? | Question Review | A1
+Could you help me? | Kûd iú rélp mí? | Poderia me ajudar? | Question Review | A2
+
+// MÓDULO: GRAMMAR - REPORTED SPEECH BASICS (43)
+He said he was happy | Rí séd rí uóz ré-pi | Ele disse que estava feliz (Original: "I am happy") | Reported Statement | A2
+She said she loved it | Xí séd xí lâv-d ít | Ela disse que amou (Original: "I love it") | Reported Statement | A2
+They said they were busy | Dêi séd dêi uér bí-zi | Eles disseram que estavam ocupados | Reported Statement | A2
+
+// MÓDULO: GRAMMAR - TENSES IN REPORTED SPEECH (44)
+He said he worked there | ... rí uôrk-t dér | Ele disse que trabalhava lá (Present -> Past) | Backshift | B1
+She said she was working | ... xí uóz uôr-kin | Ela disse que estava trabalhando (Pres. Cont. -> Past Cont.) | Backshift | B1
+He said he had finished | ... rí réd fí-nish-t | Ele disse que tinha terminado (Past Simple -> Past Perfect) | Backshift | B1
+She said she would go | ... xí uûd gôu | Ela disse que iria (Will -> Would) | Backshift | B1
+
+// MÓDULO: GRAMMAR - REPORTING VERBS (45)
+Say | Sêi | Dizer (He said that...) | Reporting Verb | A1
+Tell | Tél | Contar (He told me that...) | Reporting Verb | A1
+Ask | Ásk | Perguntar / Pedir | Reporting Verb | A1
+Explain | Eks-plêin | Explicar | Reporting Verb | B1
+Suggest | Sa-djést | Sugerir | Reporting Verb | B1
+Promise | Pró-mis | Prometer | Reporting Verb | B1
+
+// MÓDULO: GRAMMAR - REPORTED SPEECH WITH NEGATIVES (46)
+He said he didn't like it | ... dí-dant láik ít | Ele disse que não gostava | Reported Negative | B1
+She told me not to go | ... nót tú gôu | Ela me disse para não ir (Imperativo Negativo) | Reported Command | B1
+They said they couldn't help | ... kû-dant rélp | Eles disseram que não podiam ajudar | Reported Modal | B1
+
+// MÓDULO: GRAMMAR - REPORTED QUESTIONS (47)
+He asked where I lived | ... uér ái lív-d | Ele perguntou onde eu morava (Ordem direta no final) | Reported Question | B1
+She asked if I was ready | ... íf ái uóz ré-di | Ela perguntou se eu estava pronto (Yes/No Question usa 'If') | Reported Question | B1
+He asked what time it was | ... uót táim ít uóz | Ele perguntou que horas eram | Reported Question | B1
+
+// MÓDULO: GRAMMAR - REPORTED SPEECH REVIEW (48)
+He told me he was late | Rí tôuld mí rí uóz lêit | Ele me contou que estava atrasado | Review | B1
+She asked where the station was | Xí ásk-t uér dâ stêi-shan uóz | Ela perguntou onde era a estação | Review | B1
+I said I would do it | Ái séd ái uûd dú ít | Eu disse que faria | Review | B1
+
+// MÓDULO: GRAMMAR - TYPES OF VERBS (49)
+Main verb | Mêin vârb | Verbo principal (Carrega o sentido: Eat, Sleep) | Grammar Term | A1
+Auxiliary verb | Og-zí-lia-ri vârb | Verbo auxiliar (Ajuda na gramática: Do, Have, Be) | Grammar Term | A2
+Modal verb | Môu-dal vârb | Verbo modal (Altera o sentido: Can, Must, Should) | Grammar Term | A2
+
+// MÓDULO: GRAMMAR - ACTION AND STATE VERBS (50)
+I am cooking | Ái ém cû-kin | Estou cozinhando (Ação física visível) | Action Verb | A1
+I understand | Ái an-der-sténd | Eu entendo (Estado mental, não se usa 'ing') | State Verb | A2
+I own a car | Ái ôun a cár | Eu possuo um carro (Posse é estado, não ação) | State Verb | A2
+She seems happy | Xí síms ré-pi | Ela parece feliz (Aparência é estado) | State Verb | B1
+
+// MÓDULO: GRAMMAR - INFINITIVES AND PARTICIPLES (51)
+To be | Tú bí | Ser/Estar (Infinitivo com 'to') | Infinitive | A1
+Broken | Brôu-ken | Quebrado (Particípio passado - V3) | Past Participle | A2
+Swimming | Suí-min | Nadando / Natação (Particípio presente ou Gerúndio) | Present Participle | A2
+
+// MÓDULO: GRAMMAR - VERB PATTERNS (52)
+I want to go | Ái uónt tú gôu | Eu quero ir (Verbos de desejo pedem 'To') | Verb + Infinitive | A1
+I enjoy reading | Ái in-djói rí-din | Eu curto ler (Enjoy sempre pede 'Ing') | Verb + Gerund | A2
+I decided to stay | Ái di-sái-ded tú stêi | Decidi ficar | Verb + Infinitive | B1
+I finished working | Ái fí-nish-t uôr-kin | Terminei de trabalhar | Verb + Gerund | B1
+
+// MÓDULO: GRAMMAR - VERB PATTERNS WITH OBJECTS (53)
+I told him to go | Ái tôuld rím tú gôu | Eu disse para ele ir (Verbo + Pessoa + To) | Pattern with Object | A2
+She asked me to help | Xí ásk-t mí tú rélp | Ela me pediu para ajudar | Pattern with Object | A2
+He made me cry | Rí mêid mí crái | Ele me fez chorar (Make + Pessoa + Verbo sem 'to') | Pattern without To | B1
+Let me go | Lét mí gôu | Deixe-me ir | Pattern without To | A1
+
+// MÓDULO: GRAMMAR - VERB PATTERNS WITH PREPOSITIONS (54)
+Wait for | Uêit fór | Esperar por (Alguém/Algo) | Verb + Preposition | A1
+Listen to | Lís-sen tú | Escutar (Sempre exige 'to') | Verb + Preposition | A1
+Depend on | Di-pénd ón | Depender de (Brasileiro erra usando 'of') | Verb + Preposition | B1
+Think about | Tínk a-báut | Pensar sobre | Verb + Preposition | A2
+
+// MÓDULO: GRAMMAR - PHRASAL VERBS (55)
+Wake up | Uêik âp | Acordar | Phrasal Verb | A1
+Turn off | Târn óf | Desligar | Phrasal Verb | A2
+Look for | Lûk fór | Procurar | Phrasal Verb | A2
+Run out of | Rân áut óv | Ficar sem / Esgotar (Ex: Gasolina) | Phrasal Verb | B2
+Give up | Gív âp | Desistir | Phrasal Verb | B1
+
+// MÓDULO: GRAMMAR - MODAL VERBS OVERVIEW (56)
+I can swim | Ái kén suím | Eu sei nadar (Habilidade) | Modal Verb | A1
+I must go | Ái mâst gôu | Eu devo ir (Obrigação) | Modal Verb | A1
+It might rain | Ít máit rêin | Pode ser que chova (Possibilidade) | Modal Verb | A2
+You should try | Iú xûd trái | Você deveria tentar (Conselho) | Modal Verb | A2
+
+// MÓDULO: GRAMMAR - ABILITY (57)
+I can speak English | Ái kén spík Íng-glish | Eu sei falar inglês (Habilidade no presente) | Ability | A1
+I could run fast | Ái kûd rân fést | Eu conseguia correr rápido (Habilidade no passado) | Past Ability | A2
+I am able to help | Ái ém êi-bol tú rélp | Eu sou capaz de ajudar (Mais formal que 'Can') | Ability | B1
+He was able to escape | Rí uóz êi-bol tú es-kêip | Ele conseguiu escapar (Em uma situação específica) | Past Ability | B2
+
+// MÓDULO: GRAMMAR - PERMISSION, REQUESTS, AND OFFERS (58)
+Can I go out? | Kén ái gôu áut? | Posso sair? (Permissão informal) | Permission | A1
+May I come in? | Mêi ái câm ín? | Posso entrar? (Permissão formal/Educada) | Permission | A2
+Could you help me? | Kûd iú rélp mí? | Poderia me ajudar? (Pedido educado) | Request | A2
+Would you like water? | Uûd iú láik uó-ter? | Você gostaria de água? (Oferta) | Offer | A1
+Can I help you? | Kén ái rélp iú? | Posso te ajudar? (Oferta de ajuda) | Offer | A1
+
+// MÓDULO: GRAMMAR - SUGGESTIONS AND ADVICE (59)
+You should study more | Iú xûd stâ-di mór | Você deveria estudar mais (Conselho padrão) | Advice | A2
+You ought to sleep | Iú ót tú slíp | Você deveria dormir (Conselho mais formal/Moral) | Advice | B1
+We could go to the cinema | Uí kûd gôu tú dâ cí-ne-ma | Poderíamos ir ao cinema (Sugestão de atividade) | Suggestion | A2
+Shall we dance? | Xél uí déns? | Vamos dançar? (Sugestão/Convite formal) | Suggestion | B1
+
+// MÓDULO: GRAMMAR - OBLIGATIONS (60)
+You must stop | Iú mâst stóp | Você deve parar (Obrigação forte/interna ou lei) | Obligation | A2
+I have to work | Ái rév tú uôrk | Eu tenho que trabalhar (Obrigação externa/Rotina) | Obligation | A1
+You don't have to pay | Iú dôunt rév tú pêi | Você não precisa pagar (Ausência de obrigação) | No Obligation | A2
+You mustn't smoke | Iú mâs-sant smôuk | Você não deve fumar (Proibição) | Prohibition | A2
+I need to go | Ái níd tú gôu | Preciso ir (Necessidade) | Obligation | A1
+
+// MÓDULO: GRAMMAR - MAKING DEDUCTIONS (61)
+He must be rich | Rí mâst bí rítch | Ele deve ser rico (Tenho quase certeza que sim) | Deduction | B1
+It can't be true | Ít ként bí trú | Não pode ser verdade (Tenho certeza que não é) | Deduction | B1
+She must have left | Xí mâst rév léft | Ela deve ter saído (Dedução no passado) | Past Deduction | B2
+
+// MÓDULO: GRAMMAR - POSSIBILITY (62)
+It might be true | Ít máit bí trú | Pode ser verdade (Talvez seja) | Possibility | B1
+He could be late | Rí kûd bí lêit | Ele poderia estar atrasado (Possibilidade teórica) | Possibility | B1
+It may happen | Ít mêi ré-pen | Pode acontecer (Possibilidade formal) | Possibility | B1
+
+// MÓDULO: GRAMMAR - ARTICLES (63)
+I have a car | Ái rév a cár | Eu tenho um carro (Indefinido - Mencionado pela 1ª vez) | Indefinite Article | A1
+The car is red | Dâ cár íz réd | O carro é vermelho (Definido - Já sabemos qual carro é) | Definite Article | A1
+She is an engineer | Xí íz én en-dji-nír | Ela é engenheira (Usa 'An' antes de som de vogal) | Indefinite Article | A1
+I love music | Ái lâv miú-zic | Eu amo música (Sem artigo para conceitos gerais) | Zero Article | A1
+
+// MÓDULO: GRAMMAR - ARTICLES REVIEW (64)
+The sun is hot | Dâ sân íz rót | O sol é quente (Coisas únicas no mundo usam 'The') | Definite Article | A1
+He goes to school | Rí gôuz tú scúl | Ele vai à escola (Para estudar - Sem 'The') | Zero Article | A2
+He goes to the school | ... tú dâ scúl | Ele vai até a escola (Ao prédio físico) | Definite Article | B1
+The rich live here | Dâ rítch lív rír | Os ricos moram aqui (Adjetivo como grupo de pessoas) | Definite Article | B1
+
+// MÓDULO: GRAMMAR - THIS / THAT / THESE / THOSE (65)
+This is my book | Dís íz mái bûk | Este é meu livro (Singular / Perto) | Demonstrative | A1
+That is your car | Dét íz iór cár | Aquele é seu carro (Singular / Longe) | Demonstrative | A1
+These are my friends | Dí-iz ár mái frénds | Estes são meus amigos (Plural / Perto) | Demonstrative | A1
+Those are birds | Dôuz ár bârds | Aqueles são pássaros (Plural / Longe) | Demonstrative | A1
+
+// MÓDULO: GRAMMAR - NO / NONE (66)
+I have no money | Ái rév nôu mâ-ni | Eu não tenho dinheiro ('No' vem antes do substantivo) | Quantifier | A2
+I have none | Ái rév nân | Eu não tenho nenhum ('None' substitui o substantivo) | Pronoun | B1
+None of us went | Nân óv âs uént | Nenhum de nós foi | Pronoun | B1
+There is no time | Dér íz nôu táim | Não há tempo | Quantifier | A2
+
+// MÓDULO: GRAMMAR - EACH / EVERY (67)
+Each student has a book | Ítch stú-dent réz a bûk | Cada aluno tem um livro (Foco no indivíduo) | Quantifier | A2
+Every house is white | É-vri ráus íz uáit | Toda casa é branca (Foco no grupo/total) | Quantifier | A2
+Each of them | Ítch óv dém | Cada um deles | Pronoun | B1
+I go every day | Ái gôu é-vri dêi | Eu vou todo dia (Frequência) | Quantifier | A1
+
+// MÓDULO: GRAMMAR - EITHER / NEITHER / BOTH (68)
+Both are good | Bôut ár gûd | Ambos são bons (Dois positivos) | Quantifier | A2
+Either you or me | Í-der iú ór mí | Ou você ou eu (Escolha entre dois) | Conjunction | B1
+Neither of them | Ní-der óv dém | Nenhum dos dois (Dois negativos) | Pronoun | B1
+I don't like either | Ái dôunt láik í-der | Eu não gosto de nenhum dos dois (Verbo negativo pede 'Either') | Adverb | B1
+Me neither | Mí ní-der | Nem eu (Concordando com negativa) | Expression | A2
+
+// MÓDULO: GRAMMAR - SINGULAR AND PLURAL NOUNS (69)
+Car | Cár | Carro (Singular) | Singular Noun | A1
+Cars | Cárs | Carros (Plural regular com 's') | Plural Noun | A1
+Box | Bócs | Caixa (Singular) | Singular Noun | A1
+Boxes | Bóc-sez | Caixas (Plural com 'es' após x/s/ch/sh) | Plural Noun | A1
+Child | Tchái-old | Criança | Singular Noun | A1
+Children | Tchíl-dren | Crianças (Plural irregular) | Plural Noun | A1
+Person | Pâr-son | Pessoa | Singular Noun | A1
+People | Pí-pol | Pessoas (Plural irregular) | Plural Noun | A1
+
+// MÓDULO: GRAMMAR - COUNTABLE AND UNCOUNTABLE NOUNS (70)
+Book | Bûk | Livro (Contável: One book, two books) | Countable Noun | A1
+Water | Uó-ter | Água (Incontável: Não se diz "two waters") | Uncountable Noun | A1
+Advice | Ad-váis | Conselho (Incontável em inglês) | Uncountable Noun | B1
+News | Niúz | Notícia (Incontável, verbo no singular) | Uncountable Noun | A2
+Furniture | Fâr-ni-tchar | Mobília (Incontável em inglês) | Uncountable Noun | B1
+
+// MÓDULO: GRAMMAR - SUBJECT-VERB AGREEMENT (71)
+She likes music | Xí láiks miú-zic | Ela gosta de música (Singular pede 's') | Agreement Rule | A1
+They like music | Dêi láik miú-zic | Eles gostam de música (Plural sem 's') | Agreement Rule | A1
+Everyone is here | É-vri-uan íz rír | Todo mundo está aqui ('Everyone' é singular) | Agreement Rule | B1
+The team is winning | Dâ tím íz uí-nin | O time está ganhando (Coletivos geralmente singular) | Agreement Rule | B1
+The police are coming | Dâ po-lís ár câ-min | A polícia está vindo ('Police' é sempre plural) | Agreement Rule | B1
+
+// MÓDULO: GRAMMAR - ABSTRACT AND CONCRETE NOUNS (72)
+Table | Têi-bol | Mesa (Concreto - Pode tocar) | Concrete Noun | A1
+Cloud | Cláud | Nuvem (Concreto - Físico/Visível) | Concrete Noun | A1
+Love | Lâv | Amor (Abstrato - Sentimento) | Abstract Noun | A1
+Freedom | Frí-dom | Liberdade (Abstrato - Conceito) | Abstract Noun | B1
+Knowledge | Nó-ledj | Conhecimento (Abstrato - Ideia) | Abstract Noun | B1
+
+// MÓDULO: GRAMMAR - COMPOUND NOUNS (73)
+Toothpaste | Tús-peist | Pasta de dente (Uma palavra) | Compound Noun | A1
+Bedroom | Béd-rum | Quarto (Uma palavra) | Compound Noun | A1
+Swimming pool | Suí-min púl | Piscina (Duas palavras) | Compound Noun | A1
+Bus stop | Bâs stóp | Ponto de ônibus (Duas palavras) | Compound Noun | A1
+Mother-in-law | Mâ-der in ló | Sogra (Com hífens) | Compound Noun | B1
+Passer-by | Pá-ser bái | Transeunte / Pedestre (Plural: Passers-by) | Compound Noun | B2
+
 
 
 // MÓDULO: OPINIÃO E PROBABILIDADE (CERTAINTY - AUDITORIA)
@@ -3774,4 +4618,5 @@ Bad company corrupts good character | Béd câm-pa-ni co-rrâpts gúd ké-rac-te
 Bear one another's burdens | Bér uán a-nó-ders bâr-dens | Levai as cargas uns dos outros | Relationships | C1
 Live in harmony with one another | Lív in rár-mo-ni uíf uán a-nó-der | Vivei em harmonia uns com os outros | Relationships | B2
 Encourage one another | En-câ-ridj uán a-nó-der | Encorajai-vos uns aos outros | Relationships | B2
+
 
