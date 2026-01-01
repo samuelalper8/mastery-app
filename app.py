@@ -8,31 +8,16 @@ from gtts import gTTS
 from io import BytesIO
 
 # ==============================================================================
-# 1. CONFIGURAÇÕES E CONSTANTES (ATUALIZADO PARA 3 ANOS)
+# 1. CONFIGURAÇÕES E CONSTANTES (3 ANOS)
 # ==============================================================================
-st.set_page_config(page_title="Samuel's SRS Pro (3 Years)", page_icon="🧠", layout="wide")
+st.set_page_config(page_title="Samuel's Mastery Pro", page_icon="⚔️", layout="wide")
 DATA_PATH = os.path.dirname(os.path.abspath(__file__))
 PROGRESS_FILE = os.path.join(DATA_PATH, "progresso.json")
 
-# --- LISTA DE INTERVALOS (Em dias) ---
-# Lógica: Curto prazo -> Médio prazo -> Longo prazo (até 3 anos)
-INTERVALOS = [
-    1,      # Nível 0: Revisar amanhã
-    3,      # Nível 1: 3 dias
-    7,      # Nível 2: 1 semana
-    15,     # Nível 3: 2 semanas
-    30,     # Nível 4: 1 mês
-    60,     # Nível 5: 2 meses
-    90,     # Nível 6: 3 meses
-    180,    # Nível 7: 6 meses
-    365,    # Nível 8: 1 ano
-    540,    # Nível 9: 1 ano e meio
-    730,    # Nível 10: 2 anos
-    1095    # Nível 11: 3 anos (MASTERIZADO)
-]
+# Intervalos espaçados até 3 anos (1095 dias)
+INTERVALOS = [1, 3, 7, 15, 30, 60, 90, 180, 365, 540, 730, 1095]
 
-# Configuração de XP
-XP_ACERTO = 15 # Aumentei um pouco pois o compromisso é longo
+XP_ACERTO = 15
 XP_ERRO = 1 
 XP_MISSAO = 50
 XP_BASE_NIVEL = 100
@@ -43,23 +28,29 @@ st.markdown("""
         background: white; padding: 40px; border-radius: 20px;
         border: 2px solid #e2e8f0; text-align: center;
         box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-        min-height: 350px; display: flex; flex-direction: column; 
-        justify-content: center; align-items: center;
+        min-height: 400px; display: flex; flex-direction: column; 
+        justify-content: center; align-items: center; position: relative;
     }
-    /* Classe especial para cartas Masterizadas (Nível Máximo) */
     .mastered {
-        border: 4px solid #fbbf24 !important; /* Dourado */
-        background: #fffbeb !important;
+        border: 4px solid #fbbf24 !important; background: #fffbeb !important;
     }
-    .eng-word { color: #0f172a; font-size: 42px; font-weight: 800; margin-bottom: 10px; }
-    .pt-word { color: #2563eb; font-size: 28px; font-weight: 600; margin-top: 15px; }
-    .status-badge { font-size: 14px; padding: 5px 10px; border-radius: 15px; background: #f1f5f9; color: #64748b; margin-bottom: 15px; border: 1px solid #cbd5e1; }
-    .gold-badge { background: #fbbf24; color: #78350f; font-weight:bold; border:none; }
+    .meta-info {
+        font-size: 12px; font-weight: bold; color: #94a3b8; 
+        text-transform: uppercase; letter-spacing: 1px; margin-bottom: 10px;
+    }
+    .eng-word { color: #0f172a; font-size: 38px; font-weight: 800; margin-bottom: 10px; line-height: 1.2; }
+    .pt-word { color: #2563eb; font-size: 24px; font-weight: 600; margin-top: 15px; }
+    .status-badge { 
+        font-size: 12px; padding: 4px 12px; border-radius: 12px; 
+        background: #f1f5f9; color: #64748b; margin-bottom: 20px; 
+        border: 1px solid #cbd5e1; display: inline-block;
+    }
+    .gold-badge { background: #fbbf24; color: #78350f; border:none; font-weight:bold; }
     </style>
 """, unsafe_allow_html=True)
 
 # ==============================================================================
-# 2. GERENCIAMENTO DE DADOS E PROGRESSO
+# 2. GERENCIAMENTO DE DADOS
 # ==============================================================================
 
 def carregar_progresso():
@@ -80,7 +71,6 @@ def atualizar_revisao(termo_ingles, acertou):
     nivel_atual = registro["nivel_srs"]
 
     if acertou:
-        # Tenta subir de nível, mas não passa do último índice da lista
         proximo_nivel = min(nivel_atual + 1, len(INTERVALOS) - 1)
         dias_para_add = INTERVALOS[proximo_nivel]
         nova_data = (datetime.now() + timedelta(days=dias_para_add)).strftime("%Y-%m-%d")
@@ -91,8 +81,7 @@ def atualizar_revisao(termo_ingles, acertou):
             "ultimo_estudo": hoje_str
         }
     else:
-        # Errou: Volta para o Nível 0 (1 dia) ou Nível 1 (3 dias)?
-        # Rigoroso: Volta para o 0 (Revisar amanhã)
+        # Se errou, volta ao início (Rigoroso)
         progresso[termo_ingles] = {
             "nivel_srs": 0,
             "proxima_revisao": hoje_str, 
@@ -127,9 +116,7 @@ def load_data():
     if not all_data: return pd.DataFrame()
     return pd.DataFrame(all_data).drop_duplicates(subset=['Inglês'])
 
-# ==============================================================================
-# 3. SISTEMA DE GAMIFICATION
-# ==============================================================================
+# Gamification State
 if 'xp' not in st.session_state: st.session_state.xp = 0
 if 'nivel' not in st.session_state: st.session_state.nivel = 1
 if 'conquistas' not in st.session_state: st.session_state.conquistas = []
@@ -145,34 +132,69 @@ def adicionar_xp(qtd, motivo=""):
     if motivo: st.toast(f"+{qtd} XP: {motivo}", icon="✨")
 
 # ==============================================================================
-# 4. PREPARAÇÃO DOS DADOS
+# 3. PREPARAÇÃO DOS DADOS
 # ==============================================================================
 df = load_data()
 progresso_db = carregar_progresso()
 
-df['Proxima_Revisao'] = df['Inglês'].apply(lambda x: progresso_db.get(x, {}).get('proxima_revisao', '2000-01-01'))
-df['Nivel_SRS'] = df['Inglês'].apply(lambda x: progresso_db.get(x, {}).get('nivel_srs', 0))
+if not df.empty:
+    df['Proxima_Revisao'] = df['Inglês'].apply(lambda x: progresso_db.get(x, {}).get('proxima_revisao', '2000-01-01'))
+    df['Nivel_SRS'] = df['Inglês'].apply(lambda x: progresso_db.get(x, {}).get('nivel_srs', 0))
 
-hoje = datetime.now().strftime("%Y-%m-%d")
-# Apenas cartas para hoje OU atrasadas
-df_revisao = df[ (df['Proxima_Revisao'] <= hoje) & (df['Categoria'] != 'Missão') ].copy()
-# Cartas futuras
-df_futuro = df[ (df['Proxima_Revisao'] > hoje) & (df['Categoria'] != 'Missão') ].copy()
-df_missoes = df[df['Categoria'] == 'Missão'].copy()
-
-# SIDEBAR
-with st.sidebar:
-    st.header(f"🛡️ Nível {st.session_state.nivel}")
-    st.progress(min(st.session_state.xp / (st.session_state.nivel * XP_BASE_NIVEL), 1.0))
-    st.write(f"XP: {st.session_state.xp}")
-    st.divider()
-    st.metric("📬 Para Revisar Hoje", len(df_revisao))
-    st.metric("💤 Futuras", len(df_futuro))
+    hoje = datetime.now().strftime("%Y-%m-%d")
     
-    modo = st.radio("Menu", ["🧠 Revisão SRS", "📜 Missões", "📖 Banco de Dados"])
+    # Filtros
+    df_revisao = df[ (df['Proxima_Revisao'] <= hoje) & (df['Categoria'] != 'Missão') ].copy()
+    df_futuro = df[ (df['Proxima_Revisao'] > hoje) & (df['Categoria'] != 'Missão') ].copy()
+    df_missoes = df[df['Categoria'] == 'Missão'].copy()
+else:
+    df_revisao = pd.DataFrame()
+    df_futuro = pd.DataFrame()
+    df_missoes = pd.DataFrame()
 
 # ==============================================================================
-# 5. LÓGICA DE REVISÃO
+# 4. SIDEBAR (ATUALIZADA COM MÓDULOS)
+# ==============================================================================
+with st.sidebar:
+    st.header(f"🛡️ Nível {st.session_state.nivel}")
+    xp_ratio = min(st.session_state.xp / (st.session_state.nivel * XP_BASE_NIVEL), 1.0)
+    st.progress(xp_ratio)
+    st.caption(f"XP: {st.session_state.xp} / Meta: {st.session_state.nivel * XP_BASE_NIVEL}")
+    
+    st.divider()
+    
+    # Resumo Geral
+    c1, c2 = st.columns(2)
+    c1.metric("📬 Revisar", len(df_revisao))
+    c2.metric("💤 Futuro", len(df_futuro))
+
+    # --- NOVO: PROGRESSO POR MÓDULO ---
+    with st.expander("📊 Progresso por Módulo", expanded=False):
+        if not df.empty:
+            # Pega lista de categorias ignorando 'Missão'
+            categorias = [c for c in df['Categoria'].unique() if c != 'Missão']
+            
+            for cat in categorias:
+                df_cat = df[df['Categoria'] == cat]
+                total_cat = len(df_cat)
+                
+                # Consideramos "Estudado" qualquer carta que não esteja no Nível 0 (ou seja, já acertou pelo menos uma vez)
+                # Ou podemos considerar Cartas Futuras como "aprendidas" temporariamente
+                estudadas = len(df_cat[df_cat['Nivel_SRS'] > 0])
+                
+                if total_cat > 0:
+                    pct = estudadas / total_cat
+                    st.write(f"**{cat}**")
+                    st.progress(pct)
+                    st.caption(f"{estudadas}/{total_cat} iniciadas")
+        else:
+            st.caption("Sem dados.")
+
+    st.divider()
+    modo = st.radio("Navegação", ["🧠 Revisão SRS", "📜 Missões", "📖 Banco de Dados"])
+
+# ==============================================================================
+# 5. PÁGINA PRINCIPAL
 # ==============================================================================
 if modo == "🧠 Revisão SRS":
     st.title("🧠 Modo Foco: Jornada de 3 Anos")
@@ -180,38 +202,43 @@ if modo == "🧠 Revisão SRS":
     if df_revisao.empty:
         st.success("🎉 Todas as revisões do dia concluídas!")
         if not df_futuro.empty:
-            st.write("Próximas revisões agendadas:")
-            # Mostra data formatada bonitinha
-            st.dataframe(df_futuro[['Inglês', 'Proxima_Revisao']].sort_values('Proxima_Revisao').head(5), use_container_width=True)
+            st.info("Veja abaixo o que vem por aí nos próximos dias:")
+            st.dataframe(df_futuro[['Inglês', 'Categoria', 'Proxima_Revisao']].sort_values('Proxima_Revisao').head(10), use_container_width=True)
     else:
         if 'idx_rev' not in st.session_state: st.session_state.idx_rev = 0
         if 'show_ans' not in st.session_state: st.session_state.show_ans = False
         
+        # Garante índice
         if st.session_state.idx_rev >= len(df_revisao): st.session_state.idx_rev = 0
         row = df_revisao.iloc[st.session_state.idx_rev]
         
-        # Lógica Visual
+        # Dados para exibição
         nivel_atual = row['Nivel_SRS']
-        # Proteção para caso o índice salvo no JSON seja maior que a nova lista (caso mude o código dps)
         idx_intervalo = min(nivel_atual, len(INTERVALOS)-1)
         dias_intervalo = INTERVALOS[idx_intervalo]
         
-        # Verifica se é "Masterizado" (Último nível)
+        # Checagem Masterizado
         is_mastered = (dias_intervalo == 1095)
         css_class = "flashcard mastered" if is_mastered else "flashcard"
         badge_class = "status-badge gold-badge" if is_mastered else "status-badge"
-        texto_badge = "🏆 MASTERIZADO (3 Anos)" if is_mastered else f"Nível {nivel_atual} • Próx: {dias_intervalo} dias"
+        texto_badge = "🏆 MASTERIZADO" if is_mastered else f"Nível {nivel_atual} • Próx: {dias_intervalo} dias"
 
+        # --- FLASHCARD (ATUALIZADO COM META INFO) ---
         st.markdown(f"""
         <div class="{css_class}">
+            <div class="meta-info">{row['Categoria']} • {row['Nível']}</div>
+            
             <div class="{badge_class}">{texto_badge}</div>
+            
             <div class="eng-word">{row['Inglês']}</div>
+            
             {f'<hr style="width:50%; margin:20px 0;"><div class="pt-word">{row["Tradução"]}</div><div class="pron">🗣️ {row["Pronúncia"]}</div>' 
               if st.session_state.show_ans else 
               '<div style="margin-top:40px; color:#94a3b8; cursor:pointer;">(Pense na tradução...)</div>'}
         </div>
         """, unsafe_allow_html=True)
         
+        # Botões
         c1, c2, c3 = st.columns([1, 2, 1])
         with c2:
             st.write("")
@@ -224,15 +251,15 @@ if modo == "🧠 Revisão SRS":
                 with col_err:
                     if st.button("❌ Esqueci", use_container_width=True):
                         atualizar_revisao(row['Inglês'], acertou=False)
-                        adicionar_xp(XP_ERRO, "Não desista!")
+                        adicionar_xp(XP_ERRO, "Vamos repetir!")
                         st.session_state.show_ans = False
                         st.session_state.idx_rev = (st.session_state.idx_rev + 1) % len(df_revisao)
                         st.rerun()
                 with col_acert:
-                    if st.button("✅ Lembrei", type="primary", use_container_width=True):
+                    if st.button("✅ Acertei", type="primary", use_container_width=True):
                         dias = atualizar_revisao(row['Inglês'], acertou=True)
-                        adicionar_xp(XP_ACERTO, "Memória fortificada!")
-                        st.toast(f"Agendado para +{dias} dias!")
+                        adicionar_xp(XP_ACERTO, "Excelente!")
+                        st.toast(f"Revisão agendada para +{dias} dias!")
                         st.session_state.show_ans = False
                         st.rerun()
 
@@ -249,10 +276,9 @@ if modo == "🧠 Revisão SRS":
 # ==============================================================================
 elif modo == "📜 Missões":
     st.title("Missões Semanais")
-    if df_missoes.empty: st.info("Sem missões cadastradas.")
+    if df_missoes.empty: st.info("Sem missões ativas.")
     for idx, row in df_missoes.iterrows():
         concluida = row['Inglês'] in st.session_state.missoes_feitas
-        cor = "#dcfce7" if concluida else "#fff"
         with st.container(border=True):
             st.markdown(f"**{row['Inglês']}**")
             st.caption(row['Tradução'])
@@ -264,7 +290,15 @@ elif modo == "📜 Missões":
             else: st.success("Feito! ✅")
 
 elif modo == "📖 Banco de Dados":
-    st.title("Status da Memória")
-    # Tabela mais bonita mostrando dias restantes
-    df_show = df[['Inglês', 'Tradução', 'Nível', 'Proxima_Revisao', 'Nivel_SRS']].copy()
-    st.dataframe(df_show, use_container_width=True)
+    st.title("Visão Geral do Curso")
+    st.caption("Aqui você vê todas as palavras cadastradas e seus níveis de memória.")
+    
+    # Filtro por módulo no Banco de Dados
+    modulos = ["Todos"] + list(df['Categoria'].unique())
+    filtro = st.selectbox("Filtrar por Módulo:", modulos)
+    
+    df_show = df.copy()
+    if filtro != "Todos":
+        df_show = df_show[df_show['Categoria'] == filtro]
+        
+    st.dataframe(df_show[['Inglês', 'Tradução', 'Categoria', 'Nível', 'Proxima_Revisao', 'Nivel_SRS']], use_container_width=True)
