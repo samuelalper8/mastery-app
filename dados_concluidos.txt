@@ -9610,3 +9610,970 @@ The Support | Dâ su-pórt | Perguntar a um amigo "Can you spot me?" (Pode me aj
 The Discipline | Dâ dí-si-plin | Dizer "I never skip leg day" (Nunca pulo perna) mesmo que as pernas doam | Missão | B1
 The Invitation | Dâ in-vi-têi-shon | Convidar alguém dizendo "Let's hit the gym" (Bora pra academia) | Missão | A2
 
+// MÓDULO: SOCIALIZAÇÃO E PAQUERA (FLIRTING & SOCIAL)
+Pick-up line | Pík-âp láin | Cantada / Frase de conquista | Flirting | B1
+Are you from Tennessee? | Ár iú fróm Té-ne-ssí? | Você é do Tennessee? (Trocadilho com "Ten I see" - Nota 10) | Flirting | C1
+You have a great smile | Iú rév a grêit smái-ol | Você tem um sorriso ótimo | Flirting | A2
+I love your vibe | Ái lâv iór váib | Adorei a sua energia/vibe | Flirting | B1
+Are you enjoying yourself? | Ár iú en-djói-ing iór-sélf? | Está se divertindo? (Ótimo quebra-gelo) | Flirting | B1
+Buy you a drink? | Bái iú a drínk? | Posso te pagar um drink? | Flirting | A2
+Hit it off | Rít ít óf | Bater o santo / Se dar bem de cara | Flirting | B2
+Cheesy | Tchí-zi | Brega / Cafona (Usado para cantadas ruins) | Flirting | B1
+Wingman | Uíng-mén | "Ala" (O amigo que ajuda você a chegar em alguém) | Flirting | B2
+Shoot your shot | Shúut iór shót | Arriscar a sorte / Tentar a chance | Flirting | B2
+Slide into the DMs | Sláid ín-tu dâ dí-éms | Mandar um "oi" no privado das redes sociais | Flirting | B1
+You look stunning | Iú lúk stâ-ning | Você está deslumbrante | Flirting | B2
+Break the ice | Brêik dâ áis | Quebrar o gelo | Flirting | B1
+Ask someone out | Ásk sâm-uón áut | Convidar alguém para sair | Flirting | B1
+Falling for you | Fó-ling fór iú | Me apaixonando por você | Flirting | B2
+
+// MISSÕES: O SEDUTOR (THE CHARMER)
+The Icebreaker | Dâ áis-brêi-ker | Usar um elogio sincero como "You have a great smile" para começar uma conversa | Missão | B1
+The Bold Move | Dâ bôuld múuv | "Shoot your shot" e convidar alguém para um café usando "Ask out" | Missão | B2
+The Wingman Duty | Dâ uíng-mén diú-ti | Ajudar um amigo a "Break the ice" em uma festa ou evento social | Missão | C1
+
+// MÓDULO: TROCADILHOS E HUMOR (PUNS & JOKES)
+I'm reading a book on gravity | Ái-ém rí-ding a búk ón gré-vi-ti | "Estou lendo um livro sobre gravidade. É impossível de largar" (Put down = largar/parar de ler) | Puns | C1
+Are you a camera? | Ár iú a ké-me-ra? | "Você é uma câmera? Porque toda vez que te olho, eu sorrio" | Puns | B1
+I used to be a baker | Ái iús-ted tú bí a bêi-ker | "Eu era padeiro, mas não consegui ganhar 'massa' suficiente" (Dough = massa/dinheiro) | Puns | C2
+The rotation of the earth | Dâ rou-têi-shon óv dâ êrf | "A rotação da Terra realmente faz o meu dia" (Makes my day = ganha o dia/completa as 24h) | Puns | B2
+I have a few jokes about retired people | Ái rév a fiú djôuks a-báut ri-tái-red pí-pol | "Tenho piadas sobre aposentados, mas nenhuma funciona" (None of them work = não funcionam/não trabalham) | Puns | C1
+Life as a elevator | Láif éz a é-le-vêi-tor | "A vida como elevador tem seus altos e baixos" (Ups and downs) | Puns | A2
+I was going to look for my lost watch | Ái uós gô-ing tú lúk fór mái lóst uótch | "Ia procurar meu relógio perdido, mas não tive tempo" (Didn't have the time) | Puns | B1
+A skeleton walks into a bar | A ské-le-ton uóks ín-tu a bár | "Um esqueleto entra num bar e pede uma cerveja e um esfregão" (Mop = para limpar o que cai através dele) | Puns | B2
+Tie an onion to your leg | Tái en ó-nion tú iór lég | "Amarre uma cebola na perna para ajudar a 'correr' o nariz" (Runny nose = nariz escorrendo) | Puns | C1
+Don't trust atoms | Dônt trâst é-toms | "Não confie nos átomos, eles compõem tudo" (Make up everything = inventam tudo/formam tudo) | Puns | C2
+
+// MISSÕES: O PIADISTA (THE JOKESTER)
+The Pun Master | Dâ pân més-ter | Contar um trocadilho em inglês e esperar 5 segundos para ver se a pessoa entendeu | Missão | C1
+The Double Meaning | Dâ dá-bol mí-ning | Explicar para um amigo o "duplo sentido" de uma das palavras acima | Missão | B2
+The Dad Joke | Dâ déd djôuk | Contar uma piada tão ruim que seja boa (Dad joke) usando o vocabulário de "Bakery" ou "Elevator" | Missão | B1
+
+// MÓDULO: PEÇAS E PROBLEMAS DO CARRO (CAR PARTS & ISSUES)
+Steering wheel | Stí-ring uíil | Volante | Carro | A2
+Flat tire | Flét tái-er | Pneu furado | Carro | A2
+Gas tank | Gués ténk | Tanque de combustível | Carro | A1
+Windshield | Uínd-shíild | Para-brisa | Carro | B1
+Trunk | Trânk | Porta-malas | Carro | A2
+Hood | Rúud | Capô do carro | Carro | B1
+Headlights | Réd-láits | Faróis | Carro | A2
+Dead battery | Déd bá-te-ri | Bateria arriada / morta | Carro | B1
+Breakdown | Brêik-dáun | Pane mecânica (O carro parou de vez) | Carro | B2
+Spare tire | Spér tái-er | Estepe (Pneu reserva) | Carro | B1
+Jump start | Djâmp stárt | "Chupeta" na bateria | Carro | B2
+Check engine light | Tchék én-djine láit | Luz de alerta do motor | Carro | B1
+Squeaky brakes | Skuí-ki brêiks | Freios rangendo | Carro | C1
+Oil leak | Óil líik | Vazamento de óleo | Carro | B2
+Rearview mirror | Ríar-viú mí-ror | Espelho retrovisor | Carro | B1
+Honk the horn | Rónk dâ rórn | Buzinar | Carro | B1
+Dashboard | Désh-bórd | Painel do carro | Carro | B1
+Jump leads | Djâmp líids | Cabos para chupeta | Carro | B2
+Tow truck | Tôu trâk | Guincho | Carro | B2
+Get a tune-up | Guét a tiún-âp | Fazer uma revisão/regulagem | Carro | C1
+
+// MISSÕES: O MECÂNICO (THE MECHANIC)
+The Rescue | Dâ rés-kiú | Identificar se tem um "Spare tire" no porta-malas antes de viajar | Missão | B1
+The Alert Driver | Dâ a-lért drái-ver | Explicar para alguém o que fazer quando a "Check engine light" acende | Missão | B2
+The Helper | Dâ rél-per | Oferecer um "Jump start" para alguém com "Dead battery" | Missão | B2
+
+// MÓDULO: INTERAÇÃO E CONVERSA SOBRE CARROS (CAR TALK)
+Sweet ride | Suíit ráid | "Bela máquina" / Carrão (Elogiando o carro de alguém) | Carro | B1
+What’s under the hood? | Uóts ân-der dâ rúud? | "O que tem sob o capô?" (Perguntando sobre a potência do motor) | Carro | B2
+Gas guzzler | Gués gâz-ler | Beberrão (Carro que consome muito combustível) | Carro | C1
+Lemon | Lé-mon | "Lata de lixo" / Carro bixado (Carro que vive dando problema) | Carro | C1
+Stick shift | Stík shíft | Câmbio manual (Passar marcha na mão) | Carro | B1
+Daily driver | Dêi-li drái-ver | Carro do dia a dia (Carro para uso comum) | Carro | B1
+Top speed | Tóp spíid | Velocidade máxima | Carro | A2
+Floor it | Flóor ít | Pisar fundo / Atolar o pé | Carro | B2
+Trade-in | Trêid-ín | Dar o carro na troca (Negociação) | Carro | B2
+Certified pre-owned | Sêr-ti-fáid prí-ôund | Seminovos certificados | Carro | B1
+Low mileage | Lôu mái-ledj | Baixa quilometragem | Carro | B1
+Test drive | Tést drái-v | Teste de direção | Carro | A1
+Mint condition | Mínt con-dí-shon | Estado de novo / Impecável | Carro | C1
+Souped up | Súupt âp | Tunado / Modificado para ter mais performance | Carro | C2
+Totaled | Tôu-tald | Perda total (Quando o conserto é mais caro que o carro) | Carro | C1
+
+// MISSÕES: O ENTUSIASTA (THE CAR ENTHUSIAST)
+The Compliment | Dâ cóm-pli-ment | Elogiar o carro de um amigo dizendo "That's a sweet ride!" | Missão | B1
+The Skeptical Buyer | Dâ skép-ti-kal bái-er | Perguntar se um carro é um "Lemon" antes de fechar negócio | Missão | C1
+The Speed Demon | Dâ spíid dí-mon | Usar a expressão "Floor it!" em um contexto de brincadeira com o motorista | Missão | B2
+
+// MÓDULO: ALUGUEL DE CARROS (CAR RENTAL)
+Rental agreement | Rên-tal a-grí-ment | Contrato de aluguel | Travel | B1
+Insurance coverage | In-shú-rans có-ve-redj | Cobertura de seguro | Travel | B2
+Unlimited mileage | Ân-lí-mi-ted mái-ledj | Quilometragem livre/ilimitada | Travel | B1
+Full to full | Fúl tú fúl | Tanque cheio para cheio (Regra de combustível) | Travel | B2
+Pick-up location | Pík-âp lou-kêi-shon | Local de retirada | Travel | A2
+Drop-off point | Dróp-óf póint | Ponto de devolução | Travel | A2
+Security deposit | Se-kiú-ri-ti de-pó-zit | Depósito de caução (Valor bloqueado no cartão) | Travel | B2
+Additional driver | A-dí-sho-nal drái-ver | Motorista adicional | Travel | B1
+Standard car | Stén-dard cár | Carro de categoria média | Travel | A2
+Upgrade | Âp-grêid | Melhoria de categoria (Pegar um carro melhor) | Travel | B1
+One-way rental | Uán-uêi rên-tal | Aluguel só de ida (Entrega em outra cidade) | Travel | C1
+LDW (Loss Damage Waiver) | El-di-dâ-bliu | Isenção de responsabilidade por danos | Travel | C2
+Roadside assistance | Rôud-sáid a-sís-tans | Assistência na estrada (Guincho/Socorro) | Travel | B1
+Hidden fees | Rí-den fíis | Taxas escondidas | Travel | B2
+Fuel policy | Fiú-el pó-li-si | Política de combustível | Travel | B1
+
+// MISSÕES: O VIAJANTE (THE TRAVELER)
+The Negotiator | Dâ ne-gô-shi-êi-tor | Perguntar "Is there any hidden fee?" antes de assinar o "Rental agreement" | Missão | B2
+The Smart Driver | Dâ smárt drái-ver | Confirmar se a "Fuel policy" é "Full to full" para economizar dinheiro | Missão | B1
+The Upgrade Hunter | Dâ âp-grêid rân-ter | Pedir educadamente: "Is there any free upgrade available?" | Missão | B2
+
+// MÓDULO: IMIGRAÇÃO E ALFÂNDEGA (IMMIGRATION & CUSTOMS)
+Purpose of your visit | Pâr-po-se óv iór ví-zit | Propósito da sua visita | Immigration | A2
+Length of stay | Léngf óv stêi | Tempo de permanência | Immigration | B1
+Proof of accommodation | Prúuf óv a-co-mo-dêi-shon | Comprovante de hospedagem | Immigration | B1
+Return ticket | Ri-târn tí-ket | Passagem de volta | Immigration | A2
+Customs declaration | Câs-toms de-cla-rêi-shon | Declaração alfandegária | Customs | B2
+Anything to declare? | E-ni-fíng tú de-clêir? | Algo a declarar? | Customs | A2
+Business or pleasure? | Bí-zi-nes ór plé-jur? | Negócios ou lazer? | Immigration | A1
+Occupation | O-kiu-pêi-shon | Profissão / Ocupação | Immigration | A2
+Baggage claim | Bé-guêidj clêim | Esteira de bagagem / Retirada de malas | Airport | A2
+Layover | Lêi-ô-ver | Escala / Conexão | Airport | B1
+Entry permit | Én-tri pêr-mit | Permissão de entrada | Immigration | B2
+Duty-free | Diú-ti fríi | Livre de impostos (Loja ou cota) | Customs | A2
+Prohibited items | Pro-rí-bi-ted ái-tems | Itens proibidos | Customs | B1
+Currency | Câr-ren-si | Moeda (dinheiro espécie) | Customs | B1
+Officer | Ó-fi-ser | Agente / Oficial (Como você deve chamá-los) | Immigration | A2
+
+// MISSÕES: O VIAJANTE INTERNACIONAL (THE GLOBAL TRAVELER)
+The Honest Entry | Dâ ó-nest én-tri | Responder "I'm here for pleasure" (Estou aqui a lazer) com confiança para o "Officer" | Missão | A2
+The Organized Traveler | Dâ ór-ga-náized tré-ve-ler | Ter o "Proof of accommodation" em mãos antes de chegar no guichê | Missão | B1
+The Customs Clear | Dâ câs-toms clíir | Saber responder "Nothing to declare" (Nada a declarar) sem gaguejar | Missão | B1
+
+// MÓDULO: ENTREVISTAS DE EMPREGO (JOB INTERVIEW)
+Strengths and weaknesses | Stréngfs end uík-ne-sses | Pontos fortes e fracos | Career | A2
+Hands-on experience | Rénds-ón eks-pí-ri-ens | Experiência prática (Mão na massa) | Career | B2
+Fast learner | Fést lér-ner | Alguém que aprende rápido | Career | A2
+Team player | Tíim plêi-er | Alguém que trabalha bem em equipe | Career | B1
+Background | Bék-gráund | Histórico profissional / Formação | Career | B1
+Achievements | A-tchíiv-ments | Conquistas / Realizações | Career | B2
+Problem-solver | Pró-blem sól-ver | Alguém que resolve problemas | Career | B2
+Growth mindset | Grôuf máind-set | Mentalidade de crescimento | Career | C1
+What's the salary range? | Uóts dâ sá-la-ri rêindj? | Qual é a faixa salarial? | Career | B1
+Core values | Cór vá-lius | Valores fundamentais (da empresa) | Career | B2
+I’m a good fit | Ái-ém a gúd fít | Eu me encaixo bem na vaga | Career | B1
+To handle pressure | Tú rén-dol pré-shur | Lidar com a pressão | Career | B2
+Work-life balance | Uôrk-láif bé-lans | Equilíbrio entre vida e trabalho | Career | B2
+The bottom line | Dâ bó-tom láin | O ponto principal / O resultado final | Career | C1
+Track record | Trék ré-kord | Histórico de desempenho | Career | C2
+
+// MISSÕES: O CANDIDATO (THE CANDIDATE)
+The Elevator Pitch | Dâ é-le-vêi-tor pítch | Resumir seu "Background" e "Achievements" em menos de 1 minuto | Missão | B2
+The Team Player | Dâ tíim plêi-er | Dar um exemplo real de quando você foi um "Team player" em um projeto anterior | Missão | B1
+The Sharp Question | Dâ shárp kués-tchon | Perguntar sobre o "Work-life balance" da empresa durante a entrevista | Missão | B2
+
+// MÓDULO: REUNIÕES DE TRABALHO (BUSINESS MEETINGS)
+Stick to the agenda | Stík tú dâ a-djên-da | Manter o foco na pauta/agenda | Business | B2
+Let's dive in | Léts dáiv ín | Vamos mergulhar no assunto / Vamos começar | Business | B1
+Touching base | Tâ-tching bêis | Entrar em contato / Retomar um assunto rápido | Business | B2
+Get the ball rolling | Guét dâ ból rô-ling | Dar o pontapé inicial / Começar os trabalhos | Business | B1
+To wrap up | Tú rrép âp | Encerrar / Finalizar a reunião | Business | B1
+Action items | Ék-shon ái-tems | Tarefas práticas / Próximos passos definidos | Business | B2
+On the same page | Ón dâ sêim pêidj | Estar na mesma página / Em sintonia | Business | A2
+Takeaway | Têi-ka-uêi | Ponto principal / O que aprendemos ou levamos daqui | Business | B2
+Follow-up | Fó-lou-âp | Acompanhamento (de uma tarefa ou e-mail) | Business | B1
+You're on mute | Iú-ar ón miúut | Você está no mudo (Clássica do Zoom/Teams) | Business | A1
+Break it down | Brêik ít dáun | Detalhar / Explicar passo a passo | Business | B1
+Think outside the box | Fínk áut-sáid dâ bóks | Pensar fora da caixa | Business | B2
+ASAP (As soon as possible) | Êi-sép | O quanto antes / O mais rápido possível | Business | A2
+Circle back | Sêr-kol bék | Voltar a um assunto mais tarde | Business | C1
+Back to the drawing board | Bék tú dâ dró-ing bórd | Voltar à estaca zero / Refazer o plano | Business | C1
+
+// MISSÕES: O EXECUTIVO (THE EXECUTIVE)
+The Timekeeper | Dâ táim-kí-per | Usar a frase "Stick to the agenda" quando a conversa sair do assunto | Missão | B2
+The Tech Support | Dâ ték su-pórt | Ser o primeiro a dizer "You're on mute" para um colega em uma call | Missão | A1
+The Closer | Dâ clôu-zer | Ao final da reunião, perguntar: "What are the action items?" | Missão | B2
+
+// MÓDULO: HAPPY HOUR E DRINKS (SOCIAL DRINKING)
+On the house | Ón dâ ráu-se | Por conta da casa (Grátis) | Social | A2
+Keep the change | Kíip dâ tchêindj | Fique com o troco | Social | A1
+I’m the designated driver | Ái-ém dâ de-zig-nêi-ted drái-ver | Eu sou o motorista da rodada | Social | B1
+Bottoms up! | Bó-toms âp | "Vira vira!" / Saúde! (Ao beber) | Social | B1
+On the rocks | Ón dâ róks | Com gelo (Geralmente para whisky) | Social | B1
+Neat | Níit | Puro / Sem gelo (Para destilados) | Social | B2
+Cheers! | Tchí-ers | Saúde! / Brinde | Social | A1
+Lightweight | Láit-uêit | "Fraco" para bebida (Fica bêbado rápido) | Social | B2
+A round of drinks | A ráund óv drínks | Uma rodada de bebidas | Social | B1
+Put it on my tab | Pút ít ón mái téb | Coloca na minha conta (Para pagar no final) | Social | B2
+Happy hour specials | Ré-pi áu-er spé-shols | Promoções do happy hour | Social | A2
+Draft beer | Dréft bí-er | Chopp | Social | A1
+Mocktail | Mók-têil | Coquetel sem álcool | Social | B2
+Bar hop | Bár róp | "Pular" de bar em bar na mesma noite | Social | C1
+Tipsy | Típ-si | "Altinho" / Levemente embriagado | Social | B1
+
+// MISSÕES: O SOCIAL (THE SOCIALIZER)
+The Generous Friend | Dâ djé-ne-râs frénd | Comprar "A round of drinks" para os amigos e dizer "It's on me!" | Missão | B1
+The Responsible One | Dâ ri-spón-si-bol uán | Se declarar o "Designated driver" da noite para garantir a segurança | Missão | B1
+The Tab Master | Dâ téb més-ter | Pedir ao garçom para "Put it on my tab" ao chegar no bar | Missão | B2
+
+// MÓDULO: EMERGÊNCIAS MÉDICAS (MEDICAL EMERGENCIES)
+Call an ambulance! | Kól en ém-biu-lans! | Chame uma ambulância! | Emergência | A1
+I’m allergic to... | Ái-ém a-lér-djik tú... | Eu sou alérgico a... | Emergência | A2
+Shortness of breath | Shórt-nes óv bréf | Falta de ar | Emergência | B2
+Chest pain | Tchést pêin | Dor no peito | Emergência | B1
+Dizzy | Dí-zi | Tonto / Com tontura | Emergência | B1
+ER (Emergency Room) | Í-ár | Pronto-socorro | Saúde | A2
+Painkillers | Pêin-kí-lers | Analgésicos (Remédios para dor) | Saúde | B1
+Prescription | Pre-skríp-shon | Receita médica | Saúde | B2
+First aid kit | Férst êid kít | Kit de primeiros socorros | Saúde | A2
+Bleeding | Blí-ding | Sangrando / Sangramento | Emergência | B1
+Swollen | Su-ôu-len | Inchado | Saúde | B2
+Food poisoning | Fúud pói-zo-ning | Intoxicação alimentar | Saúde | B1
+I’ve passed out | Áiv pést áut | Eu desmaiei | Emergência | C1
+Numbness | Nâm-nes | Dormência / Formigamento | Emergência | C2
+Blood type | Blâd táip | Tipo sanguíneo | Saúde | B1
+
+// MISSÕES: O SOCORRISTA (THE FIRST RESPONDER)
+The Allergy Alert | Dâ á-ler-dji a-lért | Aprender a dizer "I'm allergic to..." seguido do nome de um remédio ou alimento em inglês | Missão | A2
+The ER Navigator | Dâ í-ár na-vi-guêi-tor | Localizar o "ER" mais próximo em um mapa fictício ou real de viagem | Missão | B1
+The Symptoms Reporter | Dâ símp-toms ri-pór-ter | Descrever três sintomas (ex: Dizzy, Chest pain, Numbness) de forma clara | Missão | B2
+
+// MÓDULO: BOSS FINAL (THE FLUENCY OVERLORD)
+I lowkey think we need to circle back to the agenda | Ái lôu-kíi fínk uí níid tú sêr-kol bék tú dâ a-djên-da | Eu meio que acho que precisamos voltar para a pauta | Boss | C1
+My daily driver is a total gas guzzler, no cap | Mái dêi-li drái-ver íz a tôu-tal gués gâz-ler, nôu kép | Meu carro do dia a dia é um bebedouro de gasolina, sem mentira | Boss | C1
+I’m a fast learner with hands-on experience in tech | Ái-ém a fést lér-ner uíf rénds-ón eks-pí-ri-ens ín ték | Sou alguém que aprende rápido com experiência prática em tecnologia | Boss | B2
+Is the security deposit included in the rental agreement? | Íz dâ se-kiú-ri-ti de-pó-zit in-clú-ded ín dâ rên-tal a-grí-ment? | O depósito de caução está incluso no contrato de aluguel? | Boss | B2
+Officer, my purpose of visit is business and pleasure | Ó-fi-ser, mái pâr-po-se óv ví-zit íz bí-zi-nes énd plé-jur | Oficial, o propósito da minha visita é negócios e lazer | Boss | B1
+I’m feeling dizzy and have a bit of shortness of breath | Ái-ém fí-ling dí-zi énd rév a bít óv shórt-nes óv bréf | Estou me sentindo tonto e com um pouco de falta de ar | Boss | C1
+Let’s get the ball rolling and think outside the box | Léts guét dâ ból rô-ling énd fínk áut-sáid dâ bóks | Vamos dar o pontapé inicial e pensar fora da caixa | Boss | B2
+Can I put this round of drinks on my tab, please? | Kén ái pút fís ráund óv drínks ón mái téb, plíiz? | Posso colocar essa rodada de bebidas na minha conta, por favor? | Boss | B1
+What are the action items to improve work-life balance? | Uóts ár dâ ék-shon ái-tems tú im-prúuv uôrk-láif bé-lans? | Quais são as tarefas práticas para melhorar o equilíbrio vida-trabalho? | Boss | C1
+My rental car is a lemon; it has a dead battery | Mái rên-tal cár íz a lé-mon; ít ráz a déd bá-te-ri | Meu carro de aluguel é uma lata de lixo; ele está com a bateria arriada | Boss | B2
+I highkey need to unplug because of this doomscrolling | Ái rái-kíi níid tú ân-plâg bi-cóz óv fís dúum-scrô-ling | Eu preciso urgentemente me desconectar por causa desse excesso de notícias ruins | Boss | C2
+I’m a team player with a track record of success | Ái-ém a tíim plêi-er uíf a trék ré-kord óv sâk-sés | Sou um jogador de equipe com um histórico de sucesso comprovado | Boss | C1
+Check the rearview mirror before you floor it! | Tchék dâ ríar-viú mí-ror bi-fór iú flóor ít! | Verifique o retrovisor antes de pisar fundo! | Boss | B2
+Does this prescription have any side effects? | Dâz fís pre-skríp-shon rév e-ni sáid e-fêkts? | Essa receita médica tem algum efeito colateral? | Boss | B2
+That sweet ride is the GOAT of electric cars | Fét suíit ráid íz dâ gôut óv i-léc-trik cárs | Aquele carrão é o melhor de todos os tempos entre os carros elétricos | Boss | C1
+
+// MISSÕES: O LENDÁRIO (THE LEGENDARY)
+The Ultimate Combo | Dâ âl-ti-met cóm-bo | Usar uma frase que misture gíria (Slang) com contexto profissional (Business) | Missão | C1
+The Speed Speaker | Dâ spíid spí-ker | Pronunciar a frase "Back to the drawing board" três vezes sem errar | Missão | B2
+The RPG Master | Dâ ár-pi-djí més-ter | Alcançar o nível 10 no app revisando apenas os cards do "Boss Final" | Missão | C2
+
+// MÓDULO: BOSS FINAL (THE BANKING OVERLORD)
+The line is huge and moving at a snail's pace | Dâ láin íz riúdge énd mú-ving ét a snêils pêis | A fila está enorme e movendo-se a passo de tartaruga | Bank | B2
+I need to withdraw some cash from the ATM | Ái níid tú uíf-dró sâm késh fróm dâ êi-tí-ém | Preciso sacar um pouco de dinheiro no caixa eletrônico | Bank | A2
+What are the monthly fees for this checking account? | Uóts ár dâ mânf-li fíis fór fís tché-king a-káunt? | Quais são as taxas mensais para esta conta corrente? | Bank | B1
+I’d like to wire some money to an international account | Áid láik tú uáier sâm mâ-ni tú en ín-ter-né-sho-nal a-káunt | Gostaria de fazer uma transferência para uma conta internacional | Bank | C1
+My credit card was declined because of a glitch | Mái cré-dit cárd uós de-cláined bi-cóz óv a glít-tch | Meu cartão de crédito foi recusado por causa de um erro no sistema | Bank | B2
+I want to report a fraudulent transaction on my statement | Ái uónt tú ri-pórt a fró-du-lent trân-zé-kchon ón mái stêit-ment | Quero reportar uma transação fraudulenta no meu extrato | Bank | C2
+Is there a limit for daily withdrawals? | Íz dér a lí-mit fór dêi-li uíf-dró-als? | Existe um limite para saques diários? | Bank | B1
+I need to update my personal information and ID | Ái níid tú âp-dêit mái pêr-so-nal in-for-mêi-shon énd ái-dí | Preciso atualizar minhas informações pessoais e documento de identidade | Bank | A2
+Could you tell me the current exchange rate? | Cúd iú tél mí dâ câ-rrent eks-tchêindj rrêit? | Você poderia me dizer a taxa de câmbio atual? | Bank | B2
+I lost my debit card, I need to freeze my account | Ái lóst mái dé-bit cárd, ái níid tú fríiz mái a-káunt | Perdi meu cartão de débito, preciso congelar minha conta | Bank | B2
+The teller was very helpful with my loan application | Dâ té-ler uós vé-ri rélp-ful uíf mái lôun a-pli-kêi-shon | O caixa foi muito prestativo com minha solicitação de empréstimo | Bank | C1
+Is this bank branch open on Saturdays? | Íz fís bénk brêntch ôu-pen ón sé-ter-dêis? | Esta agência bancária abre aos sábados? | Bank | A2
+I need to talk to a manager about my credit limit | Ái níid tú tók tú a mé-na-djer a-báut mái cré-dit lí-mit | Preciso falar com um gerente sobre meu limite de crédito | Bank | B1
+The ATM swallowed my card, what should I do? | Dâ êi-tí-ém suó-loud mái cárd, uót shúd ái dú? | O caixa eletrônico engoliu meu cartão, o que devo fazer? | Bank | B2
+I highkey hate waiting in line for so long | Ái rái-kíi rêit uêi-ting ín láin fór sôu lóng | Eu odeio profundamente esperar na fila por tanto tempo | Bank | B1
+
+// MISSÕES: O POUPADOR (THE SAVER)
+The Swift Transaction | Dâ suíft trân-zé-kchon | Fazer um "Withdraw" no ATM em menos de 2 minutos | Missão | B1
+The Fraud Fighter | Dâ fród fái-ter | Revisar seu "Statement" (extrato) e identificar qualquer taxa estranha | Missão | C1
+The Patient Customer | Dâ pêi-shent câs-to-mer | Sobreviver a uma "Huge line" sem entrar em "Salty" mode | Missão | B2
+
+// MÓDULO: BOSS FINAL (BANK ACCOUNT OPENING)
+I’d like to open a checking account | Áid láik tú ôu-pen a tché-king a-káunt | Eu gostaria de abrir uma conta corrente | Bank | A2
+What are the requirements for non-residents? | Uóts ár dâ ri-kuái-er-ments fór nón-ré-zi-dents? | Quais são os requisitos para não-residentes? | Bank | C1
+Is there a minimum balance requirement? | Íz dér a mí-ni-mâm bé-lans ri-kuái-er-ment? | Existe uma exigência de saldo mínimo? | Bank | B2
+What is the interest rate on this savings account? | Uót íz dâ ín-trest rrêit ón fís sêi-vings a-káunt? | Qual é a taxa de juros nesta conta poupança? | Bank | B1
+Are there any maintenance fees? | Ár dér e-ni mêin-te-nans fíis? | Há alguma taxa de manutenção? | Bank | B1
+I have my passport and proof of address | Ái rév mái pés-pórt énd prúuf óv a-drés | Tenho meu passaporte e comprovante de endereço | Bank | A2
+Does this account come with a debit card? | Dâz fís a-káunt câm uíf a dé-bit cárd? | Esta conta vem com um cartão de débito? | Bank | A2
+How long does it take to activate the account? | Ráu lóng dâz ít têik tú ák-ti-vêit dâ a-káunt? | Quanto tempo leva para ativar a conta? | Bank | B1
+I’d like to opt-out of overdraft protection | Áid láik tú ópt-áut óv ôu-ver-dréft pro-ték-shon | Gostaria de cancelar a proteção contra cheque especial | Bank | C2
+Can I manage my finances through the mobile app? | Kén ái mé-nadj mái fi-nán-ces frúu dâ môu-bail ép? | Posso gerenciar minhas finanças pelo aplicativo? | Bank | B1
+What is the routing number for this branch? | Uót íz dâ ráu-ting nâm-ber fór fís brêntch? | Qual é o número de roteamento (agência) desta filial? | Bank | C1
+I need to set up a direct deposit for my salary | Ái níid tú sét âp a di-rékt de-pó-zit fór mái sá-la-ri | Preciso configurar o depósito direto para o meu salário | Bank | B2
+Are international wire transfers allowed? | Ár ín-ter-né-sho-nal uáier trâns-férs a-láu-ed? | Transferências internacionais são permitidas? | Bank | B2
+I want to link my savings to my checking account | Ái uónt tú línk mái sêi-vings tú mái tché-king a-káunt | Quero vincular minha poupança à minha conta corrente | Bank | B1
+Can you break down the terms and conditions? | Kén iú brêik dáun dâ térms énd con-dí-shons? | Você pode detalhar os termos e condições? | Bank | C1
+
+// MISSÕES: O INVESTIDOR (THE INVESTOR)
+The Paperwork Master | Dâ pêi-per-uôrk més-ter | Organizar "Passport" e "Proof of address" em uma pasta antes de ir ao banco | Missão | B1
+The Fee Hunter | Dâ fíi rân-ter | Perguntar sobre "Maintenance fees" para não ser pego de surpresa | Missão | B2
+The Digital Nomad | Dâ dí-dji-tal nô-mad | Configurar o "Mobile app" e fazer o primeiro login com sucesso | Missão | B1
+
+// MÓDULO: CORREIOS E ENVIOS (POST OFFICE & SHIPPING)
+I’d like to mail this package to Brazil | Áid láik tú mêiol fís pé-kedj tú Bra-zíl | Eu gostaria de enviar este pacote para o Brasil | Post Office | A2
+What’s the most affordable shipping option? | Uóts dâ môust a-fór-da-bol shí-ping óp-shon? | Qual é a opção de envio mais barata? | Post Office | B1
+Standard or Express delivery? | Stén-dard ór Eks-prés de-lí-ve-ri? | Entrega padrão ou expressa? | Post Office | A2
+I need a tracking number for this shipment | Ái níid a tré-king nâm-ber fór fís shíp-ment | Eu preciso de um número de rastreio para este envio | Post Office | B1
+Are there any fragile items inside? | Ár dér e-ni fré-djail ái-tems in-sáid? | Tem algum item frágil dentro? | Post Office | B1
+I’d like to buy insurance for this parcel | Áid láik tú bái in-shú-rans fór fís pár-sel | Gostaria de comprar um seguro para este pacote | Post Office | B2
+What is the estimated delivery date? | Uót íz dâ és-ti-mêi-ted de-lí-ve-ri dêit? | Qual é a data estimada de entrega? | Post Office | B1
+Does it require a signature upon delivery? | Dâz ít ri-kuái-er a síg-na-tchiúr u-pón de-lí-ve-ri? | Requer assinatura na entrega? | Post Office | B2
+I need to buy some stamps and an envelope | Ái níid tú bái sâm stémps énd en én-ve-lôup | Preciso comprar selos e um envelope | Post Office | A2
+The package is return to sender | Dâ pé-kedj íz ri-târn tú sén-der | O pacote foi devolvido ao remetente | Post Office | B2
+Is there a customs form I need to fill out? | Íz dér a câs-toms fórm ái níid tú fíl áut? | Tem um formulário de alfândega que preciso preencher? | Post Office | C1
+How much is the postage for this letter? | Ráu mâtch íz dâ pôus-tedj fór fís lé-ter | Quanto custa a postagem para esta carta? | Post Office | B1
+I want to ship this via air mail | Ái uónt tú shíp fís váia ér mêiol | Quero enviar isso via correio aéreo | Post Office | B1
+Can you weigh this for me, please? | Kén iú uêi fís fór mí, plíiz? | Pode pesar isso para mim, por favor? | Post Office | A2
+My package is stuck in customs | Mái pé-kedj íz stâk ín câs-toms | Meu pacote está preso na alfândega | Post Office | C1
+
+// MISSÕES: O REMETENTE (THE SENDER)
+The Careful Packer | Dâ kér-ful pé-ker | Escrever "FRAGILE" bem grande no pacote antes de chegar ao guichê | Missão | A2
+The Tracker | Dâ tré-ker | Salvar o "Tracking number" no celular e checar o status no dia seguinte | Missão | B1
+The Customs Expert | Dâ câs-toms éks-pert | Preencher o formulário de alfândega detalhando o conteúdo sem erros | Missão | C1
+
+// MÓDULO: SUPERMERCADO (GROCERY SHOPPING)
+Where is the produce section? | Uér íz dâ pró-diuss sék-shon? | Onde fica a secção de frescos (frutas/legumes)? | Supermercado | A2
+Is there a loyalty card program? | Íz dér a lói-al-ti cárd pró-gram? | Existe um programa de cartão de fidelidade? | Supermercado | B1
+Are these items on sale? | Ár fíz ái-tems ón sêiol? | Estes itens estão em promoção? | Supermercado | A2
+Buy one get one free (BOGO) | Bái uán guét uán fríi | Compre um e leve outro grátis | Supermercado | B1
+Where can I find the dairy aisle? | Uér kén ái fáind dâ dêi-ri ái-ol? | Onde posso encontrar o corredor dos laticínios? | Supermercado | B2
+Do you have a paper bag or plastic? | Dú iú rév a pêi-per bég ór plás-tik? | Tem saco de papel ou plástico? | Supermercado | A1
+I’d like to use these coupons | Áid láik tú iúuz fíz cú-pons | Gostaria de usar estes cupões | Supermercado | B1
+Where are the checkout counters? | Uér ár dâ tchék-áut cáun-ters? | Onde ficam as caixas de pagamento? | Supermercado | A2
+Is this express lane for 10 items or less? | Íz fís eks-prés lêin fór tén ái-tems ór lés? | Esta fila prioritária é para 10 itens ou menos? | Supermercado | B1
+The barcode is not scanning | Dâ bár-côud íz nót ské-ning | O código de barras não está a ler | Supermercado | B2
+Can I have a receipt, please? | Kén ái rév a ri-síit, plíiz? | Pode dar-me o recibo, por favor? | Supermercado | A1
+Where is the frozen food section? | Uér íz dâ frôu-zen fúud sék-shon? | Onde fica a secção de congelados? | Supermercado | A2
+Do you sell pre-packaged meals? | Dú iú sél prí-pé-kedjd mí-ols? | Vendem refeições pré-embaladas? | Supermercado | B2
+Excuse me, do you have this in stock? | Eks-kiúuz mí, dú iú rév fís ín stók? | Desculpe, têm isto em stock? | Supermercado | B1
+I’ll take a dozen eggs and some milk | Áiol têik a dá-zen égs énd sâm mílk | Vou levar uma dúzia de ovos e leite | Supermercado | A2
+
+// MISSÕES: O MESTRE DAS COMPRAS (THE SHOPPING MASTER)
+The Aisle Hunter | Dâ ái-ol rân-ter | Encontrar a "Produce section" e o "Dairy aisle" sem pedir ajuda | Missão | B1
+The Deal Seeker | Dâ dí-ol síi-ker | Encontrar um produto "Buy one get one free" para economizar | Missão | B1
+The Quick Exit | Dâ kuík ék-zit | Usar a "Express lane" corretamente com o número de itens permitido | Missão | A2
+
+// MÓDULO: BARBEARIA (BARBER SHOP)
+Just a trim, please | Djâst a trím, plíiz | Apenas uma aparadinha, por favor | Barbearia | A2
+A little off the top | A lí-tol óf dâ tóp | Um pouco (menos) em cima | Barbearia | B1
+Short on the sides | Shórt ón dâ sáids | Curto nas laterais | Barbearia | A2
+Do you do fades? | Dú iú dú fêids? | Você faz degradê? | Barbearia | B1
+Line up my beard | Láin âp mái bí-erd | Desenhar/Fazer o contorno da minha barba | Barbearia | B2
+Buzz cut | Bâz cât | Corte raspado (máquina por igual) | Barbearia | B1
+Straight razor shave | Strêit rrêi-zor shêiv | Barbear com navalha | Barbearia | B2
+Clean shave | Clíin shêiv | Rosto liso / Tirar tudo | Barbearia | A2
+Edge up / Shape up | É-djâp / Shêip-âp | Acabamento/Pezinho (limpar a linha do cabelo) | Barbearia | B2
+Part on the left | Párt ón dâ léft | Risca/Partição no lado esquerdo | Barbearia | B1
+Apply some pomade | A-plái sâm po-mêid | Passar um pouco de pomada | Barbearia | B2
+Hot towel treatment | Rót táu-el tríit-ment | Tratamento com toalha quente | Barbearia | C1
+Don't take too much off | Dônt têik túu mâtch óf | Não tire muito (comprimento) | Barbearia | B1
+Sideburns | Sáid-bârns | Costeletas | Barbearia | B1
+Are you a walk-in or appointment? | Ár iú a uók-ín ór a-póint-ment? | Você veio sem hora marcada ou tem agendamento? | Barbearia | B1
+
+// MISSÕES: O CLIENTE ESTILOSO (THE STYLISH CLIENT)
+The Fade Master | Dâ fêid més-ter | Pedir um "Skin fade" explicando exatamente onde quer que comece | Missão | B2
+The Clean Look | Dâ clíin lúuk | Pedir um "Edge up" para manter o corte alinhado entre as visitas | Missão | B1
+The Sharp Beard | Dâ shárp bí-erd | Explicar para o barbeiro como você quer o "Line up" da sua barba | Missão | B2
+
+// MÓDULO: ELETRODOMÉSTICOS (HOUSEHOLD APPLIANCES)
+What is the voltage, 110 or 220? | Uót íz dâ vôul-tedj, rân-dred tén ór tú-tu-ên-ti? | Qual é a voltagem, 110 ou 220? | Eletro | B1
+Is it energy efficient? | Íz ít é-ner-dji e-fí-shent? | É eficiente no consumo de energia? | Eletro | B2
+Home delivery and installation | Rôum de-lí-ve-ri énd ín-sta-lêi-shon | Entrega em domicílio e instalação | Eletro | A2
+Does it come with a warranty? | Dâz ít câm uíf a uó-rran-ti? | Vem com garantia? | Eletro | B1
+Top-loading or front-loading? | Tóp-lôu-ding ór frânt-lôu-ding? | Abertura superior ou frontal? (Máquinas de lavar) | Eletro | B2
+Built-in microwave | Bílt-ín mái-cro-uêiv | Micro-ondas de embutir | Eletro | B2
+Smart fridge with Wi-Fi | Smárt frídje uíf uái-fái | Geladeira inteligente com Wi-Fi | Eletro | B1
+Extended protection plan | Eks-tên-ded pro-ték-shon plén | Plano de proteção estendida (Garantia extra) | Eletro | C1
+The stove is gas or electric? | Dâ stôuv íz gués ór i-léc-trik? | O fogão é a gás ou elétrico? | Eletro | A2
+Air fryer and coffee maker | Ér frái-er énd có-fi mêi-ker | Fritadeira elétrica e cafeteira | Eletro | A2
+Dishwasher and dryer | Dísh-uó-sher énd drái-er | Lava-louças e secadora | Eletro | B1
+Interest-free installments | Ín-trest-fríi in-stól-ments | Parcelamento sem juros | Eletro | C1
+Is there a discount for cash? | Íz dér a dís-cáunt fór késh? | Tem desconto à vista? | Eletro | B1
+Power outlet and plug adapter | Páuer áut-let énd plâg a-dáp-ter | Tomada de energia e adaptador de plugue | Eletro | B2
+Vacuum cleaner | Vá-kiú-um clíi-ner | Aspirador de pó | Eletro | A2
+
+// MISSÕES: O COMPRADOR INTELIGENTE (THE SMART BUYER)
+The Voltage Inspector | Dâ vôul-tedj in-spék-tor | Perguntar a voltagem antes de comprar para não causar um "short circuit" | Missão | B1
+The Warranty Hunter | Dâ uó-rran-ti rân-ter | Ler os termos da "Extended protection plan" para ver se vale a pena | Missão | C1
+The Delivery Coordinator | Dâ de-lí-ve-ri co-ór-di-nêi-tor | Agendar a "Home delivery and installation" para o dia da mudança | Missão | B2
+
+// MÓDULO: PRODUTOS DE TECNOLOGIA (TECH GADGETS)
+State-of-the-art | Stêit-óv-dâ-árt | O que há de mais moderno / Ponta de tecnologia | Tech | C1
+Screen refresh rate | Skríin rri-frésh rrêit | Taxa de atualização da tela (Hz) | Tech | B2
+Battery health | Bá-te-ri hélf | Saúde da bateria | Tech | B1
+Noise-cancelling headphones | Nóiz-kén-se-ling rréd-fôuns | Fones de ouvido com cancelamento de ruído | Tech | B2
+External hard drive | Eks-têr-nal rárd dráiv | HD Externo | Tech | A2
+Lags and glitches | Légs énd glí-tchiz | Travamentos e erros de sistema | Tech | B2
+Wireless charging | Uáier-les tchár-djing | Carregamento sem fio | Tech | B1
+Specs (Specifications) | Spéks | Especificações técnicas | Tech | B1
+Built-in camera | Bílt-ín ké-me-ra | Câmera embutida/integrada | Tech | A2
+The laptop is frozen | Dâ lép-tóp íz frôu-zen | O notebook travou (congelou) | Tech | B1
+Cloud storage | Cláud stó-redj | Armazenamento na nuvem | Tech | B1
+Overheating issues | Ôu-ver-rrí-ting í-shus | Problemas de superaquecimento | Tech | C1
+Seamless integration | Síim-les in-te-grêi-shon | Integração perfeita (sem emendas) | Tech | C2
+Out of the box | Áut óv dâ bóks | Pronto para uso / Fora da caixa | Tech | B2
+The latest model | Dâ lêi-test mó-del | O modelo mais recente | Tech | A2
+
+// MISSÕES: O TECH GEEK (THE TECH GEEK)
+The Performance Review | Dâ per-fór-mans rri-viú | Comparar as "Specs" de dois modelos antes de decidir a compra | Missão | B2
+The Troubleshooting | Dâ trâ-bol-shú-ting | Explicar para o suporte técnico que seu aparelho está "Overheating" | Missão | C1
+The Unboxing | Dâ ân-bók-sing | Verificar se todos os acessórios vieram "Out of the box" | Missão | B1
+
+// MÓDULO: ALUGUEL DE IMÓVEIS (REAL ESTATE)
+Security deposit | Se-kiú-ri-ti de-pó-zit | Depósito de caução | Real Estate | B2
+Lease agreement | Líis a-grí-ment | Contrato de aluguel | Real Estate | B2
+Fully furnished | Fú-li fêr-nisht | Totalmente mobiliado | Real Estate | B1
+Utilities included | Iu-tí-li-tis in-clú-ded | Contas (luz/água) inclusas | Real Estate | B1
+Pet-friendly | Pét-frénd-li | Aceita animais de estimação | Real Estate | A2
+Background check | Bék-gráund tchék | Verificação de antecedentes/crédito | Real Estate | C1
+Move-in ready | Múuv-ín rrê-di | Pronto para mudar | Real Estate | B1
+Landlord / Landlady | Lénd-lórd / Lénd-lêi-di | Proprietário / Proprietária | Real Estate | B1
+Notice period | Nôu-ti-se pí-ri-od | Aviso prévio (para sair do imóvel) | Real Estate | C1
+Studio apartment | Stú-di-ôu a-párt-ment | Kitnet / Apartamento de um cômodo | Real Estate | A2
+Subletting | Sâb-lé-ting | Sublocação (alugar para outra pessoa) | Real Estate | C1
+Amenities | A-mê-ni-tis | Comodidades (piscina, academia do prédio) | Real Estate | B2
+Walk-through | Uók-frúu | Vistoria do imóvel | Real Estate | B2
+Late fee | Lêit fíi | Multa por atraso (no aluguel) | Real Estate | B1
+Quiet neighborhood | Kuái-et nêi-bor-rrúud | Bairro silencioso/tranquilo | Real Estate | A2
+
+// MISSÕES: O INQUILINO (THE TENANT)
+The Inspector | Dâ in-spék-tor | Fazer um "Walk-through" detalhado e tirar fotos de danos antes de assinar o "Lease" | Missão | B2
+The Negotiator | Dâ ne-gô-shi-êi-tor | Tentar conseguir um imóvel com "Utilities included" para facilitar as contas | Missão | B2
+The Pet Owner | Dâ pét ôu-ner | Confirmar se o prédio é "Pet-friendly" antes de levar o seu pet | Missão | A2
+
+// MÓDULO: RESTAURANTES E PEDIDOS (SPECIALIZED DINING)
+I have a food allergy | Ái rév a fúud á-ler-dji | Eu tenho uma alergia alimentar | Dining | B1
+Gluten-free / Vegan options | Glú-ten-fríi / Ví-gan óp-chons | Opções sem glúten / Veganas | Dining | B1
+On the side, please | Ón dâ sáid, plíiz | À parte, por favor (ex: o molho separado da salada) | Dining | B2
+Is this dish spicy? | Íz fís dísh spái-si? | Este prato é apimentado? | Dining | A2
+Could we have the check, please? | Cúd uí rév dâ tchék, plíiz? | Poderia nos trazer a conta, por favor? | Dining | A2
+Waitlist | Uêit-líst | Lista de espera | Dining | B1
+Complimentary appetizer | Cóm-pli-mén-ta-ri á-pe-tái-zer | Aperitivo de cortesia (grátis) | Dining | C1
+Medium-rare | Mí-di-um-rréir | Ao ponto para malpassada (carne) | Dining | B1
+Well-done | Uél-dân | Bem passada (carne) | Dining | B1
+Could you swap the fries for a salad? | Cúd iú suóp dâ fráis fór a sá-lad? | Poderia trocar as batatas por uma salada? | Dining | B2
+It’s my friend’s birthday | Íts mái frénds bêrf-dêi | É aniversário do meu amigo | Dining | A2
+The steak is undercooked | Dâ stêik íz ân-der-cúukt | O bife está mal cozido/cru demais | Dining | C1
+Is service charge included? | Íz sér-vi-se tthárdj in-clú-ded? | A taxa de serviço está inclusa? | Dining | B2
+Can I get a doggy bag? | Kén ái guét a dó-gui bég? | Pode me dar uma embalagem para levar as sobras? | Dining | B1
+Sparkling or still water? | Spár-kling ór stíl uó-ter? | Água com ou sem gás? | Dining | A2
+
+// MISSÕES: O CRÍTICO GASTRONÔMICO (THE FOOD CRITIC)
+The Substitution | Dâ sâb-sti-tú-shon | Pedir para trocar um acompanhamento usando o verbo "Swap" | Missão | B2
+The Safe Eater | Dâ sêif í-ter | Confirmar se um prato contém um ingrediente específico devido a "Allergy" | Missão | B1
+The Birthday Surprise | Dâ bêrf-dêi sâr-práiz | Avisar ao garçom sobre um aniversário para ganhar uma "Complimentary" sobremesa | Missão | B1
+
+// MÓDULO: CHURRASCO (BBQ / COOKOUT)
+Fire up the grill | Fáier âp dâ gríl | Acender a churrasqueira | BBQ | B1
+Charcoal or gas? | Tchar-côul ór gués? | Carvão ou gás? | BBQ | A2
+Skewers | Skuí-uêrs | Espetos | BBQ | B2
+Picanha (Sirloin Cap) | Pi-cá-nia / Sêr-lóin kép | Picanha | BBQ | B2
+Thick-cut steak | fík-cât stêik | Bife de corte grosso | BBQ | B1
+Seasoned with rock salt | Sí-zond uíf rrók sólt | Temperado com sal grosso | BBQ | B2
+How do you like your meat? | Ráu dú iú láik iór míit? | Como você gosta da sua carne? | BBQ | A2
+Medium | Mí-di-um | Ao ponto | BBQ | B1
+Rare | Rréir | Malpassada | BBQ | B1
+Sides and dips | Sáids énd díps | Acompanhamentos e molhos | BBQ | B1
+Grill master | Gríl més-ter | O mestre da churrasqueira | BBQ | A2
+Sausages and patties | Só-sa-djiz énd pé-tis | Linguiças e hambúrgueres | BBQ | B1
+Smoky flavor | Smôu-ki flêi-vor | Sabor defumado | BBQ | B2
+Marinated overnight | Ma-ri-nêi-ted ôu-ver-náit | Marinado de um dia para o outro | BBQ | C1
+Grab a cold one | Gréb a côuld uán | Pegar uma cerveja gelada | BBQ | B1
+
+// MISSÕES: O MESTRE CHURRASQUEIRO (THE GRILL MASTER)
+The Salt Boss | Dâ sólt bós | Explicar que a carne foi "Seasoned with rock salt" para dar o toque brasileiro | Missão | B2
+The Temperature Check | Dâ tém-pre-tchiúr tchék | Perguntar para cada convidado: "How do you like your meat?" | Missão | A2
+The Skewer Flip | Dâ skuí-uêr flíp | Virar os "Skewers" no tempo certo para não queimar | Missão | B1
+
+// MÓDULO: CINEMA E ENTRETENIMENTO (MOVIES & ENTERTAINMENT)
+Box office hit | Bóks ó-fi-se rrít | Sucesso de bilheteria | Entretê | B2
+Spoiler alert! | Spói-ler a-lért! | Alerta de spoiler! | Entretê | A2
+Subtitled or dubbed? | Sâb-tái-told ór dâbd? | Legendado ou dublado? | Entretê | B1
+Binge-watch | Bíndj-uótch | Maratonar (uma série) | Entretê | B1
+Plot twist | Plót tuíst | Reviravolta no enredo | Entretê | B2
+Starring... | Stá-rring | Estrelando... (ator/atriz principal) | Entretê | B1
+Sold out | Sôuld áut | Esgotado (ingressos) | Entretê | A2
+Genre | Dján-ra | Gênero (ação, comédia, terror, etc.) | Entretê | B2
+The sequel | Dâ sí-kuol | A continuação / sequência | Entretê | B1
+Stunning visuals | Stâ-ning ví-ju-ols | Visuais deslumbrantes | Entretê | C1
+A must-watch | A mâst-uótch | Algo que você tem que assistir | Entretê | B2
+The theater was packed | Dâ fí-a-ter uós pékt | O cinema estava lotado | Entretê | B1
+Overrated | Ôu-ver-rrêi-ted | Superestimado | Entretê | C1
+Underrated | Ân-der-rrêi-ted | Subestimado | Entretê | C1
+Coming soon | Câ-ming súun | Em breve / Lançamento próximo | Entretê | A1
+
+// MISSÕES: O CRÍTICO DE CINEMA (THE MOVIE CRITIC)
+The Binge Master | Dâ bíndj més-ter | Recomendar uma série para alguém dizendo "It's a must-watch!" | Missão | B2
+The Spoiler Guard | Dâ spói-ler gárd | Gritar "Spoiler alert!" antes de contar o final de um filme | Missão | A2
+The Genre Selector | Dâ dján-ra se-lék-tor | Escolher entre um filme "Subtitled" ou "Dubbed" na bilheteria | Missão | B1
+
+// MÓDULO: TRÂNSITO E CONDUÇÃO (TRAFFIC & DRIVING)
+Gridlock | Gríd-lók | Engarrafamento total (quando nada se move) | Traffic | C1
+Rush hour | Râsh áu-er | Hora do rush / Horário de pico | Traffic | A2
+Speed limit | Spíid lí-mit | Limite de velocidade | Traffic | A1
+Road rage | Rôud rrêidj | Estresse/Fúria ao volante | Traffic | B2
+To pull over | Tú púl ôu-ver | Encostar o carro (parar no acostamento) | Traffic | B1
+Yield | Ií-old | Dê a preferência | Traffic | B2
+Roundabout | Rráun-da-báut | Rotatória / Rotunda | Traffic | B1
+Detour | Dí-túur | Desvio (rota alternativa) | Traffic | B2
+Jaywalking | Djêi-uók-ing | Atravessar a rua fora da faixa | Traffic | C1
+Carpool lane | Cár-púul lêin | Faixa para carros com 2 ou mais pessoas | Traffic | B2
+Honk the horn | Rónk dâ rrórn | Buzinar | Traffic | B1
+Bumper to bumper | Bâm-per tú bâm-per | Trânsito "parachoque com parachoque" (muito lento) | Traffic | B2
+Fender bender | Fên-der bên-der | Batidinha leve (acidente sem feridos) | Traffic | C1
+Pothole | Pót-rrôul | Buraco na estrada | Traffic | B1
+U-turn | Iú-târn | Retorno em "U" | Traffic | B1
+
+// MISSÕES: O MOTORISTA CONSCIENTE (THE SAVVY DRIVER)
+The Commuter | Dâ co-miú-ter | Planejar a rota para evitar o "Rush hour" e o "Gridlock" | Missão | B2
+The Law Abider | Dâ ló a-bái-der | Respeitar o "Speed limit" e nunca fazer "Jaywalking" | Missão | A2
+The Navigator | Dâ na-vi-guêi-tor | Seguir um "Detour" indicado pelo GPS sem se perder | Missão | B1
+
+// MÓDULO: BOSS FINAL (POLICE STOP / TRAFFIC STOP)
+License and registration | Lái-sens énd rrê-djis-trêi-shon | Carteira de motorista e documento do carro | Police | A2
+Pull over to the curb | Púl ôu-ver tú dâ kêrb | Encoste no meio-fio | Police | B1
+Keep your hands visible | Kíip iór rrénds ví-zi-bol | Mantenha suas mãos visíveis | Police | B2
+Step out of the vehicle | Stép áut óv dâ ví-i-col | Saia do veículo | Police | B2
+Do you know why I pulled you over? | Dú iú nôu uái ái púlt iú ôu-ver? | Você sabe por que eu te parei? | Police | B1
+I’m reaching for my wallet | Ái-ém rrí-tching fór mái uó-let | Estou pegando minha carteira | Police | C1
+I didn't realize I was speeding | Ái díd-nt rrí-a-láiz ái uós spíi-ding | Eu não percebi que estava acima da velocidade | Police | B2
+Is there a problem, Officer? | Íz dér a pró-blem, Ó-fi-ser? | Há algum problema, Oficial? | Police | B1
+Please, stay in the car | Plíiz, stêi ín dâ cár | Por favor, fique no carro | Police | A1
+I have a permit for... | Ái rév a pér-mit fór... | Eu tenho uma licença/permissão para... | Police | B2
+Can I see your ID, please? | Kén ái síi iór ái-dí, plíiz? | Posso ver sua identidade, por favor? | Police | A1
+I'm sorry, I missed the sign | Ái-ém só-rri, ái mís-t dâ sáin | Desculpe, eu não vi a placa | Police | B1
+Am I being detained? | Ém ái bí-ing de-têined? | Eu estou sendo detido? | Police | C2
+I'd like to speak to a lawyer | Áid láik tú spíik tú a lói-er | Eu gostaria de falar com um advogado | Police | C1
+Officer, I am a tourist | Ó-fi-ser, ái ém a tú-rrist | Oficial, eu sou um turista | Police | A2
+
+// MISSÕES: O CIDADÃO CALMO (THE CALM CITIZEN)
+The Compliance Master | Dâ com-plái-ans més-ter | Manter as mãos no volante e dizer "I'm reaching for my license" antes de se mexer | Missão | C1
+The Respectful Driver | Dâ ri-spékt-ful drái-ver | Responder sempre com "Yes, Officer" ou "No, Officer" | Missão | B1
+The Permit Presenter | Dâ pér-mit pre-zên-ter | Ter o "International Driving Permit" em mãos junto com o passaporte | Missão | B2
+
+// MÓDULO: RESPOSTAS PARA PARADA POLICIAL (POLICE INTERACTION)
+Yes, Officer | Iés, Ó-fi-ser | Sim, Oficial (Resposta padrão de respeito) | Police | A1
+No, Officer | Nôu, Ó-fi-ser | Não, Oficial | Police | A1
+My license is in my pocket | Mái lái-sens íz ín mái pó-ket | Minha licença está no meu bolso | Police | B1
+May I reach for it? | Mêi ái rríitsh fór ít? | Posso pegá-la? (Peça sempre permissão) | Police | B2
+I’m sorry, I didn’t see the light | Ái-ém só-rri, ái díd-nt síi dâ láit | Sinto muito, eu não vi o sinal | Police | B1
+I have a foreign license | Ái rév a fó-rrein lái-sens | Eu tenho uma carteira estrangeira | Police | B1
+It’s a rental car | Íts a rrên-tal cár | É um carro de aluguel | Police | A2
+The documents are in the glove box | Dâ dó-kiu-ments ár ín dâ glâv bóks | Os documentos estão no porta-luvas | Police | B2
+I will move slowly | Ái uíl múuv slôu-li | Vou me mover devagar | Police | C1
+I understand, Officer | Ái ân-der-sténd, Ó-fi-ser | Eu entendo, Oficial | Police | B1
+I don’t have any weapons | Ái dônt rév é-ni ué-pons | Eu não tenho nenhuma arma | Police | B2
+Can you please repeat that? | Kén iú plíiz rri-píit fét? | Pode repetir, por favor? (Se não entendeu a ordem) | Police | A2
+I’m a tourist, I’m lost | Ái-ém a tú-rrist, ái-ém lóst | Sou turista, estou perdido | Police | A2
+Thank you for the warning | fénk iú fór dâ uór-ning | Obrigado pelo aviso (Se ele não te der multa) | Police | B1
+I’m cooperating, Officer | Ái-ém co-ó-pe-rrêi-ting, Ó-fi-ser | Estou colaborando, Oficial | Police | C1
+
+// MISSÕES: O CIDADÃO COOPERATIVO (THE COOPERATIVE CITIZEN)
+The Verbal Signal | Dâ vér-bal síg-nal | Sempre avisar "I'm reaching for..." antes de mover as mãos para longe do volante | Missão | C1
+The Calm Voice | Dâ cám vóis | Manter o tom de voz baixo e estável mesmo sob estresse | Missão | B2
+The Language Barrier | Dâ lén-guadj bé-rri-er | Dizer "I'm sorry, my English is limited" se a situação ficar técnica demais | Missão | B1
+
+// MÓDULO: POSTO E CONVENIÊNCIA (GAS STATION)
+Fill it up with regular, please | Fíl ít âp uíf rrê-guiu-lar, plíiz | Encha o tanque com a comum, por favor | Posto | B1
+Fifty dollars on pump number five | Fíf-ti dó-lars ón pâmp nâm-ber fáiv | Cinquenta dólares na bomba número cinco | Posto | A2
+Where is the restroom? | Uér íz dâ rrêst-rrúum? | Onde fica o banheiro? | Posto | A1
+I need to check the tire pressure | Ái níid tú tchék dâ táier pré-shur | Preciso verificar a pressão dos pneus | Posto | B2
+Is there an air pump around here? | Íz dér en ér pâmp a-rráund rríer? | Tem uma bomba de ar por aqui? | Posto | B1
+Do you sell bags of ice? | Dú iú sél bégz óv áice? | Vocês vendem sacos de gelo? | Posto | A2
+I’d like a car wash, the basic one | Áid láik a cár uósh, dâ bêi-zik uán | Gostaria de uma lavagem de carro, a básica | Posto | B1
+The pump is out of receipt paper | Dâ pâmp íz áut óv ri-síit pêi-per | A bomba está sem papel de recibo | Posto | B2
+Where can I find the engine oil? | Uér kén ái fáind dâ én-djin óiol? | Onde posso encontrar o óleo de motor? | Posto | B1
+Do you have any snacks or protein bars? | Dú iú rév e-ni snéks ór prôu-tiim bárs? | Você tem lanches ou barras de proteína? | Posto | A2
+Full tank of premium diesel | Fúl ténk óv prí-mi-um dí-zel | Tanque cheio de diesel premium | Posto | B2
+Can I pay inside? | Kén ái pêi in-sáid? | Posso pagar lá dentro? | Posto | A2
+The gas cap is stuck | Dâ gués kép íz stâk | A tampa do combustível está presa | Posto | C1
+Where are the windshield squeegees? | Uér ár dâ uínd-shíild skuí-djis? | Onde estão os rodinhos de para-brisa? | Posto | C1
+Just some water and a coffee | Djâst sâm uó-ter énd a có-fi | Apenas uma água e um café | Posto | A1
+
+// MISSÕES: O VIAJANTE (THE TRAVELER)
+The Pump Master | Dâ pâmp més-ter | Pagar antecipado no caixa e liberar a "Pump number" correta | Missão | B1
+The Tire Tech | Dâ táier ték | Encontrar a "Air pump" e calibrar os pneus antes de pegar a estrada | Missão | B2
+The Snack Run | Dâ snék rân | Entrar na conveniência e sair com "Snacks and water" em menos de 5 minutos | Missão | A2
+
+// MÓDULO: FARMÁCIA E HIGIENE (PHARMACY & CARE)
+Over-the-counter medicine | Ôu-ver dâ cáun-ter mé-di-sin | Remédio que não precisa de receita (venda livre) | Pharmacy | B2
+Do I need a prescription for this? | Dú ái níid a pre-skríp-shon fór fís? | Eu preciso de uma receita para isso? | Pharmacy | B1
+Painkillers and Band-Aids | Pêin-kí-lers énd bénd-êids | Analgésicos e curativos | Pharmacy | A2
+Sunscreen and moisturizer | Sân-skríin énd móis-tchu-rrái-zer | Protetor solar e hidratante | Pharmacy | B1
+Where can I find the toiletries? | Uér kén ái fáind dâ tói-le-trris? | Onde posso encontrar os produtos de higiene pessoal? | Pharmacy | B2
+Toothpaste and dental floss | Túuf-pêist énd dén-tal flós | Pasta de dente e fio dental | Pharmacy | A1
+I have a splitting headache | Ái rév a splí-ting rrré-dêik | Estou com uma dor de cabeça latejante | Pharmacy | C1
+Something for an upset stomach | Sâm-fíng fór en âp-sét stó-mak | Algo para estômago embrulhado | Pharmacy | B1
+Deodorant and shaving cream | Di-ô-do-rrant énd shêi-ving críim | Desodorante e creme de barbear | Pharmacy | A2
+Is there a generic version? | Íz dér a dje-né-rrik vêr-jön? | Existe uma versão genérica? | Pharmacy | B2
+Cough syrup and lozenges | Cóf sí-rrup énd ló-zen-djiz | Xarope para tosse e pastilhas | Pharmacy | C1
+Antiseptic wipes | Án-ti-sép-tik uáips | Lenços antissépticos | Pharmacy | B2
+I need to refill my prescription | Ái níid tú rri-fíl mái pre-skríp-shon | Preciso renovar/comprar mais do meu remédio controlado | Pharmacy | C1
+Sanitary pads and tampons | Sá-ni-té-rri péds énd tém-pons | Absorventes e absorventes internos | Pharmacy | B1
+The pharmacist is on break | Dâ fár-ma-sist íz ón brêik | O farmacêutico está no intervalo | Pharmacy | B1
+
+// MISSÕES: O PREVENIDO (THE PREPARED ONE)
+The OTC Specialist | Dâ ô-tí-sí spé-sha-list | Encontrar um "Painkiller" sem precisar pedir ajuda ao "Pharmacist" | Missão | B1
+The Symptom Describer | Dâ símp-tom des-crái-ber | Explicar que está com "Upset stomach" para receber a recomendação correta | Missão | B2
+The Label Reader | Dâ lêi-bol rrí-der | Checar se o produto é a "Generic version" para economizar no checkout | Missão | B1
+
+// MÓDULO: LAVANDERIA E LIMPEZA (LAUNDRY & CLEANING)
+Where is the nearest laundromat? | Uér íz dâ ní-rrest lón-dro-mét? | Onde fica a lavanderia self-service mais próxima? | Laundry | B1
+I need some quarters for the washer | Ái níid sâm kuór-ters fór dâ uó-sher | Preciso de moedas de 25 centavos para a lavadora | Laundry | B1
+Laundry detergent and fabric softener | Lón-dri de-tér-djent énd fá-brik só-fe-ner | Sabão em pó/líquido e amaciante | Laundry | B2
+Is this dryer out of order? | Íz fís drái-er áut óv ór-der? | Esta secadora está fora de serviço? | Laundry | B1
+Heavy duty cycle for towels | Ré-vi diú-ti sái-col fór táu-els | Ciclo pesado para toalhas | Laundry | B2
+Delicate wash for silk shirts | Dé-li-ket uósh fór sílk shêrts | Lavagem delicada para camisas de seda | Laundry | B2
+Can I dry-clean this suit? | Kén ái drái-clíin fís súut? | Posso lavar este terno a seco? | Laundry | C1
+The lint filter needs cleaning | Dâ línt fíl-ter níids clíi-ning | O filtro de fiapos precisa de limpeza | Laundry | B2
+Bleach for the white clothes | Blíitsh fór dâ uáit clôufs | Alvejante para as roupas brancas | Laundry | B2
+Hang-dry only | Réng-drái ôun-li | Secar apenas no varal (não colocar na secadora) | Laundry | B1
+Fold the clothes while they are warm | Fôuld dâ clôufs uáil fêi ár uórm | Dobrar as roupas enquanto estão quentes | Laundry | B1
+Multipurpose cleaner and sponge | Mâl-ti-pâr-po-se clíi-ner énd spândj | Limpador multiuso e esponja | Laundry | A2
+I need to do a load of laundry | Ái níid tú dú a lôud óv lón-dri | Preciso lavar uma leva de roupa | Laundry | B1
+Stain remover for the collar | Stêin rri-mú-ver fór dâ có-lar | Tira-manchas para o colarinho | Laundry | C1
+Sweep the floor and mop it | Suíip dâ flóor énd móp ít | Varrer o chão e passar o esfregão | Laundry | B1
+
+// MISSÕES: O DONO DE CASA (THE HOMEMAKER)
+The Quarter Collector | Dâ kuór-ter co-lék-tor | Trocar notas por moedas de 25 centavos para ativar a "Washer" | Missão | B1
+The Fabric Expert | Dâ fá-brik éks-pert | Separar as roupas e escolher o "Delicate wash" corretamente | Missão | B2
+The Dry-Clean Run | Dâ drái-clíin rân | Levar um item especial para a "Dry cleaners" e perguntar o preço | Missão | C1
+
+// MÓDULO: ACADEMIA E FITNESS (GYM & FITNESS)
+Are you using this machine? | Ár iú iú-zing fís ma-shíin? | Você está usando esta máquina? | Gym | A2
+Can I work in with you? | Kén ái uôrk ín uíf iú? | Posso revezar com você? | Gym | B2
+I’m doing three more sets | Ái-ém dú-ing fríi móor séts | Vou fazer mais três séries | Gym | B1
+Where are the dumbbells? | Uér ár dâ dâm-bels? | Onde estão os halteres? | Gym | A2
+I need a spotter for this bench press | Ái níid a spó-ter fór fís béntsh prés | Preciso de alguém para me dar segurança no supino | Gym | C1
+The treadmill is out of order | Dâ tréd-míl íz áut óv ór-der | A esteira está fora de serviço | Gym | B1
+How many reps do you have left? | Ráu mé-ni rrêps dú iú rév léft? | Quantas repetições ainda faltam para você? | Gym | B1
+Don’t forget to wipe down the equipment | Dônt for-guét tú uáip dáun dâ i-kuíp-ment | Não esqueça de limpar o equipamento (após usar) | Gym | B2
+I’m focusing on leg day today | Ái-ém fôu-ca-sing ón lég dêi tú-dêi | Estou focando no treino de perna hoje | Gym | B1
+Pull-ups and push-ups | Púl-âps énd púsh-âps | Barra fixa e flexões | Gym | B1
+Where is the locker room? | Uér íz dâ ló-ker rrúum? | Onde fica o vestiário? | Gym | A2
+Stay hydrated during your workout | Stêi rrai-drêi-ted djú-ring iór uôrk-áut | Mantenha-se hidratado durante o treino | Gym | B1
+I have a gym membership | Ái rév a djím mêm-ber-shíp | Eu tenho uma matrícula/assinatura na academia | Gym | B2
+Do you offer personal training? | Dú iú ó-fer pêr-so-nal trêi-ning? | Vocês oferecem personal trainer? | Gym | B1
+My muscles are sore from yesterday | Mái mâ-sols ár sóor fróm iés-ter-dêi | Meus músculos estão doloridos de ontem | Gym | C1
+
+// MISSÕES: O ATLETA (THE ATHLETE)
+The Spotter | Dâ spó-ter | Pedir para alguém te ajudar ("Spot me") em uma carga pesada | Missão | B2
+The Clean Freak | Dâ clíin fríik | Usar o borrifador e o papel para "Wipe down" o banco após o uso | Missão | A2
+The Circuit Master | Dâ sêr-kit més-ter | Completar um "Leg day" completo sem pular nenhuma "Set" | Missão | B1
+
+// MÓDULO: HAPPY HOUR (SOCIAL & DRINKS)
+Is there a happy hour special? | Íz dér a rré-pi áu-er spé-shon? | Tem alguma promoção de happy hour? | Social | B1
+I’ll have a pint of lager, please | Áiol rév a páint óv lá-guer, plíiz | Vou querer um copo (pint) de cerveja, por favor | Social | B1
+Let’s get a round of shots! | Léts guét a rrúand óv shots! | Vamos pegar uma rodada de shots! | Social | B1
+Keep the change | Kíip dâ tthêindj | Fique com o troco | Social | A2
+I’m the designated driver tonight | Ái-ém dâ dé-zig-nêi-ted drái-ver tú-náit | Eu sou o motorista da rodada hoje | Social | B2
+Cheers! / Bottoms up! | Ttchíirs! / Bó-toms âp! | Saúde! / Virar o copo! | Social | A1
+Can we open a tab? | Kén uí ôu-pen a téb? | Podemos abrir uma conta (comanda)? | Social | B2
+I’ll have what she’s having | Áiol rév uót chíiz ré-ving | Vou querer o mesmo que ela | Social | B1
+This drink is on me | fís drínk íz ón mí | Esta bebida é por minha conta | Social | B1
+A glass of red wine, please | a glás óv rrêd uáin, plíiz | Uma taça de vinho tinto, por favor | Social | A2
+Are you guys still serving food? | Ár iú gáis stíl sêr-ving fúud? | Vocês ainda estão servindo comida? | Social | B1
+Let’s split the bill | Léts splít dâ bíl | Vamos dividir a conta | Social | B1
+I’m feeling a bit tipsy | Ái-ém fí-ling a bít típ-si | Estou me sentindo um pouco "altinho" (levemente bêbado) | Social | C1
+Where is the smoking area? | Uér íz dâ smôu-king é-ria? | Onde fica a área de fumantes? | Social | A2
+It’s been a long day, I needed this | Íts bíin a lóng dêi, ái níi-ded fís | Foi um dia longo, eu precisava disso | Social | B1
+
+// MISSÕES: O SOCIALITE (THE SOCIALITE)
+The Tab Master | Dâ téb més-ter | Abrir uma "Tab" no início da noite e fechá-la ao sair | Missão | B2
+The Round Leader | Dâ rrúand lí-der | Comprar uma "Round of drinks" para os amigos próximos | Missão | B1
+The Generous Tipper | Dâ djé-ne-rros tí-per | Dizer "Keep the change" ao pagar uma bebida rápida no balcão | Missão | B1
+
+// MÓDULO: NUTRIÇÃO E DIETA (NUTRITION & DIET)
+Check the nutrition facts | Tchék dâ nu-trí-shon fékts | Verificar a tabela nutricional | Nutrição | B1
+Serving size | Sêr-ving sáiz | Tamanho da porção | Nutrição | B1
+Daily intake | Dêi-li ín-têik | Ingestão diária | Nutrição | B2
+Low-carb / High-protein | Lôu-cárb / RRái-prôu-tiim | Baixo carboidrato / Alta proteína | Nutrição | B1
+Meal prep | Míiol prép | Preparo de refeições (marmitas) | Nutrição | B2
+Sugar-free and no additives | Shú-gar-fríi énd nôu á-di-tivs | Sem açúcar e sem aditivos | Nutrição | B2
+Whole grain bread | RRôul grêin bréd | Pão integral | Nutrição | B1
+Raw vegetables | Rrró véd-djet-bols | Vegetais crus | Nutrição | A2
+Nutrient-dense foods | Nu-tri-ent déns fúuds | Alimentos ricos em nutrientes | Nutrição | C1
+Organic and locally grown | Or-gué-nik énd lôu-ca-li grôun | Orgânico e cultivado localmente | Nutrição | B2
+Cheat meal | Ttchíit míiol | Refeição livre (dia do lixo) | Nutrição | B1
+Dietary fiber | Dái-e-té-rri fái-ber | Fibra alimentar | Nutrição | B2
+Low sodium | Lôu sôu-di-um | Baixo teor de sódio | Nutrição | B2
+Caloric surplus | Ca-ló-rrik sûr-plâs | Superávit calórico | Nutrição | C1
+Intermittent fasting | In-ter-mí-tent fás-ting | Jejum intermitente | Nutrição | C1
+
+// MISSÕES: O NUTRICIONISTA (THE NUTRITIONIST)
+The Label Reader | Dâ lêi-bol rrí-der | Analisar o "Serving size" antes de comer um pacote de snacks | Missão | B1
+The Meal Prepper | Dâ míiol pré-per | Organizar o seu "Meal prep" da semana para evitar fast-food | Missão | B2
+The Sugar Hunter | Dâ shú-gar rân-ter | Encontrar produtos que sejam "Sugar-free" no supermercado | Missão | A2
+
+// MÓDULO: ATENÇÃO PLENA (MINDFULNESS)
+Be present in the moment | Bíi pré-zent ín dâ môu-ment | Esteja presente no momento | Mindfulness | B1
+Deep breathing exercises | Díip bríi-fing ék-ser-sái-ziz | Exercícios de respiração profunda | Mindfulness | B1
+Clear your mind | Clíier iór máind | Limpe a sua mente | Mindfulness | B2
+Guided meditation | Gái-ded me-di-têi-shon | Meditação guiada | Mindfulness | B2
+Awareness of thoughts | A-uér-ness óv fóts | Consciência dos pensamentos | Mindfulness | C1
+Inhale and exhale | In-rrêiol énd éks-rrêiol | Inspire e expire | Mindfulness | A2
+Grounding techniques | Gráun-ding ték-níiks | Técnicas de aterramento | Mindfulness | C1
+Reduce stress and anxiety | Rri-diú-se stréss énd ang-zái-e-ti | Reduzir o stress e a ansiedade | Mindfulness | B2
+Mindful eating | Máind-ful í-ting | Comer com atenção plena | Mindfulness | B2
+Self-compassion | Sélf-com-pá-shon | Autocompaixão | Mindfulness | C1
+Focus on your senses | Fôu-cas ón iór sén-siz | Foque nos seus sentidos | Mindfulness | B1
+Let it go | Lét ít gôu | Deixe ir / Desapegue | Mindfulness | A2
+Mental clarity | Mén-tal clá-ri-ti | Clareza mental | Mindfulness | B2
+Living in the now | Lí-ving ín dâ náu | Viver no agora | Mindfulness | B1
+Body scan meditation | Bó-di skén me-di-têi-shon | Meditação de varredura corporal | Mindfulness | C1
+
+// MISSÕES: O MONGE MODERNO (THE MODERN MONK)
+The Breath Master | Dâ bréf més-ter | Praticar "Deep breathing" por 5 minutos antes de uma reunião difícil | Missão | B1
+The Senses Check | Dâ sén-siz tchék | Usar a técnica "Focus on your senses" para sair de um momento de ansiedade | Missão | B2
+The Mindful Eater | Dâ máind-ful í-ter | Praticar "Mindful eating" durante o almoço, sem usar o telemóvel | Missão | B2
+
+// MÓDULO: CONSULADO E VISTO (CONSULATE & VISA)
+What is the purpose of your trip? | Uót íz dâ pâr-po-se óv iór trríp? | Qual é o propósito da sua viagem? | Consulado | B1
+I’m traveling for leisure | Ái-ém trré-ve-ling fór lí-jur | Estou viajando a lazer | Consulado | B2
+Business or pleasure? | Bí-zi-nes ór plé-jur? | Negócios ou lazer? | Consulado | A2
+How long do you intend to stay? | Ráu lóng dú iú in-ténd tú stêi? | Quanto tempo você pretende ficar? | Consulado | B1
+I have strong ties to my country | Ái rév stróng táiz tú mái cân-trri | Eu tenho fortes vínculos com meu país | Consulado | C1
+Proof of financial support | Prúuf óv fi-nén-shon sâ-pórt | Comprovação de suporte financeiro | Consulado | B2
+Employment verification letter | Em-plói-ment ve-ri-fi-kêi-shon lé-ter | Carta de comprovação de emprego | Consulado | C1
+I am a self-employed professional | Ái ém a sélf-em-plóid pro-fí-sho-nal | Eu sou profissional autônomo | Consulado | B2
+Where will you be staying? | Uér uíl iú bíi stêi-ing? | Onde você ficará hospedado? | Consulado | A2
+My visa application was approved | Mái ví-za a-pli-kêi-shon uós a-prúuvd | Minha solicitação de visto foi aprovada | Consulado | B1
+Bring your original documents | Bríng iór o-rrí-dji-nal dó-kiu-ments | Traga seus documentos originais | Consulado | A2
+Biometric data collection | Bái-o-mé-trrik dêi-ta co-lék-shon | Coleta de dados biométricos | Consulado | B2
+Does this require an interview? | Dâz fís rri-kuáier en ín-ter-viú? | Isso requer uma entrevista? | Consulado | B1
+The processing time is two weeks | Dâ prô-cé-sing táim íz túu uíiks | O tempo de processamento é de duas semanas | Consulado | B1
+I’m renewing my passport | Ái-ém rri-niú-ing mái páss-pórt | Estou renovando meu passaporte | Consulado | B1
+
+// MISSÕES: O REQUERENTE (THE APPLICANT)
+The Purpose Statement | Dâ pâr-po-se stêit-ment | Declarar seu objetivo de viagem de forma clara e sem hesitação | Missão | B1
+The Ties Evidence | Dâ táiz é-vi-dens | Explicar seus "Strong ties" (trabalho, família, bens) para o oficial | Missão | C1
+The Document Check | Dâ dó-kiu-ment tchék | Organizar todos os seus "Original documents" na ordem solicitada | Missão | A2
+
+// MÓDULO: RECURSOS HUMANOS E CARREIRA (HR & CAREER)
+Job description and duties | Djób des-críp-shon énd diú-tis | Descrição do cargo e deveres | RH | B1
+What are your salary expectations? | Uót ár iór sá-la-ri eks-pek-têi-shons? | Quais são suas expectativas salariais? | RH | B2
+Paid time off (PTO) | Pêid táim óf | Tempo livre remunerado (férias/folgas) | RH | B2
+Health insurance and benefits | RRélf in-shú-rans énd bé-ne-fits | Plano de saúde e benefícios | RH | B1
+Are you a team player? | Ár iú a tíim plêi-er? | Você trabalha bem em equipe? | RH | A2
+Performance review | Per-fór-mans rri-viú | Avaliação de desempenho | RH | B2
+The company culture | Dâ câm-pa-ni câl-tchiúr | A cultura da empresa | RH | B1
+I’d like to apply for this position | Áid láik tú a-plái fór fís po-zí-shon | Eu gostaria de me candidatar a esta vaga | RH | B1
+Background check and references | Bék-gráund tchék énd rrê-fe-ren-siz | Verificação de antecedentes e referências | RH | C1
+Remote work or hybrid model | Rri-môut uôrk ór rrải-brid mó-del | Trabalho remoto ou modelo híbrido | RH | B1
+Sick leave | Síik líiv | Licença médica | RH | B2
+Onboarding process | Ón-bór-ding prô-ces | Processo de integração/treinamento inicial | RH | B2
+I’m looking for career growth | Ái-ém lú-king fór ca-rríier grôuf | Estou em busca de crescimento na carreira | RH | C1
+Notice period for resignation | Nôu-tis pí-ri-od fór rre-zig-nêi-shon | Aviso prévio para pedido de demissão | RH | C1
+Deadline and milestones | Déd-láin énd mái-ol-stôuns | Prazo final e marcos/etapas | RH | B2
+
+// MISSÕES: O CANDIDATO IDEAL (THE IDEAL CANDIDATE)
+The Interviewer | Dâ ín-ter-viú-er | Responder sobre suas "Salary expectations" de forma profissional | Missão | B2
+The Benefit Hunter | Dâ bé-ne-fit rrân-ter | Perguntar sobre "Paid time off" e "Health insurance" antes de assinar | Missão | B1
+The Team Player | Dâ tíim plêi-er | Descrever uma situação onde você ajudou o time em uma "Performance review" | Missão | C1
+
+// MÓDULO: REUNIÕES E APRESENTAÇÕES (MEETINGS & PRESENTATIONS)
+Let’s get down to business | Léts guét dáun tú bí-zi-nes | Vamos direto ao que interessa / ao trabalho | Reunião | B2
+Can you see my screen? | Kén iú síi mái skríin? | Você consegue ver minha tela? | Reunião | A2
+To wrap up this meeting | Tú rrêp âp fís míi-ting | Para encerrar esta reunião | Reunião | B2
+Key takeaways | Kíi têi-ka-uêiz | Principais conclusões / aprendizados | Reunião | C1
+The floor is yours | Dâ flóor íz iórs | A palavra é sua | Reunião | B2
+Let’s brainstorm some ideas | Léts brêin-stórm sâm ái-dí-as | Vamos fazer um brainstorm de ideias | Reunião | B1
+I’d like to point out that... | Áid láik tú póint áut fét... | Eu gostaria de ressaltar que... | Reunião | B2
+Could you speak up a bit? | Cúd iú spíik âp a bít? | Você poderia falar um pouco mais alto? | Reunião | B1
+Let’s schedule a follow-up | Léts ské-diu-ol a fó-lo-âp | Vamos agendar um acompanhamento | Reunião | B2
+Any questions or concerns? | É-ni kués-tchons ór con-sêr-nz? | Alguma pergunta ou dúvida/preocupação? | Reunião | B1
+To stay on track | Tú stêi ón trrék | Para manter o foco / não sair do assunto | Reunião | B2
+Action items | Ák-shon ái-tems | Tarefas a serem executadas | Reunião | C1
+You are on mute | Iú ár ón miúut | Você está no mudo | Reunião | A2
+In a nutshell | Ín a nât-shél | Resumidamente / Em poucas palavras | Reunião | C1
+Moving on to the next slide | Mú-ving ón tú dâ nékst sláid | Passando para o próximo slide | Reunião | B1
+
+// MISSÕES: O LÍDER DE PROJETO (THE PROJECT LEADER)
+The Screen Sharer | Dâ skríin shê-rrer | Iniciar uma apresentação dizendo "Can you see my screen?" | Missão | A2
+The Closer | Dâ clôu-zer | Fazer o fechamento da reunião listando os "Key takeaways" | Missão | C1
+The Timekeeper | Dâ táim-kíi-per | Garantir que a equipe vai "Stay on track" durante o brainstorm | Missão | B2
+
+// MÓDULO: UBER E RIDESHARE (UBER & LYFT)
+Confirm your pickup location | Con-fêrm iór pí-kâp lôu-kêi-shon | Confirme seu local de embarque | Uber | A2
+Are you (Driver Name)? | Ár iú...? | Você é o (Nome do Motorista)? | Uber | A1
+I'm your rider, Samuel | Ái-ém iór rái-der, Samuel | Eu sou seu passageiro, Samuel | Uber | A2
+Could you pop the trunk? | Cúd iú póp dâ trânk? | Poderia abrir o porta-malas? | Uber | B2
+Is it okay if I charge my phone? | Íz ít ôu-kêi íf ái tchárdj mái fôun? | Tudo bem se eu carregar meu celular? | Uber | B1
+Could you turn down the A/C? | Cúd iú tûrn dáun dâ êi-síi? | Poderia baixar o ar-condicionado? | Uber | B1
+Can you pull over here? | Kén iú púl ôu-ver rríer? | Pode encostar aqui? | Uber | B1
+I’m in a bit of a hurry | Ái-ém ín a bít óv a rrâ-rri | Estou com um pouco de pressa | Uber | B2
+Is this the fastest route? | Íz fís dâ fás-test rrúut? | Esta é a rota mais rápida? | Uber | B1
+Just drop me off at the corner | Djâst dróp mí óf ét dâ cór-ner | Pode me deixar ali na esquina | Uber | B1
+Wait, I think I forgot something | Uêit, ái fínk ái for-guót sâm-fíng | Espere, acho que esqueci algo | Uber | B1
+I'll give you a five-star rating | Áiol guív iú a fáiv-stár rrêi-ting | Vou te dar cinco estrelas | Uber | A2
+The traffic is heavy today | Dâ trré-fik íz rrê-vi tú-dêi | O trânsito está pesado hoje | Uber | A2
+You can keep the change | iú kén kíip dâ tthêindj | Pode ficar com o troco | Uber | A2
+Thanks for the ride! | fénks fór dâ rráid! | Obrigado pela carona/viagem! | Uber | A1
+
+// MISSÕES: O PASSAGEIRO NOTA 5 (THE 5-STAR RIDER)
+The Trunk Master | Dâ trânk més-ter | Pedir para o motorista "Pop the trunk" para colocar suas malas | Missão | B2
+The Climate Controller | Dâ clái-met con-trôu-ler | Pedir educadamente para ajustar o "A/C" durante a viagem | Missão | B1
+The Drop-off pro | Dâ dróp-óf prôo | Indicar exatamente onde quer descer usando "Drop me off" | Missão | B1
+
+// MÓDULO: MOTORISTA (THE DRIVER)
+Hi! Are you (Rider Name)? | RRái! Ár iú...? | Oi! Você é o (Nome do Passageiro)? | Driver | A1
+Please, fasten your seatbelt | Plíiz, fás-sen iór síit-bêlt | Por favor, aperte o cinto | Driver | A2
+I'll put your bags in the trunk | Áiol pút iór bégz ín dâ trânk | Vou colocar suas malas no porta-malas | Driver | B1
+Is the temperature okay for you? | Íz dâ tém-pre-tchiúr ôu-kêi fór iú? | A temperatura está boa para você? | Driver | B1
+Which route do you prefer? | Uítsh rrúut dú iú pri-fêr? | Qual rota você prefere? | Driver | B2
+GPS says there’s a delay ahead | Djí-pí-éss séz dérz a di-lêi a-rréd | O GPS diz que há um atraso à frente | Driver | B2
+I’m following the navigation | Ái-ém fó-lo-u-ing dâ na-vi-guêi-shon | Estou seguindo a navegação/GPS | Driver | B1
+Do you mind if I play some music? | Dú iú máind íf ái plêi sâm miú-zik? | Você se importa se eu tocar uma música? | Driver | B1
+Is this the right drop-off point? | Íz fís dâ rráit dróp-óf póint? | Este é o ponto de descida correto? | Driver | B2
+I’ll pull over right here | Áiol púl ôu-ver rráit rríer | Vou encostar bem aqui | Driver | B1
+Can you confirm the address? | Kén iú con-fêrm dâ a-dréss? | Pode confirmar o endereço? | Driver | B1
+Please, don’t slam the door | Plíiz, dônt slém dâ dóor | Por favor, não bata a porta (com força) | Driver | B2
+The ride will take about ten minutes | Dâ rráid uíl têik a-báut tén mí-nits | A viagem vai levar uns dez minutos | Driver | B1
+Have a great day / night! | Rrév a grêit dêi / náit! | Tenha um ótimo dia / ótima noite! | Driver | A1
+Don't forget your belongings | Dônt for-guét iór bi-lóng-ingz | Não esqueça seus pertences | Driver | C1
+
+// MISSÕES: O MOTORISTA 5 ESTRELAS (THE PRO DRIVER)
+The Safety First | Dâ sêif-ti fêrst | Garantir que o passageiro colocou o "Seatbelt" antes de arrancar | Missão | A2
+The Route Expert | Dâ rrúut éks-pert | Perguntar "Which route do you prefer?" antes de iniciar a viagem | Missão | B2
+The Clean Exit | Dâ clíin ék-sit | Lembrar o passageiro de levar seus "Belongings" ao sair | Missão | B1
+
+// MÓDULO: MOTORISTA (THE DRIVER)
+Hi! Are you (Rider Name)? | RRái! Ár iú...? | Oi! Você é o (Nome do Passageiro)? | Driver | A1
+Please, fasten your seatbelt | Plíiz, fás-sen iór síit-bêlt | Por favor, aperte o cinto | Driver | A2
+I'll put your bags in the trunk | Áiol pút iór bégz ín dâ trânk | Vou colocar suas malas no porta-malas | Driver | B1
+Is the temperature okay for you? | Íz dâ tém-pre-tchiúr ôu-kêi fór iú? | A temperatura está boa para você? | Driver | B1
+Which route do you prefer? | Uítsh rrúut dú iú pri-fêr? | Qual rota você prefere? | Driver | B2
+GPS says there’s a delay ahead | Djí-pí-éss séz dérz a di-lêi a-rréd | O GPS diz que há um atraso à frente | Driver | B2
+I’m following the navigation | Ái-ém fó-lo-u-ing dâ na-vi-guêi-shon | Estou seguindo a navegação/GPS | Driver | B1
+Do you mind if I play some music? | Dú iú máind íf ái plêi sâm miú-zik? | Você se importa se eu tocar uma música? | Driver | B1
+Is this the right drop-off point? | Íz fís dâ rráit dróp-óf póint? | Este é o ponto de descida correto? | Driver | B2
+I’ll pull over right here | Áiol púl ôu-ver rráit rríer | Vou encostar bem aqui | Driver | B1
+Can you confirm the address? | Kén iú con-fêrm dâ a-dréss? | Pode confirmar o endereço? | Driver | B1
+Please, don’t slam the door | Plíiz, dônt slém dâ dóor | Por favor, não bata a porta (com força) | Driver | B2
+The ride will take about ten minutes | Dâ rráid uíl têik a-báut tén mí-nits | A viagem vai levar uns dez minutos | Driver | B1
+Have a great day / night! | Rrév a grêit dêi / náit! | Tenha um ótimo dia / ótima noite! | Driver | A1
+Don't forget your belongings | Dônt for-guét iór bi-lóng-ingz | Não esqueça seus pertences | Driver | C1
+
+// MISSÕES: O MOTORISTA 5 ESTRELAS (THE PRO DRIVER)
+The Safety First | Dâ sêif-ti fêrst | Garantir que o passageiro colocou o "Seatbelt" antes de arrancar | Missão | A2
+The Route Expert | Dâ rrúut éks-pert | Perguntar "Which route do you prefer?" antes de iniciar a viagem | Missão | B2
+The Clean Exit | Dâ clíin ék-sit | Lembrar o passageiro de levar seus "Belongings" ao sair | Missão | B1
+
+// MÓDULO: HOTEL E ACOMODAÇÃO (HOTEL & STAY)
+I have a reservation under the name... | Ái rév a rrê-zer-vêi-shon ân-der dâ nêim | Eu tenho uma reserva no nome de... | Hotel | A2
+What time is check-out? | Uót táim íz tchék-áut? | Que horas é o fechamento da conta/saída? | Hotel | A1
+Is breakfast included? | Íz brék-fást in-clú-ded? | O café da manhã está incluso? | Hotel | A2
+The Wi-Fi password, please | Dâ uái-fái páss-uôrd, plíiz | A senha do Wi-Fi, por favor | Hotel | A1
+Can I have some extra towels? | Kén ái rév sâm éks-tra táu-els? | Pode me dar algumas toalhas extras? | Hotel | B1
+The key card isn't working | Dâ kíi cárd í-zent uôr-king | O cartão/chave não está funcionando | Hotel | B1
+I’d like to order room service | Áid láik tú ór-der rrúum sêr-vi-se | Eu gostaria de pedir serviço de quarto | Hotel | B1
+Is there a gym or a pool? | Íz dér a djím ór a púul? | Tem academia ou piscina? | Hotel | A2
+Can you wake me up at 7 AM? | Kén iú uêik mí âp ét sé-ven ê-ém? | Pode me ligar para despertar às 7 da manhã? | Hotel | B1
+Where can I leave my luggage? | Uér kén ái líiv mái lâ-guédj? | Onde posso deixar minha bagagem? | Hotel | B2
+The AC is making a weird noise | Dâ êi-síi íz mêi-king a uí-erd nói-ze | O ar-condicionado está fazendo um barulho estranho | Hotel | B2
+Is there a shuttle to the airport? | Íz dér a shâ-tol tú dâ ér-pórt? | Tem um transfer/van para o aeroporto? | Hotel | B2
+I need to extend my stay | Ái níid tú eks-ténd mái stêi | Preciso estender minha estadia | Hotel | C1
+Could you call a taxi for me? | Cúd iú cól a té-ksi fór mí? | Poderia chamar um táxi para mim? | Hotel | B1
+Housekeeping, please! | RRáuz-kíi-ping, plíiz! | Camareira/Limpeza, por favor! | Hotel | A2
+
+// MISSÕES: O HÓSPEDE VIP (THE VIP GUEST)
+The Early Checker | Dâ êr-li tché-ker | Perguntar "Is it possible to check in early?" se chegar antes do horário | Missão | B2
+The Luggage Guard | Dâ lâ-guédj gárd | Deixar as malas no "Luggage storage" após o check-out para passear mais | Missão | B1
+The Noise Reporter | Dâ nói-ze rri-pór-ter | Ligar na recepção para reclamar de um "Weird noise" no quarto | Missão | B2
+
+// MÓDULO: CASA E LAR (HOME LIFE)
+Make yourself at home | Mêik iór-sélf ét rrôum | Sinta-se em casa | Casa | A2
+Take off your shoes, please | Têik óf iór shúuz, plíiz | Tire os sapatos, por favor | Casa | B1
+I need to do the dishes | Ái níid tú dú dâ dí-shiz | Eu preciso lavar a louça | Casa | B1
+Take out the trash | Têik áut dâ trrésh | Levar o lixo para fora | Casa | A1
+The faucet is leaking | Dâ fó-set íz lí-king | A torneira está vazando | Casa | B2
+Can you set the table? | Kén iú sét dâ têi-bol? | Você pode arrumar a mesa? | Casa | A2
+I’m going to vacuum the rug | Ái-ém gôu-ing tú vé-kiu-um dâ rrâg | Eu vou passar o aspirador no tapete | Casa | B1
+The light bulb burnt out | Dâ láit bâlb bêrnt áut | A lâmpada queimou | Casa | B2
+Is there any food left? | Íz dér e-ni fúud léft? | Sobrou alguma comida? | Casa | A2
+I'll be in my bedroom | Áiol bíi ín mái béd-rrúum | Estarei no meu quarto | Casa | A1
+Lock the door when you leave | Lók dâ dóor uén iú líiv | Tranque a porta quando sair | Casa | B1
+The power went out | Dâ páu-er uént áut | A energia acabou (caiu a luz) | Casa | B2
+Mop the kitchen floor | Móp dâ kí-tchen flóor | Passar o esfregão no chão da cozinha | Casa | B1
+Change the bed sheets | Ttthêindj dâ béd shíits | Trocar os lençóis da cama | Casa | B1
+Where is the remote control? | Uér íz dâ rri-môut con-trrôul? | Onde está o controle remoto? | Casa | A2
+
+// MISSÕES: O DONO DE CASA (THE HOUSE MASTER)
+The Dish Warrior | Dâ dísh uó-rri-or | Completar a tarefa de "Do the dishes" sem deixar nada na pia | Missão | A2
+The Maintenance Man | Dâ mêin-te-nans mén | Identificar que a "Light bulb burnt out" e fazer a troca | Missão | B2
+The Clean Welcome | Dâ clíin uél-come | Pedir para a visita "Take off your shoes" para manter a higiene | Missão | B1
+
+// MÓDULO: APARTAMENTO (APARTMENT LIVING)
+The rent is due on the first | Dâ rrênt íz diú ón dâ fêrst | O aluguel vence no dia primeiro | Apartamento | B1
+Sign the lease agreement | Sáin dâ líise a-gríi-ment | Assinar o contrato de locação | Apartamento | C1
+The security deposit is refundable | Dâ se-kiú-ri-ti de-pó-zit íz rri-fân-da-bol | O depósito de segurança é reembolsável | Apartamento | B2
+Is the building pet-friendly? | Íz dâ bíl-ding pét-frénd-li? | O prédio aceita animais de estimação? | Apartamento | A2
+The elevator is out of order | Dâ é-le-vêi-ter íz áut óv ór-der | O elevador está fora de serviço | Apartamento | B1
+I have a noisy neighbor | Ái rév a nói-zi nêi-bor | Eu tenho um vizinho barulhento | Apartamento | B1
+Where is the trash chute? | Uér íz dâ trrésh shúut? | Onde fica o duto de lixo? | Apartamento | B2
+The sink is clogged | Dâ sínk íz clóg-gd | A pia está entupida | Apartamento | B2
+Check the mailbox in the lobby | Ttchék dâ mêiol-bóks ín dâ ló-bi | Verifique a caixa de correio no saguão | Apartamento | A2
+Utilities are not included | Iu-tí-li-tis ár nót in-clú-ded | As contas (água/luz) não estão inclusas | Apartamento | B2
+I need to talk to the landlord | Ái níid tú tók tú dâ lénd-lórd | Preciso falar com o proprietário | Apartamento | B1
+The hallway is poorly lit | Dâ rról-uêi íz púr-li lít | O corredor está mal iluminado | Apartamento | C1
+The fire alarm went off | Dâ fáier a-lárm uént óf | O alarme de incêndio disparou | Apartamento | B1
+Visitor parking is full | Ví-zi-tor pár-king íz fúl | O estacionamento de visitantes está cheio | Apartamento | A2
+Give a thirty-day notice | Guív a fêr-ti-dêi nôu-tis | Dar um aviso prévio de trinta dias | Apartamento | C1
+
+// MISSÕES: O INQUILINO IDEAL (THE IDEAL TENANT)
+The Lease Signer | Dâ líise sái-ner | Ler e assinar o "Lease agreement" sem dúvidas sobre o "Deposit" | Missão | C1
+The Maintenance Request | Dâ mêin-te-nans rri-kuést | Ligar para o "Landlord" para avisar que a "Sink is clogged" | Missão | B2
+The Quiet Neighbor | Dâ kuáiet nêi-bor | Manter o silêncio após as 10pm para evitar reclamações de "Noisy neighbor" | Missão | A2
+
+// MÓDULO: COMPRAS E OUTLET (SHOPPING)
+Is there a sale going on? | Íz dér a sêiol gôu-ing ón? | Está a decorrer alguma promoção? | Compras | A2
+Do you have this in a smaller size? | Dú iú rév fís ín a smó-ler sáiz? | Tem isto num tamanho mais pequeno? | Compras | B1
+Where are the fitting rooms? | Uér ár dâ fí-ting rrúumz? | Onde ficam os provadores? | Compras | A2
+I’m just looking, thanks | Ái-ém djâst lú-king, fénks | Só estou a ver, obrigado | Compras | A1
+Is this on clearance? | Íz fís ón clí-rans? | Isto está na liquidação/queima de stock? | Compras | B2
+Can I try this on? | Kén ái trrái fís ón? | Posso experimentar isto? | Compras | A2
+Do you have this in stock? | Dú iú rév fís ín stók? | Tem isto em stock? | Compras | B1
+What is your return policy? | Uót íz iór rri-tûrn pó-li-si? | Qual é a vossa política de devolução? | Compras | B2
+I’d like to return this, please | Áid láik tú rri-tûrn fís, plíiz | Gostaria de devolver isto, por favor | Compras | B1
+Can I get a discount on this? | Kén ái guét a dís-cáunt ón fís? | Posso ter um desconto nisto? | Compras | C1
+Where is the checkout counter? | Uér íz dâ tchék-áut cáun-ter? | Onde fica o balcão do caixa? | Compras | A2
+It’s a bit out of my budget | Íts a bít áut óv mái bâ-djet | Está um pouco fora do meu orçamento | Compras | C1
+Do you take credit cards? | Dú iú têik cré-dit cárdz? | Aceitam cartões de crédito? | Compras | A1
+I’ll take it! | Áiol têik ít! | Vou levar! | Compras | A1
+Buy one, get one free | Bái uán, guét uán frríi | Compre um, leve outro grátis | Compras | B1
+
+// MISSÕES: O CAÇADOR DE OFERTAS (THE BARGAIN HUNTER)
+The Fitting Room Quest | Dâ fí-ting rrúum kuést | Encontrar os "Fitting rooms" e pedir um "Smaller size" ao assistente | Missão | B1
+The Clearance Expert | Dâ clí-rans éks-pert | Localizar a secção de "Clearance" e confirmar se o item tem desconto extra | Missão | B2
+The Policy Checker | Dâ pó-li-si tché-ker | Perguntar sobre a "Return policy" antes de pagar por um item caro | Missão | B2
+
+// MÓDULO: DIREÇÕES E MAPAS (DIRECTIONS & MAPS)
+How do I get to the city center? | Ráu dú ái guét tú dâ cí-ti sén-ter? | Como chego ao centro da cidade? | Direções | A2
+Go straight for two blocks | Gôu strrêit fór túu blóks | Vá em frente por dois quarteirões | Direções | A2
+Turn left at the traffic light | Tûrn léft ét dâ trré-fik láit | Vire à esquerda no semáforo | Direções | B1
+It’s on the corner of Main Street | Íts ón dâ cór-ner óv mêin strríit | É na esquina da Main Street | Direções | B1
+Cross the bridge and keep going | Cróss dâ brídj énd kíip gôu-ing | Atravesse a ponte e continue indo | Direções | B1
+Is it within walking distance? | Íz ít uí-fín uó-king dís-tans? | Dá para ir a pé? (É uma distância caminhável?) | Direções | B2
+You can’t miss it | Iú ként míss ít | Não tem como errar | Direções | B1
+Take the third exit on the roundabout | Têik dâ fêrd ék-sit ón dâ rrảund-a-báut | Pegue a terceira saída na rotatória | Direções | C1
+Where is the nearest subway station? | Uér íz dâ ní-rrest sâb-uêi stêi-shon? | Onde fica a estação de metrô mais próxima? | Direções | A2
+It’s right across from the bank | Íts rráit a-cróss fróm dâ bénk | É logo em frente ao banco (do outro lado da rua) | Direções | B1
+Head north for about a mile | RRéd nórf fór a-báut a mái-ol | Siga para o norte por cerca de uma milha | Direções | B2
+Is there a shortcut to the park? | Íz dér a shórt-cât tú dâ párk? | Existe um atalho para o park? | Direções | B2
+Follow the signs to the airport | Fó-lo dâ sáinz tú dâ ér-pórt | Siga as placas para o aeroporto | Direções | B1
+I’m looking for this address | Ái-ém lú-king fór fís a-dréss | Estou procurando por este endereço | Direções | A2
+I’m lost, can you help me? | Ái-ém lóst, kén iú rré-olp mí? | Estou perdido, pode me ajudar? | Direções | A1
+
+// MISSÕES: O NAVEGADOR (THE NAVIGATOR)
+The Landmark Finder | Dâ lénd-márk fáin-der | Localizar um ponto de referência usando "Across from" ou "On the corner" | Missão | B1
+The Roundabout Master | Dâ rrảund-a-báut més-ter | Entender e pegar a "Exit" correta em uma rotatória movimentada | Missão | C1
+The Walking Tour | Dâ uó-king tú-er | Confirmar se o destino está em "Walking distance" antes de chamar um Uber | Missão | B2
+
+// MÓDULO: LEGISLAÇÃO E PLACAS (TRAFFIC LAWS & SIGNS)
+Yield to pedestrians | Ií-old tú pe-dés-trri-ans | Dê a preferência aos pedestres | Trânsito | B1
+No parking / Tow away zone | Nôu pár-king / Tôu a-uêi zôun | Proibido estacionar / Zona de reboque | Trânsito | B1
+Yield sign | Ií-old sáin | Placa de "Dê a preferência" | Trânsito | B2
+Right turn on red is permitted | Rráit tûrn ón rréd íz per-mí-ted | Conversão à direita no sinal vermelho é permitida | Trânsito | C1
+Speed limit strictly enforced | Spíid lí-mit strríkt-li en-fórst | Limite de velocidade rigorosamente fiscalizado | Trânsito | B2
+One-way street | Uán-uêi strríit | Rua de mão única | Trânsito | A2
+Dead end / No outlet | Déd énd / Nôu áut-let | Rua sem saída | Trânsito | B1
+The car was towed | Dâ cár uós tôud | O carro foi rebocado | Trânsito | B2
+Carpool lane (HOV) | Cár-púul lêin | Faixa para carros com 2 ou mais pessoas | Trânsito | C1
+Jaywalking is a crime | Djêi-uó-king íz a crráime | Atravessar fora da faixa é crime | Trânsito | C1
+Don't drink and drive | Dônt drínk énd drráive | Se beber, não dirija | Trânsito | A1
+Registration and insurance | Rre-djis-trrêi-shon énd in-shú-rans | Documento do veículo e seguro | Trânsito | B2
+The light turned yellow | Dâ láit tûrnd ié-lou | O sinal ficou amarelo | Trânsito | A2
+Hands-free devices only | RRéndz-frríi di-vái-siz ôun-li | Apenas dispositivos viva-voz (celular) | Trânsito | B2
+U-turn is prohibited | Iú-tûrn íz pro-rrí-bi-ted | Retorno é proibido | Trânsito | B1
+
+// MISSÕES: O CIDADÃO EXEMPLAR (THE LAW-ABIDING CITIZEN)
+The Right-Hand Rule | Dâ rráit-rrénd rrúul | Fazer o "Right turn on red" com segurança após parar totalmente | Missão | C1
+The Tow-Away Scape | Dâ tôu-a-uêi esk-êip | Identificar a placa de "Tow away zone" e mudar o local de estacionamento | Missão | B1
+The HOV Lane | Dâ rrêi-ô-ví lêin | Entrar na "Carpool lane" apenas quando estiver com passageiros | Missão | B2
