@@ -1,29 +1,23 @@
 import streamlit as st
 import pandas as pd
-import glob
 import os
 import json
 from datetime import datetime, timedelta
 from gtts import gTTS
 from io import BytesIO
-import random
 
 # ==============================================================================
-# 1. CONFIGURAÇÕES E CONSTANTES
+# 1. CONFIGURAÇÕES E ESTILOS
 # ==============================================================================
 st.set_page_config(page_title="Samuel's Mastery RPG", page_icon="⚔️", layout="wide")
 
-DATA_PATH = os.path.dirname(os.path.abspath(__file__))
-PROGRESS_FILE = os.path.join(DATA_PATH, "progresso.json")
+# Nome do arquivo conforme solicitado
+ARQUIVO_DADOS = "dados_concluidos.txt"
+PROGRESS_FILE = "progresso_rpg.json"
 
-# Ciclo de 3 anos (Curva de Ebbinghaus estendida)
+# Ciclo de repetição (SRS)
 INTERVALOS = [1, 3, 7, 15, 30, 60, 90, 180, 365, 540, 730, 1095]
-
-# Configurações de XP
-XP_ACERTO = 15
-XP_ERRO = 1 
-XP_MISSAO = 50
-XP_BASE_NIVEL = 100
+XP_ACERTO, XP_ERRO, XP_MISSAO, XP_BASE_NIVEL = 15, 1, 50, 100
 
 st.markdown("""
     <style>
@@ -31,39 +25,33 @@ st.markdown("""
         background: white; padding: 30px; border-radius: 20px;
         border: 2px solid #e2e8f0; text-align: center;
         box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-        min-height: 400px; display: flex; flex-direction: column; 
-        justify-content: center; align-items: center; position: relative;
+        min-height: 350px; display: flex; flex-direction: column; 
+        justify-content: center; align-items: center;
     }
-    .mastered { border: 4px solid #fbbf24 !important; background: #fffbeb !important; }
-    .meta-info { font-size: 12px; font-weight: bold; color: #94a3b8; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 5px; }
-    .eng-word { color: #1e293b; font-size: 38px; font-weight: 800; margin-bottom: 10px; line-height: 1.2; }
-    .pt-word { color: #2563eb; font-size: 24px; font-weight: 600; margin-top: 15px; margin-bottom: 10px; }
-    
-    /* CORREÇÃO DA PRONÚNCIA: Fundo cinza suave e texto escuro para legibilidade total */
+    .meta-info { font-size: 12px; font-weight: bold; color: #94a3b8; text-transform: uppercase; margin-bottom: 5px; }
+    .eng-word { color: #1e293b; font-size: 38px; font-weight: 800; margin-bottom: 10px; }
+    .pt-word { color: #2563eb; font-size: 24px; font-weight: 600; margin-top: 15px; }
     .pron { 
-        color: #1e293b !important; 
-        font-size: 19px; 
-        font-weight: 500;
-        background: #f1f5f9; 
-        padding: 8px 20px; 
-        border-radius: 12px;
-        margin-top: 10px;
-        display: inline-block;
-        border: 1px solid #e2e8f0;
+        color: #1e293b; font-size: 18px; font-weight: 500;
+        background: #f1f5f9; padding: 8px 15px; border-radius: 10px;
+        margin-top: 10px; border: 1px solid #e2e8f0;
     }
-
-    .status-badge { font-size: 11px; padding: 4px 10px; border-radius: 12px; background: #f1f5f9; color: #64748b; margin-bottom: 15px; border: 1px solid #cbd5e1; display: inline-block; }
-    .gold-badge { background: #fbbf24; color: #78350f; border:none; font-weight:bold; }
-    
-    .metric-card { background: #f8fafc; padding: 15px; border-radius: 10px; border: 1px solid #e2e8f0; text-align: center; }
-    .metric-num { font-size: 24px; font-weight: bold; color: #3b82f6; }
-    .metric-label { font-size: 14px; color: #64748b; }
     </style>
 """, unsafe_allow_html=True)
 
 # ==============================================================================
-# 2. GERENCIAMENTO DE DADOS
+# 2. LÓGICA DE DADOS E ÁUDIO
 # ==============================================================================
+
+def tocar_audio(texto):
+    """Gera e toca o áudio da frase em inglês"""
+    try:
+        tts = gTTS(text=texto, lang='en')
+        fp = BytesIO()
+        tts.write_to_fp(fp)
+        st.audio(fp, format='audio/mp3', autoplay=True)
+    except Exception as e:
+        st.error(f"Erro no áudio: {e}")
 
 def carregar_progresso():
     if os.path.exists(PROGRESS_FILE):
@@ -75,230 +63,135 @@ def salvar_progresso(dados):
     with open(PROGRESS_FILE, 'w', encoding='utf-8') as f:
         json.dump(dados, f, indent=4)
 
-def atualizar_revisao(termo_ingles, acertou):
-    progresso = carregar_progresso()
-    hoje_str = datetime.now().strftime("%Y-%m-%d")
+@st.cache_data
+def carregar_dados_do_arquivo():
+    """Lê o arquivo dados_concluidos.txt e transforma em DataFrame"""
+    itens = []
     
-    registro = progresso.get(termo_ingles, {"nivel_srs": 0, "proxima_revisao": hoje_str})
-    nivel_atual = registro["nivel_srs"]
-
-    if acertou:
-        proximo_nivel = min(nivel_atual + 1, len(INTERVALOS) - 1)
-        dias_para_add = INTERVALOS[proximo_nivel]
-        nova_data = (datetime.now() + timedelta(days=dias_para_add)).strftime("%Y-%m-%d")
-        
-        progresso[termo_ingles] = {
-            "nivel_srs": proximo_nivel,
-            "proxima_revisao": nova_data,
-            "ultimo_estudo": hoje_str,
-            "acertos_consecutivos": registro.get("acertos_consecutivos", 0) + 1
-        }
+    if os.path.exists(ARQUIVO_DADOS):
+        with open(ARQUIVO_DADOS, 'r', encoding='utf-8') as f:
+            linhas = f.readlines()
     else:
-        progresso[termo_ingles] = {
-            "nivel_srs": 0,
-            "proxima_revisao": hoje_str, 
-            "ultimo_estudo": hoje_str,
-            "acertos_consecutivos": 0
-        }
-    
-    salvar_progresso(progresso)
-    return dias_para_add if acertou else 0
+        st.warning(f"Arquivo {ARQUIVO_DADOS} não encontrado. Usando dados de exemplo.")
+        # Dados de exemplo caso o arquivo não exista
+        linhas = [
+            "Welcome | Uél-cam | Bem-vindo | Geral | A1",
+            "Example | Eg-zém-pol | Exemplo | Geral | A1"
+        ]
 
-@st.cache_data(ttl=60)
-def load_data():
-    all_data = []
-    # Busca por arquivos .txt ou dados_concluidos.txt
-    target_file = os.path.join(DATA_PATH, "dados_concluidos.txt")
-    files = [target_file] if os.path.exists(target_file) else glob.glob(os.path.join(DATA_PATH, "*.txt"))
+    for linha in linhas:
+        linha = linha.strip()
+        if not linha or linha.startswith("//"):
+            continue
+        partes = [p.strip() for p in linha.split('|')]
+        if len(partes) >= 3:
+            itens.append({
+                "Inglês": partes[0],
+                "Pronúncia": partes[1],
+                "Tradução": partes[2],
+                "Categoria": partes[3] if len(partes) > 3 else "Geral",
+                "Nível": partes[4] if len(partes) > 4 else "A1"
+            })
+    return pd.DataFrame(itens)
 
-    for file in files:
-        if file.endswith(".py") or "progresso.json" in file: continue
-        try:
-            with open(file, 'r', encoding='utf-8') as f:
-                lines = f.readlines()
-                for line in lines:
-                    line = line.strip()
-                    if not line or line.startswith("//"): continue
-                    parts = [p.strip() for p in line.split('|')]
-                    
-                    if len(parts) >= 3:
-                        item = {
-                            "Inglês": parts[0],
-                            "Pronúncia": parts[1],
-                            "Tradução": parts[2],
-                            "Categoria": parts[3] if len(parts) > 3 else "Geral",
-                            "Nível": parts[4] if len(parts) > 4 else "Geral",
-                        }
-                        all_data.append(item)
-        except: continue
-    
-    if not all_data: return pd.DataFrame()
-    df = pd.DataFrame(all_data).drop_duplicates()
-    return df
+# ==============================================================================
+# 3. CONTROLE DE ESTADO E GAMIFICAÇÃO
+# ==============================================================================
 
-# Gamification Init
 if 'xp' not in st.session_state: st.session_state.xp = 0
 if 'nivel' not in st.session_state: st.session_state.nivel = 1
-if 'missoes_feitas' not in st.session_state: st.session_state.missoes_feitas = []
 
-def adicionar_xp(qtd):
-    st.session_state.xp += qtd
-    meta = st.session_state.nivel * XP_BASE_NIVEL
-    if st.session_state.xp >= meta:
-        st.session_state.nivel += 1
-        st.balloons()
-        st.toast(f"LEVEL UP! Nível {st.session_state.nivel}!", icon="🎉")
-
-# ==============================================================================
-# 3. PREPARAÇÃO DE DADOS
-# ==============================================================================
-df = load_data()
+df = carregar_dados_do_arquivo()
 progresso_db = carregar_progresso()
+hoje_str = datetime.now().strftime("%Y-%m-%d")
 
-if not df.empty:
-    df['Proxima_Revisao'] = df['Inglês'].apply(lambda x: progresso_db.get(x, {}).get('proxima_revisao', '2000-01-01'))
-    df['Nivel_SRS'] = df['Inglês'].apply(lambda x: progresso_db.get(x, {}).get('nivel_srs', 0))
-    
-    hoje = datetime.now().strftime("%Y-%m-%d")
-    df_revisao = df[ (df['Proxima_Revisao'] <= hoje) & (df['Categoria'] != 'Missão') ].copy()
-    df_futuro = df[ (df['Proxima_Revisao'] > hoje) & (df['Categoria'] != 'Missão') ].copy()
-    df_missoes = df[df['Categoria'] == 'Missão'].copy()
-else:
-    df_revisao, df_futuro, df_missoes = pd.DataFrame(), pd.DataFrame(), pd.DataFrame()
+# Mesclar progresso com os dados carregados
+df['Proxima'] = df['Inglês'].apply(lambda x: progresso_db.get(x, {}).get('proxima_revisao', '2000-01-01'))
+df_revisao = df[(df['Proxima'] <= hoje_str) & (df['Categoria'] != 'Missão')].copy()
+df_missoes = df[df['Categoria'] == 'Missão'].copy()
 
 # ==============================================================================
-# 4. SIDEBAR
+# 4. INTERFACE DO USUÁRIO
 # ==============================================================================
+
 with st.sidebar:
-    st.header(f"🛡️ Nível {st.session_state.nivel}")
-    progresso_xp = min(st.session_state.xp / (st.session_state.nivel * XP_BASE_NIVEL), 1.0)
-    st.progress(progresso_xp)
-    st.caption(f"XP Total: {st.session_state.xp}")
-    
+    st.title("⚔️ Samuel's RPG")
+    st.subheader(f"🛡️ Nível {st.session_state.nivel}")
+    progresso_barra = min((st.session_state.xp % XP_BASE_NIVEL) / XP_BASE_NIVEL, 1.0)
+    st.progress(progresso_barra)
+    st.write(f"XP Total: {st.session_state.xp}")
     st.divider()
-    
-    c1, c2 = st.columns(2)
-    c1.metric("🔥 Atrasados", len(df_revisao))
-    c2.metric("💤 Futuro", len(df_futuro))
+    modo = st.radio("Navegação", ["🧠 Revisão Diária", "📜 Missões Ativas", "📖 Glossário"])
 
-    st.divider()
-    modo = st.radio("Menu Principal", ["🧠 Revisão Diária (SRS)", "🏋️ Treino por Módulo", "📊 Dashboard", "📜 Missões", "📖 Banco de Dados"])
-
-# ==============================================================================
-# 5. PÁGINAS DO APP
-# ==============================================================================
-
-if modo == "🧠 Revisão Diária (SRS)":
-    st.title("🧠 Revisão Inteligente")
+if modo == "🧠 Revisão Diária":
+    st.header("Sessão de Treinamento")
     
     if df_revisao.empty:
-        st.success("🎉 Você está em dia!")
+        st.success("🎉 Excelente! Você completou todas as revisões de hoje.")
     else:
-        if 'idx_rev' not in st.session_state: st.session_state.idx_rev = 0
-        if 'show_ans' not in st.session_state: st.session_state.show_ans = False
+        if 'idx' not in st.session_state: st.session_state.idx = 0
+        if 'revelado' not in st.session_state: st.session_state.revelado = False
         
-        if st.session_state.idx_rev >= len(df_revisao): st.session_state.idx_rev = 0
-        row = df_revisao.iloc[st.session_state.idx_rev]
-        
-        st.markdown(f"""
-        <div class="flashcard">
-            <div class="meta-info">{row['Categoria']} • {row['Nível']}</div>
-            <div class="eng-word">{row['Inglês']}</div>
-            {f'<hr style="width:50%; margin:20px 0;"><div class="pt-word">{row["Tradução"]}</div><div class="pron">🗣️ {row["Pronúncia"]}</div>' 
-              if st.session_state.show_ans else 
-              '<div style="margin-top:40px; color:#94a3b8;">(Toque em REVELAR)</div>'}
-        </div>
-        """, unsafe_allow_html=True)
-        
-        c1, c2, c3 = st.columns([1, 2, 1])
-        with c2:
-            if not st.session_state.show_ans:
-                if st.button("👁️ REVELAR RESPOSTA", type="primary", use_container_width=True):
-                    st.session_state.show_ans = True
-                    st.rerun()
-            else:
-                col_e, col_a = st.columns(2)
-                with col_e:
-                    if st.button("❌ Esqueci", use_container_width=True):
-                        atualizar_revisao(row['Inglês'], False)
-                        adicionar_xp(XP_ERRO)
-                        st.session_state.show_ans = False
-                        st.session_state.idx_rev = (st.session_state.idx_rev + 1) % len(df_revisao)
-                        st.rerun()
-                with col_a:
-                    if st.button("✅ Lembrei", type="primary", use_container_width=True):
-                        atualizar_revisao(row['Inglês'], True)
-                        adicionar_xp(XP_ACERTO)
-                        st.session_state.show_ans = False
-                        st.rerun()
-
-elif modo == "🏋️ Treino por Módulo":
-    st.title("🏋️ Treino Específico")
-    categorias = sorted([c for c in df['Categoria'].unique() if c != 'Missão'])
-    selecao = st.selectbox("Escolha o Módulo:", categorias)
-    df_treino = df[df['Categoria'] == selecao].copy()
-    
-    if not df_treino.empty:
-        if 'idx_treino' not in st.session_state: st.session_state.idx_treino = 0
-        if 'show_ans_treino' not in st.session_state: st.session_state.show_ans_treino = False
-        
-        if st.session_state.idx_treino >= len(df_treino): st.session_state.idx_treino = 0
-        row = df_treino.iloc[st.session_state.idx_treino]
+        # Garantia de índice
+        idx = st.session_state.idx % len(df_revisao)
+        row = df_revisao.iloc[idx]
         
         st.markdown(f"""
-        <div class="flashcard" style="border-color: #3b82f6;">
-            <div class="meta-info" style="color: #3b82f6;">TREINO • {row['Categoria']}</div>
-            <div class="eng-word">{row['Inglês']}</div>
-            {f'<hr style="width:50%; margin:20px 0;"><div class="pt-word">{row["Tradução"]}</div><div class="pron">🗣️ {row["Pronúncia"]}</div>' 
-              if st.session_state.show_ans_treino else 
-              '<div style="margin-top:40px; color:#94a3b8;">(Pense na resposta...)</div>'}
-        </div>
+            <div class="flashcard">
+                <div class="meta-info">{row['Categoria']} • {row['Nível']}</div>
+                <div class="eng-word">{row['Inglês']}</div>
+                {f'<hr style="width:50%"><div class="pt-word">{row["Tradução"]}</div><div class="pron">🗣️ {row["Pronúncia"]}</div>' if st.session_state.revelado else '<div style="margin-top:20px; color:#cbd5e1;">(Pense na resposta e clique em revelar)</div>'}
+            </div>
         """, unsafe_allow_html=True)
         
-        c1, c2, c3 = st.columns([1, 2, 1])
-        with c2:
-            if not st.session_state.show_ans_treino:
-                if st.button("👁️ REVELAR", type="primary", use_container_width=True):
-                    st.session_state.show_ans_treino = True
+        if st.session_state.revelado:
+            tocar_audio(row['Inglês'])
+            
+            c1, c2 = st.columns(2)
+            with c1:
+                if st.button("❌ Esqueci", use_container_width=True):
+                    # Lógica SRS para erro
+                    progresso_db[row['Inglês']] = {"nivel_srs": 0, "proxima_revisao": hoje_str}
+                    salvar_progresso(progresso_db)
+                    st.session_state.xp += XP_ERRO
+                    st.session_state.revelado = False
+                    st.session_state.idx += 1
                     st.rerun()
-            else:
-                col_e, col_a = st.columns(2)
-                with col_e:
-                    if st.button("❌ Errei", use_container_width=True):
-                        atualizar_revisao(row['Inglês'], False)
-                        st.session_state.show_ans_treino = False
-                        st.session_state.idx_treino = (st.session_state.idx_treino + 1) % len(df_treino)
-                        st.rerun()
-                with col_a:
-                    if st.button("✅ Acertei", type="primary", use_container_width=True):
-                        atualizar_revisao(row['Inglês'], True)
-                        adicionar_xp(XP_ACERTO)
-                        st.session_state.show_ans_treino = False
-                        st.session_state.idx_treino = (st.session_state.idx_treino + 1) % len(df_treino)
-                        st.rerun()
-
-elif modo == "📊 Dashboard":
-    st.title("📊 Desempenho")
-    total_cards = len(df[df['Categoria'] != 'Missão'])
-    masterizadas = len(df[df['Nivel_SRS'] >= 10])
-    st.metric("Total de Cartas", total_cards)
-    st.metric("🏆 Masterizadas", masterizadas)
-    st.bar_chart(df[df['Categoria'] != 'Missão']['Nivel_SRS'].value_counts())
-
-elif modo == "📜 Missões":
-    st.title("📜 Missões")
-    for idx, row in df_missoes.iterrows():
-        feita = row['Inglês'] in st.session_state.missoes_feitas
-        with st.container(border=True):
-            c_m1, c_m2 = st.columns([4,1])
-            c_m1.markdown(f"**{row['Inglês']}**")
-            c_m1.caption(row['Tradução'])
-            if feita: c_m2.success("✅")
-            elif c_m2.button("Concluir", key=f"m_{idx}"):
-                st.session_state.missoes_feitas.append(row['Inglês'])
-                adicionar_xp(XP_MISSAO)
+            with c2:
+                if st.button("✅ Acertei", use_container_width=True, type="primary"):
+                    # Lógica SRS para acerto
+                    nv_atual = progresso_db.get(row['Inglês'], {}).get('nivel_srs', 0)
+                    novo_nv = min(nv_atual + 1, len(INTERVALOS) - 1)
+                    nova_data = (datetime.now() + timedelta(days=INTERVALOS[novo_nv])).strftime("%Y-%m-%d")
+                    progresso_db[row['Inglês']] = {"nivel_srs": novo_nv, "proxima_revisao": nova_data}
+                    salvar_progresso(progresso_db)
+                    st.session_state.xp += XP_ACERTO
+                    st.session_state.revelado = False
+                    st.session_state.idx += 1
+                    # Level up check
+                    if st.session_state.xp // XP_BASE_NIVEL > (st.session_state.xp - XP_ACERTO) // XP_BASE_NIVEL:
+                        st.session_state.nivel += 1
+                        st.balloons()
+                    st.rerun()
+        else:
+            if st.button("👁️ REVELAR RESPOSTA", use_container_width=True, type="primary"):
+                st.session_state.revelado = True
                 st.rerun()
 
-elif modo == "📖 Banco de Dados":
-    st.title("📖 Glossário")
-    st.dataframe(df[['Inglês', 'Tradução', 'Categoria', 'Nivel_SRS']], use_container_width=True)
+elif modo == "📜 Missões Ativas":
+    st.header("Missões de Campo")
+    if df_missoes.empty:
+        st.info("Nenhuma missão cadastrada no arquivo.")
+    else:
+        for i, m in df_missoes.iterrows():
+            with st.expander(f"🚩 {m['Inglês']}"):
+                st.write(f"**Descrição:** {m['Tradução']}")
+                if st.button("Marcar como Concluída", key=f"mis_{i}"):
+                    st.session_state.xp += XP_MISSAO
+                    st.toast(f"Missão concluída! +{XP_MISSAO} XP")
+
+elif modo == "📖 Glossário":
+    st.header("Biblioteca de Conhecimento")
+    busca = st.text_input("Filtrar termo:")
+    df_mostra = df[df['Inglês'].str.contains(busca, case=False)] if busca else df
+    st.dataframe(df_mostra[['Inglês', 'Tradução', 'Pronúncia', 'Categoria', 'Nível']], use_container_width=True)
