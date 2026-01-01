@@ -1681,6 +1681,347 @@ Bus stop | Bâs stóp | Ponto de ônibus (Duas palavras) | Compound Noun | A1
 Mother-in-law | Mâ-der in ló | Sogra (Com hífens) | Compound Noun | B1
 Passer-by | Pá-ser bái | Transeunte / Pedestre (Plural: Passers-by) | Compound Noun | B2
 
+// MÓDULO: GRAMMAR - NUMBERS (74)
+One | Uân | Um | Cardinal Number | A1
+First | Fârst | Primeiro | Ordinal Number | A1
+Once | Uâns | Uma vez | Adverb | A1
+Second | Sé-cond | Segundo | Ordinal Number | A1
+Twice | Tuáis | Duas vezes | Adverb | A1
+Half | Réf | Metade / Meio | Fraction | A1
+Quarter | Cuór-ter | Um quarto (1/4) | Fraction | A2
+Dozen | Dâ-zen | Dúzia | Noun | A2
+
+// MÓDULO: GRAMMAR - QUANTITY (75)
+A lot of | A lót óv | Muito / Um monte de (Informal) | Quantifier | A1
+Plenty of | Plén-ti óv | De sobra / Abundância de (Mais que suficiente) | Quantifier | B1
+Several | Sé-ve-ral | Vários (Mais que alguns, mas não muitos) | Quantifier | B1
+A couple of | A câ-pol óv | Um par de / Alguns (Geralmente 2 ou 3) | Quantifier | A2
+A bit of | A bít óv | Um pouco de | Quantifier | A2
+Loads of | Lôuds óv | Montes de (Muito informal) | Quantifier | B1
+
+// MÓDULO: GRAMMAR - APPROXIMATE QUANTITY (76)
+About | A-báut | Cerca de / Sobre (Ex: About 10 people) | Adverb | A1
+Around | A-ráund | Por volta de (Ex: Around 5 o'clock) | Adverb | A1
+Approximately | A-próc-si-meit-li | Aproximadamente (Formal) | Adverb | B1
+Roughly | Râf-li | Grosseiramente / Por alto (Estimativa rápida) | Adverb | B2
+More or less | Mór ór lés | Mais ou menos | Expression | A2
+Or so | Ór sôu | Ou algo assim / Mais ou menos (No final: "20 people or so") | Expression | B2
+Almost | Ól-moust | Quase | Adverb | A1
+
+// MÓDULO: GRAMMAR - PERSONAL PRONOUNS (77)
+I am here | Ái ém rír | Eu estou aqui (Sujeito: Antes do verbo) | Subject Pronoun | A1
+She called me | Xí cól-d mí | Ela me ligou (Objeto: Depois do verbo) | Object Pronoun | A1
+They saw us | Dêi só âs | Eles nos viram | Object Pronoun | A1
+We saw them | Uí só dém | Nós os vimos | Object Pronoun | A1
+He likes her | Rí láiks râr | Ele gosta dela | Object Pronoun | A1
+
+// MÓDULO: GRAMMAR - REFLEXIVE PRONOUNS (78)
+I cut myself | Ái cât mái-sélf | Eu me cortei (Ação volta para quem fez) | Reflexive Pronoun | A2
+He lives by himself | Rí lívs bái rím-sélf | Ele mora sozinho (Sozinho/Sem ajuda) | Reflexive Pronoun | B1
+Enjoy yourself | En-djói iór-sélf | Divirta-se | Reflexive Pronoun | A2
+They blamed themselves | Dêi blêim-d dém-sélvs | Eles se culparam | Reflexive Pronoun | B1
+We did it ourselves | Uí díd ít áu-ar-sélvs | Nós mesmos fizemos isso (Ênfase) | Intensive Pronoun | B2
+
+// MÓDULO: GRAMMAR - INDEFINITE PRONOUNS (79)
+Someone is calling | Sâm-uan íz có-lin | Alguém está ligando (Pessoa não específica) | Indefinite Pronoun | A1
+Anything is possible | É-ni-ting íz pó-si-bol | Qualquer coisa é possível | Indefinite Pronoun | A2
+I saw nobody | Ái só nôu-bo-di | Eu não vi ninguém (Verbo positivo + Nobody) | Indefinite Pronoun | A2
+Somewhere else | Sâm-uér éls | Algum outro lugar | Indefinite Adverb | B1
+Everybody knows | É-vri-bo-di nôuz | Todo mundo sabe (Verbo no singular) | Indefinite Pronoun | A2
+
+// MÓDULO: GRAMMAR - POSSESSION (80)
+It is my car | Ít íz mái cár | É meu carro (Adjetivo: Precisa do objeto) | Possessive Adjective | A1
+It is mine | Ít íz máin | É meu (Pronome: Substitui o objeto) | Possessive Pronoun | A2
+John's house | Djóns ráus | Casa do John (Genitivo com 's) | Genitive Case | A1
+The legs of the table | Dâ légs óv dâ têi-bol | As pernas da mesa (Posse de coisas inanimadas usa 'of') | Possession | B1
+Whose bag is this? | Rúz bég íz dís? | De quem é esta bolsa? | Question Word | A2
+A friend of mine | A frénd óv máin | Um amigo meu (Expressão comum) | Double Genitive | B1
+
+// MÓDULO: GRAMMAR - DEFINING RELATIVE CLAUSES (81)
+The man who called | Dâ mén rú cól-d | O homem que ligou (Especifica qual homem) | Relative Clause | A2
+The car which I bought | Dâ cár uítch ái bót | O carro que eu comprei (Usa 'which' para coisas) | Relative Clause | A2
+The book that I read | Dâ bûk dét ái réd | O livro que eu li ('That' serve para pessoas e coisas) | Relative Clause | A2
+The girl I met | Dâ gârl ái mét | A garota que conheci (Omite o 'who' quando é objeto) | Zero Relative Pronoun | B1
+
+// MÓDULO: GRAMMAR - NON-DEFINING RELATIVE CLAUSES (82)
+My mom, who is a cook, ... | Mái mâm, rú íz a cûk... | Minha mãe, que é cozinheira, ... (Informação extra entre vírgulas) | Non-defining Clause | B1
+London, which is big, ... | Lân-dan, uítch íz bíg... | Londres, que é grande, ... (Usa vírgulas e nunca usa 'that') | Non-defining Clause | B1
+This car, which is old, ... | Dís cár, uítch íz ôuld... | Este carro, que é velho, ... | Non-defining Clause | B1
+
+// MÓDULO: GRAMMAR - OTHER RELATIVE STRUCTURES (83)
+The place where we met | Dâ plêis uér uí mét | O lugar onde nos conhecemos | Relative Adverb | A2
+The day when I was born | Dâ dêi uén ái uóz bórn | O dia em que / quando nasci | Relative Adverb | A2
+The man whose car was stolen | ... rúz cár uóz stôu-len | O homem cujo carro foi roubado (Posse) | Relative Pronoun | B1
+The reason why I came | Dâ rí-zon uái ái kêim | A razão pela qual eu vim | Relative Adverb | B1
+
+// MÓDULO: GRAMMAR - QUESTION WORDS WITH "-EVER" (84)
+Whatever you want | Uót-é-ver iú uónt | O que quer que você queira / Qualquer coisa | Indefinite Pronoun | B1
+Wherever you go | Uér-é-ver iú gôu | Onde quer que você vá / Qualquer lugar | Indefinite Adverb | B1
+Whoever calls | Rú-é-ver cóls | Quem quer que ligue / Qualquer pessoa | Indefinite Pronoun | B1
+Whenever you are ready | Uén-é-ver iú ár ré-di | Quando quer que esteja pronto / A hora que for | Indefinite Adverb | B1
+However you do it | Ráu-é-ver iú dú ít | Como quer que você faça / De qualquer jeito | Indefinite Adverb | B2
+
+// MÓDULO: GRAMMAR - "THERE" (85)
+There is a problem | Dér íz a pró-blem | Há um problema (Existência) | Existential There | A1
+There lived a king | Dér lív-d a kíng | Vivia um rei (Literário: Introduz o sujeito) | Existential There | B2
+There seems to be | Dér síms tú bí | Parece haver / Parece que tem | Existential There | B1
+There you are | Dér iú ár | Aí está você (Lugar/Encontro) | Adverb of Place | A1
+
+// MÓDULO: GRAMMAR - INTRODUCTORY "IT" (86)
+It is raining | Ít íz rêi-nin | Está chovendo (Sujeito vazio para clima) | Dummy It | A1
+It is important to go | Ít íz im-pór-tant tú gôu | É importante ir (Antecipa o sujeito real 'to go') | Anticipatory It | A2
+It takes time | Ít têiks táim | Leva tempo | Expression | A2
+It appears that | Ít a-pí-ars dét | Parece que... | Anticipatory It | B1
+
+// MÓDULO: GRAMMAR - SHIFTING FOCUS (87)
+What I need is sleep | Uót ái níd íz slíp | O que eu preciso é dormir (Ênfase no objeto) | Cleft Sentence | B2
+It was John who called | Ít uóz Djón rú cól-d | Foi o John que ligou (Ênfase no sujeito) | Cleft Sentence | B2
+The person who saw it was me | ... uóz mí | A pessoa que viu fui eu | Pseudo-cleft | B2
+
+// MÓDULO: GRAMMAR - INVERSION (88)
+Never have I seen | Né-ver rév ái sín | Nunca eu vi (Inversão para ênfase dramática) | Inversion | C1
+Rarely do we go | Ré-rli dú uí gôu | Raramente nós vamos | Inversion | C1
+Here comes the bus | Rír câms dâ bâs | Lá vem o ônibus (Inversão de lugar) | Inversion | B1
+So do I | Sôu dú ái | Eu também / Assim faço eu | Inversion | A2
+Neither am I | Ní-der ém ái | Nem eu / Tampouco estou eu | Inversion | A2
+
+// MÓDULO: GRAMMAR - ELLIPSIS (89)
+Sounds good | Sáunds gûd | Parece bom (Omissão de 'It') | Ellipsis | B1
+See you later | Sí iú lêi-ter | Te vejo mais tarde (Omissão de 'I will') | Ellipsis | A1
+Got a minute? | Gót a mí-nut? | Tem um minuto? (Omissão de 'Have you') | Ellipsis | B1
+Don't know | Dôunt nôu | Não sei (Omissão de 'I') | Ellipsis | A2
+
+// MÓDULO: GRAMMAR - SHORTENING INFINITIVES (90)
+I don't want to | Ái dôunt uónt tú | Eu não quero (Omissão do verbo: 'want to go') | Reduced Infinitive | B1
+He asked me not to | Rí ásk-t mí nót tú | Ele me pediu para não (fazer isso) | Reduced Infinitive | B1
+I'd love to | Áid lâv tú | Eu adoraria | Reduced Infinitive | A2
+
+// MÓDULO: GRAMMAR - SUBSTITUTION (91)
+I think so | Ái tínk sôu | Acho que sim ('So' substitui a frase inteira) | Substitution | A1
+I hope not | Ái rôup nót | Espero que não | Substitution | A1
+The blue one | Dâ blú uân | O azul ('One' substitui o substantivo) | Substitution | A2
+I do too | Ái dú tú | Eu também (fasso) | Substitution | A1
+
+// MÓDULO: GRAMMAR - ADJECTIVES (92)
+A red car | A réd cár | Um carro vermelho (Adjetivo vem antes do substantivo) | Adjective Position | A1
+The car is red | Dâ cár íz réd | O carro é vermelho (Adjetivo depois do verbo 'to be') | Adjective Position | A1
+A beautiful big house | A biú-ti-ful bíg ráus | Uma casa grande e bonita (Ordem: Opinião antes de Tamanho) | Word Order | B1
+Interesting | Ín-tres-ting | Interessante | Adjective | A1
+Boring | Bó-ring | Chato / Entediante | Adjective | A1
+
+// MÓDULO: GRAMMAR - GRADABLE AND NON-GRADABLE ADJECTIVES (93)
+Very cold | Vé-ri côuld | Muito frio (Graduável: aceita 'very') | Gradable Adjective | A1
+Freezing | Frí-zin | Congelando (Extremo: não aceita 'very', usa-se 'absolutely') | Non-gradable Adjective | B1
+Very tired | Vé-ri tái-ard | Muito cansado | Gradable Adjective | A1
+Exhausted | Eg-zós-ted | Exausto (Extremo) | Non-gradable Adjective | B2
+Very big | Vé-ri bíg | Muito grande | Gradable Adjective | A1
+Huge | Riú-dj | Enorme / Gigante (Extremo) | Non-gradable Adjective | B1
+
+// MÓDULO: GRAMMAR - COMPARATIVE ADJECTIVES (94)
+Taller | Tó-ler | Mais alto (Adjetivo curto + er) | Comparative | A1
+More expensive | Mór eks-pén-siv | Mais caro (Adjetivo longo + more) | Comparative | A1
+Better | Bé-ter | Melhor (Irregular: Good -> Better) | Comparative | A1
+Worse | Uôrs | Pior (Irregular: Bad -> Worse) | Comparative | A1
+Farther / Further | Fár-der / Fâr-der | Mais longe (Irregular: Far) | Comparative | B1
+
+// MÓDULO: GRAMMAR - TWO COMPARATIVES TOGETHER (95)
+The sooner, the better | Dâ sú-ner dâ bé-ter | Quanto antes, melhor | Double Comparative | B2
+The more, the merrier | Dâ mór dâ mé-ri-er | Quanto mais gente, melhor (Expressão fixa) | Double Comparative | C1
+Faster and faster | Fés-ter énd fés-ter | Cada vez mais rápido | Repeated Comparative | B1
+More and more | Mór énd mór | Cada vez mais | Repeated Comparative | B1
+The more I learn, the less I know | ... dâ lés ái nôu | Quanto mais aprendo, menos eu sei | Double Comparative | B2
+
+// MÓDULO: GRAMMAR - "AS... AS" COMPARISONS (96)
+As tall as | Éz tól éz | Tão alto quanto (Igualdade) | Comparison | A2
+Not as good as | Nót éz gûd éz | Não tão bom quanto (Inferioridade sutil) | Comparison | A2
+As soon as possible | Éz sún éz pó-si-bol | O mais breve possível (Tão logo quanto possível) | Expression | B1
+Twice as big | Tuáis éz bíg | Duas vezes maior (O dobro do tamanho) | Comparison | B1
+
+// MÓDULO: GRAMMAR - SUPERLATIVE ADJECTIVES (97)
+The tallest | Dâ tó-lest | O mais alto | Superlative | A1
+The most interesting | Dâ môust ín-tres-ting | O mais interessante | Superlative | A1
+The best | Dâ bést | O melhor | Superlative | A1
+The worst | Dâ uôrst | O pior | Superlative | A1
+The least expensive | Dâ líst eks-pén-siv | O menos caro | Superlative | B1
+
+// MÓDULO: GRAMMAR - ADVERBS OF MANNER (98)
+Slowly | Slôu-li | Lentamente / Devagar | Adverb | A2
+Quickly | Cuíc-li | Rapidamente | Adverb | A2
+Well | Uél | Bem (Advérbio de Good) | Adverb | A1
+Hard | Rárd | Duro / Com esforço | Adverb | A2
+Fast | Fést | Rápido (Igual ao adjetivo) | Adverb | A1
+Loudly | Láud-li | Ruidosamente / Alto (Som) | Adverb | A2
+
+// MÓDULO: GRAMMAR - COMPARATIVE AND SUPERLATIVE ADVERBS (99)
+Faster | Fés-ter | Mais rápido | Comparative Adverb | A2
+More slowly | Mór slôu-li | Mais devagar | Comparative Adverb | A2
+The hardest | Dâ rár-dest | O mais duro / O que mais se esforça | Superlative Adverb | B1
+Better | Bé-ter | Melhor (Comparativo de Well) | Comparative Adverb | A1
+The best | Dâ bést | O melhor (Superlativo de Well) | Superlative Adverb | A1
+
+// MÓDULO: GRAMMAR - ADVERBS OF DEGREE (100)
+Very | Vé-ri | Muito | Adverb | A1
+Really | Rí-a-li | Realmente / Muito | Adverb | A1
+Quite | Cuáit | Bastante / Um tanto (Menos que 'Very') | Adverb | B1
+Extremely | Eks-trím-li | Extremamente | Adverb | B1
+Almost | Ól-moust | Quase | Adverb | A1
+Barely | Bér-li | Mal / Apenas (Quase não) | Adverb | B2
+
+// MÓDULO: GRAMMAR - ADVERBS OF TIME (101)
+Now | Náu | Agora | Adverb | A1
+Yesterday | Iés-ter-dêi | Ontem | Adverb | A1
+Tomorrow | Tu-mó-rou | Amanhã | Adverb | A1
+Soon | Sún | Em breve / Logo | Adverb | A1
+Recently | Rí-cent-li | Recentemente | Adverb | A2
+Lately | Lêit-li | Ultimamente | Adverb | B1
+
+// MÓDULO: GRAMMAR - ADVERBS OF FREQUENCY (102)
+Always | Ól-ueiz | Sempre (100%) | Adverb | A1
+Usually | Iú-zhua-li | Geralmente (80%) | Adverb | A1
+Often | Ó-fen | Frequentemente (60%) | Adverb | A1
+Sometimes | Sâm-táims | Às vezes (50%) | Adverb | A1
+Rarely | Ré-rli | Raramente (10%) | Adverb | A2
+Never | Né-ver | Nunca (0%) | Adverb | A1
+
+// MÓDULO: GRAMMAR - "SO" AND "SUCH" (103)
+So good | Sôu gûd | Tão bom (So + Adjetivo) | Intensifier | A2
+So quickly | Sôu cuíc-li | Tão rápido (So + Advérbio) | Intensifier | B1
+Such a nice day | Sâtch a náis dêi | Um dia tão bom (Such + Substantivo) | Intensifier | B1
+Such people | Sâtch pí-pol | Tal tipo de gente / Gente assim | Intensifier | B1
+
+// MÓDULO: GRAMMAR - "ENOUGH" AND "TOO" (104)
+Too hot | Tú rót | Quente demais (Excesso negativo) | Intensifier | A1
+Big enough | Bíg i-nâf | Grande o suficiente (Adjetivo + Enough) | Intensifier | A2
+Enough money | I-nâf mâ-ni | Dinheiro suficiente (Enough + Substantivo) | Quantifier | A2
+Too much work | Tú mâtch uôrk | Trabalho demais (Incontável) | Quantifier | A2
+Too many cars | Tú mé-ni cárs | Carros demais (Contável) | Quantifier | A2
+
+// MÓDULO: GRAMMAR - PREPOSITIONS (105)
+In the box | Ín dâ bócs | Na caixa / Dentro da caixa (Ideia de contêiner) | Preposition | A1
+On the table | ón dâ têi-bol | Na mesa / Sobre a mesa (Ideia de superfície) | Preposition | A1
+At the door | Ét dâ dór | Na porta (Ideia de ponto específico) | Preposition | A1
+By car | Bái cár | De carro (Meio de transporte) | Preposition | A1
+With me | Uíd mí | Comigo | Preposition | A1
+
+// MÓDULO: GRAMMAR - PREPOSITIONS OF PLACE (106)
+Under | Ân-der | Debaixo / Sob | Preposition of Place | A1
+Behind | Bi-ráind | Atrás | Preposition of Place | A1
+Between | Bi-tuín | Entre (dois pontos) | Preposition of Place | A2
+Next to | Nécst tú | Ao lado de | Preposition of Place | A1
+In front of | Ín frânt óv | Na frente de | Preposition of Place | A1
+Opposite | Ó-po-zit | De frente para / Do lado oposto | Preposition of Place | A2
+
+// MÓDULO: GRAMMAR - PREPOSITIONS OF TIME (107)
+At 5 o'clock | Ét 5 o-clóc | Às 5 horas (Horário específico usa 'At') | Preposition of Time | A1
+On Monday | ón Mân-dei | Na segunda-feira (Dias usam 'On') | Preposition of Time | A1
+In July | Ín Dju-lái | Em julho (Meses/Anos usam 'In') | Preposition of Time | A1
+During the film | Diú-ring dâ fílm | Durante o filme | Preposition of Time | A2
+Since 1990 | Síns... | Desde 1990 | Preposition of Time | A2
+For 2 years | Fór 2 í-ars | Por 2 anos (Duração) | Preposition of Time | A2
+
+// MÓDULO: GRAMMAR - OTHER PREPOSITIONS (108)
+Without | Uid-áut | Sem | Preposition | A1
+About | A-báut | Sobre / A respeito de | Preposition | A1
+From | Fróm | De (Origem) | Preposition | A1
+To | Tú | Para (Destino/Direção) | Preposition | A1
+Like | Láik | Como / Feito (Comparação: "Like a rock") | Preposition | A2
+As | Éz | Como (Função: "Work as a doctor") | Preposition | A2
+
+// MÓDULO: GRAMMAR - DEPENDENT PREPOSITIONS (109)
+Interested in | Ín-tres-ted ín | Interessado em (Sempre 'in', nunca 'on') | Adjective + Prep | A2
+Good at | Gûd ét | Bom em (Habilidade usa 'at') | Adjective + Prep | A2
+Afraid of | A-frêid óv | Com medo de | Adjective + Prep | A2
+Married to | Mé-rid tú | Casado com (Brasileiro erra usando 'with') | Adjective + Prep | B1
+Wait for | Uêit fór | Esperar por | Verb + Prep | A1
+Listen to | Lís-sen tú | Escutar (Sempre exige 'to') | Verb + Prep | A1
+
+// MÓDULO: GRAMMAR - COORDINATING CONJUNCTIONS (110)
+And | Énd | E (Adição) | Conjunction | A1
+But | Bât | Mas (Contraste) | Conjunction | A1
+Or | ór | Ou (Alternativa) | Conjunction | A1
+So | Sôu | Então / Por isso (Resultado) | Conjunction | A1
+Yet | Iét | Contudo / Mas (Contraste formal) | Conjunction | B1
+Nor | Nór | Nem (Usado em "Neither... nor") | Conjunction | B1
+
+// MÓDULO: GRAMMAR - SUBORDINATING CONJUNCTIONS (111)
+Because | Bi-cóz | Porque (Razão) | Conjunction | A1
+Although | Ol-dôu | Embora (Contraste) | Conjunction | A2
+If | Íf | Se (Condição) | Conjunction | A1
+When | Uén | Quando (Tempo) | Conjunction | A1
+While | Uái-ol | Enquanto (Tempo ou Contraste) | Conjunction | A2
+Since | Síns | Já que / Desde que (Razão ou Tempo) | Conjunction | A2
+
+// MÓDULO: GRAMMAR - MORE LINKING WORDS (112)
+However | Ráu-é-ver | Entretanto / Porém (Início de frase com vírgula) | Adverb | A2
+Therefore | Dér-fór | Portanto (Formal) | Adverb | B1
+Moreover | Mór-ôu-ver | Além disso (Formal) | Adverb | B2
+In addition | Ín a-dí-shan | Além disso | Adverb | B1
+Also | Ol-sôu | Também / Além disso | Adverb | A1
+Besides | Bi-sáids | Além de (Informal/Conversação) | Preposition/Adverb | B1
+
+// MÓDULO: GRAMMAR - LINKING WORDS REVIEW (113)
+Despite | Dis-páit | Apesar de (Seguido de substantivo ou verbo com 'ing') | Preposition | B1
+In spite of | Ín spáit óv | Apesar de (Igual a 'Despite') | Preposition | B1
+Even though | Í-ven dôu | Muito embora (Mais forte que 'Although') | Conjunction | B1
+Whereas | Uér-éz | Ao passo que / Enquanto (Contraste direto) | Conjunction | B2
+As well as | Éz uél éz | Assim como / Bem como | Conjunction | B1
+
+// MÓDULO: GRAMMAR - PREFIXES (114)
+Unhappy | An-ré-pi | Infeliz (Un- = Não/Oposto) | Adjective | A2
+Rewrite | Ri-ráit | Reescrever (Re- = Fazer de novo) | Verb | B1
+Disagree | Dis-a-grí | Discordar (Dis- = Oposto/Negativo) | Verb | A2
+Impossible | Im-pó-si-bol | Impossível (Im- = Não, antes de P/B/M) | Adjective | A2
+Misunderstand | Mis-an-der-sténd | Entender mal (Mis- = Errado/Ruim) | Verb | B2
+Pre-cooked | Prí-cûk-t | Pré-cozido (Pre- = Antes) | Adjective | B1
+Overwork | Ôu-ver-uôrk | Trabalhar demais (Over- = Excesso) | Verb | B1
+
+// MÓDULO: GRAMMAR - SUFFIXES (115)
+Teacher | Tí-tcher | Professor (Verbo + er = Quem faz a ação) | Noun | A1
+Happiness | Ré-pi-nes | Felicidade (Adjetivo + ness = Substantivo abstrato) | Noun | B1
+Information | In-for-mêi-shan | Informação (Verbo + tion = Substantivo de ação) | Noun | A1
+Careful | Kér-ful | Cuidadoso (Substantivo + ful = Cheio de) | Adjective | A2
+Homeless | Rôm-les | Sem-teto (Substantivo + less = Sem / Falta de) | Adjective | B1
+Quickly | Cuíc-li | Rapidamente (Adjetivo + ly = Advérbio de modo) | Adverb | A2
+Dangerous | Dên-dje-ras | Perigoso (Substantivo + ous = Característica) | Adjective | A2
+
+// MÓDULO: GRAMMAR - EASILY CONFUSED PHRASES (116)
+At the end | Ét dí énd | No fim (Ponto físico/temporal: "No fim da rua") | Phrase | A2
+In the end | Ín dí énd | No final (Conclusão: "No final, deu tudo certo") | Phrase | B1
+On time | ón táim | Pontualmente (Na hora marcada) | Phrase | A2
+In time | Ín táim | A tempo (Antes que fosse tarde) | Phrase | B1
+Make friends | Mêik frénds | Fazer amigos (Não se usa 'Do') | Collocation | A1
+
+// MÓDULO: GRAMMAR - SEQUENCING AND ORGANIZING (117)
+First of all | Fârst óv ól | Antes de mais nada / Primeiramente | Connector | B1
+Secondly | Sé-cond-li | Em segundo lugar | Connector | B1
+Then | Dén | Então / Depois | Connector | A1
+Finally | Fái-na-li | Finalmente | Connector | A2
+To sum up | Tú sâm âp | Para resumir | Connector | B2
+Next | Nécst | A seguir / Próximo | Connector | A1
+
+// MÓDULO: GRAMMAR - CORRECTING AND CHANGING THE SUBJECT (118)
+By the way | Bái dâ uêi | A propósito (Mudar de assunto) | Idiom | A2
+Anyway | É-ni-uei | Enfim / De qualquer forma (Voltar ao assunto ou encerrar) | Adverb | A2
+Actually | Ác-tchu-a-li | Na verdade / Aliás (Corrigir informação) | Adverb | A2
+I mean | Ái mín | Digo / Quero dizer (Auto-correção rápida) | Phrase | A1
+Or rather | ór rá-der | Ou melhor (Correção mais formal) | Phrase | B2
+
+// MÓDULO: GRAMMAR - DECIDING AND HEDGING (119)
+Definitely | Dé-fi-nit-li | Com certeza / Definitivamente | Adverb | B1
+I suppose | Ái su-pôuz | Suponho que sim / Acho que sim (Sem certeza) | Phrase | B1
+It depends | Ít di-pénds | Depende | Phrase | A2
+Kind of | Káind óv | Tipo / Meio que (Atenuador informal) | Phrase | B1
+Sort of | Sórt óv | Mais ou menos / Tipo (Igual a Kind of) | Phrase | B1
+Maybe | Mêi-bi | Talvez | Adverb | A1
+
+// MÓDULO: GRAMMAR - MAKING CONVERSATION (120)
+Nice to meet you | Náis tú mít iú | Prazer em conhecer | Phrase | A1
+How are you doing? | Ráu ár iú dú-in? | Como vai? (Informal) | Phrase | A1
+See you later | Sí iú lêi-ter | Até mais tarde | Phrase | A1
+Excuse me | Eks-kiúz mí | Com licença | Phrase | A1
+Have a nice day | Rév a náis dêi | Tenha um bom dia | Phrase | A1
+Never mind | Né-ver máind | Deixa pra lá / Não importa | Phrase | A2
+
 
 
 // MÓDULO: OPINIÃO E PROBABILIDADE (CERTAINTY - AUDITORIA)
@@ -4618,5 +4959,6 @@ Bad company corrupts good character | Béd câm-pa-ni co-rrâpts gúd ké-rac-te
 Bear one another's burdens | Bér uán a-nó-ders bâr-dens | Levai as cargas uns dos outros | Relationships | C1
 Live in harmony with one another | Lív in rár-mo-ni uíf uán a-nó-der | Vivei em harmonia uns com os outros | Relationships | B2
 Encourage one another | En-câ-ridj uán a-nó-der | Encorajai-vos uns aos outros | Relationships | B2
+
 
 
