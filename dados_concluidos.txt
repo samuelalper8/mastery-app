@@ -8799,3 +8799,381 @@ Catch you later | Kétch iú lêi-ter | Te vejo mais tarde / Até mais | Relaxin
 The DJ | Dâ dí-djêi | Escolher uma música em inglês e cantar o refrão | Missão | A1
 The Movie Critic | Dâ mú-vi crí-tic | Dizer se gostou ou não de um filme usando "It was..." | Missão | B1
 The Lazy Day | Dâ lêi-zi dêi | Descrever sua roupa confortável (pajamas, shorts) em inglês | Missão | A2
+
+// MÓDULO: MOMENTOS DE TENSÃO (TENSION)
+We need to talk | Uí níd tchu tók | Precisamos conversar (A frase mais assustadora) | Tension | A1
+Don't raise your voice | Dôunt rêiz iór vó-is | Não levante a voz | Tension | B1
+Calm down right now | Cám dáun ráit náu | Acalme-se agora mesmo | Tension | A1
+It wasn't my fault | Ít uó-zant mái fólt | Não foi minha culpa | Tension | A2
+Are you kidding me? | Ár iú kí-ding mí? | Você está de brincadeira comigo? (Irritado) | Tension | A2
+Mind your own business | Máind iór ôun bíz-nes | Cuide da sua vida | Tension | B1
+Get out of my face | Guét áut óv mái fêis | Sai da minha frente | Tension | B2
+I can't handle this | Ái ként rén-dol dís | Eu não aguento isso / Não consigo lidar com isso | Tension | B1
+Watch out! | Uótch áut! | Cuidado! (Urgência) | Tension | A1
+Don't panic | Dôunt pé-nic | Não entre em pânico | Tension | A1
+You crossed the line | Iú crós-sed dâ láin | Você passou dos limites | Tension | B2
+I don't want to argue | Ái dôunt uónt tú ár-guiu | Eu não quero discutir | Tension | A2
+That is not fair | Dét íz nót fér | Isso não é justo | Tension | A1
+Stop it! | Stóp ít! | Pare com isso! | Tension | A1
+Are you serious? | Ár iú sí-ri-âs? | Você está falando sério? | Tension | A1
+I demand an apology | Ái di-ménd én a-pó-lo-dji | Eu exijo um pedido de desculpas | Tension | B2
+This is an emergency | Dís íz én i-mâr-djen-si | Isso é uma emergência | Tension | A2
+Who do you think you are? | Rú dú iú tínk iú ár? | Quem você pensa que é? | Tension | B1
+Back off! | Bék óf! | Afaste-se / Para trás! | Tension | B1
+I am warning you | Ái ém uór-ning iú | Eu estou te avisando | Tension | A2
+
+// MISSÕES: GERENCIAMENTO DE CRISE
+The Mediator | Dâ mí-di-êi-tor | Dizer "Please, stop fighting" para duas pessoas (ou personagens) | Missão | B1
+The Deep Breath | Dâ díp bréf | Respirar fundo e dizer "Everything is under control" | Missão | A1
+The 911 Call | Dâ náin-uân-uân cól | Simular uma frase de emergência rápida no espelho | Missão | B2
+
+// MÓDULO: QUESTIONAMENTO E INDAGAÇÃO (INQUIRY)
+I wonder why... | Ái uân-der uái... | Eu me pergunto por que... | Inquiry | A2
+Does that make sense? | Dâz dét mêik séns? | Isso faz sentido? | Inquiry | A1
+What if we try this? | Uót íf uí trái dís? | E se nós tentarmos isso? | Inquiry | B1
+How come? | Ráu câm? | Como assim? / Por que? (Informal) | Inquiry | B1
+Are you absolutely sure? | Ár iú éb-so-lut-li shúr? | Você tem certeza absoluta? | Inquiry | B1
+Can you prove it? | Kén iú prúv ít? | Você pode provar isso? | Inquiry | B1
+What is the purpose of this? | Uót íz dâ pâr-pôs óv dís? | Qual é o propósito disso? | Inquiry | B2
+Let's figure this out | Léts fí-guiur dís áut | Vamos entender/resolver isso | Inquiry | B2
+What do you mean? | Uót dú iú mín? | O que você quer dizer? | Inquiry | A1
+Where did you hear that? | Uér díd iú rí-er dét? | Onde você ouviu isso? | Inquiry | A2
+Is that a fact or an opinion? | Íz dét a féct ór én o-pí-ni-on? | Isso é um fato ou uma opinião? | Inquiry | B2
+I have a doubt | Ái rév a dáut | Eu tenho uma dúvida | Inquiry | A1
+Are we missing something? | Ár uí mís-sing sâm-ting? | Estamos deixando passar/perdendo algo? | Inquiry | B1
+Explain it to me again | Eks-plêin ít tú mí a-guên | Me explique de novo | Inquiry | A2
+Why on earth...? | Uái ón ârf...? | Por que raios...? (Ênfase de surpresa) | Inquiry | B2
+That raises a question | Dét rêi-zes a qués-tchan | Isso levanta uma questão | Inquiry | B2
+Suppose that is true | Su-pôuz dét íz trú | Suponha que isso seja verdade | Inquiry | B1
+Who told you that? | Rú tôu-old iú dét? | Quem te contou isso? | Inquiry | A2
+Let me think about it | Lét mí tínk a-báut ít | Deixe-me pensar sobre isso | Inquiry | A1
+Maybe, maybe not | Mêi-bi, mêi-bi nót | Talvez, talvez não | Inquiry | A1
+
+// MISSÕES: O DETETIVE
+The Investigator | Dâ in-vés-ti-guêi-tor | Perguntar "Why?" três vezes seguidas (como uma criança curiosa) em inglês | Missão | A1
+The Skeptic | Dâ skép-tic | Ouvir uma notícia e perguntar "Is that true?" | Missão | A2
+The Riddle Solver | Dâ rí-dol sól-ver | Tentar ler e resolver uma charada simples em inglês | Missão | B2
+
+// MÓDULO: ACUSAÇÃO E DEFESA (ACCUSATION)
+It was him! | Ít uóz rím! | Foi ele! | Accusation | A1
+I didn't do it | Ái díd-ant dú ít | Eu não fiz isso | Accusation | A1
+You are lying | Iú ár lá-ing | Você está mentindo | Accusation | A2
+Tell the truth | Tél dâ trúf | Fale a verdade | Accusation | A2
+Don't blame me | Dôunt blêim mí | Não me culpe / Não coloque a culpa em mim | Accusation | B1
+I saw everything | Ái só é-vri-ting | Eu vi tudo | Accusation | A2
+She is cheating | Shí íz tchí-ting | Ela está colando (ou trapaceando) | Accusation | B1
+Who took my pen? | Rú túk mái pén? | Quem pegou minha caneta? | Accusation | A2
+I have proof | Ái rév prúf | Eu tenho provas | Accusation | B1
+He started it | Rí stár-ted ít | Foi ele que começou | Accusation | A2
+You look suspicious | Iú lúk sâs-pí-shas | Você parece suspeito | Accusation | B2
+I am telling the teacher | Áim té-ling dâ tí-tcher | Eu vou contar para o professor | Accusation | B1
+I swear it wasn't me | Ái su-ér ít uó-zant mí | Eu juro que não fui eu | Accusation | B2
+Stop making things up | Stóp mêi-king tíngs âp | Pare de inventar coisas | Accusation | B2
+Admit it! | Ad-mít ít! | Admita! | Accusation | B1
+It is a setup | Ít íz a sé-tâp | É uma armação | Accusation | B2
+Why are you pointing at me? | Uái ár iú póin-ting ét mí? | Por que você está apontando para mim? | Accusation | B1
+I am innocent | Ái ém í-no-cent | Eu sou inocente | Accusation | B1
+Cover for me | Cô-ver fór mí | Me dá cobertura / Me acoberta | Accusation | B2
+I don't believe you | Ái dôunt bi-lív iú | Eu não acredito em você | Accusation | A2
+
+// MISSÕES: O TRIBUNAL
+The Lawyer | Dâ ló-ier | Tentar defender um personagem de filme ou amigo em inglês | Missão | B2
+The Witness | Dâ uít-nes | Descrever um evento que você viu acontecer (quem fez o quê) | Missão | B1
+The Promise | Dâ pró-mis | Dizer "I promise to tell the truth" antes de contar uma história | Missão | A1
+
+// MÓDULO: AUTO DEFESA (SELF DEFENSE)
+Stay away from me | Stêi a-uêi fróm mí | Fique longe de mim | Self Defense | A1
+I said no! | Ái séd nôu! | Eu disse não! | Self Defense | A1
+Don't touch me | Dôunt tâtch mí | Não me toque | Self Defense | A1
+Let go of my arm | Lét gôu óv mái árm | Solte o meu braço | Self Defense | A2
+Stop following me | Stóp fó-lo-wing mí | Pare de me seguir | Self Defense | B1
+I am not afraid of you | Ái ém nót a-frêid óv iú | Eu não tenho medo de você | Self Defense | B1
+Call the police | Cól dâ po-lís | Chame a polícia | Self Defense | A1
+This is harassment | Dís íz ra-rés-ment | Isso é assédio | Self Defense | B2
+Give me space | Guív mí spêis | Me dê espaço | Self Defense | A2
+I don't want to fight | Ái dôunt uónt tú fáit | Eu não quero brigar | Self Defense | A2
+You are hurting me | Iú ár râr-ting mí | Você está me machucando | Self Defense | A1
+I will scream | Ái uíl scrím | Eu vou gritar | Self Defense | B1
+Defend yourself | Di-fénd iór-sélf | Defenda-se | Self Defense | B1
+It was self-defense | Ít uóz sélf di-féns | Foi legítima defesa | Self Defense | B2
+Get away! | Guét a-uêi! | Sai daqui! / Afaste-se! | Self Defense | A1
+Watch your language | Uótch iór lén-gu-edj | Olha a boca / Cuidado com o que fala | Self Defense | B1
+I am warning you once | Ái ém uór-ning iú uâns | Estou te avisando uma vez | Self Defense | B1
+Respect my boundaries | Ris-péct mái báun-da-ris | Respeite meus limites | Self Defense | B2
+I'm calling for help | Áim có-ling fór rélp | Vou pedir ajuda | Self Defense | A2
+Don't underestimate me | Dôunt ân-der-és-ti-meit mí | Não me subestime | Self Defense | B2
+
+// MISSÕES: ESCUDO DE FERRO
+The Iron Shield | Dâ ái-ron shí-old | Praticar dizer "NO!" na frente do espelho com cara séria | Missão | A1
+The Boundaries | Dâ báun-da-ris | Explicar para alguém o que você não gosta que façam com você | Missão | B2
+The Alert | Dâ a-lârt | Decorar como pedir socorro em inglês "Help me!" | Missão | A1
+
+// MÓDULO: ÓDIO E REPÚDIO (HATRED)
+I hate you! | Ái rêit iú! | Eu te odeio! | Hatred | A1
+You disgust me | Iú dis-gâst mí | Você me dá nojo | Hatred | B2
+I never want to see you again | Ái né-ver uónt tú sí iú a-guên | Eu nunca mais quero te ver | Hatred | B1
+You are dead to me | Iú ár déd tú mí | Você morreu para mim | Hatred | B2
+I despise you | Ái dis-páiz iú | Eu te desprezo | Hatred | C1
+Get out of my life | Guét áut óv mái láif | Saia da minha vida | Hatred | B1
+You are the worst person ever | Iú ár dâ uôrst pâr-son é-ver | Você é a pior pessoa de todas | Hatred | A2
+I can't stand you | Ái ként sténd iú | Eu não te suporto | Hatred | B1
+Don't ever come back | Dôunt é-ver câm bék | Nunca mais volte | Hatred | B1
+You betrayed me | Iú bi-trêid mí | Você me traiu | Hatred | B2
+You are a liar and a cheater | Iú ár a lái-ar énd a tchí-ter | Você é um mentiroso e trapaceiro | Hatred | B1
+I wish I never met you | Ái uísh ái né-ver mét iú | Quem dera nunca ter te conhecido | Hatred | B1
+You are nothing to me | Iú ár nâ-ting tú mí | Você não é nada para mim | Hatred | A2
+Rot in hell | Rót ín rél | Apodreça no inferno (Muito forte) | Hatred | B2
+I will never forgive you | Ái uíl né-ver fór-guív iú | Eu nunca vou te perdoar | Hatred | B1
+You are pathetic | Iú ár pa-té-tic | Você é patético | Hatred | B2
+You ruined everything | Iú rú-ined é-vri-ting | Você estragou tudo | Hatred | B1
+Shut your mouth | Shât iór máuf | Cale a sua boca (Agressivo) | Hatred | A2
+You are worthless | Iú ár uôrf-lés | Você é um inútil / sem valor | Hatred | C1
+We are enemies now | Uí ár é-ne-mis náu | Nós somos inimigos agora | Hatred | A2
+
+// MISSÕES: LADO SOMBRIO
+The Villain Monologue | Dâ ví-lan mo-no-lóg | Decorar uma frase de vilão de filme e falar com entonação maligna | Missão | B2
+The Breakup | Dâ brêik-âp | Escrever uma mensagem curta terminando uma amizade tóxica em inglês | Missão | B1
+The Block | Dâ blók | Dizer "You are blocked" enquanto finge bloquear alguém no celular | Missão | A1
+
+// MÓDULO: SATISFAÇÃO E GRATIDÃO (SATISFACTION)
+I really appreciate it | Ái rí-li a-prí-shi-êit ít | Eu realmente agradeço (muito usado) | Satisfaction | B1
+You made my day | Iú mêid mái dêi | Você ganhou o meu dia | Satisfaction | B1
+I couldn't be happier | Ái cû-dant bí ré-pi-er | Eu não poderia estar mais feliz | Satisfaction | B1
+This is perfect | Dís íz pâr-fect | Isso é perfeito | Satisfaction | A1
+I owe you one | Ái ôu iú uân | Te devo uma (favor) | Satisfaction | A2
+Thanks a million | Tênks a mí-lion | Mil vezes obrigado (Valeu demais) | Satisfaction | A2
+I have no complaints | Ái rév nôu com-plêints | Não tenho reclamações / Nada a reclamar | Satisfaction | B1
+That hits the spot | Dét ríts dâ spót | Era exatamente o que eu precisava (comida/bebida) | Satisfaction | C1
+You are a lifesaver | Iú ár a láif-sêi-ver | Você salvou a minha vida (ajuda grande) | Satisfaction | B2
+It was a pleasure | Ít uóz a plé-jur | Foi um prazer | Satisfaction | B1
+I am deeply grateful | Ái ém dí-pli grêit-ful | Sou profundamente grato | Satisfaction | B2
+Good job! | Gúd djób! | Bom trabalho! | Satisfaction | A1
+I am satisfied | Ái ém sé-tis-fáid | Estou satisfeito | Satisfaction | B1
+Just what I needed | Djâst uót ái ní-ded | Exatamente o que eu precisava | Satisfaction | A2
+Glad to hear that | Gléd tú rí-er dét | Fico feliz em ouvir isso | Satisfaction | A2
+Keep up the good work | Kíp âp dâ gúd uôrk | Continue com o bom trabalho | Satisfaction | B1
+Thank you for everything | Tênk iú fór é-vri-ting | Obrigado por tudo | Satisfaction | A1
+It fits perfectly | Ít fíts pâr-fect-li | Serviu perfeitamente (roupa ou solução) | Satisfaction | A2
+I am so relieved | Ái ém sôu ri-lív-d | Estou tão aliviado | Satisfaction | B1
+Words cannot describe | Uôrds ké-nót des-cráib | Palavras não podem descrever | Satisfaction | B2
+
+// MISSÕES: O PODER DO OBRIGADO
+The Thank You Note | Dâ tênk iú nôt | Escrever um bilhete de agradecimento de 2 linhas para alguém | Missão | A2
+The Review | Dâ ri-víu | Fingir que está avaliando uma comida deliciosa: "It is tasty!" | Missão | A1
+The Return | Dâ ri-târn | Oferecer ajuda a alguém dizendo "Can I help you?" após receber um favor | Missão | A1
+
+// MÓDULO: CONSOLO E APOIO (COMFORT)
+I'm here for you | Áim rí-er fór iú | Estou aqui por você | Comfort | A1
+It's going to be okay | Íts gô-ing tú bí ôu-kêi | Vai ficar tudo bem | Comfort | A1
+I am sorry for your loss | Ái ém só-ri fór iór lós | Sinto muito pela sua perda (Luto) | Comfort | B1
+Don't worry about it | Dôunt uó-ri a-báut ít | Não se preocupe com isso | Comfort | A1
+Take your time | Têik iór táim | Leve o tempo que precisar / Sem pressa | Comfort | A2
+You are not alone | Iú ár nót a-lôn | Você não está sozinho | Comfort | A1
+I know how you feel | Ái nôu ráu iú fíl | Eu sei como você se sente | Comfort | A2
+It happens to everyone | Ít ré-pens tú é-vri-uân | Acontece com todo mundo | Comfort | B1
+Don't be so hard on yourself | Dôunt bí sôu rárd ón iór-sélf | Não seja tão duro com você mesmo | Comfort | B2
+I've got your back | Áiv gót iór bék | Eu te dou cobertura / Estou contigo | Comfort | B1
+Let it all out | Lét ít ól áut | Bote tudo para fora (desabafe/chore) | Comfort | B1
+This too shall pass | Dís tú shél pés | Isso também vai passar | Comfort | C1
+Cry if you need to | Crái íf iú níd tú | Chore se precisar | Comfort | A2
+Is there anything I can do? | Íz dér é-ni-ting ái kén dú? | Tem algo que eu possa fazer? | Comfort | A2
+Everything will work out | É-vri-ting uíl uôrk áut | Tudo vai dar certo/se resolver | Comfort | B1
+Cheer up! | Tchí-er âp! | Anime-se! | Comfort | A1
+Stay strong | Stêi stróng | Seja forte / Aguente firme | Comfort | A1
+It is not the end of the world | Ít íz nót dí énd óv dâ uôrld | Não é o fim do mundo | Comfort | B1
+Count on me | Cáunt ón mí | Conte comigo | Comfort | A1
+You will get through this | Iú uíl guét trû dís | Você vai superar isso | Comfort | B2
+
+// MISSÕES: O CURANDEIRO
+The Shoulder | Dâ shôu-lder | Ouvir um amigo desabafar e dizer apenas "I understand" | Missão | A2
+The Hug | Dâ râg | Dar um abraço em alguém (ou pet) e pensar "I'm here for you" | Missão | A1
+The Message | Dâ mé-sadj | Mandar uma mensagem de apoio para alguém que está triste | Missão | A2
+
+// MÓDULO: DESABAFO (VENTING)
+I need to vent | Ái níd tú vént | Eu preciso desabafar | Venting | B1
+I need to get this off my chest | Ái níd tú guét dís óf mái tchést | Preciso tirar isso do peito (desabafar) | Venting | B2
+I can't take it anymore | Ái ként têik ít é-ni-mór | Eu não aguento mais | Venting | B1
+I feel overwhelmed | Ái fíl ôu-ver-uél-md | Eu me sinto sobrecarregado | Venting | B2
+It is too much for me | Ít íz tú mâtch fór mí | É demais para mim | Venting | A2
+I feel like giving up | Ái fíl láik guí-ving âp | Sinto vontade de desistir | Venting | B1
+Nobody listens to me | Nôu-ba-di lís-sens tú mí | Ninguém me escuta | Venting | A2
+I am at my limit | Ái ém ét mái lí-mit | Estou no meu limite | Venting | B1
+My life is a mess | Mái láif íz a més | Minha vida está uma bagunça | Venting | A2
+I don't know what to do | Ái dôunt nôu uót tú dú | Eu não sei o que fazer | Venting | A1
+I feel lost | Ái fíl lóst | Eu me sinto perdido | Venting | A1
+I am sick and tired of this | Ái ém sík énd tái-erd óv dís | Estou farto/cansado disso | Venting | B2
+Why is everything so hard? | Uái íz é-vri-ting sôu rárd? | Por que tudo é tão difícil? | Venting | A2
+I just need someone to talk to | Ái djâst níd sâm-uân tú tók tú | Só preciso de alguém para conversar | Venting | B1
+I feel invisible | Ái fíl in-ví-zi-bol | Eu me sinto invisível | Venting | B1
+Nothing is going right | Nâ-ting íz gô-ing ráit | Nada está dando certo | Venting | B1
+I am emotionally drained | Ái ém e-mô-sho-na-li drêi-nd | Estou emocionalmente esgotado | Venting | C1
+I have been holding this inside | Ái rév bín rôul-ding dís in-sáid | Estive guardando isso aqui dentro | Venting | B2
+I tried my best | Ái tráid mái bést | Eu dei o meu melhor | Venting | A2
+I just want to cry | Ái djâst uónt tú crái | Eu só quero chorar | Venting | A1
+
+// MISSÕES: DIÁRIO SECRETO
+The Audio Note | Dâ áu-dio nôt | Gravar um áudio de 30 segundos no celular contando como foi o dia em inglês | Missão | B1
+The Journal | Dâ djâr-nal | Escrever 3 frases sobre o que te preocupa hoje | Missão | A2
+The Mirror Talk | Dâ mí-ror tók | Olhar no espelho e dizer "It is okay to be sad" | Missão | A1
+
+// MÓDULO: REALIZAÇÃO E CONQUISTA (ACHIEVEMENT)
+I did it! | Ái díd ít! | Eu consegui! | Achievement | A1
+I nailed it! | Ái nêi-old ít! | Eu mandei ver! / Acertei em cheio! | Achievement | B2
+Mission accomplished | Mí-shân a-cóm-plish-d | Missão cumprida | Achievement | B1
+Hard work pays off | Rárd uôrk pêis óf | Trabalho duro compensa | Achievement | B1
+I reached my goal | Ái rít-ched mái gôl | Eu atingi meu objetivo | Achievement | A2
+I am proud of myself | Ái ém práud óv mái-sélf | Estou orgulhoso de mim mesmo | Achievement | A2
+It was worth it | Ít uóz uôrf ít | Valeu a pena | Achievement | B1
+I overcame the challenge | Ái ôu-ver-cêim dâ tchá-lendj | Eu superei o desafio | Achievement | B2
+Look how far I've come | Lúk ráu fár áiv câm | Olha só até onde eu cheguei | Achievement | B2
+I made it happen | Ái mêid ít ré-pen | Eu fiz acontecer | Achievement | B1
+This is a breakthrough | Dís íz a brêik-trú | Isso é um avanço/conquista importante | Achievement | C1
+I beat my record | Ái bít mái ré-cord | Eu bati meu recorde | Achievement | A2
+Nothing can stop me | Nâ-ting kén stóp mí | Nada pode me parar | Achievement | B1
+I learned a lot | Ái lâr-nd a lót | Eu aprendi muito | Achievement | A1
+I feel accomplished | Ái fíl a-cóm-plish-d | Eu me sinto realizado | Achievement | C1
+A dream come true | A drím câm trú | Um sonho realizado | Achievement | B1
+I proved them wrong | Ái prú-vd dém róng | Eu provei que eles estavam errados | Achievement | B2
+I master it | Ái més-ter ít | Eu domino isso | Achievement | C1
+The sky is the limit | Dâ skái íz dâ lí-mit | O céu é o limite | Achievement | B1
+I am unstoppable | Ái ém ân-stó-pa-bol | Eu sou imparável | Achievement | B2
+
+// MISSÕES: O VENCEDOR
+The Trophy Speech | Dâ trô-fi spítch | Fingir que ganhou um Oscar e dizer "I want to thank..." | Missão | B1
+The Checkmark | Dâ tchék-márk | Fazer uma lista de tarefas real e dizer "Done!" ao riscar cada uma | Missão | A1
+The Portfolio | Dâ pôrt-fô-lio | Mostrar algo que você criou (desenho, código, texto) e dizer "I made this" | Missão | A1
+
+// MÓDULO: ENFRENTANDO DESAFIOS (CHALLENGES)
+Challenge accepted | Tchá-lendj éc-sép-ted | Desafio aceito | Challenges | A1
+Let's give it a try | Léts guív ít a trái | Vamos tentar / Dar uma chance | Challenges | B1
+I am ready for this | Ái ém ré-di fór dís | Estou pronto para isso | Challenges | A1
+Step out of your comfort zone | Stép áut óv iór cóm-fort zôn | Saia da sua zona de conforto | Challenges | B2
+It is now or never | Ít íz náu ór né-ver | É agora ou nunca | Challenges | A2
+I have nothing to lose | Ái rév nâ-ting tú lúz | Não tenho nada a perder | Challenges | B1
+Bring it on! | Bríng ít ón! | Manda ver! / Pode vir! | Challenges | B1
+I am a beginner | Ái ém a bi-guí-ner | Eu sou um iniciante | Challenges | A1
+Practice makes perfect | Préc-tis mêiks pâr-fect | A prática leva à perfeição | Challenges | A2
+Face your fears | Fêis iór fí-ars | Enfrente seus medos | Challenges | B1
+It is a fresh start | Ít íz a frésh stárt | É um novo começo | Challenges | A2
+Take a deep breath | Têik a díp bréf | Respire fundo | Challenges | A1
+Go for it! | Gôu fór ít! | Vá em frente! / Tenta! | Challenges | A1
+I'll do my best | Áil dú mái bést | Vou fazer o meu melhor | Challenges | A1
+It's a learning curve | Íts a lâr-ning cârv | É uma curva de aprendizado (faz parte do processo) | Challenges | C1
+Leap of faith | Líp óv fêif | Salto de fé (confiar no desconhecido) | Challenges | C1
+I am nervous but excited | Ái ém nâr-vâs bât éc-sái-ted | Estou nervoso, mas animado | Challenges | B1
+No pain, no gain | Nôu pêin, nôu guêin | Sem dor, sem ganho (sem esforço não há vitória) | Challenges | A2
+Let's see what happens | Léts sí uót ré-pens | Vamos ver o que acontece | Challenges | A2
+Challenge yourself | Tchá-lendj iór-sélf | Desafie a si mesmo | Challenges | B1
+
+// MISSÕES: O AVENTUREIRO
+The New Hobby | Dâ níu ró-bi | Tentar fazer algo que nunca fez (desenhar, cozinhar) e dizer "I tried" | Missão | A2
+The Yes Man | Dâ iés mén | Dizer "Yes" para uma oportunidade pequena que te dá medo | Missão | B1
+The First Step | Dâ fârst stép | Pesquisar sobre um assunto novo em inglês e ler o primeiro parágrafo | Missão | B2
+
+// MÓDULO: ROTINA PRODUTIVA E FÉ (ROUTINE)
+I wake up early to pray | Ái uêik âp âr-li tú prêi | Eu acordo cedo para orar | Routine | A2
+Devotional time | Di-vô-sho-nal táim | Tempo devocional / Momento com Deus | Routine | B1
+Commute to work | Co-miút tú uôrk | Trajeto para o trabalho (deslocamento) | Routine | B2
+Listen to a podcast | Lís-sen tú a pód-kest | Ouvir um podcast (enquanto viaja) | Routine | A2
+Clock in | Clók ín | Bater o ponto (entrar no trabalho) | Routine | B1
+Lunch break | Lântch brêik | Pausa para o almoço | Routine | A1
+Focus mode on | Fô-câs môud ón | Modo foco ativado | Routine | B1
+Meeting deadline | Mí-ting déd-láin | Cumprindo o prazo | Routine | B2
+Leave the office | Lív dí ó-fís | Sair do escritório | Routine | A1
+Head strictly to the gym | réd stríct-li tú dâ djím | Ir direto para a academia | Routine | B2
+Online course | ón-láin córs | Curso online | Routine | A1
+Develop a new skill | Di-vé-lop a níu skíl | Desenvolver uma nova habilidade | Routine | B2
+Read the Bible | Ríd dâ Bái-bol | Ler a Bíblia | Routine | A1
+Quiet time | Quái-et táim | Tempo de silêncio/meditação | Routine | B1
+Review my day | Ri-víu mái dêi | Revisar o meu dia | Routine | A2
+Plan for tomorrow | Plén fór tu-mó-rou | Planejar para amanhã | Routine | A2
+Gratitude journal | Gré-ti-tud djâr-nal | Diário de gratidão | Routine | B2
+Lights out | Láits áut | Apagar as luzes (Hora de dormir) | Routine | A1
+Stay consistent | Stêi con-sís-tent | Manter a constância | Routine | C1
+God is my strength | Gód íz mái strénf | Deus é a minha força | Routine | B1
+
+// MISSÕES: O REALIZADOR
+The Morning Glory | Dâ mór-ning gló-ri | Acordar 15 min mais cedo e ler um versículo em inglês | Missão | A2
+The Commuter | Dâ co-miú-ter | Ouvir uma aula da sua "nova habilidade" no ônibus/carro em inglês | Missão | B1
+The Review | Dâ ri-víu | Antes de dormir, listar 3 coisas produtivas que você fez hoje | Missão | B1
+
+// MÓDULO: CALISTENIA E DISCIPLINA FÍSICA (CALISTHENICS)
+Warm up properly | Uórm âp pró-per-li | Aquecer corretamente | Calisthenics | A2
+Bodyweight training | Bó-di-uêit trêi-ning | Treino com peso do corpo | Calisthenics | B1
+Do push-ups | Dú push-âps | Fazer flexões de braço | Calisthenics | A1
+Execute perfect form | Ek-se-kiút pâr-fect fórm | Executar com postura perfeita | Calisthenics | B2
+Engage your core | En-guêi-dj iór cór | Contrair o abdômen (núcleo) | Calisthenics | B2
+Full range of motion | Fúl rêin-dj óv mô-shon | Amplitude completa de movimento | Calisthenics | C1
+Pull-up bar | Pul-âp bár | Barra fixa | Calisthenics | A2
+Squat deep | Sku-ót díip | Agachar fundo | Calisthenics | A2
+Rest between sets | Rést bi-tuín séts | Descansar entre as séries | Calisthenics | A2
+Train until failure | Trêin ân-tíl fêi-liur | Treinar até a falha | Calisthenics | B2
+Feel the burn | Fíil dâ bârn | Sentir "queimar" (o músculo) | Calisthenics | B1
+Stay hydrated | Stêi hái-drêi-ted | Manter-se hidratado | Calisthenics | B1
+Post-workout meal | Pôst uôr-káut míl | Refeição pós-treino | Calisthenics | B1
+Muscle recovery | Mâ-sol ri-có-ve-ri | Recuperação muscular | Calisthenics | B2
+Consistency is key | Con-sís-ten-si íz kí | Consistência é a chave | Calisthenics | B2
+No days off | Nôu dêis óf | Sem dias de folga (disciplina mental) | Calisthenics | A2
+Mind over matter | Máind ô-ver mé-ter | Mente sobre a matéria | Calisthenics | C1
+Build strength | Bíld strénf | Construir força | Calisthenics | A2
+Stretch daily | Strétch dêi-li | Alongar diariamente | Calisthenics | A1
+Strong body, strong mind | Strông bó-di strông máind | Corpo forte, mente forte | Calisthenics | A1
+
+// MISSÕES: O ATLETA (THE ATHLETE)
+The Gravity Defier | Dâ gré-vi-ti di-fái-er | Fazer 10 flexões com o peito tocando o chão (Postura perfeita) | Missão | A2
+The Iron Core | Dâ ái-ron cór | Segurar a prancha (plank) por 1 minuto sem tremer | Missão | B1
+The Leg Day Survivor | Dâ lég dêi sâr-vái-vor | Completar 50 agachamentos livres (squats) seguidos | Missão | B1
+
+// MÓDULO: PAIS E FILHOS (PARENTING)
+Time to wake up | Táim tú uêik âp | Hora de acordar | Parenting | A1
+Brush your teeth | Brâsh iór tíif | Escove seus dentes | Parenting | A1
+Get dressed for school | Guét drésd fór skúul | Se vista para a escola | Parenting | A2
+Eat your breakfast | Íit iór brék-fest | Coma seu café da manhã | Parenting | A1
+Put your toys away | Pút iór tóis a-uêi | Guarde seus brinquedos | Parenting | A2
+Listen to mommy | Lís-sen tú má-mi | Ouça a mamãe | Parenting | A1
+Listen to daddy | Lís-sen tú dé-di | Ouça o papai | Parenting | A1
+Be polite please | Bí po-láit plíiz | Seja educado(a), por favor | Parenting | B1
+Wash your hands | Uósh iór hénds | Lave suas mãos | Parenting | A1
+Do your homework | Dú iór rôm-uôrk | Faça sua lição de casa | Parenting | A2
+I am proud of you | Ái ém práud óv iú | Eu tenho orgulho de você | Parenting | B1
+Good job my love | Gúd djob mái lâv | Bom trabalho meu amor | Parenting | A1
+Give me a big hug | Gív mí a bíg hâg | Me dê um grande abraço | Parenting | A2
+Let's play outside | Léts plêi áut-sáid | Vamos brincar lá fora | Parenting | A2
+Watch your language | Uótch iór lêng-guêdj | Olha o palavreado / Cuidado com a língua | Parenting | B2
+Share with your brother | Chér uíf iór bró-der | Divida com seu irmão | Parenting | B1
+Share with your sister | Chér uíf iór sís-ter | Divida com sua irmã | Parenting | B1
+Read a bedtime story | Ríd a béd-táim stó-ri | Ler uma história de dormir | Parenting | B1
+Sweet dreams | Su-íit dríims | Bons sonhos | Parenting | A1
+I love you to the moon | Ái lâv iú tú dâ múun | Te amo até a lua (e volta) | Parenting | B2
+
+// MISSÕES: O EXEMPLO (THE ROLE MODEL)
+The Storyteller | Dâ stó-ri-té-ler | Ler um livro infantil curto em inglês para a criança (ou traduzindo) | Missão | B1
+The Polite Kid | Dâ po-láit kíd | Ensinar a criança a dizer "Please" e "Thank you" durante o jantar | Missão | A1
+The Morning Captain | Dâ mór-ning kép-ten | Narrar a rotina da manhã em inglês (Ex: "Now we brush teeth") | Missão | B1
+
+// MÓDULO: SARCASMO SOCIAL E VIDA REAL (MORE IRONY)
+You don't say | Iú dônt sêi | Não me diga! (Quando alguém diz o óbvio) | Irony | A2
+Clear as mud | Clíar éz mâd | Claro como lama (Não entendi nada) | Irony | C1
+Cool story bro | Cúul stó-ri brôu | Que história legal, cara (Desinteresse total) | Irony | B1
+Ask me how I know | Ésk mí ráu ái nôu | Me pergunte como eu sei (Aprendi errando) | Irony | B2
+Not my circus not my monkeys | Nót mái câr-câs nót mái mân-kis | Não é problema meu (Não é meu circo) | Irony | C1
+Oh joy | Ôu djói | Ah, que alegria (Quando acontece algo chato) | Irony | A2
+Groundbreaking | Gráund-brêi-king | Inovador/Revolucionário (Para algo nada original/básico) | Irony | B2
+Sorry not sorry | Só-ri nót só-ri | Desculpa, mas não sinto muito (Sem arrependimentos) | Irony | B1
+Captain Obvious | Kép-ten ób-vi-âs | Capitão Óbvio | Irony | A2
+Sounds like a plan | Sáunds láik a plén | Parece um plano (Às vezes usado quando o plano é ruim) | Irony | B1
+Don't hold your breath | Dônt rôld iór bréf | Não prenda a respiração (Não espere sentado) | Irony | B2
+My favorite person | Mái fêi-vo-rit pâr-son | Minha pessoa favorita (Para alguém irritante) | Irony | A2
+Take your time | Têik iór táim | Leve o tempo que precisar (Quando se está com muita pressa) | Irony | A2
+Whatever floats your boat | Uó-té-ver flôuts iór bôt | O que te fizer feliz (Pouco me importa) | Irony | C1
+Bless your heart | Blés iór rárt | Tadinho dele(a) (Usado para chamar alguém de ingênuo/burro) | Irony | C1
+Fun fact | Fân féct | Curiosidade divertida (Geralmente usada para algo trágico ou chato) | Irony | B1
+Look who it is | Lúk rú ít íz | Olha só quem é (Quando alguém sumido aparece) | Irony | A2
+I am thrilled | Ái ém fríld | Estou "empolgadíssimo" (Com cara de tédio) | Irony | B2
+Genius move | Djí-ni-âs múv | Jogada de gênio (Para uma burrice) | Irony | A2
+Hold my beer | Rôld mái bíar | Segura minha cerveja (Vou fazer algo estúpido/arriscado) | Irony | B1
+
+// MISSÕES: O DEBOCHADO (THE SASSY)
+The Obvious Spotter | Dâ ób-vi-âs spó-ter | Usar "You don't say" ou "Captain Obvious" quando alguém disser algo evidente | Missão | A2
+The Drama Avoider | Dâ drá-ma a-vói-der | Pensar ou dizer "Not my circus, not my monkeys" ao ver uma confusão alheia | Missão | C1
+The Fake Cheerleader | Dâ fêik tchír-lí-der | Dizer "Oh joy" ou "I am thrilled" quando tiver que fazer uma tarefa chata | Missão | B1
