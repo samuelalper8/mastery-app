@@ -10796,3 +10796,69 @@ I appreciate your patience | Ái a-prí-shi-êit iór pêi-shons | Eu agradeço 
 The De-escalator | Dâ dí-és-ka-lêi-ter | Usar "Let's just calm down" quando uma discussão começar a subir de tom | Missão | B1
 The Mistake Owner | Dâ mis-têik ôu-ner | Assumir um erro com "I take full responsibility" para encerrar uma briga | Missão | C1
 The Middle Grounder | Dâ mí-dol grráun-der | Propor um "Middle ground" em uma negociação difícil | Missão | B2
+
+// MÓDULO: ELOGIOS E ADMIRAÇÃO (COMPLIMENTS & ADMIRATION)
+You did a great job! | Iú díd a grrêit djób! | Você fez um ótimo trabalho! | Elogios | A1
+I’m so proud of you | Ái-ém sôu prráud óv iú | Estou tão orgulhoso(a) de você | Elogios | A2
+That’s impressive! | Féts im-pré-siv! | Isso é impressionante! | Elogios | B2
+You have a great sense of style | Iú rév a grrêit séns óv stái-ol | Você tem um ótimo senso de estilo | Elogios | B1
+I really admire your dedication | Ái rrí-li ad-mái-er iór de-di-kêi-shon | Eu admiro muito a sua dedicação | Elogios | C1
+You’re a lifesaver! | iú-ár a láif-sêi-ver! | Você é um salvador de vidas! (Muito obrigado pela ajuda) | Elogios | B1
+You look stunning tonight | Iú lúk stâ-ning tu-náit | Você está deslumbrante esta noite | Elogios | B2
+That color looks good on you | Fét có-lor lúks gúud ón iú | Essa cor fica bem em você | Elogios | A2
+You’re very talented | Iú-ár vé-rri té-len-ted | Você é muito talentoso(a) | Elogios | B1
+I love your energy! | Ái lâv iór é-ner-dji! | Eu amo a sua energia! | Elogios | A2
+You have a heart of gold | Iú rév a rrârt óv gôuld | Você tem um coração de ouro | Elogios | B2
+That was very thoughtful of you | Fét uós vé-rri fót-ful óv iú | Isso foi muito atencioso da sua parte | Elogios | C1
+Keep up the good work | Kíip âp dâ gúud uôrk | Continue com o bom trabalho | Elogios | B1
+You’re such an inspiration | Iú-ár sâtsh en in-spi-rrêi-shon | Você é uma inspiração | Elogios | C1
+You made my day! | Iú mêid mái dêi! | Você fez o meu dia! (Me deixou muito feliz) | Elogios | B1
+
+// MISSÕES: O MOTIVADOR (THE MOTIVATOR)
+The Morale Booster | Dâ mo-rrá-li búus-ter | Elogiar um colega com "Keep up the good work" após uma tarefa difícil | Missão | B1
+The Stylist | Dâ stái-list | Fazer um elogio sobre a aparência de alguém usando "Stunning" ou "Sense of style" | Missão | B2
+The Grateful Friend | Dâ grrêit-ful frrénd | Agradecer um favor especial chamando a pessoa de "Lifesaver" | Missão | B1
+
+// MÓDULO: DEFEITOS E PERSONALIDADE (FLAWS & PERSONALITY)
+He is very stubborn | RRíi íz vé-rri stâ-born | Ele é muito teimoso | Defeitos | B1
+She’s a bit flaky | Shíiz a bít flêi-ki | Ela é um pouco instável/não cumpre o que combina | Defeitos | B2
+Don’t be so selfish | Dônt bíi sôu sél-fish | Não seja tão egoísta | Defeitos | A2
+He is prone to procrastination | RRíi íz prrôun tú pro-crras-ti-nêi-shon | Ele tem tendência a procrastinar | Defeitos | C1
+Stop being so bossy | Stóp bí-ing sôu bó-si | Pare de ser tão mandão/autoritário | Defeitos | B1
+She is quite moody lately | Shíi íz kuáit múu-di lêit-li | Ela está bem temperamental/de lua ultimamente | Defeitos | B1
+A very biased opinion | A vé-rri bái-as-t o-pí-nion | Uma opinião muito tendenciosa/preconceituosa | Defeitos | C1
+He’s always bragging | RRíiz óol-uêiz brré-guing | Ele está sempre se gabando | Defeitos | B2
+She can be very petty | Shíi kén bíi vé-rri pé-ti | Ela consegue ser muito mesquinha/vingativa por bobagem | Defeitos | C1
+Stop being so indecisive | Stóp bí-ing sôu in-de-sái-siv | Pare de ser tão indeciso | Defeitos | B2
+He is a bit clumsy | RRíi íz a bít clâm-zi | Ele é um pouco desastrado | Defeitos | B1
+That was a reckless decision | Fét uós a rrê-kles di-sí-jon | Aquela foi uma decisão imprudente | Defeitos | C1
+She is very narrow-minded | Shíi íz vé-rri né-rrou-máin-ded | Ela tem a mente muito fechada | Defeitos | C1
+He is so unreliable | RRíi íz sôu ân-rri-láia-bol | Ele é tão pouco confiável | Defeitos | B2
+You are too self-centered | iú ár túu sélf-sén-terd | Você é egocêntrico demais | Defeitos | B2
+
+// MISSÕES: O ANALISTA DE CARÁTER (THE CHARACTER ANALYST)
+The Habit Breaker | Dâ rræ-bit brêi-ker | Identificar um comportamento de "Procrastination" e agir para mudar | Missão | C1
+The Fair Judge | Dâ féir djâ-dj | Notar uma "Biased opinion" e pedir uma visão mais neutra | Missão | C1
+The Reliability Test | Dâ rri-láia-bí-li-ti tést | Decidir não contar com alguém "Unreliable" para uma tarefa importante | Missão | B2
+
+// MÓDULO: SAÚDE MENTAL E BEM-ESTAR (WELL-BEING)
+I’m feeling a bit overwhelmed | Ái-ém fí-ling a bít ôu-ver-uélmd | Estou me sentindo um pouco sobrecarregado | Saúde Mental | B2
+I need some me-time | Ái níid sâm míi-táime | Preciso de um tempo para mim mesmo | Saúde Mental | A2
+I’ve been under a lot of stress | Áiv bíin ân-der a lót óv strréss | Tenho estado sob muito estresse | Saúde Mental | B1
+I’m struggling with anxiety | Ái-ém strrâ-gling uíf an-zái-e-ti | Estou lutando contra a ansiedade | Saúde Mental | C1
+Take a deep breath | Têik a díip brréf | Respire fundo | Saúde Mental | A1
+I need to clear my head | Ái níid tú clíier mái rréd | Preciso espairecer / limpar a cabeça | Saúde Mental | B1
+I’m feeling burnt out | Ái-ém fí-ling bêrnt áut | Estou me sentindo exausto (esgotamento profissional) | Saúde Mental | C1
+Don’t be so hard on yourself | Dônt bíi sôu rrárd ón iór-sélf | Não seja tão duro consigo mesmo | Saúde Mental | B2
+I’m in a good headspace today | Ái-ém ín a gúud rréd-spêice tu-dêi | Estou mentalmente bem hoje | Saúde Mental | B2
+You should talk to someone | iú shúd tók tú sâm-uán | Você deveria conversar com alguém | Saúde Mental | B1
+Mental health matters | Mén-tal rrélf mé-terz | Saúde mental importa | Saúde Mental | B1
+I’m feeling homesick | Ái-ém fí-ling rrôum-síik | Estou com saudades de casa / da minha terra | Saúde Mental | B1
+Find a work-life balance | Fáind a uôrk-láif bé-lans | Encontrar um equilíbrio entre vida e trabalho | Saúde Mental | B2
+Everything will be alright | É-vrrí-fín uíol bíi óol-rráit | Tudo vai ficar bem | Saúde Mental | A2
+One day at a time | Uán dêi ét a táime | Um dia de cada vez | Saúde Mental | A2
+
+// MISSÕES: O EQUILIBRISTA (THE BALANCED ONE)
+The Self-Care Break | Dâ sélf-kér brrêik | Tirar um "Me-time" para evitar o "Burnout" | Missão | B2
+The Anxious Support | Dâ ánk-shos sâ-pórt | Ajudar um amigo dizendo "Take a deep breath" durante uma crise | Missão | B1
+The Homesick Cure | Dâ rrôum-síik kiúur | Ligar para a família quando estiver "Feeling homesick" | Missão | B1
