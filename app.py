@@ -7,7 +7,7 @@ from gtts import gTTS
 from io import BytesIO
 
 # ==============================================================================
-# 1. CONFIGURAÇÕES E ESTILOS DINÂMICOS (Efeito "Dentro do Cartão")
+# 1. CONFIGURAÇÕES E ESTILOS (SISTEMA DE CARTÃO INTEGRADO)
 # ==============================================================================
 st.set_page_config(page_title="Samuel's Mastery RPG", page_icon="⚔️", layout="wide")
 
@@ -17,45 +17,56 @@ INTERVALOS = [1, 3, 7, 15, 30, 60, 90, 180, 365, 540, 730, 1095]
 XP_ACERTO, XP_ERRO, XP_BASE_NIVEL = 15, 2, 100
 
 def get_card_style(nivel, revelado):
+    # Paleta de cores por dificuldade
     cores = {
         "A1": "#dcfce7", "A2": "#f0fdf4",
         "B1": "#fef9c3", "B2": "#ffedd5",
         "C1": "#fee2e2", "C2": "#fecaca"
     }
     bg_color = cores.get(nivel.upper(), "#ffffff")
-    
-    # Se revelado, a borda fica mais forte para destacar a "virada"
     border_color = "#2563eb" if revelado else "#cbd5e1"
     
     return f"""
     <style>
     .flashcard {{
-        background-color: {bg_color}; 
-        padding: 40px; 
+        background-color: {bg_color};
+        padding: 40px;
         border-radius: 25px;
-        border: 4px solid {border_color}; 
+        border: 4px solid {border_color};
         text-align: center;
-        box-shadow: 0 10px 20px rgba(0,0,0,0.1);
-        min-height: 450px; 
-        display: flex; 
-        flex-direction: column; 
-        justify-content: center; 
-        align-items: center; 
-        margin: 0 auto 25px auto;
+        box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+        min-height: 450px;
         max-width: 800px;
-        transition: all 0.4s ease-in-out;
+        margin: 0 auto 20px auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        transition: all 0.3s ease;
     }}
-    .listening-icon {{ font-size: 100px; color: #3b82f6; }}
-    .eng-word {{ color: #0f172a; font-size: 46px; font-weight: 800; line-height: 1.2; }}
-    .pt-word {{ color: #1e40af; font-size: 30px; font-weight: 700; margin-top: 10px; border-top: 2px solid rgba(0,0,0,0.1); padding-top: 20px; width: 80%; }}
-    .pron {{ color: #475569; font-size: 22px; font-style: italic; background: rgba(255,255,255,0.6); 
-             padding: 10px 20px; border-radius: 12px; margin-top: 15px; border: 1px solid rgba(0,0,0,0.1); }}
-    .card-meta {{ color: #64748b; font-size: 14px; font-weight: bold; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 20px; }}
+    .card-content {{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+        align-items: center;
+    }}
+    .meta {{ font-size: 14px; font-weight: bold; color: #64748b; text-transform: uppercase; margin-bottom: 10px; }}
+    .eng {{ color: #0f172a; font-size: 44px; font-weight: 800; line-height: 1.1; }}
+    .divider {{ width: 50%; height: 2px; background: rgba(0,0,0,0.1); margin: 15px 0; }}
+    .pt {{ color: #1e40af; font-size: 28px; font-weight: 700; }}
+    .pron {{ 
+        color: #475569; font-size: 20px; font-style: italic; 
+        background: rgba(255,255,255,0.5); padding: 8px 18px; 
+        border-radius: 10px; border: 1px solid rgba(0,0,0,0.05); 
+    }}
+    .listening-icon {{ font-size: 100px; color: #3b82f6; animation: pulse 2s infinite; }}
+    @keyframes pulse {{ 0% {{ opacity: 0.6; }} 50% {{ opacity: 1; }} 100% {{ opacity: 0.6; }} }}
     </style>
     """
 
 # ==============================================================================
-# 2. LÓGICA DE PERSISTÊNCIA E ÁUDIO
+# 2. LÓGICA DE DADOS
 # ==============================================================================
 
 def carregar_progresso():
@@ -94,6 +105,7 @@ def load_game_data():
                 })
     return pd.DataFrame(itens).drop_duplicates(subset=['Inglês'])
 
+# Inicialização
 if 'data' not in st.session_state: st.session_state.data = carregar_progresso()
 if 'idx' not in st.session_state: st.session_state.idx = 0
 if 'revelado' not in st.session_state: st.session_state.revelado = False
@@ -103,21 +115,22 @@ xp_atual = st.session_state.data.get("xp", 0)
 progresso_itens = st.session_state.data.get("itens", {})
 
 # ==============================================================================
-# 3. INTERFACE (SIDEBAR E FILTROS)
+# 3. DASHBOARD E FILTROS (SIDEBAR)
 # ==============================================================================
 
 with st.sidebar:
     st.title("⚔️ Mastery RPG")
     nivel_rpg = (xp_atual // XP_BASE_NIVEL) + 1
-    st.metric("Level", nivel_rpg)
+    st.metric("Hero Level", nivel_rpg)
     st.progress(min((xp_atual % XP_BASE_NIVEL) / XP_BASE_NIVEL, 1.0))
+    st.caption(f"XP Total: {xp_atual}")
     
-    menu = st.radio("Menu", ["📖 Treinamento", "📊 Estatísticas", "📖 Glossário"])
+    st.divider()
+    menu = st.radio("Navegar", ["📖 Treinamento", "📊 Estatísticas", "📖 Glossário"])
     
     if menu == "📖 Treinamento":
-        st.divider()
-        modo_estudo = st.selectbox("Foco:", ["Leitura", "🎧 Escuta"])
-        tipo_filtro = st.selectbox("Filtrar por:", ["Tudo (SRS)", "Módulo", "Nível"])
+        modo_estudo = st.selectbox("Método:", ["Leitura", "🎧 Escuta Ativa"])
+        tipo_filtro = st.selectbox("Focar em:", ["Tudo (SRS)", "Módulo", "Nível"])
         
         filtro_val = None
         if tipo_filtro == "Módulo":
@@ -126,7 +139,7 @@ with st.sidebar:
             filtro_val = st.selectbox("Qual Nível?", ["A1", "A2", "B1", "B2", "C1", "C2"])
 
 # ==============================================================================
-# 4. ÁREA DE TREINAMENTO (O CARTÃO)
+# 4. ÁREA DO CARTÃO (FLASHCARD)
 # ==============================================================================
 
 hoje = datetime.now().strftime("%Y-%m-%d")
@@ -141,39 +154,43 @@ if menu == "📖 Treinamento":
         deck = df[df['Nível'] == filtro_val].copy()
 
     if deck.empty:
-        st.success("✨ Meta batida! Escolha outro módulo.")
+        st.success("🎉 Todas as missões deste setor foram concluídas!")
     else:
         st.session_state.idx %= len(deck)
         row = deck.iloc[st.session_state.idx]
         
-        # Aplicar Estilo Dinâmico (Cor muda conforme nível)
+        # Aplicar Estilo dinâmico
         st.markdown(get_card_style(row['Nível'], st.session_state.revelado), unsafe_allow_html=True)
         
-        # O CARTÃO
-        st.markdown('<div class="flashcard">', unsafe_allow_html=True)
+        # INÍCIO DO CARTÃO
+        st.markdown('<div class="flashcard"><div class="card-content">', unsafe_allow_html=True)
         
-        if modo_estudo == "🎧 Escuta" and not st.session_state.revelado:
+        if modo_estudo == "🎧 Escuta Ativa" and not st.session_state.revelado:
             st.markdown('<div class="listening-icon">🔊</div>', unsafe_allow_html=True)
+            st.write("### Identifique a frase...")
             audio_data = gerar_audio(row['Inglês'])
             if audio_data: st.audio(audio_data, format='audio/mp3', autoplay=True)
         else:
-            # Texto aparece "dentro" do cartão
-            st.markdown(f'<div class="card-meta">{row["Categoria"]} • {row["Nível"]}</div>', unsafe_allow_html=True)
-            st.markdown(f'<div class="eng-word">{row["Inglês"]}</div>', unsafe_allow_html=True)
+            # Conteúdo que aparece DENTRO do cartão
+            st.markdown(f'<div class="meta">{row["Categoria"]} • {row["Nível"]}</div>', unsafe_allow_html=True)
+            st.markdown(f'<div class="eng">{row["Inglês"]}</div>', unsafe_allow_html=True)
             
             if st.session_state.revelado:
-                st.markdown(f'<div class="pt-word">{row["Tradução"]}</div>', unsafe_allow_html=True)
+                st.markdown('<div class="divider"></div>', unsafe_allow_html=True)
+                st.markdown(f'<div class="pt">{row["Tradução"]}</div>', unsafe_allow_html=True)
                 st.markdown(f'<div class="pron">🗣️ {row["Pronúncia"]}</div>', unsafe_allow_html=True)
-                # No modo leitura, o som toca após revelar
+                
+                # Áudio no verso se for modo leitura
                 if modo_estudo == "Leitura":
                     audio_data = gerar_audio(row['Inglês'])
                     if audio_data: st.audio(audio_data, format='audio/mp3', autoplay=True)
 
-        st.markdown('</div>', unsafe_allow_html=True)
-        
-        # BOTÕES (Aparecem logo abaixo do cartão, de forma fixa)
+        st.markdown('</div></div>', unsafe_allow_html=True)
+        # FIM DO CARTÃO
+
+        # BOTÕES DE AÇÃO (Fora da div do cartão para manter layout fixo)
         if not st.session_state.revelado:
-            if st.button("👁️ REVELAR RESPOSTA", use_container_width=True, type="primary"):
+            if st.button("👁️ REVELAR CONTEÚDO", use_container_width=True, type="primary"):
                 st.session_state.revelado = True
                 st.rerun()
         else:
@@ -196,11 +213,11 @@ if menu == "📖 Treinamento":
                     st.session_state.revelado = False; st.session_state.idx += 1; st.rerun()
 
 elif menu == "📊 Estatísticas":
-    st.title("📊 Painel")
-    st.write(f"Palavras no deck: {len(df)}")
+    st.title("📊 Seu Progresso")
     st.bar_chart(df['Nível'].value_counts())
+    st.write(f"Você já interagiu com {len(progresso_itens)} termos.")
 
 elif menu == "📖 Glossário":
-    st.title("📖 Biblioteca")
-    busca = st.text_input("Buscar...")
+    st.title("📖 Consulta Rápida")
+    busca = st.text_input("Filtrar...")
     st.dataframe(df[df['Inglês'].str.contains(busca, case=False)], use_container_width=True)
