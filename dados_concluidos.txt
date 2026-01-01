@@ -4960,5 +4960,3468 @@ Bear one another's burdens | Bér uán a-nó-ders bâr-dens | Levai as cargas un
 Live in harmony with one another | Lív in rár-mo-ni uíf uán a-nó-der | Vivei em harmonia uns com os outros | Relationships | B2
 Encourage one another | En-câ-ridj uán a-nó-der | Encorajai-vos uns aos outros | Relationships | B2
 
+// MÓDULO: BUSINESS - MEETING NEW COLLEAGUES (01)
+Colleague | Có-lig | Colega de trabalho | Noun | A1
+Introduce | In-tro-diús | Apresentar | Verb | A1
+Greeting | Grí-ting | Cumprimento / Saudação | Noun | A1
+Surname | Sâr-neim | Sobrenome | Noun | A1
+Spell | Spél | Soletrar | Verb | A1
+Nice to meet you | Náis tú mít iú | Prazer em conhecê-lo | Phrase | A1
 
+// MÓDULO: BUSINESS - EVERYDAY WORK ACTIVITIES (02)
+Check emails | Tchék í-meils | Checar e-mails | Collocation | A1
+Attend a meeting | A-ténd a mí-ting | Participar de uma reunião | Collocation | A2
+Write a report | Ráit a ri-pórt | Escrever um relatório | Collocation | A2
+Routine | Ru-tín | Rotina | Noun | A1
+Workplace | Uôrk-plêis | Local de trabalho | Noun | A2
+Schedule | Ské-diul | Agenda / Cronograma | Noun | B1
 
+// MÓDULO: BUSINESS - COUNTRIES AND CONTINENTS (03)
+Country | Cân-tri | País | Noun | A1
+Continent | Cón-ti-nent | Continente | Noun | A1
+World | Uôr-ld | Mundo | Noun | A1
+Abroad | A-bród | No exterior | Adverb | B1
+Headquarters | Réd-cuór-ters | Sede / Matriz (da empresa) | Noun | B1
+
+// MÓDULO: BUSINESS - BUSINESS AROUND THE WORLD (04)
+Nationality | Na-cio-ná-li-ti | Nacionalidade | Noun | A1
+Foreign | Fó-ren | Estrangeiro (de outro país) | Adjective | A2
+Local | Lôu-cal | Local / Nacional | Adjective | A1
+Branch | Bréntch | Filial | Noun | B1
+Employee | Em-ploi-í | Funcionário | Noun | A2
+
+// MÓDULO: BUSINESS - OFFICE EQUIPMENT (05)
+Screen | Scrín | Tela / Monitor | Noun | A1
+Keyboard | Kí-bórd | Teclado | Noun | A1
+Printer | Prín-ter | Impressora | Noun | A1
+Desk | Désk | Mesa de escritório / Escrivaninha | Noun | A1
+Photocopier | Fô-to-có-pi-er | Máquina de xerox | Noun | A2
+Stapler | Stêi-pler | Grampeador | Noun | A2
+
+// MÓDULO: BUSINESS - ASKING QUESTIONS AT WORK (06)
+Borrow | Bó-rou | Pegar emprestado (Ex: Can I borrow a pen?) | Verb | A2
+Lend | Lénd | Emprestar (Ex: Can you lend me a pen?) | Verb | A2
+Available | A-vêi-la-bol | Disponível | Adjective | A2
+Meeting room | Mí-ting rúm | Sala de reuniões | Noun | A1
+Deadline | Déd-lain | Prazo final | Noun | B1
+
+// MÓDULO: BUSINESS - EXCHANGING DETAILS (07)
+Business card | Bíz-nes cárd | Cartão de visita | Noun | A1
+Mobile number | Môu-bail nâm-ber | Número de celular | Noun | A1
+At | Ét | Arroba (@ - em endereços de email) | Preposition | A1
+Dot | Dót | Ponto (. - em endereços de site/email) | Noun | A1
+Signature | Síg-na-tchar | Assinatura | Noun | B1
+Contact details | Cón-tect di-têils | Dados de contato | Noun | A1
+
+// MÓDULO: BUSINESS - SKILLS AND EXPERIENCE (08)
+Skill | Skíl | Habilidade / Competência | Noun | B1
+Experience | Eks-pí-ri-ens | Experiência | Noun | A1
+Profile | Pró-fail | Perfil (Profissional) | Noun | A2
+Qualifications | Cua-li-fi-kêi-shans | Qualificações / Diplomas | Noun | B1
+Training | Trêi-nin | Treinamento | Noun | A2
+Degree | Di-grí | Diploma universitário | Noun | B1
+
+// MÓDULO: BUSINESS - JOBS AND EMPLOYMENT (09)
+Employment | Em-plói-ment | Emprego / Contratação | Noun | B1
+Full-time | Fûl-táim | Período integral | Adjective | A2
+Part-time | Párt-táim | Meio período | Adjective | A2
+Unemployed | An-em-plói-d | Desempregado | Adjective | A2
+Internship | Ín-tern-ship | Estágio | Noun | B1
+Retire | Ri-tái-ar | Aposentar-se | Verb | B1
+
+// MÓDULO: BUSINESS - CHOOSING A JOB (10)
+Apply | A-plái | Candidatar-se (Apply for a job) | Verb | A2
+CV / Resume | Sí-ví / Ré-zu-mei | Currículo | Noun | A2
+Interview | Ín-ter-viu | Entrevista | Noun | A2
+Career | Ka-rír | Carreira | Noun | A1
+Candidate | Cân-di-deit | Candidato | Noun | B1
+Recruit | Ri-crút | Recrutar / Contratar | Verb | B2
+
+// MÓDULO: BUSINESS - DESCRIBING YOUR WORKPLACE (11)
+Facilities | Fa-cí-li-tis | Instalações (Infraestrutura do prédio) | Noun | B1
+Canteen | Can-tín | Cantina / Refeitório da empresa | Noun | A2
+Open-plan | Ôu-pen plén | Plano aberto (Escritório sem divisórias) | Adjective | B2
+Reception | Ri-sép-shan | Recepção | Noun | A1
+Elevator | É-le-vei-tor | Elevador (Lift no UK) | Noun | A1
+Parking lot | Pár-king lót | Estacionamento | Noun | A1
+
+// MÓDULO: BUSINESS - MONEY, PAY, AND CONDITIONS (12)
+Salary | Sá-la-ri | Salário (Mensal/Anual fixo) | Noun | A2
+Wage | Uêidj | Salário (Por hora/Semanal - braçal) | Noun | B1
+Bonus | Bô-nas | Bônus / Gratificação | Noun | B1
+Pay rise | Pêi ráiz | Aumento de salário | Noun | B1
+Conditions | Con-dí-shans | Condições (de trabalho) | Noun | A2
+Tax | Técs | Imposto | Noun | A2
+
+// MÓDULO: BUSINESS - PERSONAL QUALITIES (13)
+Punctual | Pânk-tchu-al | Pontual | Adjective | B1
+Reliable | Ri-lái-a-bol | Confiável (Pessoa com quem se pode contar) | Adjective | B1
+Organized | ór-ga-naiz-d | Organizado | Adjective | A2
+Hardworking | Rárd-uôr-king | Trabalhador / Esforçado | Adjective | A2
+Team player | Tím plêi-er | Que trabalha bem em equipe | Noun | B1
+Lazy | Lêi-zi | Preguiçoso | Adjective | A1
+
+// MÓDULO: BUSINESS - DESCRIBING YOUR JOB (14)
+Responsible for | Ris-pón-sa-bol fór | Responsável por | Phrase | B1
+Manage | Mé-nadj | Gerenciar / Lidar com | Verb | A2
+Deal with | Dí-al uíd | Lidar com / Tratar de (Problemas/Clientes) | Phrasal Verb | B1
+Challenging | Tchá-len-djin | Desafiador (Difícil mas bom) | Adjective | B1
+Stressful | Strés-ful | Estressante | Adjective | B1
+Task | Tésk | Tarefa | Noun | A2
+
+// MÓDULO: BUSINESS - WORKPLACE ROUTINES (15)
+Commute | Ka-miút | Fazer o trajeto casa-trabalho / Viagem pendular | Verb/Noun | B1
+Public transport | Pâ-blic tráns-pórt | Transporte público | Noun | A2
+Rush hour | Râsh áu-ar | Hora do rush / Horário de pico | Noun | B1
+Journey | Djâr-nei | Jornada / Percurso | Noun | A2
+Arrive | A-ráiv | Chegar | Verb | A1
+Leave | Lív | Sair / Partir | Verb | A1
+
+// MÓDULO: BUSINESS - ROUTINES AND FREE TIME (16)
+Go to the gym | Gôu tú dâ djím | Ir à academia | Phrase | A1
+Socialize | Só-sha-láiz | Socializar (Sair com colegas) | Verb | B1
+Relax | Ri-léks | Relaxar | Verb | A1
+Break | Brêik | Pausa / Intervalo | Noun | A1
+Weekend | Uí-kend | Fim de semana | Noun | A1
+Daily | Dêi-li | Diário / Diariamente | Adjective/Adverb | A2
+
+// MÓDULO: BUSINESS - HOBBIES AND HABITS (17)
+Hobby | Ró-bi | Passatempo / Hobby | Noun | A1
+Interest | Ín-trest | Interesse | Noun | A2
+Free time | Frí táim | Tempo livre | Noun | A1
+Often | Ó-fen | Frequentemente | Adverb | A1
+Rarely | Ré-rli | Raramente | Adverb | A2
+Habit | Rá-bit | Hábito | Noun | A2
+
+// MÓDULO: BUSINESS - PAST EVENTS (18)
+Yesterday | Iés-ter-dêi | Ontem | Adverb | A1
+Last week | Lést uík | Semana passada | Phrase | A1
+Attend | A-ténd | Comparecer / Participar (de evento) | Verb | A2
+Conference | Cón-fe-rens | Conferência / Congresso | Noun | B1
+Visit | Ví-zit | Visitar | Verb | A1
+Trip | Tríp | Viagem (Curta/Negócios) | Noun | A1
+
+// MÓDULO: BUSINESS - DATES AND TIMES (19)
+Appointment | A-póint-ment | Compromisso (Hora marcada - médico/cliente) | Noun | A2
+Meeting | Mí-ting | Reunião | Noun | A1
+Schedule | Ské-diul | Agendar / Cronograma | Verb/Noun | B1
+Diary | Dái-a-ri | Agenda (Livro de compromissos) | Noun | A2
+Quarter past | Cuór-ter pést | E quinze (Ex: 9:15) | Phrase | A2
+Half past | Réf pést | E meia (Ex: 9:30) | Phrase | A2
+
+// MÓDULO: BUSINESS - CAREER HISTORY (20)
+Resign | Ri-záin | Pedir demissão | Verb | B2
+Promoted | Pro-môu-ted | Promovido | Adjective/Verb | B1
+Hired | Rái-ard | Contratado | Adjective/Verb | B1
+Previous | Prí-vi-as | Anterior | Adjective | B1
+Role | Rôul | Cargo / Papel / Função | Noun | B1
+Left | Léft | Saiu / Deixou (Passado de Leave) | Verb | A1
+
+// MÓDULO: BUSINESS - COMPANY HISTORY (21)
+Founded | Fáun-ded | Fundada | Verb (Past) | B1
+Established | Es-táb-lish-t | Estabelecida | Verb (Past) | B1
+Launch | Lóntch | Lançar (produto/serviço) | Verb | B1
+Expand | Eks-pénd | Expandir | Verb | B1
+Trend | Trénd | Tendência | Noun | B1
+Growth | Grôu-f | Crescimento | Noun | B1
+
+// MÓDULO: BUSINESS - MAKING ARRANGEMENTS (22)
+Make an appointment | Mêik én a-póint-ment | Marcar um compromisso | Collocation | A2
+Confirm | Con-fârm | Confirmar | Verb | A2
+Cancel | Cén-cel | Cancelar | Verb | A2
+Postpone | Poust-pôn | Adiar / Remarcar para depois | Verb | B1
+Are you free? | Ár iú frí? | Você está livre? | Phrase | A1
+Suit | Sút | Servir / Convir (Ex: Does 2pm suit you?) | Verb | B1
+
+// MÓDULO: BUSINESS - TALKING ABOUT PLANS (23)
+I am meeting him | Ái ém mí-ting rím | Eu vou encontrar com ele (Futuro planejado) | Present Continuous | A2
+Arrangement | A-rêindj-ment | Arranjo / Combinado | Noun | B1
+Plan | Plén | Planejar / Plano | Verb/Noun | A1
+Next week | Nécst uík | Semana que vem | Time Phrase | A1
+Lunch break | Lântch brêik | Pausa para o almoço | Noun | A1
+Visit a client | Ví-zit a clái-ent | Visitar um cliente | Phrase | A1
+
+// MÓDULO: BUSINESS - GIVING OPINIONS (24)
+In my opinion | Ín mái o-pí-ni-on | Na minha opinião | Phrase | A2
+I think that | Ái tínk dét | Eu acho que | Phrase | A1
+Interrupt | In-te-râpt | Interromper | Verb | B1
+Issue | Í-shu | Questão / Problema (Mais formal que 'Problem') | Noun | B1
+Environment | En-vái-ron-ment | Meio ambiente / Ambiente | Noun | A2
+Personally | Pâr-so-na-li | Pessoalmente / Para mim | Adverb | B1
+
+// MÓDULO: BUSINESS - AGREEING AND DISAGREEING (25)
+I agree | Ái a-grí | Eu concordo (Nunca diga "I am agree") | Phrase | A1
+I disagree | Ái dis-a-grí | Eu discordo | Phrase | A2
+You are right | Iú ár ráit | Você está certo | Phrase | A1
+Exactly | Eg-zéct-li | Exatamente | Adverb | A2
+Point of view | Póint óv viú | Ponto de vista | Noun | B1
+I'm not sure | Áim nót shúr | Não tenho certeza (Forma educada de discordar) | Phrase | A2
+
+// MÓDULO: BUSINESS - HEALTH AND SAFETY (26)
+Health and safety | Rélf énd sêif-ti | Saúde e segurança (do trabalho) | Noun | B1
+Hazard | Rá-zard | Perigo / Risco (Termo técnico) | Noun | B2
+Accident | Ác-ci-dent | Acidente | Noun | A2
+Emergency exit | E-mâr-djen-ci ég-zit | Saída de emergência | Noun | A2
+Helmet | Rél-met | Capacete | Noun | A1
+Protect yourself | Pro-téct iór-sélf | Proteja-se | Reflexive Pronoun | A2
+
+// MÓDULO: BUSINESS - SUGGESTIONS AND ADVICE (27)
+Suggest | Sa-djést | Sugerir | Verb | B1
+Recommendation | Re-co-men-dêi-shan | Recomendação | Noun | B1
+Why don't we...? | Uái dôunt uí...? | Por que nós não...? (Sugestão indireta) | Phrase | A2
+You should | Iú xûd | Você deveria | Modal Verb | A2
+Solution | So-lú-shan | Solução | Noun | A2
+Misunderstanding | Mis-an-der-stén-ding | Mal-entendido | Noun | B2
+
+// MÓDULO: BUSINESS - GIVING A PRESENTATION (28)
+Presentation | Pre-zen-têi-shan | Apresentação | Noun | A1
+Slide | Sláid | Slide (de PowerPoint) | Noun | A1
+Visual aid | Ví-zhual êid | Recurso visual | Noun | B2
+Handout | Rénd-áut | Folheto / Material impresso entregue na mão | Noun | B1
+Audience | Ó-di-ens | Plateia / Público | Noun | B1
+First of all | Fârst óv ól | Antes de tudo (Marcador de início) | Signposting | B1
+
+// MÓDULO: BUSINESS - RULES AND REQUESTS (29)
+Could you...? | Kûd iú...? | Você poderia...? (Pedido educado) | Phrase | A2
+Would you mind...? | Uûd iú máind...? | Você se importaria de...? (Muito educado + verbo com 'ing') | Phrase | B1
+Forbidden | For-bí-den | Proibido | Adjective | B1
+Allowed | A-láu-d | Permitido | Adjective | A2
+You must | Iú mâst | Você deve (Obrigação forte) | Modal Verb | A2
+Safety boots | Sêif-ti búts | Botas de segurança (Equipamento obrigatório) | Noun | A2
+
+// MÓDULO: BUSINESS - WORK IDIOMS (30)
+Brainstorm | Brêin-stórm | Tempestade de ideias / Criar ideias em grupo | Verb/Noun | B1
+Think outside the box | Tínk áut-sáid dâ bócs | Pensar fora da caixa (Ser criativo) | Idiom | B1
+Call it a day | Cól ít a dêi | Encerrar o expediente (Parar por hoje) | Idiom | B2
+Get the ball rolling | Gét dâ ból rôu-lin | Dar o pontapé inicial / Começar | Idiom | C1
+In the loop | Ín dâ lúp | A par do assunto / Informado | Idiom | C1
+ASAP | Êi-és-êi-pí | O mais rápido possível (As Soon As Possible) | Acronym | B1
+
+// MÓDULO: BUSINESS - DISCUSSING ISSUES (31)
+It was working | Ít uóz uôr-king | Estava funcionando (Passado Contínuo - Contexto do problema) | Phrase | A2
+Breakdown | Brêik-dáun | Quebra / Falha mecânica ou colapso | Noun | B1
+Glitch | Glítch | Falha técnica / Bug momentâneo | Noun | B2
+While | Uái-ol | Enquanto (Conector de tempo para ações simultâneas) | Conjunction | A2
+Fix | Fícs | Consertar | Verb | A1
+Solve a problem | Sólv a pró-blem | Resolver um problema | Collocation | A2
+
+// MÓDULO: BUSINESS - APOLOGIES AND EXPLANATIONS (32)
+Apologize | A-pó-lo-djaiz | Pedir desculpas (Formal) | Verb | B1
+I am sorry about that | Ái ém só-ri a-báut dét | Sinto muito por isso (Geral) | Phrase | A1
+My mistake | Mái mis-têik | Meu erro / Foi mal | Phrase | A2
+Fault | Fólt | Culpa / Defeito (Ex: It's my fault) | Noun | A2
+Misunderstanding | Mis-an-der-stén-ding | Mal-entendido | Noun | B1
+Make up for | Mêik âp fór | Compensar (um erro) | Phrasal Verb | B2
+
+// MÓDULO: BUSINESS - TASKS AND TARGETS (33)
+Target | Tár-get | Meta / Alvo | Noun | B1
+Deadline | Déd-lain | Prazo final | Noun | B1
+Achievement | A-tchív-ment | Conquista / Realização | Noun | B1
+I have finished | Ái rév fí-nish-t | Eu terminei (Resultado recente - Present Perfect) | Phrase | A2
+Goal | Gôul | Objetivo | Noun | A2
+Reach | Rítch | Alcançar (uma meta) | Verb | B1
+
+// MÓDULO: BUSINESS - DEALING WITH COMPLAINTS (34)
+Complaint | Com-plêint | Reclamação | Noun | B1
+Refund | Ri-fând | Reembolso | Noun | B1
+I will check | Ái uíl tchék | Eu vou verificar (Decisão tomada na hora para ajudar) | Phrase | A2
+Dissatisfied | Dis-sá-tis-faid | Insatisfeito | Adjective | B2
+Feedback | Fíd-bék | Retorno / Opinião sobre desempenho | Noun | B1
+Investigate | In-vés-ti-geit | Investigar / Apurar | Verb | B1
+
+// MÓDULO: BUSINESS - TRANSPORTATION AND TRAVEL (35)
+Public transport | Pâ-blic tráns-pórt | Transporte público | Noun | A2
+Vehicle | Ví-a-col | Veículo | Noun | B1
+Fleet | Flít | Frota (de carros/caminhões da empresa) | Noun | B2
+Fuel | Fiú-el | Combustível | Noun | B1
+Delivery | Di-lí-ve-ri | Entrega | Noun | A2
+Passenger | Pá-sen-djer | Passageiro | Noun | A1
+
+// MÓDULO: BUSINESS - MAKING TRAVEL ARRANGEMENTS (36)
+Book a flight | Bûk a fláit | Reservar um voo | Collocation | A2
+Itinerary | I-tí-ne-ra-ri | Itinerário / Roteiro | Noun | B1
+Delay | Di-lêi | Atraso | Noun | A2
+If I miss the plane | Íf ái mís dâ plêin | Se eu perder o avião (Condicional) | Phrase | A2
+Accommodation | A-co-mo-dêi-shan | Acomodação / Hospedagem | Noun | B1
+Visa | Ví-za | Visto (de entrada no país) | Noun | B1
+
+// MÓDULO: BUSINESS - ASKING FOR DIRECTIONS (37)
+Go straight on | Gôu strêit ón | Siga em frente | Phrase | A1
+Turn left | Târn léft | Vire à esquerda | Phrase | A1
+Take the second right | Têik dâ sé-cond ráit | Pegue a segunda à direita | Phrase | A2
+Opposite the bank | Ó-po-zit dâ bénk | Em frente ao banco | Preposition | A2
+Is it far? | Íz ít fár? | É longe? | Phrase | A1
+Headquarters | Réd-cuór-ters | Sede / Matriz (Ponto de referência comum) | Noun | B1
+
+// MÓDULO: BUSINESS - DESCRIBING YOUR STAY (38)
+Check in | Tchék ín | Dar entrada (Hotel/Aeroporto) | Phrasal Verb | A1
+Check out | Tchék áut | Pagar e sair (Hotel) | Phrasal Verb | A1
+It is located | Ít íz lo-kêi-ted | Está localizado (Voz Passiva) | Phrase | B1
+Breakfast is served | Brék-fast íz sârv-d | Café da manhã é servido (Voz Passiva) | Phrase | B1
+Single room | Sín-gol rúm | Quarto de solteiro | Noun | A1
+Facilities | Fa-cí-li-tis | Instalações / Comodidades do hotel | Noun | B1
+
+// MÓDULO: BUSINESS - EATING OUT, FOOD, AND DRINK (39)
+Menu | Mé-niu | Cardápio | Noun | A1
+Starter | Stár-ter | Entrada (Primeiro prato) | Noun | A2
+Main course | Mêin córs | Prato principal | Noun | A2
+Dessert | Di-zârt | Sobremesa | Noun | A1
+Bill / Check | Bíl / Tchék | A conta (Bill = UK, Check = US) | Noun | A1
+Sparkling water | Spár-klin uó-ter | Água com gás | Noun | A2
+
+// MÓDULO: BUSINESS - CONFERENCES AND VISITORS (40)
+Welcome | Uél-cam | Bem-vindo / Recepcionar | Verb/Noun | A1
+Badge | Bédj | Crachá (de visitante/conferência) | Noun | B1
+Register | Ré-djis-ter | Registrar-se / Credenciar-se | Verb | B1
+Would you like some...? | Uûd iú láik sâm...? | Você gostaria de um pouco de...? (Oferta educada) | Phrase | A1
+Any questions? | É-ni cués-tchans? | Alguma pergunta? | Phrase | A1
+Delegate | Dé-le-geit | Delegado / Participante de conferência | Noun | C1
+
+// MÓDULO: BUSINESS - DINING AND HOSPITALITY (41)
+Host | Rôust | Anfitrião (Quem convida/paga) | Noun | B1
+Guest | Gést | Convidado | Noun | A1
+Tip | Típ | Gorjeta | Noun | A2
+Recommend | Re-co-ménd | Recomendar | Verb | A2
+Too much | Tú mâtch | Demais (Excesso) | Quantifier | A1
+Help yourself | Rélp iór-sélf | Sirva-se / Fique à vontade | Phrase | B1
+
+// MÓDULO: BUSINESS - INFORMAL PHONE CALLS (42)
+Call back | Cól bék | Ligar de volta | Phrasal Verb | A2
+Pick up | Pík âp | Atender (o telefone) | Phrasal Verb | A2
+Hold on | Rôuld ón | Aguardar um pouco (na linha) | Phrasal Verb | A2
+Speak up | Spík âp | Falar mais alto | Phrasal Verb | B1
+Cut off | Cât óf | Cair a linha / Ser desconectado | Phrasal Verb | B1
+Hang up | Réng âp | Desligar (o telefone) | Phrasal Verb | A2
+
+// MÓDULO: BUSINESS - FORMAL PHONE CALLS (43)
+This is... | Dís íz... | Aqui é... / Quem fala é... (Nunca diga "I am...") | Phrase | A1
+Could I speak to...? | Kûd ái spík tú...? | Poderia falar com...? | Phrase | A2
+Put through | Pût trú | Transferir a ligação | Phrasal Verb | B1
+Leave a message | Lív a mé-sadj | Deixar um recado | Phrase | A2
+I'm afraid... | Áim a-frêid... | Receio que... / Infelizmente... (Polidez para más notícias) | Phrase | B1
+Extension | Eks-tén-shan | Ramal | Noun | B1
+
+// MÓDULO: BUSINESS - WRITING A RÉSUMÉ (44)
+Résumé / CV | Ré-zu-mei / Sí-ví | Currículo (Résumé = EUA / CV = UK) | Noun | B1
+Achievement | A-tchív-ment | Realização / Conquista | Noun | B1
+Develop | Di-vé-lop | Desenvolver (Verbo de ação forte para CV) | Verb | A2
+Manage | Mé-nadj | Gerenciar | Verb | A2
+Reference | Ré-fe-rens | Referência (Pessoa que indica) | Noun | B1
+Skill set | Skíl sét | Conjunto de habilidades | Noun | B2
+
+// MÓDULO: BUSINESS - MAKING PLANS (45)
+I am going to... | Ái ém gô-in tú... | Eu vou... (Plano decidido antes de falar) | Future Form | A1
+Arrange | A-rêindj | Arranjar / Organizar (um encontro) | Verb | B1
+Venue | Vé-niu | Local (de um evento ou reunião) | Noun | B1
+Are you free? | Ár iú frí? | Você está livre? | Phrase | A1
+Let's meet | Léts mít | Vamos nos encontrar | Phrase | A1
+Postpone | Poust-pôn | Adiar | Verb | B1
+
+// MÓDULO: BUSINESS - COMMUNICATION AND EMAILS (46)
+Subject line | Sâb-dject láin | Linha de assunto (Título do e-mail) | Noun | A2
+Attachment | A-tétch-ment | Anexo | Noun | A2
+Forward | Fór-uard | Encaminhar | Verb | B1
+Reply all | Ri-plái ól | Responder a todos | Verb | A2
+Inbox | Ín-bócs | Caixa de entrada | Noun | A1
+Hard copy | Rárd có-pi | Cópia impressa / Papel | Noun | B1
+
+// MÓDULO: BUSINESS - EMAILING A CLIENT (47)
+Dear Mr./Ms. | Dír... | Prezado Sr./Sra. (Início formal) | Phrase | A1
+Please find attached | Plíz fáind a-tétch-t | Segue em anexo (Clássico de e-mail) | Phrase | B1
+I look forward to... | Ái lûk fór-uard tú... | Aguardo ansiosamente... (Final de e-mail) | Phrase | B1
+Best regards | Bést ri-gárds | Atenciosamente | Phrase | B1
+Enquire | En-cuái-ar | Solicitar informações / Perguntar (Formal) | Verb | B2
+Do not hesitate | Dú nót ré-zi-teit | Não hesite (em contatar) | Phrase | B2
+
+// MÓDULO: BUSINESS L2 - INTRODUCTIONS (01)
+Shake hands | Xêik rénds | Apertar as mãos | Collocation | A1
+Bow | Báu | Curvar-se (cumprimento formal em algumas culturas) | Verb | B1
+Kiss on the cheek | Kís ón dâ tchík | Beijo no rosto | Phrase | A2
+Pleased to meet you | Plíz-d tú mít iú | Prazer em conhecê-lo (Mais formal que 'Nice to meet you') | Phrase | B1
+First impression | Fârst im-pré-shan | Primeira impressão | Noun | B2
+Etiquette | É-ti-ket | Etiqueta / Boas maneiras | Noun | B2
+
+// MÓDULO: BUSINESS L2 - GETTING TO KNOW COLLEAGUES (02)
+Background | Bék-gráund | Histórico / Formação profissional | Noun | B1
+Where did you work? | Uér díd iú uôrk? | Onde você trabalhava? | Phrase | A2
+Team building | Tím bíl-ding | Integração de equipe / Fortalecimento de time | Noun | B2
+Common ground | Có-mon gráund | Interesses em comum | Noun | C1
+Experience | Eks-pí-ri-ens | Experiência | Noun | A1
+Colleague | Có-lig | Colega de trabalho | Noun | A2
+
+// MÓDULO: BUSINESS L2 - DEPARTMENTS AND ROLES (03)
+HR | Êit-ch-ár | RH (Recursos Humanos - Human Resources) | Acronym | A2
+R&D | Ár-en-dí | P&D (Pesquisa e Desenvolvimento) | Acronym | B1
+Sales Department | Sêi-ols di-párt-ment | Departamento de Vendas | Noun | A2
+Accounts | A-cáunts | Contabilidade / Financeiro | Noun | B1
+CEO | Sí-í-ôu | Diretor Executivo (Chief Executive Officer) | Acronym | B1
+Manager | Mé-na-djer | Gerente | Noun | A2
+
+// MÓDULO: BUSINESS L2 - TALKING ABOUT CHANGES (04)
+I used to work | Ái iúz-d tú uôrk | Eu costumava trabalhar (Hábito do passado, não faz mais) | Grammar Structure | B1
+Get used to | Gét iúz-d tú | Acostumar-se (Processo de adaptação) | Grammar Structure | B2
+Be used to | Bí iúz-d tú | Estar acostumado (Estado atual) | Grammar Structure | B2
+Adapt | A-dépt | Adaptar-se | Verb | B1
+Policy | Pó-li-ci | Política (Regras da empresa) | Noun | B1
+Challenge | Tchá-lendj | Desafio | Noun | B1
+
+// MÓDULO: BUSINESS L2 - DELEGATING TASKS (05)
+Delegate | Dé-le-geit | Delegar | Verb | B2
+Count on | Cáunt ón | Contar com (alguém) | Phrasal Verb | B1
+Take care of | Têik kér óv | Cuidar de / Encarregar-se de | Phrasal Verb | A2
+Handle | Rén-dol | Lidar com / Resolver (Situação difícil) | Verb | B1
+In charge of | Ín tchárdj óv | Encarregado de / Responsável por | Phrase | B1
+Deadline | Déd-lain | Prazo final | Noun | B1
+
+// MÓDULO: BUSINESS L2 - MONEY AND FINANCE (06)
+Budget | Bâ-djet | Orçamento | Noun | B1
+Profit | Pró-fit | Lucro | Noun | B1
+Loss | Lós | Prejuízo / Perda | Noun | B1
+Investment | In-vést-ment | Investimento | Noun | B1
+Currency | Câ-ren-ci | Moeda (dinheiro de um país) | Noun | B1
+Interest rate | Ín-trest rêit | Taxa de juros | Noun | B2
+
+// MÓDULO: BUSINESS L2 - WRITING A REPORT (07)
+Overview | Ôu-ver-viú | Visão geral | Noun | B2
+Summary | Sâ-ma-ri | Resumo | Noun | B1
+Therefore | Dér-fór | Portanto (Conector formal) | Adverb | B1
+Decrease | Di-crís | Diminuir / Decréscimo (Formal) | Verb/Noun | B1
+Increase | In-crís | Aumentar / Aumento (Formal) | Verb/Noun | B1
+Conclusion | Con-clú-zhan | Conclusão | Noun | B1
+
+// MÓDULO: BUSINESS L2 - MAKING APOLOGIES (08)
+I have been trying | Ái rév bín trái-in | Tenho tentado (Justificativa de esforço contínuo) | Pres. Perf. Continuous | B1
+Inconvenience | In-con-ví-ni-ens | Inconveniente / Transtorno | Noun | B2
+Delay | Di-lêi | Atraso | Noun | A2
+Urgent | Âr-djent | Urgente | Adjective | A2
+Sort out | Sórt áut | Resolver / Organizar (Problema) | Phrasal Verb | B1
+It won't happen again | Ít uôunt ré-pen a-gén | Não vai acontecer de novo | Phrase | A2
+
+// MÓDULO: BUSINESS L2 - COMMUNICATION TECHNOLOGY (09)
+Video conference | Ví-di-ou cón-fe-rens | Videoconferência | Noun | B1
+Screen sharing | Scrín shé-ring | Compartilhamento de tela | Noun | B1
+Connection | Co-néc-shan | Conexão | Noun | A2
+Headset | Réd-set | Fone de ouvido com microfone | Noun | A2
+Mute | Miút | Mudo / Colocar no mudo | Verb/Adj | B1
+Log in | Lóg ín | Entrar no sistema / Fazer login | Phrasal Verb | A2
+
+// MÓDULO: BUSINESS L2 - MAKING PLANS BY EMAIL (10)
+Workshop | Uôrk-shóp | Workshop / Oficina de trabalho | Noun | B1
+Seminar | Sé-mi-nar | Seminário | Noun | B1
+Attendee | A-ten-dí | Participante (de evento) | Noun | B2
+Register | Ré-djis-ter | Inscrever-se | Verb | B1
+Agenda | A-djén-da | Pauta (da reunião) / Ordem do dia | Noun | B1
+Look forward to | Lûk fór-uard tú | Aguardar ansiosamente | Phrasal Verb | B1
+
+// MÓDULO: BUSINESS L2 - KEEPING CLIENTS INFORMED (11)
+Update | Âp-deit | Atualização / Atualizar | Noun/Verb | B1
+Progress | Pró-gres | Progresso / Andamento | Noun | B1
+On track | ón trék | No caminho certo / Dentro do prazo | Phrase | B2
+Behind schedule | Bi-ráind ské-diul | Atrasado (em relação ao cronograma) | Phrase | B2
+Current status | Câ-rent stêi-tas | Status atual | Noun | B1
+Inform | In-fórm | Informar (Formal) | Verb | B1
+
+// MÓDULO: BUSINESS L2 - INFORMAL COMMUNICATION (12)
+Catch up | Kétch âp | Colocar o papo em dia / Atualizar-se | Phrasal Verb | B1
+Fill in | Fíl ín | Informar alguém dos detalhes / Preencher | Phrasal Verb | B2
+Get back to | Gét bék tú | Retornar (contato) para alguém | Phrasal Verb | A2
+Run by | Rân bái | Passar (uma ideia) por alguém para aprovação rápida | Phrasal Verb | C1
+Heads up | Réds âp | Aviso rápido / Alerta (Informal) | Noun | C1
+Keep in the loop | Kíp ín dâ lúp | Manter informado / A par de tudo | Idiom | C1
+
+// MÓDULO: BUSINESS L2 - PRODUCTION VOCABULARY (13)
+Factory | Féc-to-ri | Fábrica | Noun | A1
+Manufacture | Mé-niu-féc-tchar | Manufaturar / Fabricar | Verb | B1
+Raw material | Ró ma-tí-ri-al | Matéria-prima | Noun | B2
+Warehouse | Uér-ráus | Armazém / Depósito | Noun | B1
+Supplier | Su-plái-er | Fornecedor | Noun | B1
+Production line | Pro-dâc-shan láin | Linha de produção | Noun | B1
+
+// MÓDULO: BUSINESS L2 - DESCRIBING A PROCESS (14)
+It is made of | Ít íz mêid óv | É feito de (Voz passiva - Material) | Phrase | A2
+It is produced in | Ít íz pro-diús-t ín | É produzido em (Voz passiva - Local) | Phrase | A2
+Assembly | A-sém-bli | Montagem | Noun | B2
+Step | Stép | Passo / Etapa | Noun | A2
+First | Fârst | Primeiro / Primeiramente (Sequenciador) | Adverb | A1
+Finally | Fái-na-li | Finalmente / Por fim (Sequenciador) | Adverb | A2
+
+// MÓDULO: BUSINESS L2 - DESCRIBING A PRODUCT (15)
+Feature | Fí-tchar | Característica / Funcionalidade do produto | Noun | B1
+Benefit | Bé-ne-fit | Benefício (O que o produto faz por você) | Noun | B1
+Reliable | Ri-lái-a-bol | Confiável (Não quebra) | Adjective | B1
+User-friendly | Iú-zer frénd-li | Fácil de usar / Amigável ao usuário | Adjective | B2
+High-quality | Rái cuó-li-ti | De alta qualidade | Adjective | A2
+Stylish | Stái-lish | Estiloso / Moderno | Adjective | B1
+
+// MÓDULO: BUSINESS L2 - MARKETING AND ADVERTISING (16)
+Market research | Már-ket ri-sârtch | Pesquisa de mercado | Noun | B2
+Competitor | Com-pé-ti-tor | Concorrente | Noun | B1
+Target audience | Tár-get ó-di-ens | Público-alvo | Noun | B2
+Launch | Lóntch | Lançamento / Lançar (produto) | Noun/Verb | B1
+Campaign | Cam-pêin | Campanha (Publicitária) | Noun | B1
+Brand awareness | Brénd a-uér-nes | Reconhecimento de marca | Noun | C1
+
+// MÓDULO: BUSINESS L2 - MARKETING A PRODUCT (17)
+Unique selling point | Iu-ník sé-lin póint | Diferencial competitivo (USP) | Noun | C1
+Demand | Di-ménd | Demanda / Procura | Noun | B1
+Promote | Pro-môut | Promover / Divulgar | Verb | B1
+Global market | Glôu-bal már-ket | Mercado global | Noun | B1
+Efficiently | E-fí-shent-li | Eficientemente | Adverb | B2
+Innovative | I-no-vêi-tiv | Inovador | Adjective | B2
+
+// MÓDULO: BUSINESS L2 - ADVERTISING AND BRANDING (18)
+Slogan | Slôu-gan | Slogan / Frase de efeito | Noun | B1
+Logo | Lôu-gou | Logotipo | Noun | A2
+Commercial | Co-mâr-shal | Comercial (TV/Rádio) | Noun | B1
+It is too expensive | ... tú eks-pén-siv | É caro demais (Intensificador negativo) | Phrase | A1
+It is good enough | ... gûd i-nâf | É bom o suficiente (Intensificador positivo) | Phrase | A2
+Such a success | Sâtch a sac-sés | Um tamanho sucesso / Um sucesso tão grande | Phrase | B1
+
+// MÓDULO: BUSINESS L2 - ADVICE AND SUGGESTIONS (19)
+Workload | Uôrk-lôud | Carga de trabalho | Noun | B2
+Burnout | Bârn-áut | Esgotamento profissional | Noun | C1
+Overtime | Ôu-ver-táim | Hora extra | Noun | B1
+You ought to | Iú ót tú | Você deveria (Conselho formal) | Modal Verb | B1
+You'd better | Iúd bé-ter | É melhor você... (Conselho com aviso de consequência) | Modal Verb | B1
+Take a break | Têik a brêik | Fazer uma pausa | Phrase | A1
+
+// MÓDULO: BUSINESS L2 - MANAGEMENT AND LEADERSHIP (20)
+Leadership | Lí-der-ship | Liderança | Noun | B2
+Motivate | Môu-ti-veit | Motivar | Verb | B1
+Supervise | Su-per-váiz | Supervisionar | Verb | B1
+Decision-making | Di-cí-zhan mêi-king | Tomada de decisão | Noun | B2
+Strategy | Stré-te-dji | Estratégia | Noun | B1
+Inspire | In-spái-ar | Inspirar | Verb | B1
+
+// MÓDULO: BUSINESS L2 - TALKING ABOUT ABILITIES (21)
+I managed to finish | Ái mé-nadj-d tú fí-nish | Eu consegui terminar (Com dificuldade/esforço) | Verb Pattern | B1
+Capable of | Kêi-pa-bol óv | Capaz de | Adjective + Prep | B2
+Skill set | Skíl sét | Conjunto de habilidades | Noun | B2
+Talent | Tá-lent | Talento (Natural) | Noun | B1
+Expertise | Eks-per-tíz | Especialidade / Perícia | Noun | C1
+Be able to | Bí êi-bol tú | Ser capaz de (Substituto formal de 'Can') | Modal Phrase | A2
+
+// MÓDULO: BUSINESS L2 - COMPARING AND CONTRASTING (22)
+Collaboration | Co-la-bo-rêi-shan | Colaboração | Noun | B2
+Team spirit | Tím spí-rit | Espírito de equipe | Noun | B1
+On the one hand | ón dâ uân rénd | Por um lado | Phrase | B1
+On the other hand | ón dâ ó-der rénd | Por outro lado | Phrase | B1
+Whereas | Uér-éz | Ao passo que / Enquanto (Contraste) | Conjunction | B2
+Similarly | Sí-mi-lar-li | Da mesma forma / Semelhantemente | Adverb | B2
+
+// MÓDULO: BUSINESS L2 - PLANNING EVENTS (23)
+Venue | Vé-niu | Local do evento | Noun | B1
+Catering | Kêi-te-ring | Serviço de buffet / Alimentação | Noun | B2
+Guest list | Gést líst | Lista de convidados | Noun | A2
+Launch party | Lóntch pár-ti | Festa de lançamento | Noun | B1
+Networking | Nét-uôr-king | Fazer contatos profissionais / Rede de contatos | Noun | B1
+Host | Rôust | Anfitrião / Sediar | Noun/Verb | B1
+
+// MÓDULO: BUSINESS L2 - MEETINGS VOCABULARY (24)
+Minutes | Mí-nuts | Ata de reunião (Registro oficial) | Noun | B2
+Chair | Tchér | Presidir (uma reunião) / Presidente da mesa | Verb/Noun | B2
+AOB | Êi-ôu-bí | Outros assuntos (Any Other Business - Final da pauta) | Acronym | C1
+Wrap up | Rép âp | Encerrar / Concluir (uma discussão) | Phrasal Verb | B2
+Action point | Ác-shan póint | Ponto de ação (Tarefa designada na reunião) | Noun | B2
+Quorum | Cuó-ram | Quórum (Número mínimo de pessoas) | Noun | C1
+
+// MÓDULO: BUSINESS L2 - WHAT PEOPLE SAID (25)
+He mentioned that | rí mén-shand dét | Ele mencionou que (Reported Speech) | Phrase | B1
+She stated that | xí stêi-ted dét | Ela afirmou que (Formal) | Phrase | B2
+Report | Ri-pórt | Relatar / Reportar | Verb | B1
+Agree on | A-grí ón | Chegar a um acordo sobre | Phrasal Verb | B1
+Summary | Sâ-ma-ri | Resumo | Noun | B1
+Clarify | Clá-ri-fái | Esclarecer | Verb | B2
+
+// MÓDULO: BUSINESS L2 - WHAT PEOPLE ASKED (26)
+She asked if | xí ásk-t íf | Ela perguntou se (Reported Question) | Phrase | B1
+Inquire | In-cuái-ar | Inquirir / Perguntar formalmente | Verb | C1
+Have a meeting | Rév a mí-ting | Ter uma reunião | Collocation | A1
+Make a decision | Mêik a di-cí-zhan | Tomar uma decisão | Collocation | A2
+Get approval | Gét a-prú-val | Obter aprovação | Collocation | B1
+Do a presentation | Dú a pre-zen-têi-shan | Fazer uma apresentação | Collocation | A2
+
+// MÓDULO: BUSINESS L2 - REPORTING QUANTITIES (27)
+A few | A fiú | Alguns (Contável - Poucos, mas suficiente) | Quantifier | A2
+A little | A lí-tol | Um pouco (Incontável) | Quantifier | A2
+All | Ól | Tudo / Todos | Quantifier | A1
+Significant amount | Sig-ní-fi-cant a-máunt | Quantidade significativa | Phrase | B2
+Majority | Ma-djó-ri-ti | Maioria | Noun | B1
+Minority | Mi-nó-ri-ti | Minoria | Noun | B1
+
+// MÓDULO: BUSINESS L2 - CHECKING INFORMATION (28)
+Who sent the email? | Rú sént dí í-meil? | Quem enviou o e-mail? (Subject Question) | Phrase | B1
+You're coming, aren't you? | ... ár-nt iú? | Você vem, não vem? (Question Tag) | Phrase | A2
+Echo question | É-cou cués-tchan | Pergunta de eco (Repetir para confirmar: "He did?") | Grammar | B2
+Polite check | Po-láit tchék | Verificação educada | Phrase | B1
+Confirm details | Con-fârm di-têils | Confirmar detalhes | Collocation | B1
+Double check | Dâ-bol tchék | Conferir novamente / Checagem dupla | Verb | B1
+
+// MÓDULO: BUSINESS L2 - TALKING ABOUT PROGRESS (29)
+On track | Ón tráck | No caminho certo / Dentro do prazo | Phrase | B2
+Behind schedule | Bi-ráind ské-diul | Atrasado (em relação ao cronograma) | Phrase | B2
+Ahead of schedule | A-réd óv ské-diul | Adiantado | Phrase | B2
+Milestone | Mái-lstôun | Marco / Etapa importante | Noun | C1
+Update | Âp-dêit | Atualizar / Atualização | Verb/Noun | A2
+Keep up with | Kíp âp uíd | Manter o ritmo de / Acompanhar | Phrasal Verb | B2
+
+// MÓDULO: BUSINESS L2 - ISSUES AND COMPLAINTS (30)
+Faulty | Fól-ti | Defeituoso | Adjective | B2
+Shortage | Shór-tedj | Escassez / Falta | Noun | C1
+Compensation | Cóm-pen-sêi-shan | Compensação / Indemnização | Noun | B2
+Apologize | A-pó-lo-djáiz | Pedir desculpas | Verb | B1
+Refund | Rí-fând | Reembolso | Noun/Verb | B1
+Handle a complaint | Rán-dol a com-plêint | Lidar com uma reclamação | Collocation | B2
+
+// MÓDULO: BUSINESS L2 - BUSINESS TRAVEL (31)
+Itinerary | Ai-tí-ne-ré-ri | Itinerário | Noun | B2
+Boarding pass | Bór-ding páss | Cartão de embarque | Noun | A2
+Jet lag | Djét lég | Cansaço pelo fuso horário | Noun | B1
+Layover | Lêi-ou-ver | Escala / Conexão | Noun | B2
+Book a flight | Búk a fláit | Reservar um voo | Collocation | A2
+Expense claim | Ex-péns clêim | Pedido de reembolso de despesas | Noun | B2
+
+// MÓDULO: BUSINESS L2 - CONFERENCES AND EVENTS (32)
+Venue | Vé-niu | Local (de um evento) | Noun | B2
+Keynote speaker | Kí-nôut spí-ker | Palestrante principal | Noun | C1
+Networking | Net-uôr-king | Rede de contactos / Networking | Noun | B1
+Stand / Booth | Stánd / Bút | Stand (em feiras) | Noun | B2
+Trade fair | Trêid fér | Feira de negócios | Noun | B2
+Brochure | Brôu-shur | Folheto / Brochura | Noun | B1
+
+// MÓDULO: BUSINESS L2 - SOCIALIZING AND EATING OUT (33)
+Treat someone to | Trít sâm-uân tú | Convidar/Pagar algo para alguém | Phrase | B2
+Pick up the tab | Pík âp dâ téb | Pagar a conta | Idiom | C1
+Dietary requirements | Dái-e-té-ri re-cuái-ar-ments | Restrições alimentares | Phrase | B2
+Starter | Stár-ter | Entrada (refeição) | Noun | A2
+Main course | Mêin córs | Prato principal | Noun | A2
+Toast | Tôust | Brinde / Brindar | Noun/Verb | B1
+
+// MÓDULO: BUSINESS L2 - WORK IDIOMS (34)
+Ballpark figure | Ból-párk fí-guier | Valor aproximado / Estimativa | Idiom | C1
+Get the ball rolling | Gét dâ ból rô-ling | Começar algo / Dar o pontapé de saída | Idiom | B2
+Think outside the box | Tínk áut-sáid dâ bóks | Pensar fora da caixa | Idiom | B2
+Back to the drawing board | Bák tú dâ dró-ing bórd | Voltar à estaca zero | Idiom | B2
+Win-win situation | Uín-uín si-tu-êi-shan | Situação onde todos ganham | Phrase | B1
+In the loop | In dâ lúp | Por dentro do assunto / Informado | Idiom | B2
+
+// MÓDULO: BUSINESS L2 - OFFICE AND PRESENTATION EQUIPMENT (36)
+Projector | Pro-djék-tor | Projetor | Noun | A2
+Flip chart | Flíp tchart | Cavalete com blocos de papel | Noun | B1
+Handout | Hénd-aut | Folheto informativo / Material de apoio | Noun | B1
+Remote control | Ri-môut con-trôul | Controle remoto (passador) | Noun | A2
+Whiteboard | Uáit-bórd | Quadro branco | Noun | A1
+Lectern | Lék-tern | Púlpito | Noun | C1
+
+// MÓDULO: BUSINESS L2 - STRUCTURING A PRESENTATION (37)
+Signposting | Sáin-pous-ting | Linguagem de sinalização (organização) | Noun | B2
+Overview | Ou-ver-viú | Visão geral / Resumo | Noun | B1
+In conclusion | In con-clú-jan | Em conclusão / Para finalizar | Phrase | B1
+Move on to | Múv ón tú | Passar para (o próximo tópico) | Phrasal Verb | B1
+Highlight | Hái-láit | Destacar / Ressaltar | Verb | B2
+Summarize | Sâ-ma-ráiz | Resumir | Verb | B1
+
+// MÓDULO: BUSINESS L2 - DEVELOPING AN ARGUMENT (38)
+Furthermore | Fâr-der-mór | Além disso / Ademais | Adverb | B2
+In contrast | In cón-trast | Em contraste / Por outro lado | Phrase | B2
+Persuasive | Per-suêi-siv | Persuasivo | Adjective | B2
+Evidence | É-vi-dens | Evidência / Provas | Noun | B1
+Counter-argument | Cáun-ter ár-guiu-ment | Contra-argumento | Noun | C1
+Strengthen | Stréng-ten | Fortalecer | Verb | B2
+
+// MÓDULO: BUSINESS L2 - PITCHING A PRODUCT (39)
+Unique Selling Point (USP) | Iu-ník sé-ling póint | Diferencial competitivo | Noun | B2
+Edge | Édj | Vantagem competitiva | Noun | C1
+Cutting-edge | Cá-ting édj | De última geração / Inovador | Adjective | B2
+Feature | Fí-tchiur | Característica / Recurso | Noun | B1
+Benefit | Bé-ne-fit | Benefício | Noun | A2
+Cost-effective | Cóst e-féc-tiv | Custo-benefício / Econômico | Adjective | B2
+
+// MÓDULO: BUSINESS L2 - TALKING ABOUT FACTS AND FIGURES (40)
+Fluctuate | Flâ-tchu-êit | Flutuar / Oscilar | Verb | C1
+Plummet | Plâ-met | Despencar / Cair bruscamente | Verb | C1
+Skyrocket | Scái-ró-ket | Disparar / Aumentar rapidamente | Verb | C1
+Level off | Lé-vel óf | Estabilizar | Phrasal Verb | B2
+Significant | Sig-ní-fi-cant | Significativo | Adjective | B1
+Sharp increase | Shárp ín-crís | Aumento acentuado | Collocation | B2
+
+// MÓDULO: BUSINESS L2 - PLANS AND SUGGESTIONS (41)
+Propose | Pro-pôuz | Propor | Verb | B2
+Counter-offer | Cáun-ter ó-fer | Contraproposta | Noun | B2
+Feasible | Fí-zi-bol | Viável / Praticável | Adjective | C1
+Consensus | Con-sén-sus | Consenso | Noun | C1
+Back and forth | Bák end fórth | Idas e vindas (negociação) | Phrase | B2
+Trade-off | Trêid-óf | Troca / Compensação | Noun | B2
+
+// MÓDULO: BUSINESS L2 - EMPHASIZING YOUR OPINION (42)
+Strongly believe | Stróng-li bi-lív | Acreditar piamente / Fortemente | Phrase | B2
+Point of view | Póint óv viú | Ponto de vista | Noun | B1
+Disagreement | Dis-a-grí-ment | Desacordo / Divergência | Noun | B2
+Frankly | Fránk-li | Sinceramente / Francamente | Adverb | B2
+Overlook | Ou-ver-lúk | Ignorar / Deixar passar | Verb | B2
+Firm | Fârm | Firme / Decidido | Adjective | B2
+
+// MÓDULO: BUSINESS L2 - DISCUSSING CONDITIONS (43)
+Bargain | Bár-guen | Negociar / Pechinchar | Verb | B1
+Terms and conditions | Târms end con-dí-shans | Termos e condições | Noun | B2
+Provided that | Pro-vái-ded dát | Contanto que / Desde que | Conjunction | B2
+Compromise | Cóm-pro-máiz | Entrar em acordo / Ceder | Verb | B2
+Understated | Ân-der-stêi-ted | Discreto / Pouco valorizado | Adjective | C1
+Win-win | Uín-uín | Ganha-ganha (bom para ambos) | Adjective | B2
+
+// MÓDULO: BUSINESS L2 - DISCUSSING PROBLEMS (44)
+Mistake | Mis-têik | Erro / Equívoco | Noun | A1
+Regret | Ri-grét | Arrepender-se / Lamentar | Verb | B1
+Oversight | Ou-ver-sáit | Lapso / Falha por descuido | Noun | C1
+Fix | Fíks | Consertar / Resolver | Verb | A2
+Blame | Blêim | Culpar | Verb | B1
+Lesson learned | Lé-son lârnd | Lição aprendida | Phrase | B1
+
+// MÓDULO: PEOPLE - BODY & ANATOMY (01-04)
+Skull | Skál | Crânio | Noun | B2
+Wrist | Ríst | Pulso / Punho | Noun | B1
+Ankle | Án-kol | Tornozelo | Noun | A2
+Rib cage | Ríb kêidj | Caixa torácica | Noun | C1
+Kidney | Kíd-ni | Rim | Noun | C1
+Limb | Lím | Membro (braço/perna) | Noun | C2
+
+// MÓDULO: PEOPLE - FAMILY & RELATIONSHIPS (05)
+Relative | Ré-la-tiv | Parente | Noun | B1
+Sibling | Sí-bling | Irmão ou irmã | Noun | B2
+Spouse | Spáuz | Cônjuge | Noun | B2
+Stepfather | Stép-fá-der | Padrasto | Noun | A2
+Upbringing | Âp-brin-guin | Criação / Educação | Noun | B2
+Household | Ráus-rôuld | Núcleo familiar / Casa | Noun | B2
+
+// MÓDULO: PEOPLE - FEELINGS & MOODS (06)
+Overwhelmed | Ou-ver-uélmd | Sobrecarregado | Adjective | C1
+Thrilled | Trí-ld | Muito empolgado / Eufórico | Adjective | C1
+Anxious | Ánk-shas | Ansioso | Adjective | B1
+Miserable | Mí-ze-ra-bol | Muito infeliz / Triste | Adjective | B1
+Fed up | Féd-áp | De saco cheio / Farto | Adjective | B2
+Proud | Práud | Orgulhoso | Adjective | B1
+
+// MÓDULO: PEOPLE - PERSONALITY TRAITS (10)
+Outgoing | Áut-go-ing | Extrovertido / Sociável | Adjective | C1
+Stubborn | Stá-born | Teimoso | Adjective | B2
+Reliable | Ri-lái-a-bol | Confiável | Adjective | B1
+Selfish | Sél-fish | Egoísta | Adjective | B1
+Sensible | Sén-si-bol | Sensato | Adjective | B2
+Bad-tempered | Béd-tém-perd | Mal-humorado | Adjective | B2
+
+// MÓDULO: PEOPLE - LIFE EVENTS (07)
+Graduate | Grá-dju-eit | Formar-se (graduar) | Verb | B1
+Retirement | Ri-tái-er-ment | Reforma / Aposentadoria | Noun | B2
+Funeral | Fiú-ne-ral | Funeral | Noun | B1
+Christening | Crís-ning | Batizado | Noun | C1
+Honeymoon | Râ-ni-mun | Lua de mel | Noun | B1
+Settled | Sé-told | Estabelecido / Estável | Adjective | B2
+
+// MÓDULO: PEOPLE - PREGNANCY AND CHILDHOOD (08)
+Pregnant | Prég-nant | Grávida | Adjective | B1
+Toddler | Tód-ler | Criança pequena (a começar a andar) | Noun | C1
+Diaper | Dái-per | Fralda | Noun | B1
+Give birth | Guív bârth | Dar à luz | Phrase | B2
+Nursery | Nâr-se-ri | Creche / Berçário | Noun | B2
+Crawl | Król | Gatinhar / Rastejar | Verb | C1
+
+// MÓDULO: PEOPLE - DAILY ROUTINES (09)
+Commute | Co-miút | Deslocação casa-trabalho | Verb/Noun | C1
+Chores | Tchórz | Tarefas domésticas | Noun | C1
+Oversleep | Ou-ver-slíp | Dormir demais / Perder a hora | Verb | B2
+Snooze | Snúz | Dormitar / Função "soneca" | Verb | C2
+Grocery | Grô-se-ri | Mercearia / Supermercado | Noun | B1
+Get dressed | Guét dréssd | Vestir-se | Phrase | A1
+
+// MÓDULO: PEOPLE - ABILITIES AND ACTIONS (11)
+Skill | Skíl | Habilidade / Perícia | Noun | A2
+Manage | Má-nidj | Gerir / Conseguir fazer algo | Verb | B1
+Talented | Tá-len-ted | Talentoso | Adjective | B1
+Clumsy | Clám-zi | Desajeitado | Adjective | B2
+Struggle | Strá-gol | Ter dificuldade / Lutar | Verb | B2
+Gifted | Guíf-ted | Superdotado / Muito talentoso | Adjective | C1
+
+// MÓDULO: APPEARANCE - APPEARANCE AND HAIR (12)
+Bald | Bóld | Careca | Adjective | B1
+Curly | Câr-li | Encaracolado / Cacheado | Adjective | A2
+Dye | Dái | Tingir / Pintar (cabelo) | Verb | B1
+Wig | Uíg | Peruca | Noun | C1
+Beard | Bí-ard | Barba | Noun | A2
+Pale | Pêil | Pálido | Adjective | B2
+
+// MÓDULO: APPEARANCE - CLOTHES (13-15)
+Sleeve | Slív | Manga (da roupa) | Noun | B1
+Hoodie | Rú-di | Casaco com capuz | Noun | B2
+Tight | Táit | Justo / Apertado | Adjective | A2
+Loose | Lús | Largo / Folgado | Adjective | B2
+Button | Bá-ton | Botão | Noun | A2
+Pattern | Pá-tern | Padrão / Estampa | Noun | B1
+
+// MÓDULO: APPEARANCE - ACCESSORIES (16)
+Scarf | Skárf | Cachecol / Lenço | Noun | A2
+Belt | Bélt | Cinto | Noun | A1
+Earrings | Í-rings | Brincos | Noun | A2
+Handbag | Rénd-bég | Mala de senhora / Bolsa | Noun | B1
+Necklace | Néc-les | Colar | Noun | A2
+Tie | Tái | Gravata | Noun | A1
+
+// MÓDULO: APPEARANCE - SHOES (17)
+Heels | Rílz | Saltos altos | Noun | B1
+Laces | Lêi-ses | Atacadores / Cadarços | Noun | B2
+Sneakers | Sní-kers | Ténis / Tênis | Noun | A2
+Boots | Búts | Botas | Noun | A1
+Slippers | Slí-pers | Chinelos / Pantufas | Noun | B1
+Sole | Sôul | Sola | Noun | C1
+
+// MÓDULO: APPEARANCE - BEAUTY (18)
+Makeup | Mêik-áp | Maquilhagem / Maquiagem | Noun | A2
+Lipstick | Líp-stik | Batom | Noun | B1
+Moisturizer | Móis-tchu-rái-zer | Creme hidratante | Noun | C1
+Perfume | Pâr-fium | Perfume | Noun | A2
+Trim | Trím | Aparar (cabelo/barba) | Verb | C1
+Comb | Côm | Pentear / Pente | Verb/Noun | B1
+
+// MÓDULO: HEALTH - ILLNESS AND INJURY (19)
+Symptom | Símp-tom | Sintoma | Noun | B1
+Bruise | Brúz | Hematoma / Machucado roxo | Noun | B2
+Cough | Cóf | Tosse / Tossir | Noun/Verb | A2
+Rash | Rásh | Erupção cutânea / Alergia na pele | Noun | C1
+Dizzy | Dí-zi | Tonto | Adjective | B1
+Flu | Flú | Gripe | Noun | A2
+
+// MÓDULO: HEALTH - VISITING THE DOCTOR (20)
+Appointment | A-póint-ment | Consulta / Hora marcada | Noun | A2
+Prescription | Pris-críp-shon | Receita médica | Noun | B1
+GP (General Practitioner) | Dji-pi | Médico de clínica geral | Noun | B2
+Blood pressure | Blód pré-sher | Pressão sanguínea | Noun | B1
+Vaccine | Vák-sin | Vacina | Noun | B1
+Sick leave | Sík lív | Licença médica / Baixa por doença | Noun | B2
+
+// MÓDULO: HEALTH - THE HOSPITAL (21)
+Ward | Uórd | Enfermaria / Ala hospitalar | Noun | C1
+Surgeon | Sâr-djon | Cirurgião | Noun | B2
+Stitches | Stí-tches | Pontos (cirúrgicos) | Noun | C1
+X-ray | Éks-rêi | Raio-X | Noun | A2
+Discharge | Dis-tchárdj | Dar alta (hospitalar) | Verb | C1
+Emergency room | I-mâr-djen-si rúm | Sala de emergência / Urgências | Noun | B1
+
+// MÓDULO: HEALTH - THE DENTIST AND OPTICIAN (22)
+Filling | Fí-ling | Obturação | Noun | B2
+Toothache | Tú-thêik | Dor de dente | Noun | A2
+Braces | Brêi-ses | Aparelho dentário | Noun | B2
+Glasses | Glá-ses | Óculos | Noun | A1
+Eyesight | Ái-sáit | Visão / Capacidade visual | Noun | B1
+Contact lenses | Cón-takt lén-zes | Lentes de contato | Noun | B1
+
+// MÓDULO: HEALTH - DIET AND NUTRITION (23)
+Carbohydrates | Car-bo-rái-dreits | Carboidratos | Noun | C1
+Protein | Prô-tin | Proteína | Noun | B1
+Dairy | Dé-ri | Laticínios | Noun | B2
+Fibre | Fái-ber | Fibra | Noun | C1
+Balanced diet | Bá-lansd dái-et | Dieta equilibrada | Phrase | B1
+Junk food | Djánk fúd | Comida de plástico / não saudável | Noun | B1
+
+// MÓDULO: HEALTH - HEALTHY BODY, HEALTHY MIND (24)
+Well-being | Uél-bí-ing | Bem-estar | Noun | B2
+Stress | Strés | Estresse | Noun | A2
+Mindfulness | Máind-ful-nes | Atenção plena | Noun | C2
+Counseling | Cáun-se-ling | Aconselhamento / Terapia | Noun | C1
+Work-life balance | Uôrk-láif bá-lans | Equilíbrio entre vida e trabalho | Noun | B2
+Mental health | Mén-tal rélth | Saúde mental | Noun | B1
+
+// MÓDULO: HOME - A PLACE TO LIVE & ROOMS (25-26, 30-32)
+Tenant | Té-nant | Inquilino | Noun | B2
+Landlord | Lénd-lórd | Senhorio / Proprietário | Noun | B2
+Mortgage | Mór-gue-dj | Hipoteca / Financiamento da casa | Noun | B2
+Cushion | Cú-shon | Almofada (decorativa) | Noun | B1
+Ceiling | Cí-ling | Teto | Noun | B1
+Rug | Râg | Tapete (pequeno) | Noun | A2
+
+// MÓDULO: HOME - KITCHEN & COOKING (27-29)
+Cutlery | Cát-le-ri | Talheres | Noun | B1
+Saucepan | Sós-pan | Panela (com cabo) | Noun | A2
+Grater | Grêi-ter | Ralador | Noun | C1
+Boil | Bóil | Ferver | Verb | A2
+Stir | Stâr | Mexer / Misturar | Verb | B1
+Bowl | Bôul | Tigela / Vasilha | Noun | A1
+
+// MÓDULO: HOME - BATHROOM & MAINTENANCE (31, 33-35)
+Faucet | Fó-set | Torneira | Noun | B1
+Leak | Lík | Vazamento / Pingar | Noun/Verb | B2
+Plumber | Plá-mer | Encanador | Noun | A2
+Bulb | Bólb | Lâmpada | Noun | B1
+Fuse | Fiúz | Fusível | Noun | C2
+Renovate | Ré-no-veit | Reformar | Verb | C1
+
+// MÓDULO: HOME - TOOLS & DECORATING (36-37)
+Screwdriver | Skrú-drái-ver | Chave de fenda | Noun | B1
+Drill | Dríl | Furadeira / Furar | Noun/Verb | B1
+Hammer | Rá-mer | Martelo | Noun | A2
+Ladder | Lá-der | Escada (portátil) | Noun | B1
+Wallpaper | Uól-pêi-per | Papel de parede | Noun | A2
+Varnish | Vár-nish | Verniz / Envernizar | Noun/Verb | C2
+
+// MÓDULO: HOME - GARDEN (38)
+Lawn | Lón | Gramado | Noun | B2
+Weed | Uíd | Erva daninha / Capinar | Noun/Verb | C1
+Hose | Rôuz | Mangueira | Noun | B1
+Soil | Sóil | Terra / Solo | Noun | B1
+Spade | Spêid | Pá (de jardim) | Noun | B2
+Greenhouse | Grín-ráus | Estufa | Noun | B2
+
+// MÓDULO: GARDENING - PRACTICAL GARDENING (39)
+Sow | Sôu | Semear | Verb | C1
+Prune | Prún | Podar | Verb | C2
+Harvest | Rár-vest | Colher / Colheita | Verb/Noun | B2
+Mow | Môu | Cortar (a grama) | Verb | B2
+Bloom | Blúm | Florescer / Desabrochar | Verb | B2
+Ripen | Rái-pen | Amadurecer (fruta) | Verb | C1
+
+// MÓDULO: GARDENING - GARDEN TOOLS (40)
+Rake | Rêik | Ancinho / Rastelo | Noun | B2
+Wheelbarrow | Uíl-bé-rou | Carrinho de mão | Noun | B2
+Lawnmower | Lón-môu-er | Cortador de grama | Noun | B1
+Trowel | Tráu-el | Pá de mão (pequena) | Noun | C2
+Shears | Chí-ars | Tesoura de poda | Noun | C1
+Watering can | Uó-te-ring kén | Regador | Noun | B1
+
+// MÓDULO: GARDENING - GARDEN FEATURES (41)
+Shed | Chéd | Abrigo de jardim / Galpão | Noun | B2
+Fence | Féns | Cerca | Noun | B1
+Pond | Pónd | Lago (artificial/pequeno) | Noun | B2
+Path | Páth | Caminho / Trilha | Noun | A2
+Bench | Béntch | Banco | Noun | B1
+Hedge | Rédj | Sebe / Cerca viva | Noun | C1
+
+// MÓDULO: CITY LIFE - IN TOWN & ARCHITECTURE (42-44)
+Sidewalk | Sáid-uók | Calçada | Noun | B1
+Crossroads | Crós-rôuds | Cruzamento | Noun | B2
+Pedestrian | Pe-dés-tri-an | Pedestre | Noun | B1
+Traffic jam | Trá-fik djam | Engarrafamento | Noun | A2
+Skyscraper | Skái-skrei-per | Arranha-céu | Noun | B1
+Landmark | Lénd-mark | Ponto de referência / Marco | Noun | C1
+
+// MÓDULO: CITY LIFE - SERVICES (45, 50-51)
+ATM | Êi-ti-ém | Caixa eletrônico | Noun | A2
+Parcel | Pár-sel | Encomenda / Pacote (correio) | Noun | B1
+Fire engine | Fái-er én-djin | Carro de bombeiros | Noun | B2
+Witness | Uít-nes | Testemunha | Noun | B2
+Power outage | Páu-er áu-teidj | Queda de energia / Apagão | Noun | C1
+Renewable | Ri-niú-a-bol | Renovável | Adjective | B2
+
+// MÓDULO: CITY LIFE - SHOPPING (46-47)
+Receipt | Ri-sít | Recibo / Nota fiscal | Noun | B1
+Refund | Ri-fánd | Reembolso | Noun | B2
+Fitting room | Fí-ting rúm | Provador | Noun | A2
+Bargain | Bár-guen | Pechincha / Bom negócio | Noun | C1
+Customer | Cás-to-mer | Cliente | Noun | A2
+Window shopping | Uín-dou xó-ping | Ver as vitrines (sem comprar) | Phrase | C1
+
+// MÓDULO: CITY LIFE - SUPERMARKET & PHARMACY (48-49)
+Aisle | Áil | Corredor (de supermercado) | Noun | C1
+Trolley | Tró-li | Carrinho de compras | Noun | B1
+Checkout | Tchék-aut | Caixa (pagamento) | Noun | B1
+Painkiller | Pêin-ki-ler | Analgésico | Noun | B1
+Ointment | Óint-ment | Pomada | Noun | C2
+Bandage | Bán-didj | Faixa / Curativo | Noun | B2
+
+// MÓDULO: PEOPLE - PARTS OF THE BODY (01)
+Navel | Nêi-vol | Umbigo | Noun | C1
+Armpit | Árm-pit | Axila | Noun | B2
+Thigh | Tái | Coxa | Noun | B2
+Shin | Shín | Canela | Noun | C1
+Calf | Káf | Panturrilha | Noun | C1
+Forearm | Fór-árm | Antebraço | Noun | B2
+Heel | Ríl | Calcanhar | Noun | B1
+Waist | Uêist | Cintura | Noun | B1
+Chest | Tchést | Peito / Tórax | Noun | A2
+Hip | Ríp | Quadril | Noun | B1
+
+// MÓDULO: DAILY ROUTINES - MORNING HYGIENE (09.1)
+Alarm goes off | A-lárm gôuz óf | O despertador toca | Phrase | B1
+Wake up | Uêik áp | Acordar | Verb | A1
+Get up | Guét áp | Levantar-se (sair da cama) | Verb | A1
+Take a shower | Têik a sháu-er | Tomar banho (chuveiro) | Phrase | A1
+Shave | Shêiv | Barbear-se | Verb | B1
+Brush your teeth | Brásh iór títh | Escovar os dentes | Phrase | A1
+
+// MÓDULO: DAILY ROUTINES - GETTING READY (09.1)
+Get dressed | Guét dréssd | Vestir-se | Phrase | A1
+Put on makeup | Pút ón mêik-áp | Passar maquiagem | Phrase | B1
+Dry your hair | Drái iór rér | Secar o cabelo | Phrase | A2
+Iron a shirt | Ái-ern a shârt | Passar uma camisa (ferro) | Phrase | B1
+Make the bed | Mêik da béd | Arrumar a cama | Phrase | A1
+Pack your lunch | Pák iór lântch | Preparar a marmita / almoço | Phrase | B1
+
+// MÓDULO: DAILY ROUTINES - COMMUTE & WORK (09.1)
+Catch the bus | Cátch da bâs | Pegar o ônibus | Phrase | A2
+Drive | Dráiv | Dirigir | Verb | A1
+Arrive on time | A-ráiv ón táim | Chegar no horário / a tempo | Phrase | B1
+Check emails | Tchék í-meils | Verificar e-mails | Phrase | A2
+Take a break | Têik a brêik | Fazer uma pausa / intervalo | Phrase | B1
+Late | Lêit | Atrasado | Adjective | A1
+
+// MÓDULO: DAILY ROUTINES - EVENING (09.2)
+Finish work | Fí-nish uârk | Terminar o trabalho | Phrase | A1
+Work overtime | Uârk ôu-ver-táim | Fazer hora extra | Phrase | B1
+Arrive home | A-ráiv rôm | Chegar em casa | Phrase | A1
+Clear the table | Clí-ar da têi-bol | Tirar a mesa | Phrase | B1
+Wash up | Uósh áp | Lavar a louça | Phrase | A2
+Take out the trash | Têik áut da trásh | Levar o lixo para fora | Phrase | B1
+Set the alarm | Sét da a-lárm | Acertar o despertador | Phrase | B1
+Go to sleep | Gôu tu slíp | Ir dormir (adormecer) | Phrase | A1
+
+// MÓDULO: DAILY ROUTINES - OTHER ACTIVITIES (09.3)
+Do homework | Dú rôm-uârk | Fazer o dever de casa | Phrase | A1
+Walk the dog | Uók da dóg | Passear com o cachorro | Phrase | A2
+Buy groceries | Bái grô-se-ris | Fazer compras (mercado) | Phrase | B1
+Pay the bills | Pêi da bíls | Pagar as contas | Phrase | A2
+Take a nap | Têik a nép | Tirar uma soneca | Phrase | B1
+Clean the car | Clín da cár | Lavar o carro | Phrase | A2
+Chat online | Tchét ón-láin | Conversar online | Phrase | A2
+Water the plants | Uó-ter da plénts | Regar as plantas | Phrase | B1
+Send a package | Sénd a pá-kidj | Enviar um pacote | Phrase | B1
+Feed the cat | Fíd da cát | Alimentar o gato | Phrase | A2
+
+// MÓDULO: FOOD - DRINKING AND EATING (52)
+Swallow | Suó-lou | Engolir | Verb | B2
+Chew | Tchú | Mastigar | Verb | B1
+Thirsty | Thârs-ti | Com sede | Adjective | A1
+Snack | Snék | Lanche / Petiscar | Noun/Verb | A2
+Sip | Síp | Beberricar / Gole pequeno | Verb/Noun | C2
+Napkin | Nép-kin | Guardanapo | Noun | B1
+
+// MÓDULO: FOOD - MEAT, FISH & SEAFOOD (53-54)
+Beef | Bíf | Carne de vaca | Noun | A2
+Pork | Pórk | Carne de porco | Noun | B1
+Poultry | Pôul-tri | Aves (carne de aves) | Noun | C1
+Lamb | Lém | Carne de cordeiro | Noun | B1
+Salmon | Sá-mon | Salmão | Noun | A2
+Shrimp | Shrímp | Camarão | Noun | B1
+
+// MÓDULO: FOOD - VEGETABLES (55-56)
+Cabbage | Cá-badj | Repolho / Couve | Noun | B1
+Cucumber | Kiú-cam-ber | Pepino | Noun | B1
+Lettuce | Lé-tis | Alface | Noun | A2
+Garlic | Gár-lic | Alho | Noun | A2
+Spinach | Spí-natch | Espinafre | Noun | B1
+Onion | Á-nion | Cebola | Noun | A1
+
+// MÓDULO: FOOD - FRUIT & NUTS (57-58)
+Pear | Pér | Pera | Noun | A1
+Strawberry | Stró-be-ri | Morango | Noun | A1
+Pineapple | Páin-é-pol | Abacaxi | Noun | A2
+Watermelon | Uó-ter-mé-lon | Melancia | Noun | B1
+Almond | Á-mond | Amêndoa | Noun | B2
+Peanut | Pí-nat | Amendoim | Noun | B1
+
+// MÓDULO: FOOD - HERBS, SPICES & PANTRY (59-60)
+Basil | Bá-zil | Manjericão | Noun | C1
+Cinnamon | Sí-na-mon | Canela | Noun | B2
+Flour | Fláu-er | Farinha | Noun | B1
+Olive oil | Ó-liv óil | Azeite de oliva | Noun | B1
+Canned food | Kénd fúd | Comida enlatada | Noun | B2
+Jar | Djár | Pote (de vidro) | Noun | B1
+
+// MÓDULO: FOOD - DAIRY & BAKERY (61-63)
+Cheese | Tchíz | Queijo | Noun | A1
+Butter | Bá-ter | Manteiga | Noun | A1
+Yogurt | Iô-gurt | Iogurte | Noun | A2
+Loaf | Lôuf | Pão (unidade inteira) | Noun | B2
+Dough | Dôu | Massa (crua) | Noun | C1
+Pastry | Pêis-tri | Massa folhada / Pastelaria doce | Noun | C1
+
+// MÓDULO: FOOD - DELI, CAFÉ & TREATS (64-67)
+Sausage | Só-sidj | Salsicha / Linguiça | Noun | A2
+Ham | Rém | Presunto | Noun | A1
+Waiter | Uêi-ter | Garçom | Noun | A1
+Bitter | Bí-ter | Amargo | Adjective | B1
+Lollipop | Ló-li-póp | Pirulito | Noun | B1
+Chocolate bar | Tchó-co-let bár | Barra de chocolate | Noun | A2
+
+// MÓDULO: FOOD - DINING OUT & MEALS (68-72)
+Bill | Bíl | Conta (do restaurante) | Noun | A1
+Tip | Típ | Gorjeta | Noun | B1
+Starter | Stár-ter | Entrada (prato) | Noun | B2
+Main course | Mêin córs | Prato principal | Noun | A2
+Dessert | Di-zârt | Sobremesa | Noun | A2
+Takeaway | Têik-a-uêi | Comida para levar / Delivery | Noun | B1
+
+// MÓDULO: STUDY - AT SCHOOL (73)
+Principal | Prín-si-pal | Diretor (da escola) | Noun | B1
+Subject | Sáb-dject | Disciplina / Matéria | Noun | A2
+Blackboard | Blék-bórd | Quadro negro | Noun | A1
+Grade | Grêid | Nota (avaliação) | Noun | B1
+Essay | É-sei | Redação / Ensaio | Noun | B1
+Assignment | A-sáin-ment | Trabalho / Tarefa escolar | Noun | B2
+
+// MÓDULO: STUDY - MATHEMATICS (74)
+Equation | I-cuêi-shon | Equação | Noun | B2
+Subtract | Sab-tráct | Subtrair | Verb | B1
+Multiply | Mál-ti-plái | Multiplicar | Verb | B1
+Square root | Skuér rút | Raiz quadrada | Noun | C1
+Angle | Án-gol | Ângulo | Noun | B1
+Odd number | ód nâm-ber | Número ímpar | Noun | B1
+
+// MÓDULO: STUDY - PHYSICS (75)
+Gravity | Grá-vi-ti | Gravidade | Noun | B2
+Force | Fórs | Força | Noun | B1
+Speed | Spíd | Velocidade | Noun | A2
+Electricity | I-lec-trí-si-ti | Eletricidade | Noun | A2
+Magnet | Mág-net | Íman / Ímã | Noun | B2
+Wave | Uêiv | Onda | Noun | B1
+
+// MÓDULO: STUDY - CHEMISTRY & PERIODIC TABLE (76, 78)
+Experiment | Eks-pé-ri-ment | Experiência / Experimento | Noun | B1
+Laboratory | La-bó-ra-to-ri | Laboratório | Noun | B1
+Molecule | Mó-le-kiul | Molécula | Noun | C1
+Element | É-le-ment | Elemento | Noun | B2
+Liquid | Lí-cuid | Líquido | Noun | B1
+Acid | Á-sid | Ácido | Noun | B2
+
+// MÓDULO: STUDY - BIOLOGY (77)
+Cell | Sél | Célula | Noun | B2
+Species | Spí-shiz | Espécie | Noun | B2
+Microscope | Mái-cro-scôup | Microscópio | Noun | B2
+Gene | Djín | Gene | Noun | C1
+Skeleton | Ské-le-ton | Esqueleto | Noun | B1
+Evolution | E-vo-lú-shon | Evolução | Noun | B2
+
+// MÓDULO: STUDY - HISTORY (79)
+Ancient | Êin-shent | Antigo / Ancestral | Adjective | B1
+War | Uór | Guerra | Noun | A2
+Century | Sén-tchu-ri | Século | Noun | A2
+Knight | Náit | Cavaleiro | Noun | B2
+Empire | Ém-páier | Império | Noun | B2
+Timeline | Táim-láin | Linha do tempo / Cronologia | Noun | C1
+
+// MÓDULO: STUDY - AT COLLEGE (80)
+Lecture | Léc-tchar | Aula teórica / Palestra | Noun | B2
+Degree | Di-grí | Diploma / Grau académico | Noun | B1
+Campus | Cám-pas | Campus (universitário) | Noun | B1
+Professor | Pro-fé-sor | Professor universitário | Noun | A2
+Thesis | Thí-sis | Tese | Noun | C1
+Deadline | Déd-láin | Prazo final | Noun | B2
+
+// MÓDULO: WORK - OFFICE & TECHNOLOGY (81-83)
+Colleague | Kó-lig | Colega de trabalho | Noun | A2
+Employer | Em-plói-er | Empregador / Chefe | Noun | B1
+Employee | Em-plói-í | Empregado / Funcionário | Noun | B1
+Keyboard | Kí-bórd | Teclado | Noun | A1
+Screen | Scrín | Tela / Monitor | Noun | A2
+Folder | Fôul-der | Pasta (de arquivos) | Noun | A2
+
+// MÓDULO: WORK - PROFESSIONS (84-90)
+Lawyer | Ló-ier | Advogado | Noun | B1
+Journalist | Djâr-na-list | Jornalista | Noun | B1
+Farmer | Fár-mer | Fazendeiro / Agricultor | Noun | A1
+Soldier | Sôul-djer | Soldado | Noun | B1
+Judge | Djâdj | Juiz | Noun | B2
+Plumber | Plâ-mer | Encanador | Noun | B2
+
+// MÓDULO: WORK - CONSTRUCTION & INDUSTRY (87, 91)
+Crane | Crêin | Guindaste | Noun | C1
+Brick | Brík | Tijolo | Noun | B2
+Factory | Fác-to-ri | Fábrica | Noun | A1
+Warehouse | Uér-raus | Armazém / Depósito | Noun | B2
+Helmet | Rél-met | Capacete | Noun | B1
+Tools | Túls | Ferramentas | Noun | A2
+
+// MÓDULO: WORK - CAREER & FINANCE (92-95)
+Resume / CV | Ré-zu-mei / Sí-ví | Currículo | Noun | B1
+Interview | Ín-ter-viu | Entrevista | Noun | B1
+Salary | Sá-la-ri | Salário | Noun | A2
+Budget | Bâ-djet | Orçamento | Noun | B2
+Currency | Câ-ren-si | Moeda (dinheiro de um país) | Noun | B2
+Meeting | Mí-ting | Reunião | Noun | A2
+
+// MÓDULO: TRANSPORT - ROADS & CARS (96-99)
+Traffic jam | Trá-fic djém | Engarrafamento | Noun | B1
+Steering wheel | Stí-ring uíl | Volante | Noun | B2
+Brake | Brêik | Freio | Noun | B1
+Sidewalk (US) | Sáid-uók | Calçada | Noun | A2
+Pavement (UK) | Pêiv-ment | Calçada | Noun | A2
+Roundabout | Ráun-da-báut | Rotatória | Noun | B1
+
+// MÓDULO: TRANSPORT - PUBLIC & CYCLING (100-102)
+Cyclist | Sái-clist | Ciclista | Noun | B1
+Helmet | Rél-met | Capacete | Noun | B1
+Railway | Rêil-uêi | Ferrovia / Linha de trem | Noun | B1
+Platform | Plét-form | Plataforma (de embarque) | Noun | B1
+Passenger | Pá-sen-djer | Passageiro | Noun | A2
+Subway | Sâb-uêi | Metrô | Noun | A1
+
+// MÓDULO: TRANSPORT - AIR & SEA (103-106)
+Flight | Fláit | Voo | Noun | A1
+Boarding pass | Bór-ding pés | Cartão de embarque | Noun | B1
+Customs | Câs-toms | Alfândega | Noun | B2
+Luggage | Lâ-gadj | Bagagem | Noun | B1
+Ferry | Fé-ri | Balsa | Noun | B1
+Harbor | Rár-bor | Porto / Cais | Noun | B2
+
+// MÓDULO: SPORTS - TEAM SPORTS (107-112)
+Goalkeeper | Gôul-kí-per | Goleiro | Noun | A2
+Referee | Ré-fe-rí | Árbitro / Juiz | Noun | B1
+Pitch | Pítch | Campo (de futebol/rugby) | Noun | B2
+Bat | Bét | Taco (beisebol/críquete) | Noun | B1
+Hoop | Rúp | Cesta / Aro (basquete) | Noun | B2
+Net | Nét | Rede | Noun | A2
+
+// MÓDULO: SPORTS - INDIVIDUAL & OUTDOOR (113-116)
+Racket | Rá-ket | Raquete | Noun | A2
+Club | Clâb | Taco (de golfe) | Noun | B1
+Track | Trák | Pista (de corrida/atletismo) | Noun | B1
+Court | Córt | Quadra (tênis/basquete) | Noun | B1
+Race | Rêis | Corrida | Noun | A2
+Serve | Sârv | Saque / Servir | Verb/Noun | B1
+
+// MÓDULO: SPORTS - WATER & COMBAT (117-120)
+Goggles | Gó-gols | Óculos de proteção/natação | Noun | B2
+Diving | Dái-ving | Mergulho / Saltos ornamentais | Noun | B1
+Saddle | Sá-dol | Sela (hipismo) | Noun | C1
+Martial arts | Már-shal árts | Artes marciais | Noun | B1
+Helmet | Rél-met | Capacete | Noun | B1
+Sailing | Sêi-ling | Vela / Iatismo | Noun | B1
+
+// MÓDULO: SPORTS - OUTDOORS & GYM (121-125)
+Fishing rod | Fí-shing ród | Vara de pescar | Noun | B1
+Hook | Rúk | Anzol | Noun | B2
+Skiing | Skí-ing | Esqui | Noun | A2
+Slope | Slôup | Pista (de esqui) / Encosta | Noun | B2
+Treadmill | Tréd-mil | Esteira (de correr) | Noun | B2
+Dumbbell | Dâm-bel | Haltere (peso de mão) | Noun | C1
+Workout | Uôr-cáut | Treino (físico) | Noun | B1
+Racing car | Rêi-sing cár | Carro de corrida | Noun | A2
+Helmet | Rél-met | Capacete | Noun | B1
+Bait | Bêit | Isca | Noun | C1
+
+// MÓDULO: LEISURE - HOBBIES & FREE TIME
+Photography | Fo-tó-gra-fi | Fotografia | Noun | B1
+Painting | Pêin-ting | Pintura | Noun | A2
+Gardening | Gár-de-ning | Jardinagem | Noun | B1
+Hiking | Rái-king | Caminhada / Trilha | Noun | B1
+Camping | Kém-ping | Acampamento | Noun | A2
+Knitting | Ní-ting | Tricô / Tricotar | Noun | C1
+Sewing | Sô-ing | Costura | Noun | C1
+Cooking | Cú-king | Culinária / Cozinhar | Noun | A1
+
+// MÓDULO: LEISURE - GAMES (INDOOR)
+Chess | Tchés | Xadrez | Noun | A2
+Board game | Bórd guêim | Jogo de tabuleiro | Noun | B1
+Cards | Cárds | Cartas / Baralho | Noun | A1
+Dice | Dáis | Dado | Noun | B2
+Puzzle | Pâ-zol | Quebra-cabeça | Noun | B1
+Video game | Ví-dio guêim | Videogame | Noun | A1
+
+// MÓDULO: LEISURE - MUSIC & INSTRUMENTS
+Guitar | Gui-tár | Violão / Guitarra | Noun | A1
+Piano | Pi-á-no | Piano | Noun | A1
+Drums | Drâms | Bateria | Noun | A2
+Violin | Vai-o-lín | Violino | Noun | A2
+Band | Bénd | Banda | Noun | A1
+Concert | Cón-sert | Show / Concerto | Noun | A2
+Audience | Ó-di-ens | Plateia / Público | Noun | B1
+Singer | Sín-ger | Cantor(a) | Noun | A1
+
+// MÓDULO: LEISURE - ENTERTAINMENT & MEDIA
+Cinema | Sí-ne-ma | Cinema | Noun | A1
+Movie / Film | Mú-vi / Fílm | Filme | Noun | A1
+Theatre | Thí-a-ter | Teatro | Noun | A2
+Stage | Stêidj | Palco | Noun | B1
+Museum | Miu-zí-am | Museu | Noun | A1
+Exhibition | Ek-si-bí-shon | Exposição | Noun | B1
+News | Niúz | Notícias | Noun | A2
+Channel | Tchá-nel | Canal (de TV) | Noun | A2
+
+// MÓDULO: LEISURE - HOBBIES & CRAFTS (138-142)
+Novel | Nó-vel | Romance (livro literário) | Noun | B1
+Paintbrush | Pêint-brâsh | Pincel | Noun | B2
+Easle | Í-zol | Cavalete (de pintura) | Noun | C1
+Glue | Glú | Cola | Noun | A2
+Scissors | Sí-zors | Tesoura | Noun | A2
+Sewing machine | Sô-ing ma-shín | Máquina de costura | Noun | C1
+Dice | Dáis | Dados | Noun | B2
+Dragon | Drá-gon | Dragão (Mitos/Fantasia) | Noun | B1
+
+// MÓDULO: ENVIRONMENT - NATURE & LANDSCAPE
+Mountain | Máun-ten | Montanha | Noun | A1
+River | Rí-ver | Rio | Noun | A1
+Waterfall | Uó-ter-fól | Cachoeira | Noun | B1
+Forest | Fó-rest | Floresta | Noun | A2
+Island | Ái-land | Ilha | Noun | A2
+Desert | Dé-zert | Deserto | Noun | B1
+Cave | Kêiv | Caverna | Noun | B2
+Volcano | Vol-kêi-nou | Vulcão | Noun | B2
+
+// MÓDULO: ENVIRONMENT - WEATHER & SEASONS
+Sunny | Sâ-ni | Ensolarado | Adjective | A1
+Rain | Rêin | Chuva | Noun | A1
+Snow | Snôu | Neve | Noun | A1
+Storm | Stórm | Tempestade | Noun | B1
+Foggy | Fó-gui | Com neblina / Nevoeiro | Adjective | B1
+Lightning | Láit-ning | Relâmpago | Noun | B1
+Thunder | Thân-der | Trovão | Noun | B1
+Hurricane | Râ-ri-kein | Furacão | Noun | B2
+
+// MÓDULO: ENVIRONMENT - ANIMALS (WILDLIFE)
+Lion | Lái-on | Leão | Noun | A1
+Tiger | Tái-ger | Tigre | Noun | A1
+Elephant | É-le-fant | Elefante | Noun | A1
+Eagle | Í-gol | Águia | Noun | B2
+Shark | Shárk | Tubarão | Noun | A2
+Whale | Uêil | Baleia | Noun | B1
+Insect | Ín-sect | Inseto | Noun | A2
+Butterfly | Bâ-ter-flái | Borboleta | Noun | A2
+
+// MÓDULO: ENVIRONMENT - SPACE & UNIVERSE
+Earth | Ârth | Terra (planeta) | Noun | A2
+Moon | Mún | Lua | Noun | A1
+Star | Stár | Estrela | Noun | A1
+Planet | Plá-net | Planeta | Noun | A2
+Sky | Skái | Céu | Noun | A1
+Space | Spêis | Espaço (sideral) | Noun | B1
+
+// MÓDULO: NATURAL WORLD - LANDSCAPE & GEOGRAPHY (143-145)
+Cliff | Clíf | Penhasco | Noun | B2
+Valley | Vá-li | Vale | Noun | B1
+Cave | Kêiv | Caverna | Noun | B2
+Rainforest | Rêin-fó-rest | Floresta tropical | Noun | B2
+Waterfall | Uó-ter-fól | Cachoeira | Noun | B1
+Desert | Dé-zert | Deserto | Noun | B1
+Coast | Côust | Costa / Litoral | Noun | B1
+Ocean | Ôu-shan | Oceano | Noun | A2
+
+// MÓDULO: NATURAL WORLD - WEATHER & SEASONS (146-147)
+Forecast | Fór-kest | Previsão (do tempo) | Noun | B1
+Drought | Dráut | Seca | Noun | C1
+Flood | Flâd | Inundação / Enchente | Noun | B1
+Lightning | Láit-ning | Relâmpago | Noun | B1
+Thunder | Thân-der | Trovão | Noun | B1
+Foggy | Fó-gui | Com neblina | Adjective | B1
+Freezing | Frí-zing | Congelante / Muito frio | Adjective | A2
+Humid | Riú-mid | Úmido | Adjective | B1
+
+// MÓDULO: NATURAL WORLD - ANIMALS & WILDLIFE (148-153)
+Squirrel | Skuí-rel | Esquilo | Noun | B2
+Fox | Fóks | Raposa | Noun | B1
+Deer | Dír | Veado / Cervo | Noun | B1
+Owl | Ául | Coruja | Noun | B1
+Parrot | Pé-rot | Papagaio | Noun | A2
+Spider | Spái-der | Aranha | Noun | A1
+Whale | Uêil | Baleia | Noun | B1
+Shark | Shárk | Tubarão | Noun | A2
+Paw | Pó | Pata (de animal) | Noun | B2
+Feather | Fé-der | Pena | Noun | B1
+
+// MÓDULO: NATURAL WORLD - SPACE (154-155)
+Solar system | Sô-lar sís-tem | Sistema solar | Noun | B2
+Galaxy | Gá-lak-si | Galáxia | Noun | B2
+Orbit | ór-bit | Órbita | Noun | C1
+Rocket | Ró-ket | Foguete | Noun | B1
+Astronaut | Ás-tro-nót | Astronauta | Noun | A2
+Telescope | Té-le-scôup | Telescópio | Noun | B1
+
+// MÓDULO: REFERENCE - TIME & CALENDAR (171-173)
+Calendar | Cá-len-dar | Calendário | Noun | A1
+Diary | Dái-a-ri | Agenda / Diário | Noun | B1
+Century | Sén-tchu-ri | Século | Noun | B1
+Decade | Dé-keid | Década | Noun | B1
+Fortnight | Fórt-náit | Quinzena (duas semanas - UK) | Noun | B2
+Dawn | Dón | Amanhecer / Aurora | Noun | B2
+Dusk | Dâsk | Anoitecer / Crepúsculo | Noun | B2
+Noon | Nún | Meio-dia | Noun | A2
+
+// MÓDULO: REFERENCE - NUMBERS & MATH (174-176)
+Calculator | Cál-kiu-lei-tor | Calculadora | Noun | A2
+Fraction | Frác-shon | Fração | Noun | C1
+Percentage | Per-sén-tidj | Porcentagem | Noun | B2
+Odd number | Ód nâm-ber | Número ímpar | Noun | B2
+Even number | Í-ven nâm-ber | Número par | Noun | B2
+Dozen | Dâ-zen | Dúzia | Noun | B2
+Average | Á-ve-ridj | Média | Noun | B1
+
+// MÓDULO: REFERENCE - MEASUREMENTS & GEOMETRY (177-180)
+Ruler | Rú-ler | Régua | Noun | A2
+Tape measure | Têip mé-jur | Fita métrica | Noun | B2
+Scales | Skêils | Balança | Noun | B1
+Width | Uídth | Largura | Noun | B1
+Depth | Dépth | Profundidade | Noun | B2
+Height | Ráit | Altura | Noun | A2
+Square | Skuér | Quadrado | Noun | A2
+Circle | Sâr-col | Círculo | Noun | A2
+Triangle | Trái-an-gol | Triângulo | Noun | A2
+
+// MÓDULO: TIME - DAYS OF THE WEEK (Dias da Semana)
+Monday | Mân-dei | Segunda-feira | Noun | A1
+Tuesday | Tiúz-dei | Terça-feira | Noun | A1
+Wednesday | Uénz-dei | Quarta-feira | Noun | A1
+Thursday | Thârz-dei | Quinta-feira | Noun | A1
+Friday | Frái-dei | Sexta-feira | Noun | A1
+Saturday | Sá-ter-dei | Sábado | Noun | A1
+Sunday | Sân-dei | Domingo | Noun | A1
+Weekday | Uík-dei | Dia de semana (seg-sex) | Noun | B1
+Weekend | Uík-end | Fim de semana | Noun | A1
+
+// MÓDULO: TIME - MONTHS OF THE YEAR (Meses do Ano)
+January | Djé-niu-é-ri | Janeiro | Noun | A1
+February | Fé-bru-é-ri | Fevereiro | Noun | A1
+March | Mártch | Março | Noun | A1
+April | Êi-pril | Abril | Noun | A1
+May | Mêi | Maio | Noun | A1
+June | Djiún | Junho | Noun | A1
+July | Djiu-lái | Julho | Noun | A1
+August | Ó-gast | Agosto | Noun | A1
+September | Sep-tém-ber | Setembro | Noun | A1
+October | Oc-tô-ber | Outubro | Noun | A1
+November | No-vém-ber | Novembro | Noun | A1
+December | Di-sém-ber | Dezembro | Noun | A1
+
+// MÓDULO: TIME - PERIODS OF THE DAY (Períodos do Dia)
+Morning | Mór-ning | Manhã | Noun | A1
+Afternoon | Áf-ter-nún | Tarde | Noun | A1
+Evening | Ív-ning | Fim de tarde / Início da noite | Noun | A1
+Night | Náit | Noite | Noun | A1
+Midday / Noon | Míd-dei / Nún | Meio-dia | Noun | A2
+Midnight | Míd-náit | Meia-noite | Noun | A2
+Sunrise | Sân-ráiz | Nascer do sol | Noun | B1
+Sunset | Sân-sét | Pôr do sol | Noun | B1
+
+// MÓDULO: TIME - TELLING THE TIME (Dizer as Horas)
+O'clock | O-clóc | Em ponto (da hora certa) | Adverb | A1
+Half past | Ráf pást | E meia (30 min passados) | Phrase | A1
+Quarter past | Cuór-ter pást | E um quarto (15 min passados) | Phrase | A2
+Quarter to | Cuór-ter tú | Um quarto para (faltam 15 min) | Phrase | A2
+Sharp | Shárp | Em ponto (exatidão) | Adverb | B2
+Watch | Uótch | Relógio de pulso | Noun | A1
+Clock | Clóc | Relógio de parede | Noun | A1
+
+// MÓDULO: SOCIAL INTERACTIONS (Social)
+Nice to meet you | Náis tu mít iú | Prazer em conhecê-lo | Phrase | A1
+How's it going? | Ráuz it gô-ing? | Como vão as coisas? (Informal) | Phrase | A2
+See you later | Sí iú lêi-ter | Até logo | Phrase | A1
+I'm sorry | Áim só-ri | Desculpe / Sinto muito | Phrase | A1
+Excuse me | Eks-kiúz mí | Com licença | Phrase | A1
+That sounds great | Dhét sáunds grêit | Isso parece ótimo (Mostrar interesse) | Phrase | B1
+Really? | Rí-li? | Sério? / Verdade? (Mostrar interesse) | Adverb | A1
+I appreciate it | Ái a-prí-shi-êit ít | Eu agradeço (Mais formal que Thanks) | Phrase | B2
+
+// MÓDULO: PRACTICAL SITUATIONS (Prático)
+Can you help me? | Kén iú rélp mí? | Pode me ajudar? | Phrase | A1
+Where is the...? | Uér íz dhá...? | Onde fica o...? | Phrase | A1
+How much is it? | Ráu mâtch íz ít? | Quanto custa? | Phrase | A1
+I don't understand | Ái dôunt ân-der-sténd | Eu não entendo | Phrase | A1
+Could you repeat? | Cúd iú ri-pít? | Poderia repetir? | Phrase | A2
+I'm lost | Áim lóst | Estou perdido | Phrase | A2
+Call an ambulance | Cól én ém-biu-lans | Chame uma ambulância (Emergência) | Phrase | B1
+
+// MÓDULO: ON THE PHONE (No Telefone)
+Hello, this is... | Re-lôu, dhís íz... | Olá, aqui é o... | Phrase | A2
+Can I speak to...? | Kén ái spík tú...? | Posso falar com...? | Phrase | A2
+Hold on, please | Rôuld ón, plíz | Aguarde um momento, por favor | Phrase | B1
+I'll call back | Áil cól bék | Eu ligo de volta | Phrase | A2
+
+// MÓDULO: INTRODUCTIONS (Apresentações)
+Hello! What's your name? | Re-lôu! Uóts iór nêim? | Olá! Qual o seu nome? | Phrase | A1
+My name is... | Mái nêim íz... | Meu nome é... | Phrase | A1
+I'm (name) | Áim... | Eu sou... | Phrase | A1
+How are you? | Ráu ár iú? | Como vai você? | Phrase | A1
+I'm fine, thanks | Áim fáin, thénks | Estou bem, obrigado | Phrase | A1
+How old are you? | Ráu ôuld ár iú? | Quantos anos você tem? | Phrase | A1
+Nice to meet you | Náis tu mít iú | Prazer em conhecê-lo | Phrase | A1
+I hope we can meet again | Ái rôup uí kén mít a-guên | Espero que possamos nos ver novamente | Phrase | A2
+Have you met...? | Rév iú mét...? | Você conhece o...? | Phrase | B1
+Let me introduce myself | Lét mí in-tro-diús mái-sélf | Deixe-me me apresentar | Phrase | B1
+Good Morning | Gúd Mór-ning | Bom dia | Phrase | A1
+Good Afternoon | Gúd Áf-ter-nún | Boa tarde | Phrase | A1
+Good Evening | Gúd Ív-ning | Boa noite (chegada) | Phrase | A1
+Good Night | Gúd Náit | Boa noite (saída/dormir) | Phrase | A1
+See you tomorrow | Sí iú tu-mó-rou | Te vejo amanhã | Phrase | A1
+
+// MÓDULO: APOLOGIES (Desculpas)
+Sorry | Só-ri | Desculpe | Phrase | A1
+I'm terribly sorry | Áim té-ri-bli só-ri | Sinto muito mesmo | Phrase | B1
+Pardon me | Pár-don mí | Perdão / Me desculpe | Phrase | B1
+That's my fault | Dhéts mái fólt | A culpa é minha | Phrase | A2
+Please don't be mad at me | Plíz dôunt bí méd ét mí | Por favor, não fique bravo comigo | Phrase | A2
+Please accept my apologies | Plíz ek-sépt mái a-pó-lo-djís | Por favor, aceite minhas desculpas | Phrase | B2
+Never mind | Né-ver máind | Deixa pra lá / Não importa | Phrase | A2
+
+// MÓDULO: COMMON EXPRESSIONS (Expressões Comuns)
+Of course | Óv córs | É claro | Phrase | A1
+That's right | Dhéts ráit | Está certo | Phrase | A1
+Sure | Shúr | Claro | Adverb | A1
+Definitely | Dé-fi-nit-li | Definitivamente | Adverb | B1
+As soon as possible | Éz sún éz pó-si-bôl | O mais rápido possível (ASAP) | Phrase | B1
+It doesn't matter | It dâ-zent mé-ter | Não importa | Phrase | A2
+I'm in a hurry | Áim ín a râ-ri | Estou com pressa | Phrase | A2
+I've got to go | Áiv gót tu gôu | Tenho que ir | Phrase | A2
+Sleep well | Slíp uél | Durma bem | Phrase | A1
+Same to you | Sêim tu iú | O mesmo para você | Phrase | A1
+Bless you | Blés iú | Saúde (após espirrar) | Phrase | A1
+Take your time | Têik iór táim | Leve o tempo que precisar | Phrase | B1
+Help yourself | Rélp iór-sélf | Sirva-se / Fique à vontade | Phrase | B1
+Go ahead | Gôu a-réd | Vá em frente | Phrasal Verb | B1
+It's up to you | Íts âp tu iú | Você decide / Depende de você | Phrase | B1
+
+// MÓDULO: ON THE PHONE (No Telefone)
+Hi, this is... | Rái, dhís íz... | Oi, aqui é o... | Phrase | A1
+May I speak with...? | Mêi ái spík uíth...? | Posso falar com...? | Phrase | A2
+I'm returning your call | Áim ri-târ-ning iór cól | Estou retornando sua ligação | Phrase | B1
+One moment please | Uân mô-ment plíz | Um momento, por favor | Phrase | A2
+Hang on a second | Réng ón a sé-cond | Espere um segundo | Phrase | B1
+Would you like to leave a message? | Uúd iú láik tu lív a mé-ssidj? | Gostaria de deixar um recado? | Phrase | A2
+I'll call you back | Áil cól iú bék | Eu te ligo de volta | Phrase | A2
+The line is busy | Dhá láin íz bí-zi | A linha está ocupada | Phrase | B1
+
+// MÓDULO: EMERGENCIES (Emergências)
+Call an ambulance! | Cól én ém-biu-lans! | Chame uma ambulância! | Phrase | A1
+I need a doctor | Ái níd a dóc-tor | Preciso de um médico | Phrase | A1
+There's been an accident | Dhérs bín én éc-ci-dent | Houve um acidente | Phrase | B1
+Stop, thief! | Stóp, thíf! | Pare, ladrão! | Phrase | B1
+Call the police! | Cól dhá po-lís! | Chame a polícia! | Phrase | A1
+My wallet has been stolen | Mái uó-let réz bín stô-len | Minha carteira foi roubada | Phrase | B1
+Fire! | Fáir! | Fogo! | Noun | A1
+I'm lost | Áim lóst | Estou perdido | Phrase | A1
+I've locked myself out | Áiv lóckt mái-sélf áut | Tranquei-me do lado de fora | Phrase | B2
+Leave me alone | Lív mí a-lôn | Me deixe em paz | Phrase | A2
+
+// MÓDULO: FOOD & DINING (Comidas)
+I'm starving | Áim stár-ving | Estou morrendo de fome | Phrase | B1
+What's for lunch? | Uóts fór lântch? | O que tem para o almoço? | Phrase | A1
+I'd like to order... | Áid láik tu ór-der... | Gostaria de pedir... | Phrase | A2
+Can I have the bill? | Kén ái rév dhá bíl? | Posso ver a conta? | Phrase | A1
+I prefer sweets to salty food | Ái pri-fâr suíts tú sól-ti fúd | Prefiro doces a salgados | Phrase | B1
+Do you drink tea? | Dú iú drínk tí? | Você bebe chá? | Phrase | A1
+I'm allergic to... | Áim a-lâr-djic tú... | Sou alérgico a... | Phrase | B1
+
+// MÓDULO: HEALTH (Saúde)
+I don't feel well | Ái dôunt fíl uél | Não me sinto bem | Phrase | A1
+I have a fever | Ái rév a fí-ver | Estou com febre | Phrase | A2
+I have a headache | Ái rév a ré-dêik | Estou com dor de cabeça | Phrase | A2
+I'm in pain | Áim ín pêin | Estou com dor | Phrase | A2
+I feel dizzy | Ái fíl dí-zi | Sinto tontura | Phrase | B1
+I think I'm pregnant | Ái thínk áim prég-nant | Acho que estou grávida | Phrase | B1
+Where does it hurt? | Uér dâz ít rârt? | Onde dói? | Phrase | A2
+I'm going to take your pressure | Áim gô-ing tu têik iór pré-shur | Vou medir sua pressão | Phrase | B1
+
+// MÓDULO: TRAVEL & AIRPORT (Viagem)
+What is the purpose of your trip? | Uót íz dhá pâr-pôs óv iór tríp? | Qual o objetivo da viagem? | Phrase | B1
+Flight is boarding | Fláit íz bór-ding | O voo está embarcando | Phrase | B1
+Flight cancelled | Fláit kén-celd | Voo cancelado | Phrase | B1
+Where is the gate? | Uér íz dhá guêit? | Onde fica o portão? | Phrase | A2
+Here is my passport | Rír íz mái pés-pórt | Aqui está meu passaporte | Phrase | A1
+Have a nice trip | Rév a náis tríp | Tenha uma boa viagem | Phrase | A1
+
+// MÓDULO: DIRECTIONS & TRAFFIC (Trânsito)
+Turn left | Târn léft | Vire à esquerda | Phrase | A1
+Turn right | Târn ráit | Vire à direita | Phrase | A1
+Go straight ahead | Gôu strêit a-réd | Siga em frente | Phrase | A2
+Traffic jam | Tré-fic djem | Engarrafamento | Noun | B1
+Buckle up | Bâ-col âp | Coloque o cinto | Phrasal Verb | B2
+Slow down | Slôu dáun | Devagar / Desacelere | Phrasal Verb | A2
+I slammed on the brakes | Ái slémd ón dhá brêiks | Eu freei bruscamente | Phrase | C1
+
+// MÓDULO: EMOTIONS (Emoções)
+I'm angry | Áim én-gri | Estou bravo | Phrase | A1
+I'm anxious | Áim énk-shâs | Estou ansioso | Phrase | B2
+I'm bored | Áim bórd | Estou entediado | Phrase | A1
+I'm disappointed | Áim di-sa-póin-ted | Estou desapontado | Phrase | B1
+I'm happy | Áim ré-pi | Estou feliz | Phrase | A1
+Don't be jealous | Dôunt bí djé-lâs | Não seja ciumento | Phrase | B1
+He is charming | Rí íz tchár-ming | Ele é charmoso/encantador | Phrase | B1
+
+// MÓDULO: WORK & PROFESSIONS (Trabalho)
+I need to apply for a job | Ái níd tu a-plái fór a djób | Preciso me candidatar a uma vaga | Phrase | B1
+How was the interview? | Ráu uóz dhá ín-ter-viu? | Como foi a entrevista? | Phrase | A2
+Full-time job | Fúl-táim djób | Trabalho integral | Noun | B1
+Part-time job | Párt-táim djób | Trabalho meio período | Noun | B1
+You're fired | Iór fáird | Você está demitido | Phrase | B1
+I need a sick leave | Ái níd a sík lív | Preciso de licença médica | Phrase | B2
+Accountant | A-cáun-tant | Contador | Noun | B1
+Engineer | En-dji-nír | Engenheiro | Noun | A2
+Lawyer | Ló-ier | Advogado | Noun | B1
+
+// MÓDULO: FAMILY (Família)
+Mother-in-law | Mâ-dher ín ló | Sogra | Noun | B1
+Brother-in-law | Brâ-dher ín ló | Cunhado | Noun | B1
+Stepfather | Stép-fá-dher | Padrasto | Noun | B1
+Cousin | Câ-zin | Primo(a) | Noun | A1
+He proposed to me | Rí pro-pôuzd tu mí | Ele me pediu em casamento | Phrase | B2
+Grandparents | Grénd-pé-rents | Avós | Noun | A1
+
+// MÓDULO: TIME & WEATHER (Tempo)
+It's raining | Íts rêi-ning | Está chovendo | Phrase | A1
+What time is it? | Uót táim íz ít? | Que horas são? | Phrase | A1
+At noon | Ét nún | Ao meio-dia | Phrase | A2
+At midnight | Ét míd-náit | À meia-noite | Phrase | A2
+In the morning | Ín dhá mór-ning | De manhã | Phrase | A1
+Wait a second | Uêit a sé-cond | Espere um segundo | Phrase | A1
+
+// MÓDULO: SPORTS (Esportes)
+Are you a pro? | Ár iú a prôu? | Você é profissional? | Phrase | A2
+The game will be in the arena | Dhá guêim uíl bí ín dhá a-rí-na | O jogo será na arena | Phrase | B1
+I'm training to be more athletic | Áim trêi-ning tu bí mór eth-lé-tic | Estou treinando para ser mais atlético | Phrase | B1
+Did you see his backhand? | Díd iú sí ríz bék-rénd? | Você viu o backhand dele? | Phrase | B2
+This batter is awful | Dhís bé-ter íz ó-fúl | Esse rebatedor é horrível | Phrase | B2
+Do you want to watch baseball? | Dú iú uónt tu uótch bêis-ból? | Você quer assistir beisebol? | Phrase | A2
+I will watch a basketball game | Ái uíl uótch a bás-ket-ból guêim | Vou assistir a um jogo de basquete | Phrase | A2
+He'll watch from the bench | Ríl uótch fróm dhá béntch | Ele vai assistir do banco de reservas | Phrase | B1
+This catcher is the best | Dhís ké-tcher íz dhá bést | Este pegador (catcher) é o melhor | Phrase | B1
+They are the champions | Dhêi ár dhá tchém-pions | Eles são os campeões | Phrase | A1
+Championship match | Tchém-pion-shíp métch | Partida da final / Campeonato | Noun | B1
+This coach is very tough | Dhís côutch íz vé-ri tâf | Esse treinador é muito duro/rude | Phrase | B1
+Our team isn't competitive | Áu-ar tím í-zent com-pé-ti-tiv | Nosso time não é competitivo | Phrase | B2
+Let's work on our defense | Léts uôrk ón áu-ar di-féns | Vamos trabalhar nossa defesa | Phrase | B1
+Would you like to play doubles? | Uúd iú láik tu plêi dâ-bôls? | Gostaria de jogar em duplas? | Phrase | B1
+That was an amazing dribble | Dhét uóz én a-mêi-zing drí-bôl | Aquele foi um drible incrível | Phrase | B1
+I'm a soccer fan | Áim a só-ker fén | Sou fã de futebol | Phrase | A1
+They missed the field goal | Dhêi míssd dhá fíld gôul | Eles perderam o field goal | Phrase | B2
+Reach the finish line | Rítch dhá fí-nish láin | Chegar na linha de chegada | Phrase | B1
+I prefer football to soccer | Ái pri-fâr fút-ból tú só-ker | Prefiro futebol americano a futebol | Phrase | A2
+Forehand | Fór-rénd | Forehand (golpe de direita no tênis) | Noun | B1
+If they miss this free throw | Íf dhêi mís dhís frí thrôu | Se eles errarem esse lance livre | Phrase | B2
+We need more goals | Uí níd mór gôuls | Precisamos de mais gols | Phrase | A1
+Cross the goal line | Crós dhá gôul láin | Cruzar a linha do gol | Phrase | B2
+The goalkeeper is a wall | Dhá gôul-kí-per íz a uól | O goleiro é uma muralha | Phrase | B1
+He has won more Grand Slams | Rí réz uón mór grénd sléms | Ele ganhou mais Grand Slams | Phrase | B2
+It's half time | Íts réf táim | É o intervalo | Phrase | B1
+He'll be the MVP | Ríl bí dhá ém-ví-pí | Ele será o Jogador Mais Valioso (MVP) | Phrase | B1
+Watch the Super Bowl | Uótch dhá sú-per bôul | Assistir ao Super Bowl | Phrase | A2
+Energy drink | É-ner-dji drínk | Bebida energética | Noun | A2
+What was that serve? | Uót uóz dhét sârv? | O que foi aquele saque? | Phrase | B1
+Easy smash | Í-zi smésh | Cortada fácil (tênis/vôlei) | Phrase | B1
+
+// MÓDULO: BATHROOM (Banheiro)
+Restroom / Bathroom | Rést-rúm / Báth-rúm | Banheiro | Noun | A1
+Do you have a toilet? | Dú iú rév a tói-let? | Você tem um banheiro/sanitário? | Phrase | A1
+Where is the soap? | Uér íz dhá sôup? | Onde está o sabonete? | Phrase | A1
+Ladies / Gents | Lêi-diz / Dje-nts | Mulheres / Homens (placas de banheiro) | Noun | A1
+Do you have an extra towel? | Dú iú rév én éks-tra tá-uel? | Você tem uma toalha extra? | Phrase | A2
+Toilet paper is running out | Tói-let pêi-per íz râ-ning áut | O papel higiênico está acabando | Phrase | B1
+Can I take a shower? | Kén ái têik a sháu-er? | Posso tomar um banho? | Phrase | A1
+Flush the toilet | Flâsh dhá tói-let | Dar descarga | Phrase | B1
+
+// MÓDULO: LEGAL TERMS (Jurídico)
+The cops arrested the thief | Dhá cóps a-rés-ted dhá thíf | Os policiais prenderam o ladrão | Phrase | B1
+Accused of stealing | A-kiúzd óv stí-ling | Acusado de roubar | Phrase | B2
+Adoption paperwork | A-dóp-shon pêi-per-uôrk | Papelada de adoção | Noun | B2
+I have an alibi | Ái rév én á-li-bái | Eu tenho um álibi | Phrase | C1
+I want to appeal | Ái uónt tu a-píl | Eu quero apelar (recorrer) | Phrase | C1
+Case closed | Kêis clôuzd | Caso encerrado | Phrase | B1
+Read the contract | Ríd dhá cón-tréct | Ler o contrato | Phrase | B1
+Copyright | Có-pi-ráit | Direitos autorais | Noun | B1
+Go to court | Gôu tu córt | Ir ao tribunal/corte | Phrase | B1
+In custody | Ín câs-to-di | Sob custódia | Phrase | C1
+Death penalty | Déth pé-nal-ti | Pena de morte | Noun | B2
+He defends me in court | Rí di-fénds mí ín córt | Ele me defende no tribunal | Phrase | B1
+Alimony | É-li-mô-ni | Pensão alimentícia (ex-cônjuge) | Noun | C1
+I was acquitted | Ái uóz a-cuí-ted | Eu fui absolvido | Phrase | C2
+Attorney / Lawyer | A-tôr-ni / Ló-ier | Advogado | Noun | B1
+They are bankrupt | Dhêi ár bénk-râpt | Eles estão falidos | Phrase | B2
+
+// MÓDULO: TIME, CALENDAR & NUMBERS (Tempo e Números)
+Today | Tu-dêi | Hoje | Adverb | A1
+Tomorrow | Tu-mó-rou | Amanhã | Adverb | A1
+Yesterday | Iés-ter-dêi | Ontem | Adverb | A1
+Morning | Mór-ning | Manhã | Noun | A1
+Noon | Nún | Meio-dia | Noun | A1
+Midnight | Míd-náit | Meia-noite | Noun | A1
+Night | Náit | Noite | Noun | A1
+Early | Âr-li | Cedo | Adverb | A2
+Late | Lêit | Tarde / Atrasado | Adjective | A1
+Month | Mânth | Mês | Noun | A1
+Year | Í-ar | Ano | Noun | A1
+Yearly | Í-ar-li | Anualmente | Adverb | B1
+Week | Uík | Semana | Noun | A1
+Weekend | Uík-end | Fim de semana | Noun | A1
+Hour | Áu-ar | Hora | Noun | A1
+Minute | Mi-nut | Minuto | Noun | A1
+O'clock | O-clóc | Em ponto (horas) | Adverb | A1
+Calendar | Ké-len-dar | Calendário | Noun | A1
+Schedule | Ské-djul | Agenda / Cronograma | Noun | A2
+Holiday | Ró-li-dêi | Feriado | Noun | A1
+Spring | Spríng | Primavera | Noun | A1
+Summer | Sâ-mer | Verão | Noun | A1
+Winter | Uín-ter | Inverno | Noun | A1
+Season | Sí-zon | Estação / Temporada | Noun | A2
+Eight | Êit | Oito | Number | A1
+Eleven | E-lé-ven | Onze | Number | A1
+Ten | Tén | Dez | Number | A1
+Thousand | Tháu-zand | Mil | Number | A1
+Three | ThrÍ | Três | Number | A1
+Two | Tú | Dois | Number | A1
+Zero | Zí-rou | Zero | Number | A1
+Once | Uáns | Uma vez | Adverb | A1
+Twice | Tuáis | Duas vezes | Adverb | A2
+First | Fârst | Primeiro | Number | A1
+Last | Lést | Último | Adjective | A1
+Next | Nékst | Próximo | Adjective | A1
+Quarter | Cuór-ter | Um quarto / 15 minutos | Noun | A2
+
+// MÓDULO: FOOD & DRINKS (Comidas e Bebidas)
+Apple | É-pol | Maçã | Noun | A1
+Egg | Égg | Ovo | Noun | A1
+Fish | Físh | Peixe | Noun | A1
+Meat | Mít | Carne | Noun | A1
+Chicken | Tchí-ken | Frango | Noun | A1
+Ham | Rém | Presunto | Noun | A1
+Seafood | Sí-fúd | Frutos do mar | Noun | B1
+Lobster | Lób-ster | Lagosta | Noun | B1
+Rice | Ráis | Arroz | Noun | A1
+Beans | Bíns | Feijão | Noun | A1
+Pasta | Pás-ta | Massa / Macarrão | Noun | A1
+Lasagna | La-zá-nia | Lasanha | Noun | A1
+Pizza | Pít-za | Pizza | Noun | A1
+Sandwich | Sénd-uítch | Sanduíche | Noun | A1
+French Fries | Fréntch Fráis | Batatas fritas | Noun | A1
+Popcorn | Póp-córn | Pipoca | Noun | A1
+Snacks | Snéks | Lanches / Petiscos | Noun | A2
+Soup | Súp | Sopa | Noun | A1
+Salad | Sé-lad | Salada | Noun | A1
+Vegetables | Védj-ta-bols | Legumes / Verduras | Noun | A1
+Lettuce | Lé-tâs | Alface | Noun | A1
+Tomato | To-mêi-tou | Tomate | Noun | A1
+Garlic | Gár-lic | Alho | Noun | A2
+Onions | Ó-nions | Cebolas | Noun | A1
+Red Onion | Réd Ó-nion | Cebola roxa | Noun | A2
+Carrot | Ké-rot | Cenoura | Noun | A1
+Fruit | Frút | Fruta | Noun | A1
+Grapes | Grêips | Uvas | Noun | A1
+Melon | Mé-lon | Melão | Noun | A1
+Watermelon | Uó-ter-mé-lon | Melancia | Noun | A1
+Peach | Pítch | Pêssego | Noun | A1
+Pear | Pér | Pera | Noun | A1
+Strawberry | Stró-bé-ri | Morango | Noun | A1
+Tangerine | Ten-dje-rín | Tangerina | Noun | A2
+Milk | Mílk | Leite | Noun | A1
+Juice | Djús | Suco | Noun | A1
+Tea | Tí | Chá | Noun | A1
+Hot Chocolate | Rót Tchó-co-let | Chocolate quente | Noun | A1
+Milkshake | Mílk-shêik | Milkshake | Noun | A1
+Yogurt | Iô-gurt | Iogurte | Noun | A1
+Ice | Áis | Gelo | Noun | A1
+Olive Oil | Ó-liv Óil | Azeite de oliva | Noun | A2
+Vinegar | Ví-ne-gar | Vinagre | Noun | A2
+Muffins | Mâ-fins | Bolinhos (Muffins) | Noun | A2
+Toast | Tôust | Torrada | Noun | A2
+Grocery | Grô-sse-ri | Mercearia / Compras de mercado | Noun | B1
+
+// MÓDULO: FAMILY & PEOPLE (Família e Pessoas)
+Family | Fé-mi-li | Família | Noun | A1
+Parents | Pé-rents | Pais (Pai e Mãe) | Noun | A1
+Mom | Móm | Mãe (informal) | Noun | A1
+Dad | Déd | Pai (informal) | Noun | A1
+Husband | Râs-band | Marido | Noun | A1
+Wife | Uáif | Esposa | Noun | A1
+Son | Sân | Filho | Noun | A1
+Daughter | Dó-ter | Filha | Noun | A1
+Siblings | Sí-blings | Irmãos (gênero neutro) | Noun | B1
+Brother | Brâ-dher | Irmão | Noun | A1
+Sister | Sís-ter | Irmã | Noun | A1
+Twins | Tuíns | Gêmeos | Noun | A2
+Grandson | Grénd-sân | Neto | Noun | A2
+Uncle | Ân-col | Tio | Noun | A1
+Nephew | Né-fiu | Sobrinho | Noun | A2
+Niece | Nís | Sobrinha | Noun | A2
+Cousin | Câ-zin | Primo(a) | Noun | A1
+Father-in-law | Fá-dher ín ló | Sogro | Noun | B1
+Mother-in-law | Mâ-dher ín ló | Sogra | Noun | B1
+Son-in-law | Sân ín ló | Genro | Noun | B1
+Stepfather | Stép-fá-dher | Padrasto | Noun | B1
+Stepmother | Stép-mâ-dher | Madrasta | Noun | B1
+Stepsister | Stép-sís-ter | Meia-irmã (filha do padrasto/madrasta) | Noun | B1
+Half-Brother | Réf-brâ-dher | Meio-irmão (de sangue) | Noun | B1
+Boyfriend | Bói-frénd | Namorado | Noun | A1
+Girlfriend | Gârl-frénd | Namorada | Noun | A1
+Engaged | En-guêidjd | Noivo(a) / Comprometido | Adjective | B1
+Single | Sín-gol | Solteiro | Adjective | A1
+Married | Mé-rid | Casado | Adjective | A1
+Divorced | Di-vórsd | Divorciado | Adjective | A2
+Friend | Frénd | Amigo | Noun | A1
+Guys | Gáis | Pessoal / Caras | Noun | A1
+Man | Mén | Homem | Noun | A1
+Woman | Uô-man | Mulher | Noun | A1
+Kid | Kíd | Criança / Filho (informal) | Noun | A1
+Teenager | Tín-êi-djer | Adolescente | Noun | A2
+Youth | Iúth | Juventude | Noun | B1
+
+// MÓDULO: BODY, CLOTHING & ACCESSORIES (Corpo e Roupas)
+Body | Bó-di | Corpo | Noun | A1
+Head | Réd | Cabeça | Noun | A1
+Face | Fêis | Rosto | Noun | A1
+Eye | Ái | Olho | Noun | A1
+Ear | Ír | Orelha / Ouvido | Noun | A1
+Nose | Nôuz | Nariz | Noun | A1
+Mouth | Máuth | Boca | Noun | A1
+Hair | Rér | Cabelo | Noun | A1
+Hand | Rénd | Mão | Noun | A1
+Feet | Fít | Pés | Noun | A1
+Legs | Légz | Pernas | Noun | A1
+Knees | Níz | Joelhos | Noun | A2
+Shoulder | Shôul-der | Ombro | Noun | A2
+Stomach | Stô-mak | Estômago | Noun | A2
+Waist | Uêist | Cintura | Noun | B1
+Heart | Rárt | Coração | Noun | A1
+Clothes | Clôuths | Roupas | Noun | A1
+T-shirt | Tí-shârt | Camiseta | Noun | A1
+Shirt | Shârt | Camisa | Noun | A1
+Pants | Pénts | Calças | Noun | A1
+Jeans | Djíns | Jeans | Noun | A1
+Shorts | Shórts | Shorts | Noun | A1
+Skirt | Skârt | Saia | Noun | A1
+Dress | Drés | Vestido | Noun | A1
+Suit | Sút | Terno | Noun | A2
+Jacket | Djé-ket | Jaqueta | Noun | A1
+Sweater | Sué-ter | Suéter | Noun | A1
+Raincoat | Rêin-côut | Capa de chuva | Noun | B1
+Pajamas | Pa-dja-mas | Pijama | Noun | A2
+Shoes | Shúz | Sapatos | Noun | A1
+Trainers / Tennis shoes | Trêi-ners | Tênis (calçado) | Noun | A2
+Flip-flops | Flíp-flóps | Chinelos | Noun | A2
+Socks | Sóks | Meias | Noun | A1
+Sandals | Sén-dals | Sandálias | Noun | A1
+Gloves | Glâvs | Luvas | Noun | A2
+Hat | Rét | Chapéu | Noun | A1
+Cap | Kép | Boné | Noun | A1
+Tie | Tái | Gravata | Noun | A2
+Sunglasses | Sân-glé-sses | Óculos de sol | Noun | A1
+Wallet | Uó-let | Carteira | Noun | A1
+Jewel | Dju-el | Joia | Noun | B1
+Uniform | Iú-ni-fórm | Uniforme | Noun | A2
+
+// MÓDULO: HOUSE & OBJECTS (Casa e Objetos)
+House | Ráus | Casa | Noun | A1
+Home | Rôm | Lar / Casa | Noun | A1
+Apartment | A-párt-ment | Apartamento | Noun | A1
+Living Room | Lí-ving Rúm | Sala de estar | Noun | A1
+Kitchen | Kí-tchen | Cozinha | Noun | A1
+Bathroom | Báth-rúm | Banheiro | Noun | A1
+Garage | Ga-rádj | Garagem | Noun | A1
+Yard | Iárd | Quintal / Jardim | Noun | A2
+Door | Dór | Porta | Noun | A1
+Window | Uín-dou | Janela | Noun | A1
+Floor | Flór | Chão / Piso | Noun | A1
+Wall | Uól | Parede | Noun | A1
+Furniture | Fâr-ni-tchur | Móveis | Noun | A2
+Table | Têi-bôl | Mesa | Noun | A1
+Lamp | Lémp | Abajur / Lâmpada | Noun | A1
+Mirror | Mí-ror | Espelho | Noun | A1
+Shelf | Shélf | Prateleira | Noun | A2
+Fridge | Frídj | Geladeira | Noun | A2
+Oven | Ó-ven | Forno | Noun | A2
+Glass | Glés | Copo (vidro) / Vidro | Noun | A1
+Plate | Plêit | Prato | Noun | A1
+Knife | Náif | Faca | Noun | A1
+Scissors | Sí-zors | Tesoura | Noun | A1
+Key | Kí | Chave | Noun | A1
+Umbrella | Âm-bré-la | Guarda-chuva | Noun | A1
+Zipper | Zí-per | Zíper | Noun | A2
+
+// MÓDULO: SCHOOL & WORK (Escola e Trabalho)
+School | Skúl | Escola | Noun | A1
+High School | Rái Skúl | Ensino Médio | Noun | A1
+University | Iu-ni-vâr-si-ti | Universidade | Noun | A1
+Class | Clés | Aula / Turma | Noun | A1
+Lesson | Lé-sson | Lição | Noun | A1
+Homework | Rôm-uôrk | Dever de casa | Noun | A1
+Test | Tést | Prova / Teste | Noun | A1
+Grades | Grêids | Notas (escolares) | Noun | B1
+Student | Stiú-dent | Estudante | Noun | A1
+Teacher | Tí-tcher | Professor | Noun | A1
+Book | Búk | Livro | Noun | A1
+Notebook | Nôt-búk | Caderno | Noun | A1
+Pen | Pén | Caneta | Noun | A1
+Pencil | Pén-cil | Lápis | Noun | A1
+Eraser | I-rêi-zer | Borracha | Noun | A1
+Glue | Glú | Cola | Noun | A1
+Ruler | Rú-ler | Régua | Noun | A1
+Highlighter | Rái-lái-ter | Marca-texto | Noun | B1
+Pencil case | Pén-cil kêis | Estojo | Noun | A1
+Folder | Fôl-der | Pasta (de arquivos) | Noun | A2
+Desk | Désk | Escrivaninha / Carteira | Noun | A1
+Office | Ó-ffis | Escritório | Noun | A1
+Meeting | Mí-ting | Reunião | Noun | A2
+Job | Djób | Emprego | Noun | A1
+Work | Uôrk | Trabalho | Noun/Verb | A1
+Employee | Em-ploi-í | Empregado / Funcionário | Noun | B1
+Employer | Em-ploi-er | Empregador / Patrão | Noun | B1
+Manager | Mé-na-djer | Gerente | Noun | A2
+Boss | Bós | Chefe | Noun | A2
+Wage | Uêidj | Salário (geralmente semanal/horário) | Noun | B2
+Contract | Cón-tréct | Contrato | Noun | B1
+Spreadsheets | Spréd-shíts | Planilhas | Noun | B2
+Project | Pró-dject | Projeto | Noun | A2
+Geography | Dji-ó-gra-fi | Geografia | Noun | A1
+History | Rís-to-ri | História | Noun | A1
+Physics | Fí-zics | Física | Noun | A2
+English | Ín-glish | Inglês | Noun | A1
+Portuguese | Pór-tu-guíz | Português | Noun | A1
+Literature | Li-te-ra-tchur | Literatura | Noun | B1
+
+// MÓDULO: PROFESSIONS (Profissões)
+Actor | Éc-tor | Ator | Noun | A1
+Artist | Ár-tist | Artista | Noun | A1
+Doctor | Dóc-tor | Médico | Noun | A1
+Nurse | Nârs | Enfermeiro(a) | Noun | A1
+Dentist | Dén-tist | Dentista | Noun | A1
+Engineer | En-dji-nír | Engenheiro | Noun | A2
+Lawyer | Ló-ier | Advogado | Noun | B1
+Judge | Djâdj | Juiz | Noun | B2
+Police | Po-lís | Polícia | Noun | A1
+Firefighter | Fáir-fái-ter | Bombeiro | Noun | A2
+Driver | Drái-ver | Motorista | Noun | A1
+Taxi driver | Ték-si drái-ver | Taxista | Noun | A1
+Pilot | Pái-lot | Piloto | Noun | A1
+Chef | Chéf | Chef de cozinha | Noun | A1
+Waiter | Uêi-ter | Garçom | Noun | A1
+Maid | Mêid | Empregada doméstica / Camareira | Noun | B1
+Hairdresser | Rér-dré-sser | Cabeleireiro | Noun | A2
+Barber | Bár-ber | Barbeiro | Noun | A2
+Journalist | Djâr-na-list | Jornalista | Noun | B1
+Reporter | Ri-pór-ter | Repórter | Noun | B1
+Writer | Rái-ter | Escritor | Noun | A2
+Singer | Sín-guer | Cantor | Noun | A1
+Musician | Miu-zí-cian | Músico | Noun | A2
+Painter | Pêin-ter | Pintor | Noun | A1
+Realtor | Rí-al-tor | Corretor de imóveis | Noun | B2
+Travel Agent | Tré-vel Êi-djen-t | Agente de viagens | Noun | B1
+Veterinarian | Ve-te-ri-né-rian | Veterinário | Noun | B1
+Secretary | Sé-cre-té-ri | Secretária | Noun | A1
+Mailman | Mêil-men | Carteiro | Noun | A2
+
+// MÓDULO: ADJECTIVES & FEELINGS (Adjetivos e Sentimentos)
+Happy | Ré-pi | Feliz | Adjective | A1
+Sad | Séd | Triste | Adjective | A1
+Angry | Én-gri | Bravo | Adjective | A1
+Excited | Ek-sái-ted | Animado | Adjective | A1
+Bored | Bórd | Entediado | Adjective | A1
+Tired | Tái-ard | Cansado | Adjective | A1
+Hungry | Rân-gri | Com fome | Adjective | A1
+Thirsty | Thârs-ti | Com sede | Adjective | A1
+Sick | Sík | Doente | Adjective | A1
+Afraid | A-frêid | Com medo | Adjective | A2
+Nervous | Nâr-vâs | Nervoso | Adjective | A2
+Jealous | Djé-lâs | Ciumento | Adjective | B1
+Proud | Práud | Orgulhoso | Adjective | B1
+Lonely | Lôn-li | Solitário | Adjective | B1
+Alone | A-lôn | Sozinho | Adjective | A2
+Good | Gúd | Bom | Adjective | A1
+Bad | Béd | Ruim | Adjective | A1
+Great | Grêit | Ótimo | Adjective | A1
+Beautiful | Biú-ti-fúl | Bonito(a) | Adjective | A1
+Ugly | Â-gli | Feio | Adjective | A1
+Cute | Kiút | Fofo | Adjective | A1
+Gorgeous | Gór-djas | Deslumbrante / Muito bonito | Adjective | B1
+Big | Bíg | Grande | Adjective | A1
+Small | Smól | Pequeno | Adjective | A1
+Huge | Riúd-j | Enorme | Adjective | B1
+Fast | Fést | Rápido | Adjective | A1
+Slow | Slôu | Devagar / Lento | Adjective | A1
+Hot | Rót | Quente | Adjective | A1
+Cold | Côuld | Frio | Adjective | A1
+Warm | Uórm | Morno / Acolhedor | Adjective | A2
+Easy | Í-zi | Fácil | Adjective | A1
+Difficult | Dí-fi-câlt | Difícil | Adjective | A1
+Hard | Rárd | Difícil / Duro | Adjective | A1
+Expensive | Eks-pén-siv | Caro | Adjective | A1
+Cheap | Tchíp | Barato | Adjective | A1
+Rich | Rítch | Rico | Adjective | A1
+Poor | Púr | Pobre | Adjective | A1
+Clean | Clín | Limpo | Adjective | A1
+Dirty | Dâr-ti | Sujo | Adjective | A1
+Full | Fúl | Cheio | Adjective | A1
+Empty | Émp-ti | Vazio | Adjective | A2
+New | Niú | Novo | Adjective | A1
+Old | Ôuld | Velho | Adjective | A1
+Young | Iâng | Jovem | Adjective | A1
+Busy | Bí-zi | Ocupado | Adjective | A1
+Free | Frí | Livre / Grátis | Adjective | A1
+Important | Im-pór-tant | Importante | Adjective | A1
+Impossible | Im-pó-ssi-bôl | Impossível | Adjective | A2
+Dangerous | Dên-dje-râs | Perigoso | Adjective | A2
+Safe | Sêif | Seguro | Adjective | A2
+Funny | Fâ-ni | Engraçado | Adjective | A1
+Serious | Sí-ri-âs | Sério | Adjective | A2
+Polite | Po-láit | Educado | Adjective | A2
+Rude | Rúd | Rude / Grosseiro | Adjective | B1
+Quiet | Cuái-et | Quieto / Silencioso | Adjective | A1
+Loud | Láud | Alto (som) | Adjective | A2
+Dark | Dárk | Escuro | Adjective | A1
+Light | Láit | Claro / Leve | Adjective | A1
+Heavy | Ré-vi | Pesado | Adjective | A1
+Ready | Ré-di | Pronto | Adjective | A1
+Real | Rí-al | Real | Adjective | A1
+Wrong | Róng | Errado | Adjective | A1
+Right | Ráit | Certo / Direito | Adjective | A1
+True | Trú | Verdadeiro | Adjective | A1
+False | Fóls | Falso | Adjective | A1
+Same | Sêim | Mesmo / Igual | Adjective | A1
+Different | Dí-fe-rent | Diferente | Adjective | A1
+Unique | Iu-ník | Único | Adjective | B1
+Typical | Tí-pi-col | Típico | Adjective | B1
+Official | O-fí-shal | Oficial | Adjective | B1
+Professional | Pro-fé-sho-nal | Profissional | Adjective | B1
+Private | Prái-vat | Privado | Adjective | B1
+Public | Pâ-blic | Público | Adjective | A2
+
+// MÓDULO: COLORS (Cores)
+Red | Réd | Vermelho | Adjective | A1
+Blue | Blú | Azul | Adjective | A1
+Green | Grín | Verde | Adjective | A1
+Yellow | Ié-lou | Amarelo | Adjective | A1
+Black | Blék | Preto | Adjective | A1
+White | Uáit | Branco | Adjective | A1
+Pink | Pínk | Rosa | Adjective | A1
+Purple | Pâr-pôl | Roxo | Adjective | A1
+Orange | Ó-rindj | Laranja | Adjective | A1
+Brown | Bráun | Marrom | Adjective | A1
+Gray | Grêi | Cinza | Adjective | A1
+
+// MÓDULO: CITY & PLACES (Cidade e Lugares)
+City | Sí-ti | Cidade | Noun | A1
+Street | Strít | Rua | Noun | A1
+Building | Bíl-ding | Prédio | Noun | A1
+Park | Párk | Parque | Noun | A1
+Square | Scuér | Praça | Noun | A2
+Hospital | Rós-pi-tal | Hospital | Noun | A1
+Pharmacy | Fár-ma-si | Farmácia | Noun | A1
+Restaurant | Rés-to-rant | Restaurante | Noun | A1
+Supermarket | Sú-per-már-ket | Supermercado | Noun | A1
+Store | Stór | Loja | Noun | A1
+Mall | Mól | Shopping | Noun | A1
+Bakery | Bêi-ke-ri | Padaria | Noun | A2
+Bank | Bénk | Banco | Noun | A1
+Hotel | Ro-tél | Hotel | Noun | A1
+Hostel | Rós-tel | Albergue | Noun | A2
+Museum | Miu-zí-um | Museu | Noun | A1
+Library | Lái-bré-ri | Biblioteca | Noun | A1
+Bookstore | Búk-stór | Livraria | Noun | A1
+Church | Tchârtch | Igreja | Noun | A1
+School | Skúl | Escola | Noun | A1
+Police Station | Po-lís Stêi-shon | Delegacia | Noun | A2
+Fire Station | Fáir Stêi-shon | Corpo de Bombeiros | Noun | A2
+Post Office | Pôust Ó-ffis | Correios | Noun | A2
+Airport | Ér-pórt | Aeroporto | Noun | A1
+Train Station | Trêin Stêi-shon | Estação de trem | Noun | A1
+Bus Station | Bâs Stêi-shon | Rodoviária | Noun | A1
+Subway | Sâb-uêi | Metrô | Noun | A1
+Zoo | Zú | Zoológico | Noun | A1
+Theater | Thí-a-ter | Teatro | Noun | A2
+Movie Theater | Mú-vi Thí-a-ter | Cinema | Noun | A1
+Gym | Djím | Academia | Noun | A1
+Stadium | Stêi-di-um | Estádio | Noun | A2
+Gas Station | Gués Stêi-shon | Posto de gasolina | Noun | A2
+Beach | Bítch | Praia | Noun | A1
+Farm | Fárm | Fazenda | Noun | A1
+Village | Ví-ladj | Vilarejo | Noun | A2
+Department | Di-párt-ment | Departamento | Noun | B1
+
+// MÓDULO: LEISURE, ARTS & SPORTS (Lazer e Esportes)
+Music | Miu-zic | Música | Noun | A1
+Song | Sóng | Canção | Noun | A1
+Band | Bénd | Banda | Noun | A1
+Guitar | Gi-tár | Violão | Noun | A1
+Electric Guitar | E-léc-tric Gi-tár | Guitarra elétrica | Noun | A2
+Violin | Vai-o-lín | Violino | Noun | B1
+Drums | Drâms | Bateria | Noun | A2
+Piano | Pi-á-nou | Piano | Noun | A1
+Instrument | Íns-tru-ment | Instrumento | Noun | A2
+Concert | Cón-sert | Show / Concerto | Noun | A1
+Movie | Mú-vi | Filme | Noun | A1
+Party | Pár-ti | Festa | Noun | A1
+Game | Guêim | Jogo | Noun | A1
+Sport | Spórt | Esporte | Noun | A1
+Soccer | Só-ker | Futebol | Noun | A1
+Football | Fút-bol | Futebol Americano | Noun | A1
+Volleyball | Vó-lei-ból | Vôlei | Noun | A1
+Basketball | Bás-ket-ból | Basquete | Noun | A1
+Tennis | Té-nis | Tênis | Noun | A1
+Handball | Rénd-ból | Handebol | Noun | A2
+Golf | Gólf | Golfe | Noun | A2
+Team | Tím | Time | Noun | A1
+Player | Plêi-er | Jogador | Noun | A1
+Ball | Ból | Bola | Noun | A1
+Quarterback | Cuór-ter-bék | Quarterback (posição) | Noun | B1
+Coach | Côutch | Treinador | Noun | A2
+Champion | Tchém-pion | Campeão | Noun | A1
+Travel | Tré-vel | Viagem / Viajar | Noun/Verb | A1
+Trip | Tríp | Viagem (curta) | Noun | A1
+Vacation | Vei-kêi-shon | Férias | Noun | A1
+Video | Ví-di-ou | Vídeo | Noun | A1
+Photo | Fô-tou | Foto | Noun | A1
+News | Niúz | Notícias | Noun | A1
+
+// MÓDULO: VERBS & ACTIONS (Verbos e Ações)
+Accept | Ek-sépt | Aceitar | Verb | A2
+Agree | A-grí | Concordar | Verb | A1
+Ask | Ésk | Perguntar / Pedir | Verb | A1
+Buy | Bái | Comprar | Verb | A1
+Call | Cól | Chamar / Ligar | Verb | A1
+Clean | Clín | Limpar | Verb | A1
+Cook | Cúk | Cozinhar | Verb | A1
+Cry | Crái | Chorar | Verb | A1
+Dance | Déns | Dançar | Verb | A1
+Drink | Drínk | Beber | Verb | A1
+Drive | Dráiv | Dirigir | Verb | A1
+Eat | Ít | Comer | Verb | A1
+Fall | Fól | Cair | Verb | A1
+Feel | Fíl | Sentir | Verb | A1
+Find | Fáind | Encontrar | Verb | A1
+Fly | Flái | Voar | Verb | A1
+Forget | Fór-guét | Esquecer | Verb | A1
+Get | Guét | Pegar / Conseguir | Verb | A1
+Give | Guív | Dar | Verb | A1
+Go | Gôu | Ir | Verb | A1
+Hate | Rêit | Odiar | Verb | A1
+Have | Rév | Ter | Verb | A1
+Help | Rélp | Ajudar | Verb | A1
+Join | Djóin | Juntar-se | Verb | A2
+Keep | Kíp | Manter / Guardar | Verb | A1
+Kiss | Kís | Beijar | Verb | A1
+Know | Nôu | Saber / Conhecer | Verb | A1
+Laugh | Léf | Rir | Verb | A1
+Learn | Lârn | Aprender | Verb | A1
+Leave | Lív | Sair / Deixar | Verb | A1
+Like | Láik | Gostar | Verb | A1
+Listen | Lís-sen | Ouvir | Verb | A1
+Live | Lív | Morar / Viver | Verb | A1
+Look | Lúk | Olhar | Verb | A1
+Love | Lâv | Amar | Verb | A1
+Make | Mêik | Fazer (criar) | Verb | A1
+Meet | Mít | Encontrar / Conhecer | Verb | A1
+Need | Níd | Precisar | Verb | A1
+Open | Ô-pen | Abrir | Verb | A1
+Pay | Pêi | Pagar | Verb | A1
+Play | Plêi | Brincar / Jogar / Tocar | Verb | A1
+Put | Pút | Colocar | Verb | A1
+Read | Ríd | Ler | Verb | A1
+Run | Rân | Correr | Verb | A1
+Say | Sêi | Dizer | Verb | A1
+See | Sí | Ver | Verb | A1
+Sell | Sél | Vender | Verb | A1
+Send | Sénd | Enviar | Verb | A1
+Sing | Síng | Cantar | Verb | A1
+Sit | Sít | Sentar | Verb | A1
+Sleep | Slíp | Dormir | Verb | A1
+Smile | Smáil | Sorrir | Verb | A1
+Speak | Spík | Falar | Verb | A1
+Start | Stárt | Começar | Verb | A1
+Stop | Stóp | Parar | Verb | A1
+Study | Stâ-di | Estudar | Verb | A1
+Take | Têik | Tomar / Levar | Verb | A1
+Talk | Tók | Conversar | Verb | A1
+Teach | Títch | Ensinar | Verb | A1
+Tell | Tél | Contar (algo) | Verb | A1
+Think | Thínk | Pensar | Verb | A1
+Travel | Tré-vel | Viajar | Verb | A1
+Understand | Ân-der-sténd | Entender | Verb | A1
+Wait | Uêit | Esperar | Verb | A1
+Walk | Uók | Caminhar | Verb | A1
+Want | Uónt | Querer | Verb | A1
+Wash | Uósh | Lavar | Verb | A1
+Watch | Uótch | Assistir | Verb | A1
+Work | Uôrk | Trabalhar | Verb | A1
+Write | Ráit | Escrever | Verb | A1
+Wander | Uán-der | Vagar / Perambular | Verb | B2
+Whisper | Uís-per | Sussurrar | Verb | B1
+Yell | Iél | Gritar | Verb | B1
+Astonish | As-tó-nish | Surpreender muito | Verb | B2
+Illustrate | I-lâs-trêit | Ilustrar | Verb | B2
+Ignore | Ig-nór | Ignorar | Verb | B1
+Identify | Ai-dén-ti-fái | Identificar | Verb | B1
+Increase | In-crís | Aumentar | Verb | A2
+Import | Im-pórt | Importar | Verb | B1
+Investigate | In-vés-ti-guêit | Investigar | Verb | B1
+
+// MÓDULO: ABSTRACT, GRAMMAR & MISC (Abstratos e Gramática)
+Idea | Ai-dí-a | Ideia | Noun | A1
+Name | Nêim | Nome | Noun | A1
+Money | Mâ-ni | Dinheiro | Noun | A1
+Problem | Pró-blem | Problema | Noun | A1
+Thing | Thíng | Coisa | Noun | A1
+World | Uôrld | Mundo | Noun | A1
+Life | Láif | Vida | Noun | A1
+Death | Déth | Morte | Noun | B1
+Love | Lâv | Amor | Noun | A1
+Peace | Pís | Paz | Noun | A2
+War | Uór | Guerra | Noun | A2
+Power | Páu-er | Poder | Noun | A2
+Attention | A-tén-shon | Atenção | Noun | A1
+Accuracy | É-kiu-ra-si | Precisão | Noun | B2
+Impact | Im-péct | Impacto | Noun | B1
+Image | Í-madj | Imagem | Noun | A2
+Imagination | I-ma-dji-nêi-shon | Imaginação | Noun | B1
+Information | In-for-mêi-shon | Informação | Noun | A1
+Knowledge | Nó-ledj | Conhecimento | Noun | B1
+Wisdom | Uís-dom | Sabedoria | Noun | B2
+Value | Vé-liu | Valor | Noun | B1
+Variety | Va-rái-e-ti | Variedade | Noun | B1
+Version | Vâr-zhon | Versão | Noun | B1
+View | Viú | Visão / Vista | Noun | A2
+Victim | Víc-tim | Vítima | Noun | B1
+Violence | Vái-o-lens | Violência | Noun | B2
+Union | Iú-nion | União | Noun | B1
+Tradition | Tra-dí-shon | Tradição | Noun | B1
+Topic | Tó-pic | Tópico | Noun | A2
+Example | Eg-zém-pol | Exemplo | Noun | A1
+List | Líst | Lista | Noun | A1
+Story | Stó-ri | História (conto) | Noun | A1
+Word | Uôrd | Palavra | Noun | A1
+Yes | Iés | Sim | Adverb | A1
+No | Nôu | Não | Adverb | A1
+Maybe | Mêi-bi | Talvez | Adverb | A1
+Please | Plíz | Por favor | Interjection | A1
+Thanks | Thénks | Obrigado | Interjection | A1
+Sorry | Só-ri | Desculpe | Interjection | A1
+Hello | Re-lôu | Olá | Interjection | A1
+Hi | Rái | Oi | Interjection | A1
+Bye | Bái | Tchau | Interjection | A1
+And | Énd | E | Conjunction | A1
+But | Bât | Mas | Conjunction | A1
+Or | Ór | Ou | Conjunction | A1
+Because | Bi-cóz | Porque | Conjunction | A1
+If | Íf | Se | Conjunction | A1
+With | Uíth | Com | Preposition | A1
+Without | Uíth-áut | Sem | Preposition | A1
+For | Fór | Para / Por | Preposition | A1
+To | Tú | Para | Preposition | A1
+From | Fróm | De (origem) | Preposition | A1
+In | Ín | Em / Dentro | Preposition | A1
+On | Ón | Em / Sobre | Preposition | A1
+At | Ét | Em / No / Na | Preposition | A1
+Under | Ân-der | Embaixo | Preposition | A1
+Over | Ô-ver | Acima / Sobre | Preposition | A1
+Behind | Bi-ráind | Atrás | Preposition | A1
+Before | Bi-fór | Antes | Preposition | A1
+After | Áf-ter | Depois | Preposition | A1
+Between | Bi-tuín | Entre | Preposition | A1
+Near | Nír | Perto | Preposition | A1
+Far | Fár | Longe | Adjective | A1
+Here | Rír | Aqui | Adverb | A1
+There | Dhér | Lá | Adverb | A1
+Where | Uér | Onde | Adverb | A1
+When | Uén | Quando | Adverb | A1
+Why | Uái | Por que | Adverb | A1
+How | Ráu | Como | Adverb | A1
+What | Uót | O que | Pronoun | A1
+Who | Rú | Quem | Pronoun | A1
+Which | Uítch | Qual | Pronoun | A1
+This | Dhís | Este / Isto | Pronoun | A1
+That | Dhét | Aquele / Isso | Pronoun | A1
+These | Dhíz | Estes | Pronoun | A1
+Those | Dhôuz | Aqueles | Pronoun | A1
+My | Mái | Meu | Pronoun | A1
+Your | Iór | Seu | Pronoun | A1
+His | Ríz | Dele | Pronoun | A1
+Her | Râr | Dela | Pronoun | A1
+Our | Áu-ar | Nosso | Pronoun | A1
+Their | Dhér | Deles | Pronoun | A1
+Me | Mí | Mim / Me | Pronoun | A1
+Us | Âs | Nós (objeto) | Pronoun | A1
+Them | Dhém | Eles (objeto) | Pronoun | A1
+Everything | É-vri-thíng | Tudo | Pronoun | A1
+Something | Sâm-thíng | Algo | Pronoun | A1
+Nothing | Nâ-thíng | Nada | Pronoun | A1
+Everyone | É-vri-uân | Todos (pessoas) | Pronoun | A1
+Someone | Sâm-uân | Alguém | Pronoun | A1
+No one | Nôu uân | Ninguém | Pronoun | A1
+All | Ól | Tudo / Todos | Determiner | A1
+Each | Ítch | Cada | Determiner | A1
+Every | É-vri | Todo | Determiner | A1
+Both | Bôuth | Ambos | Determiner | A1
+Only | Ôn-li | Somente / Apenas | Adverb | A1
+Very | Vé-ri | Muito | Adverb | A1
+Really | Rí-li | Realmente | Adverb | A1
+Never | Né-ver | Nunca | Adverb | A1
+Always | Ól-uêiz | Sempre | Adverb | A1
+Sometimes | Sâm-táims | Às vezes | Adverb | A1
+Often | Óf-ten | Frequentemente | Adverb | A2
+Basically | Bêi-si-ca-li | Basicamente | Adverb | B1
+Anyway | É-ni-uêi | De qualquer forma | Adverb | A2
+Exactly | Eg-zéct-li | Exatamente | Adverb | A2
+Unfortunately | Ân-fór-tchu-nat-li | Infelizmente | Adverb | B1
+
+// MÓDULO: BASIC SENTENCES & IMPERATIVES (Frases Básicas e Imperativos)
+I am the law | Ái ém dhâ ló | Eu sou a lei | Phrase | A1
+Drop the gun | Dróp dhâ gân | Largue a arma | Phrase | A2
+Find the cat | Fáind dhâ két | Encontre o gato | Phrase | A1
+I’m the best | Áim dhâ bést | Eu sou o melhor | Phrase | A1
+I am the boss | Ái ém dhâ bós | Eu sou o chefe | Phrase | A1
+Open the box | Ô-pen dhâ bóks | Abra a caixa | Phrase | A1
+Stop the car | Stóp dhâ cár | Pare o carro | Phrase | A1
+Wash the car | Uósh dhâ cár | Lave o carro | Phrase | A1
+
+// MÓDULO: PRONOUN "YOU" (Você)
+See you | Sí iú | Até logo | Phrase | A1
+You run | Iú rân | Você corre | Phrase | A1
+You won | Iú uón | Você ganhou | Phrase | A2
+After you | Áf-ter iú | Depois de você | Phrase | A1
+I saw you | Ái só iú | Eu vi você | Phrase | A1
+I’m yours | Áim iórs | Eu sou seu/sua | Phrase | A1
+You start | Iú stárt | Você começa | Phrase | A1
+I like you | Ái láik iú | Eu gosto de você | Phrase | A1
+I hear you | Ái rír iú | Eu te escuto | Phrase | A1
+
+// MÓDULO: ARTICLE "A" (Um/Uma)
+Be a man | Bí a mén | Seja um homem | Phrase | A1
+He’s a DJ | Ríz a Di-Djei | Ele é um DJ | Phrase | A1
+Find a job | Fáind a djób | Encontre um emprego | Phrase | A1
+I am a boy | Ái ém a bói | Eu sou um menino | Phrase | A1
+Take a bus | Têik a bâs | Pegue um ônibus | Phrase | A1
+He is a liar | Rí íz a lái-ar | Ele é um mentiroso | Phrase | A2
+I am a cook | Ái ém a cúk | Eu sou um cozinheiro | Phrase | A1
+
+// MÓDULO: NEGATION "NOT/DON'T" (Não)
+Why not? | Uái nót? | Por que não? | Phrase | A1
+Don’t go | Dônt gôu | Não vá | Phrase | A1
+Don’t ask | Dônt ésk | Não pergunte | Phrase | A1
+Don’t cry | Dônt crái | Não chore | Phrase | A1
+Don’t lie | Dônt lái | Não minta | Phrase | A1
+Don’t jump! | Dônt djâmp | Não pule! | Phrase | A1
+Don’t sing | Dônt síng | Não cante | Phrase | A1
+
+// MÓDULO: PRONOUN "HE" (Ele)
+He ran | Rí rén | Ele correu | Phrase | A1
+He came | Rí kêim | Ele veio | Phrase | A1
+He runs | Rí râns | Ele corre | Phrase | A1
+Cuff him | Câf rím | Algeme ele | Phrase | B1
+He tries | Rí tráis | Ele tenta | Phrase | A1
+Who is he? | Rú íz rí? | Quem é ele? | Phrase | A1
+He is old | Rí íz ôuld | Ele é velho | Phrase | A1
+Follow him | Fó-lou rím | Segue ele | Phrase | A1
+He gave up | Rí guêiv âp | Ele desistiu | Phrase | A2
+He is lazy | Rí íz lêi-zi | Ele é preguiçoso | Phrase | A1
+He is sick | Rí íz sík | Ele está doente | Phrase | A1
+
+// MÓDULO: DEMONSTRATIVE "THAT" (Isso/Aquilo)
+That hurts | Dhét rârts | Isso dói / Isso machuca | Phrase | A1
+That works | Dhét uôrks | Isso funciona | Phrase | A1
+That is fun | Dhét íz fân | Isso é engraçado/divertido | Phrase | A1
+I knew that | Ái niú dhét | Eu sabia disso | Phrase | A1
+I made that | Ái mêid dhét | Eu fiz isso | Phrase | A1
+I need that | Ái níd dhét | Eu preciso disso | Phrase | A1
+I want that | Ái uónt dhét | Eu quero isso | Phrase | A1
+
+// MÓDULO: PRONOUN "WE" (Nós)
+We try | Uí trái | Nós tentamos | Phrase | A1
+We won | Uí uón | Nós ganhamos | Phrase | A1
+Call us | Cól âs | Nos ligue / Liga pra gente | Phrase | A1
+Help us | Rélp âs | Nos ajude | Phrase | A1
+We lost | Uí lóst | Nós perdemos | Phrase | A1
+We agree | Uí a-grí | Nós concordamos | Phrase | A1
+Can we go? | Kén uí gôu? | Nós podemos ir? | Phrase | A1
+We forgot | Uí for-gót | Nós esquecemos | Phrase | A1
+We talked | Uí tók-t | Nós conversamos | Phrase | A1
+
+// MÓDULO: DEMONSTRATIVE "THIS" (Isto/Este)
+Fix this | Fíks dhís | Conserte isto | Phrase | A1
+Try this | Trái dhís | Tente isto | Phrase | A1
+Use this | Iúz dhís | Use isto | Phrase | A1
+Feel this | Fíl dhís | Sinta isto | Phrase | A1
+Hold this | Rôuld dhís | Segure isto | Phrase | A1
+Read this | Ríd dhís | Leia isto | Phrase | A1
+Take this | Têik dhís | Pegue isto | Phrase | A1
+Taste this | Têist dhís | Prove isto | Phrase | A1
+Finish this | Fí-nish dhís | Termine isto | Phrase | A1
+I want this | Ái uónt dhís | Eu quero isto | Phrase | A1
+This is big | Dhís íz bíg | Isto é grande | Phrase | A1
+This is his | Dhís íz ríz | Isto é dele | Phrase | A1
+
+// MÓDULO: PREPOSITION "FOR" (Para/Por)
+Cook for me | Cúk fór mí | Cozinhe para mim | Phrase | A1
+It is for me | Ít íz fór mí | É para mim | Phrase | A1
+Wait for us | Uêit fór âs | Espere por nós | Phrase | A1
+Pray for me | Prêi fór mí | Reze por mim | Phrase | A1
+Do it for me | Dú ít fór mí | Faça isso por mim | Phrase | A1
+Is it for me? | Íz ít fór mí? | Isso é pra mim? | Phrase | A1
+Hold it for me | Rôuld ít fór mí | Segura isso pra mim | Phrase | A1
+
+// MÓDULO: FUTURE "WILL" (Vai/Futuro)
+We will go | Uí uíl gôu | Nós vamos | Phrase | A1
+I will go | Ái uíl gôu | Eu vou | Phrase | A1
+I will call | Ái uíl cól | Eu vou ligar | Phrase | A1
+I’ll cook | Áil cúk | Eu vou cozinhar | Phrase | A1
+I’ll help | Áil rélp | Eu vou ajudar | Phrase | A1
+I will pass | Ái uíl pés | Eu vou passar | Phrase | A1
+I’ll stay | Áil stêi | Eu vou ficar | Phrase | A1
+I will work | Ái uíl uôrk | Eu vou trabalhar | Phrase | A1
+
+// MÓDULO: PRONOUN "SHE" (Ela)
+She cried | Shí cráid | Ela chorou | Phrase | A1
+She tried | Shí tráid | Ela tentou | Phrase | A1
+She walks | Shí uóks | Ela caminha | Phrase | A1
+Who is she? | Rú íz shí? | Quem é ela? | Phrase | A1
+I know her | Ái nôu râr | Eu conheço ela | Phrase | A1
+She smiled | Shí smáil-d | Ela sorriu | Phrase | A1
+She is kind | Shí íz káind | Ela é gentil | Phrase | A1
+I hugged her | Ái râg-d râr | Eu a abracei | Phrase | A2
+She is a fox | Shí íz a fóks | Ela é uma raposa (gíria: gata) | Phrase | B1
+She is Lucky | Shí íz lâ-ki | Ela é sortuda | Phrase | A1
+
+// MÓDULO: MODAL "CAN" (Poder/Conseguir)
+I can go | Ái kén gôu | Eu posso ir | Phrase | A1
+Can I eat? | Kén ái ít? | Eu posso comer? | Phrase | A1
+I can run | Ái kén rân | Eu posso correr | Phrase | A1
+I can swim | Ái kén suím | Eu consigo nadar | Phrase | A1
+I can walk | Ái kén uók | Eu consigo andar | Phrase | A1
+We can pay | Uí kén pêi | Nós podemos pagar | Phrase | A1
+I can’t go | Ái ként gôu | Eu não posso ir | Phrase | A1
+Can I begin? | Kén ái bi-guín? | Eu posso começar? | Phrase | A1
+Can we help? | Kén uí rélp? | Nós podemos ajudar? | Phrase | A1
+I can’t fly | Ái ként flái | Eu não consigo voar | Phrase | A1
+
+// MÓDULO: VERB "WANT" (Querer)
+I want cash | Ái uónt késh | Eu quero dinheiro | Phrase | A1
+I want eggs | Ái uónt éggs | Eu quero ovos | Phrase | A1
+I want kids | Ái uónt kíds | Eu quero filhos | Phrase | A1
+I want more | Ái uónt mór | Eu quero mais | Phrase | A1
+I want soup | Ái uónt súp | Eu quero sopa | Phrase | A1
+I want a job | Ái uónt a djób | Eu quero um emprego | Phrase | A1
+I want facts | Ái uónt féc-ts | Eu quero fatos | Phrase | A1
+They want me | Dhêi uónt mí | Eles me querem | Phrase | A1
+Want a drink? | Uónt a drínk? | Quer uma bebida? | Phrase | A1
+I want a bath | Ái uónt a báth | Eu quero um banho | Phrase | A1
+I want a pool | Ái uónt a púl | Eu quero uma piscina | Phrase | A1
+I want to try | Ái uónt tu trái | Eu quero tentar | Phrase | A1
+
+// MÓDULO: CONJUNCTION "AND" (E)
+Wait and see | Uêit énd sí | Espere e veja | Phrase | A1
+Stay and watch | Stêi énd uótch | Fique e assista | Phrase | A1
+I am cold and wet | Ái ém côuld énd uét | Eu estou com frio e molhado | Phrase | A1
+Listen and learn | Lís-sen énd lârn | Escute e aprenda | Phrase | A1
+We sat and waited | Uí sét énd uêi-ted | Nós sentamos e esperamos | Phrase | A2
+Can you and I talk? | Kén iú énd ái tók? | Você e eu podemos conversar? | Phrase | A1
+
+// MÓDULO: PREPOSITION "WITH" (Com)
+Eat with us | Ít uíth âs | Coma com a gente | Phrase | A1
+I am with Brian | Ái ém uíth Brái-an | Eu estou com o Brian | Phrase | A1
+Sing with us | Síng uíth âs | Cante com a gente | Phrase | A1
+Walk with me | Uók uíth mí | Caminhe comigo | Phrase | A1
+Dance with me | Déns uíth mí | Dance comigo | Phrase | A1
+Deal with this | Dí-al uíth dhís | Lide com isto | Phrase | A2
+We are with you | Uí ár uíth iú | Nós estamos com você | Phrase | A1
+I agree with you | Ái a-grí uíth iú | Eu concordo com você | Phrase | A1
+
+// MÓDULO: VERB "KNOW" (Saber/Conhecer)
+We all know | Uí ól nôu | Todos nós sabemos | Phrase | A1
+We know why | Uí nôu uái | Nós sabemos porquê | Phrase | A1
+Yes, I know | Iés, ái nôu | Sim, eu sei | Phrase | A1
+Do they know? | Dú dhêi nôu? | Eles sabem? | Phrase | A1
+I don’t know | Ái dônt nôu | Eu não sei | Phrase | A1
+No one knows | Nôu uân nôuz | Ninguém sabe | Phrase | A1
+She knows me | Shí nôuz mí | Ela me conhece | Phrase | A1
+We knew that | Uí niú dhét | Nós sabíamos disso | Phrase | A1
+Do I know him? | Dú ái nôu rím? | Eu conheço ele? | Phrase | A1
+
+// MÓDULO: VERB "THINK" (Pensar/Achar)
+I think so | Ái thínk sôu | Eu acho que sim | Phrase | A1
+Think again | Thínk a-guên | Pense de novo | Phrase | A1
+I’m thinking | Áim thín-king | Eu estou pensando | Phrase | A1
+Let me think | Lét mí thínk | Deixe-me pensar | Phrase | A1
+I think I can | Ái thínk ái kén | Eu acho que eu posso | Phrase | A1
+I have to think | Ái rév tu thínk | Eu tenho que pensar | Phrase | A1
+I think it works | Ái thínk ít uôrks | Eu acho que funciona | Phrase | A1
+Think about that | Thínk a-báut dhét | Pense sobre isso | Phrase | A1
+I think I will stay | Ái thínk ái uíl stêi | Eu acho que eu vou ficar | Phrase | A1
+I think I am ready | Ái thínk ái ém ré-di | Eu acho que eu estou pronto | Phrase | A1
+
+// MÓDULO: PREPOSITION "AT" (Em/No/Na)
+I’m at home | Áim ét rôm | Eu estou em casa | Phrase | A1
+I’m at work | Áim ét uôrk | Eu estou no trabalho | Phrase | A1
+Look at him | Lúk ét rím | Olha pra ele | Phrase | A1
+Look at that! | Lúk ét dhét! | Olha pra isso! | Phrase | A1
+Stay at home | Stêi ét rôm | Fique em casa | Phrase | A1
+We eat at six | Uí ít ét síks | Nós comemos às seis | Phrase | A1
+I’m at the gym | Áim ét dhâ djím | Eu estou na academia | Phrase | A1
+Are you at home? | Ár iú ét rôm? | Você está em casa? | Phrase | A1
+
+// MÓDULO: VERB "LIKE" (Gostar)
+I like art | Ái láik árt | Eu gosto de arte | Phrase | A1
+I like tea | Ái láik tí | Eu gosto de chá | Phrase | A1
+I like math | Ái láik méth | Eu gosto de matemática | Phrase | A1
+I like them | Ái láik dhém | Eu gosto deles | Phrase | A1
+I like girls | Ái láik gârls | Eu gosto de meninas | Phrase | A1
+I like women | Ái láik uô-men | Eu gosto de mulheres | Phrase | A1
+I like my job | Ái láik mái djób | Eu gosto do meu emprego | Phrase | A1
+I like sports | Ái láik spórts | Eu gosto de esportes | Phrase | A1
+
+// MÓDULO: VERB "TELL" (Contar/Dizer)
+Tell me | Tél mí | Me conta | Phrase | A1
+I told you | Ái tôuld iú | Eu te disse | Phrase | A1
+I will not tell | Ái uíl nót tél | Eu não vou contar | Phrase | A1
+Who told you? | Rú tôuld iú? | Quem te disse? | Phrase | A1
+I told a joke | Ái tôuld a djôuk | Eu contei uma piada | Phrase | A2
+Nobody told me | Nôu-bó-di tôuld mí | Ninguém me contou | Phrase | A1
+Tell the truth | Tél dhâ trúth | Diga a verdade | Phrase | A2
+Don’t tell lies | Dônt tél láis | Não conte mentiras | Phrase | A1
+Time will tell | Táim uíl tél | O tempo vai dizer (dirá) | Phrase | B1
+
+// MÓDULO: TIME EXPRESSIONS (Tempo)
+It’s time | Íts táim | Está na hora | Phrase | A1
+Time flies | Táim fláis | O tempo voa | Phrase | A1
+I have time | Ái rév táim | Eu tenho tempo | Phrase | A1
+I need time | Ái níd táim | Eu preciso de tempo | Phrase | A1
+It takes time | Ít têiks táim | Leva tempo | Phrase | A1
+Time is money | Táim íz mâ-ni | Tempo é dinheiro | Phrase | A1
+I have no time | Ái rév nôu táim | Eu não tenho tempo | Phrase | A1
+
+// MÓDULO: VERB "SEE" (Ver)
+I saw him | Ái só rím | Eu o vi | Phrase | A1
+I saw one | Ái só uân | Eu vi um | Phrase | A1
+Let’s see | Léts sí | Vamos ver | Phrase | A1
+Richard saw me | Rí-chard só mí | O Richard me viu | Phrase | A1
+You’ll see | Iúl sí | Você vai ver | Phrase | A1
+I can’t see | Ái ként sí | Eu não consigo ver | Phrase | A1
+I saw a dog | Ái só a dóg | Eu vi um cachorro | Phrase | A1
+I’ll go see | Áil gôu sí | Eu vou ver | Phrase | A1
+
+// MÓDULO: DETERMINER "ALL" (Tudo/Todos)
+That’s all | Dhéts ól | Isso é tudo | Phrase | A1
+Is that all? | Íz dhét ól? | Isso é tudo? | Phrase | A1
+We all work | Uí ól uôrk | Todos nós trabalhamos | Phrase | A1
+It’s all wet | Íts ól uét | Está tudo molhado | Phrase | A1
+Use them all | Iúz dhém ól | Use todos eles | Phrase | A1
+I want it all | Ái uónt ít ól | Eu quero isso tudo | Phrase | A1
+It’s all here | Íts ól rír | Está tudo aqui | Phrase | A1
+It’s all over | Íts ól ô-ver | Está tudo acabado | Phrase | A1
+It’s all true | Íts ól trú | É tudo verdade | Phrase | A1
+They all knew | Dhêi ól niú | Todos eles sabiam | Phrase | A1
+
+// MÓDULO: VERB "COME" (Vir)
+He came | Rí kêim | Ele veio | Phrase | A1
+Who came? | Rú kêim? | Quem veio? | Phrase | A1
+Come home | Câm rôm | Vem pra casa | Phrase | A1
+Come again | Câm a-guên | Vem de novo | Phrase | A1
+Don’t come | Dônt câm | Não venha | Phrase | A1
+I’m coming | Áim câ-ming | Eu estou chegando/vindo | Phrase | A1
+
+// MÓDULO: ADVERB "HOW" (Como/Quão)
+How cute! | Ráu kiút! | Que fofo! | Phrase | A1
+How deep? | Ráu díp? | Quão profundo? | Phrase | A2
+How is work? | Ráu íz uôrk? | Como está o trabalho? | Phrase | A1
+How are you? | Ráu ár iú? | Como você está? | Phrase | A1
+Show me how | Shôu mí ráu | Mostre-me como | Phrase | A1
+How is school? | Ráu íz skúl? | Como está a escola? | Phrase | A1
+You know how | Iú nôu ráu | Você sabe como | Phrase | A1
+
+// MÓDULO: ADVERB "HERE" (Aqui)
+I’m here | Áim rír | Eu estou aqui | Phrase | A1
+Sit here | Sít rír | Sente aqui | Phrase | A1
+It’s here | Íts rír | Está aqui | Phrase | A1
+Stop here | Stóp rír | Pare aqui | Phrase | A1
+Wait here | Uêit rír | Espere aqui | Phrase | A1
+I eat here | Ái ít rír | Eu como aqui | Phrase | A1
+Start here | Stárt rír | Comece aqui | Phrase | A1
+Who is here? | Rú íz rír? | Quem está aqui? | Phrase | A1
+Here she is! | Rír shí íz! | Ela está aqui! (Eis ela aqui!) | Phrase | A1
+I live here | Ái lív rír | Eu moro aqui | Phrase | A1
+I work here | Ái uôrk rír | Eu trabalho aqui | Phrase | A1
+I’ll be here | Áil bí rír | Eu vou ficar/estar aqui | Phrase | A1
+
+// MÓDULO: VERB "SAY" (Dizer)
+I said no | Ái séd nôu | Eu disse não | Phrase | A1
+Say hello | Sêi re-lôu | Diga olá | Phrase | A1
+I can’t say | Ái ként sêi | Eu não posso dizer | Phrase | A1
+Just say no | Djâst sêi nôu | Apenas diga não | Phrase | A1
+Say nothing | Sêi nâ-thíng | Não diga nada | Phrase | A1
+I said get up! | Ái séd guét âp! | Eu disse levanta! | Phrase | A1
+I said go home | Ái séd gôu rôm | Eu disse vá pra casa | Phrase | A1
+
+// MÓDULO: VERB "MAKE" (Fazer/Criar)
+He made it | Rí mêid ít | Ele fez isso (conseguiu) | Phrase | A1
+I made tea | Ái mêid tí | Eu fiz chá | Phrase | A1
+Make a list | Mêik a líst | Faça uma lista | Phrase | A1
+Who made it? | Rú mêid ít? | Quem fez isso? | Phrase | A1
+Make a wish | Mêik a uísh | Faça um desejo | Phrase | A1
+I made a bet | Ái mêid a bét | Eu fiz uma aposta | Phrase | A2
+Make it stop | Mêik ít stóp | Faça isso parar | Phrase | A1
+I made dinner | Ái mêid dí-ner | Eu fiz o jantar | Phrase | A1
+Make a choice | Mêik a tchóis | Faça uma escolha | Phrase | A1
+Make your bed | Mêik iór béd | Faça a sua cama (arrume) | Phrase | A1
+
+// MÓDULO: ADVERB "JUST" (Apenas/Acabar de)
+I just ate | Ái djâst êit | Eu acabei de comer | Phrase | A1
+Just do it | Djâst dú ít | Apenas faça | Phrase | A1
+Just relax | Djâst ri-léks | Apenas relaxe | Phrase | A1
+We just met | Uí djâst mét | Acabamos de nos conhecer | Phrase | A2
+I just moved | Ái djâst múv-d | Eu acabei de me mudar | Phrase | A2
+Just be calm | Djâst bí cálm | Apenas fique calmo | Phrase | A1
+Just be cool | Djâst bí cúl | Apenas seja legal (frio/calmo) | Phrase | A1
+Just call me | Djâst cól mí | Apenas me ligue | Phrase | A1
+Just hold me | Djâst rôuld mí | Apenas me segure | Phrase | A1
+
+// MÓDULO: MODAL "COULD" (Poderia)
+I could try | Ái cúd trái | Eu poderia tentar | Phrase | A2
+I could help | Ái cúd rélp | Eu poderia ajudar | Phrase | A2
+I could walk | Ái cúd uók | Eu poderia caminhar | Phrase | A2
+We could read | Uí cúd ríd | Nós poderíamos ler | Phrase | A2
+You could run | Iú cúd rân | Você poderia correr | Phrase | A2
+I wish I could | Ái uísh ái cúd | Eu queria poder | Phrase | A2
+You could stay | Iú cúd stêi | Você poderia ficar | Phrase | A2
+Could you do it? | Cúd iú dú ít? | Você poderia fazer isso? | Phrase | A2
+
+// MÓDULO: INTENSIFIER "VERY" (Muito)
+I'm very shy | Áim vé-ri shái | Eu sou muito tímido | Phrase | A1
+I'm very busy | Áim vé-ri bí-zi | Eu estou muito ocupado | Phrase | A1
+It's very big | Íts vé-ri bíg | É muito grande | Phrase | A1
+It's very hot | Íts vé-ri rót | É muito quente | Phrase | A1
+It's very old | Íts vé-ri ôuld | É muito velho | Phrase | A1
+I'm very happy | Áim vé-ri ré-pi | Eu estou muito feliz | Phrase | A1
+It's very easy | Íts vé-ri í-zi | É muito fácil | Phrase | A1
+
+// MÓDULO: CONDITIONAL "IF" (Se)
+Stop me if you can | Stóp mí íf iú kén | Me pare se puder | Phrase | A2
+I would help if I could | Ái uúd rélp íf ái cúd | Eu ajudaria se eu pudesse | Phrase | B1
+Do you mind if I sit? | Dú iú máind íf ái sít? | Você se importa se eu sentar? | Phrase | B1
+I'm ready if you are | Áim ré-di íf iú ár | Eu estou pronto se você estiver | Phrase | A2
+I'll go if you insist | Áil gôu íf iú in-síst | Eu vou se você insistir | Phrase | B1
+I'll stay if you want | Áil stêi íf iú uónt | Eu vou ficar se você quiser | Phrase | A2
+If not now, then when? | Íf nót náu, dhén uén? | Se não agora, então quando? | Phrase | B1
+I can help if you want | Ái kén rélp íf iú uónt | Eu posso ajudar se você quiser | Phrase | A1
+If he's busy, help him | Íf ríz bí-zi, rélp rím | Se ele estiver ocupado, o ajude | Phrase | A2
+If you stay, I'll stay | Íf iú stêi, áil stêi | Se você ficar, eu vou ficar | Phrase | A1
+Correct me if I'm wrong | Co-réct mí íf áim róng | Me corrija se eu estiver errado | Phrase | B1
+
+// MÓDULO: PREPOSITION "FROM" (De/Origem)
+I am from Egypt | Ái ém fróm Í-djipt | Eu sou do Egito | Phrase | A1
+I'm from Boston | Áim fróm Bós-ton | Eu sou de Boston | Phrase | A1
+Stay away from us | Stêi a-uêi fróm âs | Fique longe de nós | Phrase | A2
+She is from France | Shí íz fróm Fréns | Ela é da França | Phrase | A1
+
+// MÓDULO: VERB "NEED" (Precisar)
+I need air | Ái níd ér | Eu preciso de ar | Phrase | A1
+I need ice | Ái níd áis | Eu preciso de gelo | Phrase | A1
+I need food | Ái níd fúd | Eu preciso de comida | Phrase | A1
+I need more | Ái níd mór | Eu preciso de mais | Phrase | A1
+I need that | Ái níd dhét | Eu preciso disso | Phrase | A1
+I need them | Ái níd dhém | Eu preciso deles | Phrase | A1
+I needed it | Ái ní-ded ít | Eu precisava disso | Phrase | A2
+You need me | Iú níd mí | Você precisa de mim | Phrase | A1
+I have needs | Ái rév níds | Eu tenho necessidades | Phrase | B1
+I need a car | Ái níd a cár | Eu preciso de um carro | Phrase | A1
+I need a nap | Ái níd a nép | Eu preciso de uma soneca | Phrase | A2
+I need space | Ái níd spêis | Eu preciso de espaço | Phrase | A1
+I need sugar | Ái níd shú-gar | Eu preciso de açúcar | Phrase | A1
+
+// MÓDULO: PRONOUN/NUMBER "ONE" (Um/Uma)
+Choose one | Tchúz uân | Escolha um | Phrase | A1
+No one came | Nôu uân kêim | Ninguém veio | Phrase | A1
+I have one | Ái rév uân | Eu tenho um | Phrase | A1
+One is blue | Uân íz blú | Um é azul | Phrase | A1
+Boil one egg | Bóil uân égg | Ferva um ovo | Phrase | A2
+I’ll buy one | Áil bái uân | Eu vou comprar um | Phrase | A1
+No one cares | Nôu uân kérs | Ninguém se importa | Phrase | A1
+We found one | Uí fáund uân | Nós encontramos um | Phrase | A1
+I can buy one | Ái kén bái uân | Eu posso comprar um | Phrase | A1
+Do I need one? | Dú ái níd uân? | Eu preciso de um? | Phrase | A1
+
+// MÓDULO: MODAL "SHOULD" (Deveria)
+Should I go? | Shúd ái gôu? | Eu devo ir? | Phrase | A2
+We should go | Uí shúd gôu | Nós deveríamos ir | Phrase | A2
+Should I wait? | Shúd ái uêit? | Eu devo esperar? | Phrase | A2
+We should eat | Uí shúd ít | Nós deveríamos comer | Phrase | A2
+Should I start? | Shúd ái stárt? | Eu devo começar? | Phrase | A2
+Should I reply? | Shúd ái ri-plái? | Eu devo responder? | Phrase | A2
+Should we worry? | Shúd uí uô-ri? | Devemos nos preocupar? | Phrase | A2
+
+// MÓDULO: ADVERB "WHEN" (Quando)
+When do we go? | Uén dú uí gôu? | Quando nós vamos? | Phrase | A1
+When was that? | Uén uóz dhét? | Quando foi isso? | Phrase | A1
+When is dinner? | Uén íz dí-ner? | Quando é o jantar? | Phrase | A1
+When do you run? | Uén dú iú rân? | Quando você corre? | Phrase | A1
+Go when you want | Gôu uén iú uónt | Vá quando você quiser | Phrase | A2
+When did they go? | Uén díd dhêi gôu? | Quando eles foram? | Phrase | A2
+When do we begin? | Uén dú uí bi-guín? | Quando nós começamos? | Phrase | A2
+When do you work? | Uén dú iú uôrk? | Quando você trabalha? | Phrase | A1
+Did they say when? | Díd dhêi sêi uén? | Eles disseram quando? | Phrase | A2
+I don't know when | Ái dônt nôu uén | Eu não sei quando | Phrase | A1
+When is the party? | Uén íz dhâ pár-ti? | Quando é a festa? | Phrase | A1
+When was she born? | Uén uóz shí bórn? | Quando ela nasceu? | Phrase | A2
+
+// MÓDULO: VERB "GIVE" (Dar)
+I gave up | Ái guêiv âp | Eu desisti | Phrase | A2
+Give me half | Guív mí réf | Me dá metade | Phrase | A2
+Give me that | Guív mí dhét | Me dá isso | Phrase | A1
+Give me time | Guív mí táim | Me dê tempo | Phrase | A1
+Give me a day | Guív mí a dêi | Me dê um dia | Phrase | A1
+Never give up | Né-ver guív âp | Nunca desista | Phrase | A2
+Give me a hand | Guív mí a rénd | Me dá uma mão (ajuda) | Phrase | A1
+
+// MÓDULO: VERB "HELP" (Ajudar)
+He helps her | Rí rélps râr | Ele ajuda ela | Phrase | A1
+I could help | Ái cúd rélp | Eu poderia ajudar | Phrase | A2
+This will help | Dhís uíl rélp | Isto vai ajudar | Phrase | A1
+That will help | Dhét uíl rélp | Isso vai ajudar | Phrase | A1
+I needed help | Ái ní-ded rélp | Eu precisava de ajuda | Phrase | A2
+
+// MÓDULO: VERB "WORK" (Trabalhar/Funcionar)
+It'll work | Ít-ol uôrk | Vai funcionar | Phrase | A1
+I work hard | Ái uôrk rárd | Eu trabalho duro (muito) | Phrase | A1
+Does it work? | Dâz ít uôrk? | Isso funciona? | Phrase | A1
+I don't work | Ái dônt uôrk | Eu não trabalho | Phrase | A1
+I work a lot | Ái uôrk a lót | Eu trabalho muito | Phrase | A1
+I work alone | Ái uôrk a-lôn | Eu trabalho sozinho | Phrase | A1
+It must work | Ít mâst uôrk | Tem que funcionar | Phrase | A2
+Keep working | Kíp uôr-king | Continue trabalhando | Phrase | A2
+I had to work | Ái réd tu uôrk | Eu tive que trabalhar | Phrase | A2
+I worked hard | Ái uôrk-t rárd | Eu trabalhava duro | Phrase | A2
+That may work | Dhét mêi uôrk | Isso pode funcionar | Phrase | B1
+It works well | Ít uôrks uél | Funciona bem | Phrase | A1
+It won’t work | Ít uônt uôrk | Não vai funcionar | Phrase | A1
+Is it working? | Íz ít uôr-king? | Está funcionando? | Phrase | A1
+
+// MÓDULO: ADVERB "WHY" (Por que)
+Why me? | Uái mí? | Por que eu? | Phrase | A1
+I asked why | Ái ésk-t uái | Eu perguntei porquê | Phrase | A1
+I wonder why | Ái uân-der uái | Eu imagino porquê | Phrase | B1
+May I ask why? | Mêi ái ésk uái? | Eu posso perguntar porque? | Phrase | A2
+Why am I here? | Uái ém ái rír? | Por que eu estou aqui? | Phrase | A1
+Why do you ask? | Uái dú iú ésk? | Por que você pergunta? | Phrase | A1
+Why do you lie? | Uái dú iú lái? | Por que você mente? | Phrase | A1
+Why is he busy? | Uái íz rí bí-zi? | Por que ele está ocupado? | Phrase | A1
+Why is he here? | Uái íz rí rír? | Por que ele está aqui? | Phrase | A1
+Why is it dark? | Uái íz ít dárk? | Por que está escuro? | Phrase | A1
+Why did you run? | Uái díd iú rân? | Por que você correu? | Phrase | A2
+Why do we dream? | Uái dú uí drím? | Por que nós sonhamos? | Phrase | B1
+Why is it empty? | Uái íz ít émp-ti? | Por que está vazio? | Phrase | A1
+
+// MÓDULO: ADJECTIVE "GOOD" (Bom)
+Good luck | Gúd lâck | Boa sorte | Phrase | A1
+It’s good | Íts gúd | Está bom | Phrase | A1
+I was good | Ái uóz gúd | Eu estava/era bom | Phrase | A1
+Good for you | Gúd fór iú | Bom pra você | Phrase | A1
+I can be good | Ái kén bí gúd | Eu posso ser bom | Phrase | A1
+It'll be good | Ít-ol bí gúd | Vai ser bom | Phrase | A1
+It looks good | Ít lúks gúd | Parece bom | Phrase | A1
+Change is good | Tchêindj íz gúd | Mudar é bom | Phrase | A1
+
+// MÓDULO: PRONOUN "WHO" (Quem)
+Who ate? | Rú êit? | Quem comeu? | Phrase | A1
+Who ran? | Rú rén? | Quem correu? | Phrase | A1
+Who won? | Rú uón? | Quem ganhou? | Phrase | A1
+Who came? | Rú kêim? | Quem veio? | Phrase | A1
+Who fell? | Rú fél? | Quem caiu? | Phrase | A1
+Who cares? | Rú kérs? | Quem se importa? | Phrase | A1
+Who swam? | Rú suém? | Quem nadou? | Phrase | A2
+Who spoke? | Rú spôuk? | Quem falou? | Phrase | A1
+
+// MÓDULO: ADVERB "SO" (Tão/Então)
+I hope so | Ái rôup sôu | Eu espero que sim | Phrase | A1
+I’m so full | Áim sôu fúl | Eu estou tão cheio | Phrase | A1
+I’m so glad | Áim sôu gléd | Eu estou tão feliz/contente | Phrase | A1
+It’s so big | Íts sôu bíg | É tão grande | Phrase | A1
+I’m so sorry | Áim sôu só-ri | Eu sinto muito | Phrase | A1
+It’s so cool | Íts sôu cúl | É tão legal | Phrase | A1
+It’s so dark | Íts sôu dárk | Está tão escuro | Phrase | A1
+It’s so weird | Íts sôu uírd | É tão estranho | Phrase | A2
+
+// MÓDULO: VERB "TALK" (Conversar/Falar)
+I'll talk | Áil tók | Eu vou falar | Phrase | A1
+Talk to me! | Tók tu mí! | Conversa comigo! | Phrase | A1
+I am talking | Ái ém tó-king | Eu estou conversando | Phrase | A1
+I can’t talk | Ái ként tók | Eu não posso conversar | Phrase | A1
+Stop talking | Stóp tó-king | Para de conversar | Phrase | A1
+We never talk | Uí né-ver tók | Nós nunca conversamos | Phrase | A1
+
+// MÓDULO: PRONOUN "SOMETHING" (Algo/Alguma coisa)
+Eat something | Ít sâm-thíng | Coma alguma coisa | Phrase | A1
+Say something | Sêi sâm-thíng | Diga alguma coisa | Phrase | A1
+Go do something | Gôu dú sâm-thíng | Vá fazer alguma coisa | Phrase | A1
+Something bit me | Sâm-thíng bít mí | Algo me mordeu | Phrase | A2
+I heard something | Ái rârd sâm-thíng | Eu ouvi alguma coisa | Phrase | A2
+Something changed | Sâm-thíng tchêin-djd | Alguma coisa mudou | Phrase | A2
+Try something new | Trái sâm-thíng niú | Tente algo novo | Phrase | A1
+Something is wrong | Sâm-thíng íz róng | Algo está errado | Phrase | A1
+
+// MÓDULO: ADVERB "NOW" (Agora)
+Go now | Gôu náu | Vá agora | Phrase | A1
+Do it now | Dú ít náu | Faça agora | Phrase | A1
+Start now | Stárt náu | Comece agora | Phrase | A1
+I know now | Ái nôu náu | Agora eu sei | Phrase | A1
+Now get out | Náu guét áut | Agora saia | Phrase | A1
+Now shut up | Náu shât âp | Agora cala a boca | Phrase | A2
+Can I go now? | Kén ái gôu náu? | Eu posso ir agora? | Phrase | A1
+I’m free now | Áim frí náu | Eu estou livre agora | Phrase | A1
+I am safe now | Ái ém sêif náu | Eu estou seguro agora | Phrase | A1
+
+// MÓDULO: NOUN "DAY" (Dia)
+What a day! | Uót a dêi! | Que dia! | Phrase | A1
+It’s a new day | Íts a niú dêi | É um novo dia | Phrase | A1
+Have a good day | Rév a gúd dêi | Tenha um bom dia | Phrase | A1
+I run every day | Ái rân é-vri dêi | Eu corro todo dia | Phrase | A1
+It’s my day off | Íts mái dêi óf | É o meu dia de folga | Phrase | A2
+He slept all day | Rí slépt ól dêi | Ele dormiu o dia todo | Phrase | A2
+How was your day? | Ráu uóz iór dêi? | Como foi o seu dia? | Phrase | A1
+It was a hot day | Ít uóz a rót dêi | Foi um dia quente | Phrase | A1
+It’s a sunny day | Íts a sâ-ni dêi | É um dia ensolarado | Phrase | A1
+I hate rainy days | Ái rêit rêi-ni dêis | Eu odeio dias chuvosos | Phrase | A2
+
+// MÓDULO: VERB "ASK" (Perguntar/Pedir)
+Don’t ask | Dônt ésk | Não pergunte | Phrase | A1
+Ask anyone | Ésk é-ni-uân | Pergunte pra qualquer um | Phrase | A2
+I won’t ask | Ái uônt ésk | Eu não vou perguntar | Phrase | A1
+Don’t ask me | Dônt ésk mí | Não me pergunte | Phrase | A1
+I will ask him | Ái uíl ésk rím | Eu vou perguntar pra ele | Phrase | A1
+Nobody asked | Nôu-bó-di ésk-t | Ninguém perguntou | Phrase | A1
+We didn’t ask | Uí díd-nt ésk | Nós não perguntamos | Phrase | A1
+Who asked you? | Rú ésk-t iú? | Quem te perguntou? | Phrase | A1
+You never ask | Iú né-ver ésk | Você nunca pergunta | Phrase | A1
+
+// MÓDULO: ADVERB "NEVER" (Nunca)
+Never mind! | Né-ver máind! | Deixa pra lá! / Não importa! | Phrase | A1
+I never bet | Ái né-ver bét | Eu nunca aposto | Phrase | A2
+He never lies | Rí né-ver láis | Ele nunca mente | Phrase | A1
+I never drink | Ái né-ver drínk | Eu nunca bebo | Phrase | A1
+We never lose | Uí né-ver lúz | Nós nunca perdemos | Phrase | A1
+Never say that | Né-ver sêi dhét | Nunca diga isso | Phrase | A1
+I never give up | Ái né-ver guív âp | Eu nunca desisto | Phrase | A2
+I never noticed | Ái né-ver nôu-tisd | Eu nunca notei | Phrase | B1
+I never saw you | Ái né-ver só iú | Eu nunca te vi | Phrase | A1
+I will never stop | Ái uíl né-ver stóp | Eu nunca vou parar | Phrase | A1
+
+// MÓDULO: CONJUNCTION "BUT" (Mas/Exceto)
+It's sad, but true | Íts séd, bât trú | É triste, mas verdade | Phrase | A1
+Joe tried, but failed | Djôu tráid, bât fêil-d | Joe tentou, mas falhou | Phrase | A2
+Nobody knows it but me | Nôu-bó-di nôuz ít bât mí | Ninguém sabe além de mim | Phrase | B1
+He was small, but strong | Rí uóz smól, bât stróng | Ele era pequeno, mas forte | Phrase | A1
+He eats nothing but fruit | Rí íts nâ-thíng bât frút | Ele não come nada além de fruta | Phrase | B1
+I blame no one but myself | Ái blêim nôu uân bât mái-sélf | Eu não culpo ninguém além de mim | Phrase | B2
+I want to help, but I can't | Ái uónt tu rélp, bât ái ként | Eu quero ajudar, mas eu não posso | Phrase | A1
+I'm sorry, but we are closed | Áim só-ri, bât uí ár clôuz-d | Me desculpe, mas estamos fechados | Phrase | A1
+I'm sorry, but you're wrong | Áim só-ri, bât iúr róng | Me desculpe, mas você está errado | Phrase | A1
+We have no choice but to go | Uí rév nôu tchóis bât tu gôu | Nós não temos escolha além de ir | Phrase | B2
+I am a student, but he is not | Ái ém a stiú-dent, bât rí íz nót | Eu sou um estudante, mas ele não é | Phrase | A1
+
+// MÓDULO: VERB "HAPPEN" (Acontecer)
+It will happen | Ít uíl ré-pen | Vai acontecer | Phrase | A1
+Things happen | Thíngs ré-pen | As coisas acontecem | Phrase | A1
+What happened? | Uót ré-pend? | O que aconteceu? | Phrase | A1
+Make it happen | Mêik ít ré-pen | Faça acontecer | Phrase | A2
+I saw it happen | Ái só ít ré-pen | Eu vi acontecer | Phrase | A2
+It can't happen | Ít ként ré-pen | Não pode acontecer | Phrase | A1
+It happened once | Ít ré-pend uáns | Aconteceu uma vez | Phrase | A2
+What will happen? | Uót uíl ré-pen? | O que vai acontecer? | Phrase | A1
+It happened again | Ít ré-pend a-guên | Aconteceu de novo | Phrase | A2
+Nothing will happen | Nâ-thíng uíl ré-pen | Nada vai acontecer | Phrase | A1
+What could happen? | Uót cúd ré-pen? | O que poderia acontecer? | Phrase | A2
+That didn't happen | Dhét díd-nt ré-pen | Isso não aconteceu | Phrase | A2
+
+// MÓDULO: QUANTIFIER "MORE" (Mais)
+Show me more | Shôu mí mór | Me mostre mais | Phrase | A1
+Tell me more | Tél mí mór | Conte-me mais | Phrase | A1
+I can do more | Ái kén dú mór | Eu posso fazer mais | Phrase | A1
+Is there more? | Íz dhér mór? | Tem mais? | Phrase | A1
+Let us do more | Lét âs dú mór | Vamos fazer mais | Phrase | A1
+I deserve more | Ái di-zârv mór | Eu mereço mais | Phrase | B1
+Be more precise | Bí mór pri-sáis | Seja mais preciso | Phrase | B2
+I have one more | Ái rév uân mór | Eu tenho mais um | Phrase | A1
+Do you want more? | Dú iú uónt mór? | Você quer mais? | Phrase | A1
+I need more help | Ái níd mór rélp | Eu preciso de mais ajuda | Phrase | A1
+I need more room | Ái níd mór rúm | Eu preciso de mais espaço | Phrase | A1
+Try it once more | Trái ít uáns mór | Tente mais uma vez | Phrase | A2
+I need more light | Ái níd mór láit | Eu preciso de mais luz | Phrase | A1
+Once more, please | Uáns mór, plíz | Mais uma vez, por favor | Phrase | A1
+Read it once more | Ríd ít uáns mór | Leia mais uma vez | Phrase | A1
+I want to see more | Ái uónt tu sí mór | Eu quero ver mais | Phrase | A1
+I want more of that | Ái uónt mór óv dhét | Eu quero mais disso | Phrase | A1
+I need to know more | Ái níd tu nôu mór | Eu preciso saber mais | Phrase | A1
+You should eat more | Iú shúd ít mór | Você deveria comer mais | Phrase | A1
+I need more practice | Ái níd mór préc-tis | Eu preciso de mais prática | Phrase | A1
+
+// MÓDULO: INTENSIFIER "REALLY" (Realmente/Muito)
+I really tried | Ái rí-li tráid | Eu realmente tentei | Phrase | A1
+I'm really busy | Áim rí-li bí-zi | Eu estou realmente ocupado | Phrase | A1
+It's really fun | Íts rí-li fân | É realmente divertido | Phrase | A1
+I'm really happy | Áim rí-li ré-pi | Eu estou realmente feliz | Phrase | A1
+It's really cute | Íts rí-li kiút | É realmente fofo | Phrase | A1
+I'm really excited | Áim rí-li ek-sái-ted | Eu estou realmente animado | Phrase | A1
+This really helped | Dhís rí-li rélp-t | Isto realmente ajudou | Phrase | A2
+You're really fast | Iúr rí-li fést | Você é realmente rápido | Phrase | A1
+I don't really care | Ái dônt rí-li kér | Eu realmente não me importo | Phrase | A1
+
+// MÓDULO: BASIC SENTENCES & IMPERATIVES (Frases Básicas e Imperativos)
+I am the law | Ái ém dhâ ló | Eu sou a lei | Phrase | A1
+Drop the gun | Dróp dhâ gân | Largue a arma | Phrase | A2
+Find the cat | Fáind dhâ két | Encontre o gato | Phrase | A1
+I’m the best | Áim dhâ bést | Eu sou o melhor | Phrase | A1
+I am the boss | Ái ém dhâ bós | Eu sou o chefe | Phrase | A1
+Open the box | Ô-pen dhâ bóks | Abra a caixa | Phrase | A1
+Stop the car | Stóp dhâ cár | Pare o carro | Phrase | A1
+Wash the car | Uósh dhâ cár | Lave o carro | Phrase | A1
+
+// MÓDULO: PRONOUN "YOU" (Você)
+See you | Sí iú | Até logo | Phrase | A1
+You run | Iú rân | Você corre | Phrase | A1
+You won | Iú uón | Você ganhou | Phrase | A2
+After you | Áf-ter iú | Depois de você | Phrase | A1
+I saw you | Ái só iú | Eu vi você | Phrase | A1
+I’m yours | Áim iórs | Eu sou seu/sua | Phrase | A1
+You start | Iú stárt | Você começa | Phrase | A1
+I like you | Ái láik iú | Eu gosto de você | Phrase | A1
+I hear you | Ái rír iú | Eu te escuto | Phrase | A1
+
+// MÓDULO: ARTICLE "A" (Um/Uma)
+Be a man | Bí a mén | Seja um homem | Phrase | A1
+He’s a DJ | Ríz a Di-Djei | Ele é um DJ | Phrase | A1
+Find a job | Fáind a djób | Encontre um emprego | Phrase | A1
+I am a boy | Ái ém a bói | Eu sou um menino | Phrase | A1
+Take a bus | Têik a bâs | Pegue um ônibus | Phrase | A1
+He is a liar | Rí íz a lái-ar | Ele é um mentiroso | Phrase | A2
+I am a cook | Ái ém a cúk | Eu sou um cozinheiro | Phrase | A1
+
+// MÓDULO: NEGATION "NOT/DON'T" (Não)
+Why not? | Uái nót? | Por que não? | Phrase | A1
+Don’t go | Dônt gôu | Não vá | Phrase | A1
+Don’t ask | Dônt ésk | Não pergunte | Phrase | A1
+Don’t cry | Dônt crái | Não chore | Phrase | A1
+Don’t lie | Dônt lái | Não minta | Phrase | A1
+Don’t jump! | Dônt djâmp | Não pule! | Phrase | A1
+Don’t sing | Dônt síng | Não cante | Phrase | A1
+
+// MÓDULO: PRONOUN "HE" (Ele)
+He ran | Rí rén | Ele correu | Phrase | A1
+He came | Rí kêim | Ele veio | Phrase | A1
+He runs | Rí râns | Ele corre | Phrase | A1
+Cuff him | Câf rím | Algeme ele | Phrase | B1
+He tries | Rí tráis | Ele tenta | Phrase | A1
+Who is he? | Rú íz rí? | Quem é ele? | Phrase | A1
+He is old | Rí íz ôuld | Ele é velho | Phrase | A1
+Follow him | Fó-lou rím | Segue ele | Phrase | A1
+He gave up | Rí guêiv âp | Ele desistiu | Phrase | A2
+He is lazy | Rí íz lêi-zi | Ele é preguiçoso | Phrase | A1
+He is sick | Rí íz sík | Ele está doente | Phrase | A1
+
+// MÓDULO: DEMONSTRATIVE "THAT" (Isso/Aquilo)
+That hurts | Dhét rârts | Isso dói / Isso machuca | Phrase | A1
+That works | Dhét uôrks | Isso funciona | Phrase | A1
+That is fun | Dhét íz fân | Isso é engraçado/divertido | Phrase | A1
+I knew that | Ái niú dhét | Eu sabia disso | Phrase | A1
+I made that | Ái mêid dhét | Eu fiz isso | Phrase | A1
+I need that | Ái níd dhét | Eu preciso disso | Phrase | A1
+I want that | Ái uónt dhét | Eu quero isso | Phrase | A1
+
+// MÓDULO: PRONOUN "WE" (Nós)
+We try | Uí trái | Nós tentamos | Phrase | A1
+We won | Uí uón | Nós ganhamos | Phrase | A1
+Call us | Cól âs | Nos ligue / Liga pra gente | Phrase | A1
+Help us | Rélp âs | Nos ajude | Phrase | A1
+We lost | Uí lóst | Nós perdemos | Phrase | A1
+We agree | Uí a-grí | Nós concordamos | Phrase | A1
+Can we go? | Kén uí gôu? | Nós podemos ir? | Phrase | A1
+We forgot | Uí for-gót | Nós esquecemos | Phrase | A1
+We talked | Uí tók-t | Nós conversamos | Phrase | A1
+
+// MÓDULO: DEMONSTRATIVE "THIS" (Isto/Este)
+Fix this | Fíks dhís | Conserte isto | Phrase | A1
+Try this | Trái dhís | Tente isto | Phrase | A1
+Use this | Iúz dhís | Use isto | Phrase | A1
+Feel this | Fíl dhís | Sinta isto | Phrase | A1
+Hold this | Rôuld dhís | Segure isto | Phrase | A1
+Read this | Ríd dhís | Leia isto | Phrase | A1
+Take this | Têik dhís | Pegue isto | Phrase | A1
+Taste this | Têist dhís | Prove isto | Phrase | A1
+Finish this | Fí-nish dhís | Termine isto | Phrase | A1
+I want this | Ái uónt dhís | Eu quero isto | Phrase | A1
+This is big | Dhís íz bíg | Isto é grande | Phrase | A1
+This is his | Dhís íz ríz | Isto é dele | Phrase | A1
+
+// MÓDULO: PREPOSITION "FOR" (Para/Por)
+Cook for me | Cúk fór mí | Cozinhe para mim | Phrase | A1
+It is for me | Ít íz fór mí | É para mim | Phrase | A1
+Wait for us | Uêit fór âs | Espere por nós | Phrase | A1
+Pray for me | Prêi fór mí | Reze por mim | Phrase | A1
+Do it for me | Dú ít fór mí | Faça isso por mim | Phrase | A1
+Is it for me? | Íz ít fór mí? | Isso é pra mim? | Phrase | A1
+Hold it for me | Rôuld ít fór mí | Segura isso pra mim | Phrase | A1
+
+// MÓDULO: FUTURE "WILL" (Vai/Futuro)
+We will go | Uí uíl gôu | Nós vamos | Phrase | A1
+I will go | Ái uíl gôu | Eu vou | Phrase | A1
+I will call | Ái uíl cól | Eu vou ligar | Phrase | A1
+I’ll cook | Áil cúk | Eu vou cozinhar | Phrase | A1
+I’ll help | Áil rélp | Eu vou ajudar | Phrase | A1
+I will pass | Ái uíl pés | Eu vou passar | Phrase | A1
+I’ll stay | Áil stêi | Eu vou ficar | Phrase | A1
+I will work | Ái uíl uôrk | Eu vou trabalhar | Phrase | A1
+
+// MÓDULO: PRONOUN "SHE" (Ela)
+She cried | Shí cráid | Ela chorou | Phrase | A1
+She tried | Shí tráid | Ela tentou | Phrase | A1
+She walks | Shí uóks | Ela caminha | Phrase | A1
+Who is she? | Rú íz shí? | Quem é ela? | Phrase | A1
+I know her | Ái nôu râr | Eu conheço ela | Phrase | A1
+She smiled | Shí smáil-d | Ela sorriu | Phrase | A1
+She is kind | Shí íz káind | Ela é gentil | Phrase | A1
+I hugged her | Ái râg-d râr | Eu a abracei | Phrase | A2
+She is a fox | Shí íz a fóks | Ela é uma raposa (gíria: gata) | Phrase | B1
+She is Lucky | Shí íz lâ-ki | Ela é sortuda | Phrase | A1
+
+// MÓDULO: MODAL "CAN" (Poder/Conseguir)
+I can go | Ái kén gôu | Eu posso ir | Phrase | A1
+Can I eat? | Kén ái ít? | Eu posso comer? | Phrase | A1
+I can run | Ái kén rân | Eu posso correr | Phrase | A1
+I can swim | Ái kén suím | Eu consigo nadar | Phrase | A1
+I can walk | Ái kén uók | Eu consigo andar | Phrase | A1
+We can pay | Uí kén pêi | Nós podemos pagar | Phrase | A1
+I can’t go | Ái ként gôu | Eu não posso ir | Phrase | A1
+Can I begin? | Kén ái bi-guín? | Eu posso começar? | Phrase | A1
+Can we help? | Kén uí rélp? | Nós podemos ajudar? | Phrase | A1
+I can’t fly | Ái ként flái | Eu não consigo voar | Phrase | A1
+
+// MÓDULO: VERB "WANT" (Querer)
+I want cash | Ái uónt késh | Eu quero dinheiro | Phrase | A1
+I want eggs | Ái uónt éggs | Eu quero ovos | Phrase | A1
+I want kids | Ái uónt kíds | Eu quero filhos | Phrase | A1
+I want more | Ái uónt mór | Eu quero mais | Phrase | A1
+I want soup | Ái uónt súp | Eu quero sopa | Phrase | A1
+I want a job | Ái uónt a djób | Eu quero um emprego | Phrase | A1
+I want facts | Ái uónt féc-ts | Eu quero fatos | Phrase | A1
+They want me | Dhêi uónt mí | Eles me querem | Phrase | A1
+Want a drink? | Uónt a drínk? | Quer uma bebida? | Phrase | A1
+I want a bath | Ái uónt a báth | Eu quero um banho | Phrase | A1
+I want a pool | Ái uónt a púl | Eu quero uma piscina | Phrase | A1
+I want to try | Ái uónt tu trái | Eu quero tentar | Phrase | A1
+
+// MÓDULO: CONJUNCTION "AND" (E)
+Wait and see | Uêit énd sí | Espere e veja | Phrase | A1
+Stay and watch | Stêi énd uótch | Fique e assista | Phrase | A1
+I am cold and wet | Ái ém côuld énd uét | Eu estou com frio e molhado | Phrase | A1
+Listen and learn | Lís-sen énd lârn | Escute e aprenda | Phrase | A1
+We sat and waited | Uí sét énd uêi-ted | Nós sentamos e esperamos | Phrase | A2
+Can you and I talk? | Kén iú énd ái tók? | Você e eu podemos conversar? | Phrase | A1
+
+// MÓDULO: PREPOSITION "WITH" (Com)
+Eat with us | Ít uíth âs | Coma com a gente | Phrase | A1
+I am with Brian | Ái ém uíth Brái-an | Eu estou com o Brian | Phrase | A1
+Sing with us | Síng uíth âs | Cante com a gente | Phrase | A1
+Walk with me | Uók uíth mí | Caminhe comigo | Phrase | A1
+Dance with me | Déns uíth mí | Dance comigo | Phrase | A1
+Deal with this | Dí-al uíth dhís | Lide com isto | Phrase | A2
+We are with you | Uí ár uíth iú | Nós estamos com você | Phrase | A1
+I agree with you | Ái a-grí uíth iú | Eu concordo com você | Phrase | A1
+
+// MÓDULO: VERB "KNOW" (Saber/Conhecer)
+We all know | Uí ól nôu | Todos nós sabemos | Phrase | A1
+We know why | Uí nôu uái | Nós sabemos porquê | Phrase | A1
+Yes, I know | Iés, ái nôu | Sim, eu sei | Phrase | A1
+Do they know? | Dú dhêi nôu? | Eles sabem? | Phrase | A1
+I don’t know | Ái dônt nôu | Eu não sei | Phrase | A1
+No one knows | Nôu uân nôuz | Ninguém sabe | Phrase | A1
+She knows me | Shí nôuz mí | Ela me conhece | Phrase | A1
+We knew that | Uí niú dhét | Nós sabíamos disso | Phrase | A1
+Do I know him? | Dú ái nôu rím? | Eu conheço ele? | Phrase | A1
+
+// MÓDULO: VERB "THINK" (Pensar/Achar)
+I think so | Ái thínk sôu | Eu acho que sim | Phrase | A1
+Think again | Thínk a-guên | Pense de novo | Phrase | A1
+I’m thinking | Áim thín-king | Eu estou pensando | Phrase | A1
+Let me think | Lét mí thínk | Deixe-me pensar | Phrase | A1
+I think I can | Ái thínk ái kén | Eu acho que eu posso | Phrase | A1
+I have to think | Ái rév tu thínk | Eu tenho que pensar | Phrase | A1
+I think it works | Ái thínk ít uôrks | Eu acho que funciona | Phrase | A1
+Think about that | Thínk a-báut dhét | Pense sobre isso | Phrase | A1
+I think I will stay | Ái thínk ái uíl stêi | Eu acho que eu vou ficar | Phrase | A1
+I think I am ready | Ái thínk ái ém ré-di | Eu acho que eu estou pronto | Phrase | A1
+
+// MÓDULO: PREPOSITION "AT" (Em/No/Na)
+I’m at home | Áim ét rôm | Eu estou em casa | Phrase | A1
+I’m at work | Áim ét uôrk | Eu estou no trabalho | Phrase | A1
+Look at him | Lúk ét rím | Olha pra ele | Phrase | A1
+Look at that! | Lúk ét dhét! | Olha pra isso! | Phrase | A1
+Stay at home | Stêi ét rôm | Fique em casa | Phrase | A1
+We eat at six | Uí ít ét síks | Nós comemos às seis | Phrase | A1
+I’m at the gym | Áim ét dhâ djím | Eu estou na academia | Phrase | A1
+Are you at home? | Ár iú ét rôm? | Você está em casa? | Phrase | A1
+
+// MÓDULO: VERB "LIKE" (Gostar)
+I like art | Ái láik árt | Eu gosto de arte | Phrase | A1
+I like tea | Ái láik tí | Eu gosto de chá | Phrase | A1
+I like math | Ái láik méth | Eu gosto de matemática | Phrase | A1
+I like them | Ái láik dhém | Eu gosto deles | Phrase | A1
+I like girls | Ái láik gârls | Eu gosto de meninas | Phrase | A1
+I like women | Ái láik uô-men | Eu gosto de mulheres | Phrase | A1
+I like my job | Ái láik mái djób | Eu gosto do meu emprego | Phrase | A1
+I like sports | Ái láik spórts | Eu gosto de esportes | Phrase | A1
+
+// MÓDULO: VERB "TELL" (Contar/Dizer)
+Tell me | Tél mí | Me conta | Phrase | A1
+I told you | Ái tôuld iú | Eu te disse | Phrase | A1
+I will not tell | Ái uíl nót tél | Eu não vou contar | Phrase | A1
+Who told you? | Rú tôuld iú? | Quem te disse? | Phrase | A1
+I told a joke | Ái tôuld a djôuk | Eu contei uma piada | Phrase | A2
+Nobody told me | Nôu-bó-di tôuld mí | Ninguém me contou | Phrase | A1
+Tell the truth | Tél dhâ trúth | Diga a verdade | Phrase | A2
+Don’t tell lies | Dônt tél láis | Não conte mentiras | Phrase | A1
+Time will tell | Táim uíl tél | O tempo vai dizer (dirá) | Phrase | B1
+
+// MÓDULO: TIME EXPRESSIONS (Tempo)
+It’s time | Íts táim | Está na hora | Phrase | A1
+Time flies | Táim fláis | O tempo voa | Phrase | A1
+I have time | Ái rév táim | Eu tenho tempo | Phrase | A1
+I need time | Ái níd táim | Eu preciso de tempo | Phrase | A1
+It takes time | Ít têiks táim | Leva tempo | Phrase | A1
+Time is money | Táim íz mâ-ni | Tempo é dinheiro | Phrase | A1
+I have no time | Ái rév nôu táim | Eu não tenho tempo | Phrase | A1
+
+// MÓDULO: VERB "SEE" (Ver)
+I saw him | Ái só rím | Eu o vi | Phrase | A1
+I saw one | Ái só uân | Eu vi um | Phrase | A1
+Let’s see | Léts sí | Vamos ver | Phrase | A1
+Richard saw me | Rí-chard só mí | O Richard me viu | Phrase | A1
+You’ll see | Iúl sí | Você vai ver | Phrase | A1
+I can’t see | Ái ként sí | Eu não consigo ver | Phrase | A1
+I saw a dog | Ái só a dóg | Eu vi um cachorro | Phrase | A1
+I’ll go see | Áil gôu sí | Eu vou ver | Phrase | A1
+
+// MÓDULO: DETERMINER "ALL" (Tudo/Todos)
+That’s all | Dhéts ól | Isso é tudo | Phrase | A1
+Is that all? | Íz dhét ól? | Isso é tudo? | Phrase | A1
+We all work | Uí ól uôrk | Todos nós trabalhamos | Phrase | A1
+It’s all wet | Íts ól uét | Está tudo molhado | Phrase | A1
+Use them all | Iúz dhém ól | Use todos eles | Phrase | A1
+I want it all | Ái uónt ít ól | Eu quero isso tudo | Phrase | A1
+It’s all here | Íts ól rír | Está tudo aqui | Phrase | A1
+It’s all over | Íts ól ô-ver | Está tudo acabado | Phrase | A1
+It’s all true | Íts ól trú | É tudo verdade | Phrase | A1
+They all knew | Dhêi ól niú | Todos eles sabiam | Phrase | A1
+
+// MÓDULO: VERB "COME" (Vir)
+He came | Rí kêim | Ele veio | Phrase | A1
+Who came? | Rú kêim? | Quem veio? | Phrase | A1
+Come home | Câm rôm | Vem pra casa | Phrase | A1
+Come again | Câm a-guên | Vem de novo | Phrase | A1
+Don’t come | Dônt câm | Não venha | Phrase | A1
+I’m coming | Áim câ-ming | Eu estou chegando/vindo | Phrase | A1
+
+// MÓDULO: ADVERB "HOW" (Como/Quão)
+How cute! | Ráu kiút! | Que fofo! | Phrase | A1
+How deep? | Ráu díp? | Quão profundo? | Phrase | A2
+How is work? | Ráu íz uôrk? | Como está o trabalho? | Phrase | A1
+How are you? | Ráu ár iú? | Como você está? | Phrase | A1
+Show me how | Shôu mí ráu | Mostre-me como | Phrase | A1
+How is school? | Ráu íz skúl? | Como está a escola? | Phrase | A1
+You know how | Iú nôu ráu | Você sabe como | Phrase | A1
+
+// MÓDULO: ADVERB "HERE" (Aqui)
+I’m here | Áim rír | Eu estou aqui | Phrase | A1
+Sit here | Sít rír | Sente aqui | Phrase | A1
+It’s here | Íts rír | Está aqui | Phrase | A1
+Stop here | Stóp rír | Pare aqui | Phrase | A1
+Wait here | Uêit rír | Espere aqui | Phrase | A1
+I eat here | Ái ít rír | Eu como aqui | Phrase | A1
+Start here | Stárt rír | Comece aqui | Phrase | A1
+Who is here? | Rú íz rír? | Quem está aqui? | Phrase | A1
+Here she is! | Rír shí íz! | Ela está aqui! (Eis ela aqui!) | Phrase | A1
+I live here | Ái lív rír | Eu moro aqui | Phrase | A1
+I work here | Ái uôrk rír | Eu trabalho aqui | Phrase | A1
+I’ll be here | Áil bí rír | Eu vou ficar/estar aqui | Phrase | A1
+
+// MÓDULO: VERB "SAY" (Dizer)
+I said no | Ái séd nôu | Eu disse não | Phrase | A1
+Say hello | Sêi re-lôu | Diga olá | Phrase | A1
+I can’t say | Ái ként sêi | Eu não posso dizer | Phrase | A1
+Just say no | Djâst sêi nôu | Apenas diga não | Phrase | A1
+Say nothing | Sêi nâ-thíng | Não diga nada | Phrase | A1
+I said get up! | Ái séd guét âp! | Eu disse levanta! | Phrase | A1
+I said go home | Ái séd gôu rôm | Eu disse vá pra casa | Phrase | A1
+
+// MÓDULO: VERB "MAKE" (Fazer/Criar)
+He made it | Rí mêid ít | Ele fez isso (conseguiu) | Phrase | A1
+I made tea | Ái mêid tí | Eu fiz chá | Phrase | A1
+Make a list | Mêik a líst | Faça uma lista | Phrase | A1
+Who made it? | Rú mêid ít? | Quem fez isso? | Phrase | A1
+Make a wish | Mêik a uísh | Faça um desejo | Phrase | A1
+I made a bet | Ái mêid a bét | Eu fiz uma aposta | Phrase | A2
+Make it stop | Mêik ít stóp | Faça isso parar | Phrase | A1
+I made dinner | Ái mêid dí-ner | Eu fiz o jantar | Phrase | A1
+Make a choice | Mêik a tchóis | Faça uma escolha | Phrase | A1
+Make your bed | Mêik iór béd | Faça a sua cama (arrume) | Phrase | A1
+
+// MÓDULO: ADVERB "JUST" (Apenas/Acabar de)
+I just ate | Ái djâst êit | Eu acabei de comer | Phrase | A1
+Just do it | Djâst dú ít | Apenas faça | Phrase | A1
+Just relax | Djâst ri-léks | Apenas relaxe | Phrase | A1
+We just met | Uí djâst mét | Acabamos de nos conhecer | Phrase | A2
+I just moved | Ái djâst múv-d | Eu acabei de me mudar | Phrase | A2
+Just be calm | Djâst bí cálm | Apenas fique calmo | Phrase | A1
+Just be cool | Djâst bí cúl | Apenas seja legal (frio/calmo) | Phrase | A1
+Just call me | Djâst cól mí | Apenas me ligue | Phrase | A1
+Just hold me | Djâst rôuld mí | Apenas me segure | Phrase | A1
+
+// MÓDULO: MODAL "COULD" (Poderia)
+I could try | Ái cúd trái | Eu poderia tentar | Phrase | A2
+I could help | Ái cúd rélp | Eu poderia ajudar | Phrase | A2
+I could walk | Ái cúd uók | Eu poderia caminhar | Phrase | A2
+We could read | Uí cúd ríd | Nós poderíamos ler | Phrase | A2
+You could run | Iú cúd rân | Você poderia correr | Phrase | A2
+I wish I could | Ái uísh ái cúd | Eu queria poder | Phrase | A2
+You could stay | Iú cúd stêi | Você poderia ficar | Phrase | A2
+Could you do it? | Cúd iú dú ít? | Você poderia fazer isso? | Phrase | A2
+
+// MÓDULO: INTENSIFIER "VERY" (Muito)
+I'm very shy | Áim vé-ri shái | Eu sou muito tímido | Phrase | A1
+I'm very busy | Áim vé-ri bí-zi | Eu estou muito ocupado | Phrase | A1
+It's very big | Íts vé-ri bíg | É muito grande | Phrase | A1
+It's very hot | Íts vé-ri rót | É muito quente | Phrase | A1
+It's very old | Íts vé-ri ôuld | É muito velho | Phrase | A1
+I'm very happy | Áim vé-ri ré-pi | Eu estou muito feliz | Phrase | A1
+It's very easy | Íts vé-ri í-zi | É muito fácil | Phrase | A1
+
+// MÓDULO: CONDITIONAL "IF" (Se)
+Stop me if you can | Stóp mí íf iú kén | Me pare se puder | Phrase | A2
+I would help if I could | Ái uúd rélp íf ái cúd | Eu ajudaria se eu pudesse | Phrase | B1
+Do you mind if I sit? | Dú iú máind íf ái sít? | Você se importa se eu sentar? | Phrase | B1
+I'm ready if you are | Áim ré-di íf iú ár | Eu estou pronto se você estiver | Phrase | A2
+I'll go if you insist | Áil gôu íf iú in-síst | Eu vou se você insistir | Phrase | B1
+I'll stay if you want | Áil stêi íf iú uónt | Eu vou ficar se você quiser | Phrase | A2
+If not now, then when? | Íf nót náu, dhén uén? | Se não agora, então quando? | Phrase | B1
+I can help if you want | Ái kén rélp íf iú uónt | Eu posso ajudar se você quiser | Phrase | A1
+If he's busy, help him | Íf ríz bí-zi, rélp rím | Se ele estiver ocupado, o ajude | Phrase | A2
+If you stay, I'll stay | Íf iú stêi, áil stêi | Se você ficar, eu vou ficar | Phrase | A1
+Correct me if I'm wrong | Co-réct mí íf áim róng | Me corrija se eu estiver errado | Phrase | B1
+
+// MÓDULO: PREPOSITION "FROM" (De/Origem)
+I am from Egypt | Ái ém fróm Í-djipt | Eu sou do Egito | Phrase | A1
+I'm from Boston | Áim fróm Bós-ton | Eu sou de Boston | Phrase | A1
+Stay away from us | Stêi a-uêi fróm âs | Fique longe de nós | Phrase | A2
+She is from France | Shí íz fróm Fréns | Ela é da França | Phrase | A1
+
+// MÓDULO: VERB "NEED" (Precisar)
+I need air | Ái níd ér | Eu preciso de ar | Phrase | A1
+I need ice | Ái níd áis | Eu preciso de gelo | Phrase | A1
+I need food | Ái níd fúd | Eu preciso de comida | Phrase | A1
+I need more | Ái níd mór | Eu preciso de mais | Phrase | A1
+I need that | Ái níd dhét | Eu preciso disso | Phrase | A1
+I need them | Ái níd dhém | Eu preciso deles | Phrase | A1
+I needed it | Ái ní-ded ít | Eu precisava disso | Phrase | A2
+You need me | Iú níd mí | Você precisa de mim | Phrase | A1
+I have needs | Ái rév níds | Eu tenho necessidades | Phrase | B1
+I need a car | Ái níd a cár | Eu preciso de um carro | Phrase | A1
+I need a nap | Ái níd a nép | Eu preciso de uma soneca | Phrase | A2
+I need space | Ái níd spêis | Eu preciso de espaço | Phrase | A1
+I need sugar | Ái níd shú-gar | Eu preciso de açúcar | Phrase | A1
+
+// MÓDULO: PRONOUN/NUMBER "ONE" (Um/Uma)
+Choose one | Tchúz uân | Escolha um | Phrase | A1
+No one came | Nôu uân kêim | Ninguém veio | Phrase | A1
+I have one | Ái rév uân | Eu tenho um | Phrase | A1
+One is blue | Uân íz blú | Um é azul | Phrase | A1
+Boil one egg | Bóil uân égg | Ferva um ovo | Phrase | A2
+I’ll buy one | Áil bái uân | Eu vou comprar um | Phrase | A1
+No one cares | Nôu uân kérs | Ninguém se importa | Phrase | A1
+We found one | Uí fáund uân | Nós encontramos um | Phrase | A1
+I can buy one | Ái kén bái uân | Eu posso comprar um | Phrase | A1
+Do I need one? | Dú ái níd uân? | Eu preciso de um? | Phrase | A1
+
+// MÓDULO: MODAL "SHOULD" (Deveria)
+Should I go? | Shúd ái gôu? | Eu devo ir? | Phrase | A2
+We should go | Uí shúd gôu | Nós deveríamos ir | Phrase | A2
+Should I wait? | Shúd ái uêit? | Eu devo esperar? | Phrase | A2
+We should eat | Uí shúd ít | Nós deveríamos comer | Phrase | A2
+Should I start? | Shúd ái stárt? | Eu devo começar? | Phrase | A2
+Should I reply? | Shúd ái ri-plái? | Eu devo responder? | Phrase | A2
+Should we worry? | Shúd uí uô-ri? | Devemos nos preocupar? | Phrase | A2
+
+// MÓDULO: ADVERB "WHEN" (Quando)
+When do we go? | Uén dú uí gôu? | Quando nós vamos? | Phrase | A1
+When was that? | Uén uóz dhét? | Quando foi isso? | Phrase | A1
+When is dinner? | Uén íz dí-ner? | Quando é o jantar? | Phrase | A1
+When do you run? | Uén dú iú rân? | Quando você corre? | Phrase | A1
+Go when you want | Gôu uén iú uónt | Vá quando você quiser | Phrase | A2
+When did they go? | Uén díd dhêi gôu? | Quando eles foram? | Phrase | A2
+When do we begin? | Uén dú uí bi-guín? | Quando nós começamos? | Phrase | A2
+When do you work? | Uén dú iú uôrk? | Quando você trabalha? | Phrase | A1
+Did they say when? | Díd dhêi sêi uén? | Eles disseram quando? | Phrase | A2
+I don't know when | Ái dônt nôu uén | Eu não sei quando | Phrase | A1
+When is the party? | Uén íz dhâ pár-ti? | Quando é a festa? | Phrase | A1
+When was she born? | Uén uóz shí bórn? | Quando ela nasceu? | Phrase | A2
+
+// MÓDULO: VERB "GIVE" (Dar)
+I gave up | Ái guêiv âp | Eu desisti | Phrase | A2
+Give me half | Guív mí réf | Me dá metade | Phrase | A2
+Give me that | Guív mí dhét | Me dá isso | Phrase | A1
+Give me time | Guív mí táim | Me dê tempo | Phrase | A1
+Give me a day | Guív mí a dêi | Me dê um dia | Phrase | A1
+Never give up | Né-ver guív âp | Nunca desista | Phrase | A2
+Give me a hand | Guív mí a rénd | Me dá uma mão (ajuda) | Phrase | A1
+
+// MÓDULO: VERB "HELP" (Ajudar)
+He helps her | Rí rélps râr | Ele ajuda ela | Phrase | A1
+I could help | Ái cúd rélp | Eu poderia ajudar | Phrase | A2
+This will help | Dhís uíl rélp | Isto vai ajudar | Phrase | A1
+That will help | Dhét uíl rélp | Isso vai ajudar | Phrase | A1
+I needed help | Ái ní-ded rélp | Eu precisava de ajuda | Phrase | A2
+
+// MÓDULO: VERB "WORK" (Trabalhar/Funcionar)
+It'll work | Ít-ol uôrk | Vai funcionar | Phrase | A1
+I work hard | Ái uôrk rárd | Eu trabalho duro (muito) | Phrase | A1
+Does it work? | Dâz ít uôrk? | Isso funciona? | Phrase | A1
+I don't work | Ái dônt uôrk | Eu não trabalho | Phrase | A1
+I work a lot | Ái uôrk a lót | Eu trabalho muito | Phrase | A1
+I work alone | Ái uôrk a-lôn | Eu trabalho sozinho | Phrase | A1
+It must work | Ít mâst uôrk | Tem que funcionar | Phrase | A2
+Keep working | Kíp uôr-king | Continue trabalhando | Phrase | A2
+I had to work | Ái réd tu uôrk | Eu tive que trabalhar | Phrase | A2
+I worked hard | Ái uôrk-t rárd | Eu trabalhava duro | Phrase | A2
+That may work | Dhét mêi uôrk | Isso pode funcionar | Phrase | B1
+It works well | Ít uôrks uél | Funciona bem | Phrase | A1
+It won’t work | Ít uônt uôrk | Não vai funcionar | Phrase | A1
+Is it working? | Íz ít uôr-king? | Está funcionando? | Phrase | A1
+
+// MÓDULO: ADVERB "WHY" (Por que)
+Why me? | Uái mí? | Por que eu? | Phrase | A1
+I asked why | Ái ésk-t uái | Eu perguntei porquê | Phrase | A1
+I wonder why | Ái uân-der uái | Eu imagino porquê | Phrase | B1
+May I ask why? | Mêi ái ésk uái? | Eu posso perguntar porque? | Phrase | A2
+Why am I here? | Uái ém ái rír? | Por que eu estou aqui? | Phrase | A1
+Why do you ask? | Uái dú iú ésk? | Por que você pergunta? | Phrase | A1
+Why do you lie? | Uái dú iú lái? | Por que você mente? | Phrase | A1
+Why is he busy? | Uái íz rí bí-zi? | Por que ele está ocupado? | Phrase | A1
+Why is he here? | Uái íz rí rír? | Por que ele está aqui? | Phrase | A1
+Why is it dark? | Uái íz ít dárk? | Por que está escuro? | Phrase | A1
+Why did you run? | Uái díd iú rân? | Por que você correu? | Phrase | A2
+Why do we dream? | Uái dú uí drím? | Por que nós sonhamos? | Phrase | B1
+Why is it empty? | Uái íz ít émp-ti? | Por que está vazio? | Phrase | A1
+
+// MÓDULO: ADJECTIVE "GOOD" (Bom)
+Good luck | Gúd lâck | Boa sorte | Phrase | A1
+It’s good | Íts gúd | Está bom | Phrase | A1
+I was good | Ái uóz gúd | Eu estava/era bom | Phrase | A1
+Good for you | Gúd fór iú | Bom pra você | Phrase | A1
+I can be good | Ái kén bí gúd | Eu posso ser bom | Phrase | A1
+It'll be good | Ít-ol bí gúd | Vai ser bom | Phrase | A1
+It looks good | Ít lúks gúd | Parece bom | Phrase | A1
+Change is good | Tchêindj íz gúd | Mudar é bom | Phrase | A1
+
+// MÓDULO: PRONOUN "WHO" (Quem)
+Who ate? | Rú êit? | Quem comeu? | Phrase | A1
+Who ran? | Rú rén? | Quem correu? | Phrase | A1
+Who won? | Rú uón? | Quem ganhou? | Phrase | A1
+Who came? | Rú kêim? | Quem veio? | Phrase | A1
+Who fell? | Rú fél? | Quem caiu? | Phrase | A1
+Who cares? | Rú kérs? | Quem se importa? | Phrase | A1
+Who swam? | Rú suém? | Quem nadou? | Phrase | A2
+Who spoke? | Rú spôuk? | Quem falou? | Phrase | A1
+
+// MÓDULO: ADVERB "SO" (Tão/Então)
+I hope so | Ái rôup sôu | Eu espero que sim | Phrase | A1
+I’m so full | Áim sôu fúl | Eu estou tão cheio | Phrase | A1
+I’m so glad | Áim sôu gléd | Eu estou tão feliz/contente | Phrase | A1
+It’s so big | Íts sôu bíg | É tão grande | Phrase | A1
+I’m so sorry | Áim sôu só-ri | Eu sinto muito | Phrase | A1
+It’s so cool | Íts sôu cúl | É tão legal | Phrase | A1
+It’s so dark | Íts sôu dárk | Está tão escuro | Phrase | A1
+It’s so weird | Íts sôu uírd | É tão estranho | Phrase | A2
+
+// MÓDULO: VERB "TALK" (Conversar/Falar)
+I'll talk | Áil tók | Eu vou falar | Phrase | A1
+Talk to me! | Tók tu mí! | Conversa comigo! | Phrase | A1
+I am talking | Ái ém tó-king | Eu estou conversando | Phrase | A1
+I can’t talk | Ái ként tók | Eu não posso conversar | Phrase | A1
+Stop talking | Stóp tó-king | Para de conversar | Phrase | A1
+We never talk | Uí né-ver tók | Nós nunca conversamos | Phrase | A1
+
+// MÓDULO: PRONOUN "SOMETHING" (Algo/Alguma coisa)
+Eat something | Ít sâm-thíng | Coma alguma coisa | Phrase | A1
+Say something | Sêi sâm-thíng | Diga alguma coisa | Phrase | A1
+Go do something | Gôu dú sâm-thíng | Vá fazer alguma coisa | Phrase | A1
+Something bit me | Sâm-thíng bít mí | Algo me mordeu | Phrase | A2
+I heard something | Ái rârd sâm-thíng | Eu ouvi alguma coisa | Phrase | A2
+Something changed | Sâm-thíng tchêin-djd | Alguma coisa mudou | Phrase | A2
+Try something new | Trái sâm-thíng niú | Tente algo novo | Phrase | A1
+Something is wrong | Sâm-thíng íz róng | Algo está errado | Phrase | A1
+
+// MÓDULO: ADVERB "NOW" (Agora)
+Go now | Gôu náu | Vá agora | Phrase | A1
+Do it now | Dú ít náu | Faça agora | Phrase | A1
+Start now | Stárt náu | Comece agora | Phrase | A1
+I know now | Ái nôu náu | Agora eu sei | Phrase | A1
+Now get out | Náu guét áut | Agora saia | Phrase | A1
+Now shut up | Náu shât âp | Agora cala a boca | Phrase | A2
+Can I go now? | Kén ái gôu náu? | Eu posso ir agora? | Phrase | A1
+I’m free now | Áim frí náu | Eu estou livre agora | Phrase | A1
+I am safe now | Ái ém sêif náu | Eu estou seguro agora | Phrase | A1
+
+// MÓDULO: NOUN "DAY" (Dia)
+What a day! | Uót a dêi! | Que dia! | Phrase | A1
+It’s a new day | Íts a niú dêi | É um novo dia | Phrase | A1
+Have a good day | Rév a gúd dêi | Tenha um bom dia | Phrase | A1
+I run every day | Ái rân é-vri dêi | Eu corro todo dia | Phrase | A1
+It’s my day off | Íts mái dêi óf | É o meu dia de folga | Phrase | A2
+He slept all day | Rí slépt ól dêi | Ele dormiu o dia todo | Phrase | A2
+How was your day? | Ráu uóz iór dêi? | Como foi o seu dia? | Phrase | A1
+It was a hot day | Ít uóz a rót dêi | Foi um dia quente | Phrase | A1
+It’s a sunny day | Íts a sâ-ni dêi | É um dia ensolarado | Phrase | A1
+I hate rainy days | Ái rêit rêi-ni dêis | Eu odeio dias chuvosos | Phrase | A2
+
+// MÓDULO: VERB "ASK" (Perguntar/Pedir)
+Don’t ask | Dônt ésk | Não pergunte | Phrase | A1
+Ask anyone | Ésk é-ni-uân | Pergunte pra qualquer um | Phrase | A2
+I won’t ask | Ái uônt ésk | Eu não vou perguntar | Phrase | A1
+Don’t ask me | Dônt ésk mí | Não me pergunte | Phrase | A1
+I will ask him | Ái uíl ésk rím | Eu vou perguntar pra ele | Phrase | A1
+Nobody asked | Nôu-bó-di ésk-t | Ninguém perguntou | Phrase | A1
+We didn’t ask | Uí díd-nt ésk | Nós não perguntamos | Phrase | A1
+Who asked you? | Rú ésk-t iú? | Quem te perguntou? | Phrase | A1
+You never ask | Iú né-ver ésk | Você nunca pergunta | Phrase | A1
+
+// MÓDULO: ADVERB "NEVER" (Nunca)
+Never mind! | Né-ver máind! | Deixa pra lá! / Não importa! | Phrase | A1
+I never bet | Ái né-ver bét | Eu nunca aposto | Phrase | A2
+He never lies | Rí né-ver láis | Ele nunca mente | Phrase | A1
+I never drink | Ái né-ver drínk | Eu nunca bebo | Phrase | A1
+We never lose | Uí né-ver lúz | Nós nunca perdemos | Phrase | A1
+Never say that | Né-ver sêi dhét | Nunca diga isso | Phrase | A1
+I never give up | Ái né-ver guív âp | Eu nunca desisto | Phrase | A2
+I never noticed | Ái né-ver nôu-tisd | Eu nunca notei | Phrase | B1
+I never saw you | Ái né-ver só iú | Eu nunca te vi | Phrase | A1
+I will never stop | Ái uíl né-ver stóp | Eu nunca vou parar | Phrase | A1
+
+// MÓDULO: CONJUNCTION "BUT" (Mas/Exceto)
+It's sad, but true | Íts séd, bât trú | É triste, mas verdade | Phrase | A1
+Joe tried, but failed | Djôu tráid, bât fêil-d | Joe tentou, mas falhou | Phrase | A2
+Nobody knows it but me | Nôu-bó-di nôuz ít bât mí | Ninguém sabe além de mim | Phrase | B1
+He was small, but strong | Rí uóz smól, bât stróng | Ele era pequeno, mas forte | Phrase | A1
+He eats nothing but fruit | Rí íts nâ-thíng bât frút | Ele não come nada além de fruta | Phrase | B1
+I blame no one but myself | Ái blêim nôu uân bât mái-sélf | Eu não culpo ninguém além de mim | Phrase | B2
+I want to help, but I can't | Ái uónt tu rélp, bât ái ként | Eu quero ajudar, mas eu não posso | Phrase | A1
+I'm sorry, but we are closed | Áim só-ri, bât uí ár clôuz-d | Me desculpe, mas estamos fechados | Phrase | A1
+I'm sorry, but you're wrong | Áim só-ri, bât iúr róng | Me desculpe, mas você está errado | Phrase | A1
+We have no choice but to go | Uí rév nôu tchóis bât tu gôu | Nós não temos escolha além de ir | Phrase | B2
+I am a student, but he is not | Ái ém a stiú-dent, bât rí íz nót | Eu sou um estudante, mas ele não é | Phrase | A1
+
+// MÓDULO: VERB "HAPPEN" (Acontecer)
+It will happen | Ít uíl ré-pen | Vai acontecer | Phrase | A1
+Things happen | Thíngs ré-pen | As coisas acontecem | Phrase | A1
+What happened? | Uót ré-pend? | O que aconteceu? | Phrase | A1
+Make it happen | Mêik ít ré-pen | Faça acontecer | Phrase | A2
+I saw it happen | Ái só ít ré-pen | Eu vi acontecer | Phrase | A2
+It can't happen | Ít ként ré-pen | Não pode acontecer | Phrase | A1
+It happened once | Ít ré-pend uáns | Aconteceu uma vez | Phrase | A2
+What will happen? | Uót uíl ré-pen? | O que vai acontecer? | Phrase | A1
+It happened again | Ít ré-pend a-guên | Aconteceu de novo | Phrase | A2
+Nothing will happen | Nâ-thíng uíl ré-pen | Nada vai acontecer | Phrase | A1
+What could happen? | Uót cúd ré-pen? | O que poderia acontecer? | Phrase | A2
+That didn't happen | Dhét díd-nt ré-pen | Isso não aconteceu | Phrase | A2
+
+// MÓDULO: QUANTIFIER "MORE" (Mais)
+Show me more | Shôu mí mór | Me mostre mais | Phrase | A1
+Tell me more | Tél mí mór | Conte-me mais | Phrase | A1
+I can do more | Ái kén dú mór | Eu posso fazer mais | Phrase | A1
+Is there more? | Íz dhér mór? | Tem mais? | Phrase | A1
+Let us do more | Lét âs dú mór | Vamos fazer mais | Phrase | A1
+I deserve more | Ái di-zârv mór | Eu mereço mais | Phrase | B1
+Be more precise | Bí mór pri-sáis | Seja mais preciso | Phrase | B2
+I have one more | Ái rév uân mór | Eu tenho mais um | Phrase | A1
+Do you want more? | Dú iú uónt mór? | Você quer mais? | Phrase | A1
+I need more help | Ái níd mór rélp | Eu preciso de mais ajuda | Phrase | A1
+I need more room | Ái níd mór rúm | Eu preciso de mais espaço | Phrase | A1
+Try it once more | Trái ít uáns mór | Tente mais uma vez | Phrase | A2
+I need more light | Ái níd mór láit | Eu preciso de mais luz | Phrase | A1
+Once more, please | Uáns mór, plíz | Mais uma vez, por favor | Phrase | A1
+Read it once more | Ríd ít uáns mór | Leia mais uma vez | Phrase | A1
+I want to see more | Ái uónt tu sí mór | Eu quero ver mais | Phrase | A1
+I want more of that | Ái uónt mór óv dhét | Eu quero mais disso | Phrase | A1
+I need to know more | Ái níd tu nôu mór | Eu preciso saber mais | Phrase | A1
+You should eat more | Iú shúd ít mór | Você deveria comer mais | Phrase | A1
+I need more practice | Ái níd mór préc-tis | Eu preciso de mais prática | Phrase | A1
