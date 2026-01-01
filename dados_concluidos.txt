@@ -9501,3 +9501,138 @@ Mouth-watering | Máuf uó-te-ring | De dar água na boca | Eating Out | B1
 The Big Spender | Dâ bíg spén-der | Dizer "It is on me" para pagar um café ou lanche para um amigo | Missão | A2
 The Scavenger | Dâ ské-ven-djer | Pedir uma "Doggy bag" sem vergonha nenhuma no final do jantar | Missão | B1
 The Dutch Master | Dâ dâtch més-ter | Sugerir "Let's go dutch" quando a conta chegar numa mesa grande | Missão | C1
+
+// MÓDULO: PONTOS TURÍSTICOS E TURISTAGEM (SIGHTSEEING)
+Tourist trap | Tú-rist trép | Armadilha de turista (Lugar caro e ruim) | Sightseeing | B2
+Must-see | Mâst sí | Imperdível (Tem que ver) | Sightseeing | B1
+Off the beaten path | Óf dâ bí-ten péf | Fora da rota comum (Lugar alternativo) | Sightseeing | C1
+Bucket list | Bâ-ket líst | Lista de sonhos (Lugares para ir antes de morrer) | Sightseeing | B2
+Hidden gem | Rí-den djem | Joia escondida (Lugar incrível que poucos conhecem) | Sightseeing | C1
+Rip-off | Ríp óf | Roubo / Assalto (Preço abusivo) | Sightseeing | B2
+Can you take our picture? | Kén iú têik áur píc-tchur | Pode tirar uma foto nossa? | Sightseeing | A2
+Photobomb | Fô-to-bôm | Papagaio de pirata (Aparecer de zueira na foto alheia) | Sightseeing | B1
+Selfie stick | Sél-fi stík | Pau de selfie (A arma do turista) | Sightseeing | A2
+Skip the line | Skíp dâ láin | Fura-fila (Ingresso prioritário) | Sightseeing | B1
+Overrated | Ô-ver-rêi-ted | Superestimado (Todo mundo fala, mas não é tudo isso) | Sightseeing | B2
+Underrated | ân-der-rêi-ted | Subestimado (É melhor do que dizem) | Sightseeing | B2
+Souvenir shop | Su-ve-nír shóp | Loja de lembrancinhas (Onde o dinheiro some) | Sightseeing | A2
+Guided tour | Gái-ded túr | Tour guiado (Seguindo a bandeirinha) | Sightseeing | A2
+People watching | Pí-pol uó-tching | Observar as pessoas (Passatempo em praças/cafés) | Sightseeing | B1
+Sold out | Sôld áut | Esgotado (Ingressos acabaram) | Sightseeing | A2
+Instagrammable | Íns-ta-gré-ma-bol | Instagramável (Bonito para foto) | Sightseeing | B2
+Get lost | Guét lóst | Se perder (Às vezes de propósito, às vezes não) | Sightseeing | A2
+Local vibe | Lô-cal váib | Vibe de local (Tentar não parecer turista) | Sightseeing | B1
+Do it for the gram | Dú ít fór dâ grém | Fazer pelo Instagram (Só pela foto) | Sightseeing | C1
+
+// MISSÕES: O TURISTA (THE TOURIST)
+The Photographer | Dâ fo-tó-gra-fer | Pedir a um estranho "Can you take our picture?" e sorrir agradecendo | Missão | A2
+The Explorer | Dâ eks-pló-rer | Encontrar um lugar que seja uma "Hidden gem" e fugir das multidões | Missão | C1
+The Critic | Dâ crí-tic | Identificar uma "Tourist trap" (restaurante ou loja pega-turista) e passar longe | Missão | B2
+
+// MÓDULO: TRÂNSITO E DIRIGINDO (TRAFFIC & DRIVING)
+Road rage | Rôud rêidj | Raiva no trânsito / Estresse ao volante | Driving | B2
+Bumper to bumper | Bâm-per tú bâm-per | Para-choque com para-choque (Trânsito parado) | Driving | B2
+Tailgating | Têil-guêi-ting | Colar na traseira (Dirigir muito perto do carro da frente) | Driving | C1
+Cut me off | Cât mí óf | Me fechou (Entrou na frente bruscamente) | Driving | B1
+Use your blinker | Iúz iór blín-ker | Usa a seta! (O grito clássico) | Driving | A2
+Fender bender | Fén-der bén-der | Batidinha leve (Amassou o para-choque) | Driving | C2
+Parallel parking | Pé-ra-lél pár-king | Baliza (O terror da autoescola) | Driving | B1
+Speed trap | Spíid trép | Radar de velocidade / Blitz escondida | Driving | B2
+Pothole | Pót-rôul | Buraco na rua (A cratera que quebra o carro) | Driving | B1
+Rubbernecking | Râ-ber-né-king | "Pescoçar" (Diminuir para ver acidente na outra pista) | Driving | C2
+Lead foot | Léd fút | Pé pesado (Motorista que corre muito) | Driving | C1
+Running on fumes | Râ-ning ón fiúms | Rodando no cheiro (Tanque na reserva) | Driving | B2
+Gridlock | Gríd-lóc | Trânsito travado (Ninguém se mexe, nó tático) | Driving | C2
+Speed bump | Spíid bâmp | Quebra-molas / Lombada | Driving | A2
+Pull over | Púl ô-ver | Encostar o carro (Parar no acostamento ou por ordem policial) | Driving | B1
+Blind spot | Bláind spót | Ponto cego (Onde a moto se esconde) | Driving | B1
+Gas guzzler | Gués gâz-ler | Beberrão (Carro que gasta muita gasolina) | Driving | C1
+Stay in your lane | Stêi ín iór lêin | Fica na tua faixa (Pode ser usado metaforicamente) | Driving | B2
+Traffic jam | Tré-fic djem | Engarrafamento | Driving | A1
+Sunday driver | Sân-dêi drái-ver | Motorista de domingo (Lerdo e inseguro) | Driving | B1
+
+// MISSÕES: O MOTORISTA (THE DRIVER)
+The Zen Master | Dâ zén més-ter | Não ter um ataque de "Road rage" quando alguém fizer uma barbeiragem | Missão | B2
+The Signal Hero | Dâ sig-nal rí-rou | Usar o "Blinker" (Seta) para sair de todas as rotatórias e curvas | Missão | A2
+The Parking Pro | Dâ pár-king prôu | Fazer uma "Parallel parking" (Baliza) de primeira sem suar frio | Missão | B1
+
+// MÓDULO: COMPRAS E SHOPPING (SHOPPING THERAPY)
+Just looking | Djust lú-king | Só estou dando uma olhadinha | Shopping | A1
+It costs an arm and a leg | Ít cósts en árm end a lég | Custa "os olhos da cara" (Muito caro) | Shopping | C1
+It is a steal | Ít íz a stíal | É uma pechincha (Está quase de graça/Roubado de tão barato) | Shopping | B2
+Rip-off | Ríp óf | Roubo / Assalto (Preço abusivo por algo ruim) | Shopping | B2
+Window shopping | Uín-dou shó-ping | Ver vitrine (Passear sem comprar nada) | Shopping | A2
+Shop till you drop | Shóp tíl iú dróp | Comprar até cair (Gastar muito) | Shopping | B1
+Retail therapy | Ri-têil fé-ra-pi | Terapia de compras (Comprar para melhorar o humor) | Shopping | C1
+Fitting room | Fí-ting rúm | Provador | Shopping | A1
+Out of stock | Áut óv stók | Esgotado / Sem estoque | Shopping | B1
+On sale | ón sêil | Em promoção / Em oferta | Shopping | A1
+Clearance | Clí-rans | Queima de estoque / Saldão | Shopping | B1
+Impulse buy | Ím-pâls bái | Compra por impulso | Shopping | B2
+Buyer's remorse | Bái-ers ri-mórs | Remorso de comprador (Arrependimento pós-compra) | Shopping | C1
+Price tag | Práis tég | Etiqueta de preço | Shopping | A1
+Receipt | Ri-síit | Recibo / Nota fiscal | Shopping | A2
+Bargain hunter | Bár-guen hân-ter | Caçador de pechinchas | Shopping | B2
+Splurge | Splârdj | Gastar muito / Esbanjar (Se dar um luxo) | Shopping | C1
+Pop some tags | Póp sâm tégs | Comprar roupas novas (Gíria de música) | Shopping | B1
+Must-have | Mâst-rév | Item obrigatório / Essencial da moda | Shopping | B1
+Treat yourself | Tríit iór-sélf | Mime-se / Se dê um presente | Shopping | A2
+
+// MISSÕES: O CONSUMISTA (THE SHOPAHOLIC)
+The Window Shopper | Dâ uín-dou shó-per | Entrar em uma loja cara, dizer "I'm just looking" e sair sem comprar nada | Missão | A1
+The Bargain Hunter | Dâ bár-guen hân-ter | Encontrar um produto "On sale" ou na "Clearance" e contar vantagem | Missão | B1
+The Big Spender | Dâ bíg spén-der | Decidir fazer um "Splurge" (gasto extra) e usar a frase "Treat yourself" | Missão | A2
+
+// MÓDULO: VIDA FITNESS E ACADEMIA (FITNESS & GYM)
+No pain no gain | Nôu pêin nôu guêin | Sem dor, sem ganho (O lema clássico) | Fitness | A1
+Hit the gym | Rít dâ djím | Ir para a academia (Com intenção de treinar) | Fitness | A2
+Gym rat | Djím rét | Rato de academia (Quem vive lá) | Fitness | B1
+Work out | Uôrk áut | Malhar / Treinar (Ato de fazer exercício) | Fitness | A1
+Six-pack abs | Síks péc ébs | Tanquinho (Abdômen definido) | Fitness | B1
+Spot me | Spót mí | Me dá uma ajuda? (Apoio no supino/peso) | Fitness | B2
+Ripped | Ríp-d | Trincado / Rasgado (Muito definido) | Fitness | B2
+Skip leg day | Skíp lég dêi | Pular o treino de perna (O erro do frango) | Fitness | B1
+Feel the burn | Fíil dâ bârn | Sentir queimar (Quando o músculo arde) | Fitness | B2
+Cheat day | Tchíit dêi | Dia do lixo (Dia livre da dieta) | Fitness | B1
+Warm up | Uórm âp | Aquecimento | Fitness | A2
+Cool down | Cúl dáun | Esfriar / Volta à calma (Pós-treino) | Fitness | A2
+Pump iron | Pâmp ái-ron | Puxar ferro (Treino pesado de musculação) | Fitness | C1
+Gains | Guêins | Ganhos (Massa muscular) | Fitness | B1
+Swole | Su-ôul | "Monstro" / Grandão (Ficar inchado de músculo) | Fitness | C2
+Bulking | Bâl-king | Fase de ganho de massa (Comer muito) | Fitness | C1
+Cutting | Câ-ting | Fase de definição (Secar a gordura) | Fitness | C1
+Beer belly | Bíar bé-li | Barriga de chopp | Fitness | A2
+Love handles | Lâv hén-dols | Pneuzinhos (Gordura na lateral da cintura) | Fitness | B2
+Personal trainer | Pâr-so-nal trêi-ner | Personal trainer | Fitness | A1
+
+// MISSÕES: O ATLETA (THE ATHLETE)
+The Support | Dâ su-pórt | Perguntar a um amigo "Can you spot me?" (Pode me ajudar?) antes de levantar algo pesado | Missão | B2
+The Discipline | Dâ dí-si-plin | Dizer "I never skip leg day" (Nunca pulo perna) mesmo que as pernas doam | Missão | B1
+The Invitation | Dâ in-vi-têi-shon | Convidar alguém dizendo "Let's hit the gym" (Bora pra academia) | Missão | A2
+
+// MÓDULO: VIDA FITNESS E ACADEMIA (FITNESS & GYM)
+No pain no gain | Nôu pêin nôu guêin | Sem dor, sem ganho (O lema clássico) | Fitness | A1
+Hit the gym | Rít dâ djím | Ir para a academia (Com intenção de treinar) | Fitness | A2
+Gym rat | Djím rét | Rato de academia (Quem vive lá) | Fitness | B1
+Work out | Uôrk áut | Malhar / Treinar (Ato de fazer exercício) | Fitness | A1
+Six-pack abs | Síks péc ébs | Tanquinho (Abdômen definido) | Fitness | B1
+Spot me | Spót mí | Me dá uma ajuda? (Apoio no supino/peso) | Fitness | B2
+Ripped | Ríp-d | Trincado / Rasgado (Muito definido) | Fitness | B2
+Skip leg day | Skíp lég dêi | Pular o treino de perna (O erro do frango) | Fitness | B1
+Feel the burn | Fíil dâ bârn | Sentir queimar (Quando o músculo arde) | Fitness | B2
+Cheat day | Tchíit dêi | Dia do lixo (Dia livre da dieta) | Fitness | B1
+Warm up | Uórm âp | Aquecimento | Fitness | A2
+Cool down | Cúl dáun | Esfriar / Volta à calma (Pós-treino) | Fitness | A2
+Pump iron | Pâmp ái-ron | Puxar ferro (Treino pesado de musculação) | Fitness | C1
+Gains | Guêins | Ganhos (Massa muscular) | Fitness | B1
+Swole | Su-ôul | "Monstro" / Grandão (Ficar inchado de músculo) | Fitness | C2
+Bulking | Bâl-king | Fase de ganho de massa (Comer muito) | Fitness | C1
+Cutting | Câ-ting | Fase de definição (Secar a gordura) | Fitness | C1
+Beer belly | Bíar bé-li | Barriga de chopp | Fitness | A2
+Love handles | Lâv hén-dols | Pneuzinhos (Gordura na lateral da cintura) | Fitness | B2
+Personal trainer | Pâr-so-nal trêi-ner | Personal trainer | Fitness | A1
+
+// MISSÕES: O ATLETA (THE ATHLETE)
+The Support | Dâ su-pórt | Perguntar a um amigo "Can you spot me?" (Pode me ajudar?) antes de levantar algo pesado | Missão | B2
+The Discipline | Dâ dí-si-plin | Dizer "I never skip leg day" (Nunca pulo perna) mesmo que as pernas doam | Missão | B1
+The Invitation | Dâ in-vi-têi-shon | Convidar alguém dizendo "Let's hit the gym" (Bora pra academia) | Missão | A2
