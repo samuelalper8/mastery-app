@@ -9177,3 +9177,327 @@ Hold my beer | Rôld mái bíar | Segura minha cerveja (Vou fazer algo estúpido
 The Obvious Spotter | Dâ ób-vi-âs spó-ter | Usar "You don't say" ou "Captain Obvious" quando alguém disser algo evidente | Missão | A2
 The Drama Avoider | Dâ drá-ma a-vói-der | Pensar ou dizer "Not my circus, not my monkeys" ao ver uma confusão alheia | Missão | C1
 The Fake Cheerleader | Dâ fêik tchír-lí-der | Dizer "Oh joy" ou "I am thrilled" quando tiver que fazer uma tarefa chata | Missão | B1
+
+// MÓDULO: HIPÉRBOLES E EXAGEROS (HYPERBOLES)
+I am starving to death | Ái ém stár-ving tú déf | Estou morrendo de fome | Hyperbole | A2
+I could eat a horse | Ái cúd íit a hórs | Eu comeria um cavalo (de tanta fome) | Hyperbole | B1
+This bag weighs a ton | Dís bég uêis a tân | Essa bolsa pesa uma tonelada | Hyperbole | A2
+I told you a thousand times | Ái tôld iú a fáu-zand táims | Eu te falei mil vezes | Hyperbole | A2
+I have a million things to do | Ái rév a mí-li-on fíngs tú dú | Tenho um milhão de coisas para fazer | Hyperbole | B1
+It takes forever | Ít têiks fo-ré-ver | Leva uma eternidade (Demora muito) | Hyperbole | A1
+I am dead on my feet | Ái ém déd ón mái fíit | Estou morto de cansaço (Morto em pé) | Hyperbole | B2
+It costs an arm and a leg | Ít cósts en árm end a lég | Custa um "rim" (um braço e uma perna) | Hyperbole | C1
+My feet are killing me | Mái fíit ár kí-ling mí | Meus pés estão me matando | Hyperbole | A2
+I died laughing | Ái dáid lé-fing | Eu morri de rir | Hyperbole | B1
+It is boiling in here | Ít íz bói-ling ín ríar | Está fervendo aqui dentro (Muito calor) | Hyperbole | B1
+It is freezing to death | Ít íz frí-zing tú déf | Está congelando (Muito frio) | Hyperbole | A2
+My brain is fried | Mái brêin íz fráid | Meu cérebro fritou (Exausto mentalmente) | Hyperbole | B2
+I nearly had a heart attack | Ái nír-li réd a hárt a-ték | Quase tive um ataque do coração (Susto) | Hyperbole | B1
+Cry me a river | Crái mí a rí-ver | Chore um rio (Chora mais que tá pouco) | Hyperbole | C1
+Older than dirt | Ôl-der dén dârt | Mais velho que a terra (Muito idoso) | Hyperbole | C1
+The whole world knows | Dâ rôul uôrld nôus | O mundo inteiro sabe | Hyperbole | A2
+I slept like a rock | Ái slépt láik a róc | Dormi como uma pedra | Hyperbole | A2
+Never in a million years | Né-ver ín a mí-li-on íars | Nunca em um milhão de anos | Hyperbole | B1
+My blood is boiling | Mái blâd íz bói-ling | Meu sangue está fervendo (Muita raiva) | Hyperbole | B2
+
+// MISSÕES: O DRAMÁTICO (THE DRAMA KING)
+The Hungry Giant | Dâ hân-gri djái-ant | Dizer "I could eat a horse" antes de uma refeição grande | Missão | B1
+The Busy Bee | Dâ bí-zi bí | Usar "I have a million things to do" quando estiver sobrecarregado | Missão | B1
+The Survivor | Dâ sâr-vái-vor | Dizer "It takes forever" quando esperar mais de 5 minutos numa fila | Missão | A1
+
+// MÓDULO: METÁFORAS DA VIDA (LIFE METAPHORS)
+Time is money | Táim íz mâ-ni | Tempo é dinheiro (O tempo é valioso) | Metaphor | A1
+Heart of gold | Hárt óv gôuld | Coração de ouro (Pessoa muito bondosa) | Metaphor | B1
+Night owl | Náit ául | Coruja da noite (Pessoa que gosta da madrugada) | Metaphor | B1
+Early bird | Âr-li bârd | Pássaro madrugador (Pessoa que acorda cedo) | Metaphor | B1
+Roller coaster | Rôu-ler côus-ter | Montanha-russa (Vida cheia de altos e baixos) | Metaphor | B2
+Walking encyclopedia | Uó-king en-sai-clo-pí-dia | Enciclopédia ambulante (Pessoa muito inteligente) | Metaphor | C1
+Couch potato | Káutch po-têi-tou | Batata de sofá (Pessoa sedentária/preguiçosa) | Metaphor | B1
+Black sheep | Blék shíip | Ovelha negra (O diferente da família/grupo) | Metaphor | A2
+Slippery slope | Slí-pe-ri slôup | Ladeira escorregadia (Caminho perigoso/sem volta) | Metaphor | C1
+Late bloomer | Lêit blú-mer | Flor que desabrocha tarde (Alguém que tem sucesso mais velho) | Metaphor | C1
+Food for thought | Fúud fór fót | Comida para o pensamento (Algo para refletir) | Metaphor | C1
+Light at the end of the tunnel | Láit ét dí énd óv dâ tâ-nel | Luz no fim do túnel (Esperança) | Metaphor | B1
+Melting pot | Mél-ting pót | Caldeirão (Mistura de culturas/raças) | Metaphor | C1
+Glass ceiling | Glés sí-ling | Teto de vidro (Barreira invisível de crescimento profissional) | Metaphor | C2
+Blank slate | Blênk slêit | Lousa em branco (Começar do zero/Nova chance) | Metaphor | B2
+Apple of my eye | É-pol óv mái ái | Maçã do meu olho (A menina dos meus olhos/Favorito) | Metaphor | B2
+Love is a battlefield | Lâv íz a bé-tol-fíld | O amor é um campo de batalha | Metaphor | B1
+Heart of stone | Hárt óv stôn | Coração de pedra (Insensível) | Metaphor | A2
+Time flies | Táim fláis | O tempo voa (Passa rápido) | Metaphor | A1
+Life is a journey | Láif íz a djâr-ni | A vida é uma jornada | Metaphor | A1
+
+// MISSÕES: O POETA (THE POET)
+The Bird Identity | Dâ bârd ai-dén-ti-ti | Definir se você é um "Night Owl" ou "Early Bird" e contar a alguém | Missão | A2
+The Couch Detective | Dâ káutch di-téc-tiv | Identificar um momento "Couch Potato" no seu fim de semana | Missão | B1
+The Deep Thinker | Dâ díip fín-ker | Ler algo interessante e dizer "That is food for thought" | Missão | C1
+
+// MÓDULO: SENTIDO FIGURADO (FIGURATIVE & IDIOMS)
+Break a leg | Brêik a lég | Boa sorte (usado antes de apresentações) | Figurative | B1
+Piece of cake | Píis óv kêik | Moleza / Muito fácil | Figurative | A2
+Under the weather | Ân-der dâ ué-der | Meio doente / Indisposto | Figurative | B2
+Spill the beans | Spíl dâ bíins | Desembuchar / Contar o segredo | Figurative | C1
+Bite the bullet | Báit dâ bú-let | Aguentar firme / Encarar o problema difícil | Figurative | C2
+Break the ice | Brêik dí áis | Quebrar o gelo (iniciar conversa) | Figurative | B1
+Hit the sack | Rít dâ sék | Ir para a cama / Ir dormir | Figurative | B2
+Cut corners | Cât cór-ners | Fazer "nas coxas" (atalhar para economizar) | Figurative | B2
+Cold shoulder | Côld shôl-der | Dar um gelo / Ignorar alguém | Figurative | C1
+Hang in there | Réng ín dér | Aguenta firme / Não desista | Figurative | B1
+So far so good | Sô fár sô gúd | Até aqui tudo bem | Figurative | A2
+Miss the boat | Mís dâ bôt | Perder o bonde / Perder a oportunidade | Figurative | B2
+On the ball | ón dâ ból | Ficar esperto / Estar atento e eficiente | Figurative | C1
+Pull yourself together | Púl iór-sélf tu-gué-der | Se recomponha / Controle-se | Figurative | B2
+Through thick and thin | Frú fík end fín | Na alegria e na tristeza / Em todos os momentos | Figurative | C2
+Go with the flow | Gôu uíf dâ flôu | Deixa rolar / Seguir o fluxo | Figurative | B1
+Hit the road | Rít dâ rôud | Cair na estrada / Ir embora | Figurative | A2
+Face the music | Fêis dâ miú-zic | Encarar as consequências | Figurative | C1
+Ring a bell | Ríng a bél | Me soa familiar / Lembro vagamente | Figurative | B2
+Play it by ear | Plêi ít bái íar | Improvisar / Decidir na hora (sem planejar) | Figurative | C2
+
+// MISSÕES: O NATIVO (THE NATIVE SPEAKER)
+The Ice Breaker | Dâ áis brêi-ker | Usar "Break the ice" ou puxar assunto com um estranho/colega novo | Missão | B1
+The Easy Rider | Dâ í-zi rái-der | Dizer "Piece of cake" após terminar uma tarefa simples | Missão | A2
+The Improviser | Dâ im-pro-vái-zer | Dizer "Let's play it by ear" quando alguém pedir um plano detalhado que você não tem | Missão | C2
+
+// MÓDULO: ZUEIRA E GÍRIAS (SLANG & BANTER)
+Stop the cap | Stóp dâ kép | Para de mentir / Sem caô | Slang | B1
+No cap | Nôu kép | Sem mentira / Papo reto | Slang | B1
+You are tripping | Iú ár trí-ping | Você tá viajando / Tá doido | Slang | B2
+Cringe | Crín-dj | Vergonha alheia / Paia | Slang | A2
+Emotional damage | E-mô-sho-nal dé-ma-dj | Dano emocional (Quando alguém leva um fora) | Slang | B1
+Left on read | Léft ón réd | Visualizou e não respondeu (Deixou no vácuo) | Slang | B2
+Acting sus | Éc-ting sâs | Agindo de forma suspeita (Suspeito) | Slang | A2
+Main character energy | Mêin ké-rac-ter é-ner-dji | Vibe de protagonista (Se achando) | Slang | B2
+Rent free in my head | Rént frí ín mái réd | Alugou um triplex na minha cabeça (Não paro de pensar nisso) | Slang | C1
+Let him cook | Lét rím cúk | Deixa o homem trabalhar/falar (Meme) | Slang | B2
+Skill issue | Skíl í-shiu | Falta de habilidade (Quando alguém perde no jogo e reclama) | Slang | B1
+Touch grass | Tâtch grés | Vai tocar na grama (Sai da internet/Vai viver) | Slang | C1
+Slay | Slêi | Arrasou / Matou a pau | Slang | B1
+Flexing | Flék-sing | Ostentando / Se exibindo | Slang | B2
+Spill the tea | Spíl dâ tí | Conta a fofoca / Solta o verbo | Slang | B2
+Ghosting | Gôus-ting | Sumir sem dar satisfação (No relacionamento) | Slang | B1
+Salty | Sól-ti | Revoltado / Amargo (Pessoa brava por perder) | Slang | B1
+Bet | Bét | Pode pá / Combinado (Afirmação) | Slang | A1
+Weird flex but ok | Uírd fléks bât ô-kêi | Exibição estranha, mas beleza | Slang | B2
+Side eye | Sáid ái | Olhar de julgamento (de lado) | Slang | A2
+
+// MISSÕES: O MEMEIRO (THE TROLLER)
+The Detective | Dâ di-téc-tiv | Dizer "Stop the cap" quando alguém contar uma história exagerada | Missão | B1
+The Gamer | Dâ guêi-mer | Dizer "Skill issue" quando um amigo reclamar que o jogo é difícil ou roubado | Missão | B1
+The Gossip | Dâ gó-sip | Pedir "Spill the tea" quando alguém disser que tem uma novidade | Missão | B2
+
+// MÓDULO: APELIDOS E TRATAMENTOS (NICKNAMES)
+Babe | Bêib | Amor / Bebê (O mais comum para casais) | Nickname | A1
+Honey | Hâ-ni | Mel / Querido(a) | Nickname | A1
+Sweetheart | Su-íit-hárt | Coração doce / Amorzinho | Nickname | B1
+Darling | Dár-ling | Querido(a) (Um pouco mais clássico) | Nickname | B1
+Bro | Brôu | Irmão / Mano (Para amigos) | Nickname | A1
+Dude | Dúud | Cara (Universal para homens) | Nickname | A1
+Buddy | Bâ-di | Amigão / Companheiro | Nickname | A2
+Mate | Mêit | Parceiro / Colega (Muito comum na Inglaterra/Austrália) | Nickname | B1
+Bestie | Bés-ti | Melhor amigo(a) (BFF) | Nickname | A2
+Hubby | Hâ-bi | Maridinho (Para o marido) | Nickname | B2
+Wifey | Uái-fi | Esposinha (Para a esposa) | Nickname | B2
+Cutie | Kiú-ti | Fofinho(a) | Nickname | A1
+Sunshine | Sân-sháin | Raio de Sol (Para alguém alegre) | Nickname | B1
+Champ | Tchémp | Campeão (Para encorajar ou falar com crianças) | Nickname | A2
+Boss | Bós | Chefe / Patrão (Sinal de respeito informal na rua) | Nickname | A2
+Big guy | Bíg gái | Grandão (Para homens altos ou amigos próximos) | Nickname | A2
+Shorty | Shór-ti | Baixinha (Ou gíria carinhosa para namorada) | Nickname | B1
+Pumpkin | Pâmp-kin | Abóbora (Apelido fofo muito comum nos EUA) | Nickname | B2
+Partner in crime | Párt-ner ín cráim | Parceiro no crime (Cúmplice / Melhores amigos) | Nickname | C1
+Gorgeous | Gór-djâs | Lindo(a) / Deslumbrante | Nickname | B1
+
+// MISSÕES: O CARINHOSO (THE AFFECTIONATE)
+The Smooth Talker | Dâ smúuf tó-ker | Chamar o parceiro(a) ou interesse romântico de "Gorgeous" ou "Babe" | Missão | B1
+The Bromance | Dâ brôu-méns | Cumprimentar um amigo próximo com "What's up, Bro?" ou "Hey Dude" | Missão | A1
+The Respectful | Dâ ris-péct-ful | Chamar alguém que prestou um serviço (garçom, motorista) de "Boss" ou "Chief" | Missão | A2
+
+// MÓDULO: VIDA ESCOLAR E APELIDOS (SCHOOL LIFE)
+Class clown | Klés cláun | O palhaço da turma | School Life | A2
+Teacher's pet | Tí-tchers pét | Queridinho do professor | School Life | B1
+Nerd | Nârd | Nerd / CDF (Estudioso) | School Life | A1
+Jock | Djók | O atleta / Popular dos esportes | School Life | B1
+Bully | Bú-li | O valentão | School Life | A1
+Bookworm | Búk-uôrm | Traça de livros (Quem lê muito) | School Life | B1
+Slacker | Slé-ker | O preguiçoso / Que empurra com a barriga | School Life | B2
+Snitch | Sník-tch | Dedo-duro / X9 | School Life | B1
+Try-hard | Trái-hárd | O forçado (Tenta ser legal/bom demais) | School Life | B2
+Popular kid | Pó-piu-lar kíd | O popularzinho | School Life | A1
+Loner | Lôu-ner | O solitário (Que fica na dele) | School Life | B1
+Brainiac | Brêi-ni-ék | Crânio / Gênio | School Life | B2
+Chatterbox | Tché-ter-bóks | Tagarela (Fala pelos cotovelos) | School Life | B2
+Copycat | Có-pi-két | Copião / Imitão | School Life | A2
+Drama queen | Drá-ma ku-íin | Rainha do drama (Exagerado) | School Life | B1
+Know-it-all | Nôu-it-ól | Sabichão / Dono da verdade (Arrogante) | School Life | B2
+Newbie | Niú-bi | Novato / Calouro | School Life | A2
+Troublemaker | Trâ-bol-mêi-ker | Encrenqueiro | School Life | B1
+Goody two-shoes | Gú-di tú-shús | Santinho / Certinho demais (Pejorativo) | School Life | C2
+Backstabber | Bék-sté-ber | Traíra (Fura-olho) | School Life | C1
+
+// MISSÕES: O ESTUDANTE (THE STUDENT)
+The Observer | Dâ ob-zâr-ver | Identificar quem é o "Class Clown" (Palhaço) no seu grupo de amigos ou trabalho | Missão | A2
+The Honest Confession | Dâ ó-nest con-fé-shon | Admitir se você já foi um "Teacher's Pet" (Queridinho) ou "Slacker" (Preguiçoso) na escola | Missão | B1
+The Gossip Blocker | Dâ gó-sip bló-ker | Dizer "I am not a snitch" (Não sou X9) quando alguém pedir para você dedurar outro | Missão | B1
+
+// MÓDULO: VIDA NO ESCRITÓRIO (OFFICE LIFE)
+Workaholic | Uôr-ka-hó-lic | Viciado em trabalho | Office Life | A2
+Brown-noser | Bráun-nôu-zer | Puxa-saco (Literal: nariz marrom) | Office Life | C1
+The Big Cheese | Dâ bíg tchíiz | O chefão / O manda-chuva | Office Life | B2
+Yes-man | Iés-mén | O "Sim senhor" (Concorda com tudo o que o chefe diz) | Office Life | B1
+Clock-watcher | Clók-uó-tcher | O que vive olhando o relógio (doido para ir embora) | Office Life | B2
+Go-getter | Gôu-gué-ter | O proativo / Ambicioso (Faz acontecer) | Office Life | B2
+Micromanager | Mái-cro-mé-na-djer | O chefe controlador (Fiscaliza cada detalhe) | Office Life | B2
+Pencil pusher | Pén-sil pú-sher | Burocrata (Só mexe com papelada monótona) | Office Life | C1
+Office gossip | Ó-fís gó-sip | A rádio peão / O fofoqueiro | Office Life | A2
+Team player | Tíim plêi-er | O que joga junto / Colaborativo | Office Life | A1
+Eager beaver | Í-guer bí-ver | O empolgado / Ansioso para mostrar serviço | Office Life | C1
+Slacker | Slé-ker | O encostado / Preguiçoso (Faz corpo mole) | Office Life | B2
+Tech whiz | Téc uíz | O gênio da TI / O cara do computador | Office Life | B1
+The Rookie | Dâ rú-ki | O novato / Estagiário | Office Life | A2
+Old timer | Ôld tái-mer | O veterano (Está na empresa há séculos) | Office Life | B1
+Number cruncher | Nâm-ber crân-tcher | O cara dos números (Financeiro/Contabilidade) | Office Life | C1
+Corporate slave | Cór-po-rêit slêiv | Escravo corporativo (Trabalha muito, ganha pouco) | Office Life | B2
+Backseat driver | Bék-síit drái-ver | O palpiteiro (Não faz, mas quer ensinar como faz) | Office Life | C1
+Rainmaker | Rêin-mêi-ker | Quem traz o dinheiro/grandes clientes para a empresa | Office Life | C2
+Gatekeeper | Guêit-kí-per | O porteiro (Secretária/Assistente que filtra o acesso ao chefe) | Office Life | B2
+
+// MISSÕES: O PROFISSIONAL (THE PROFESSIONAL)
+The Observer | Dâ ob-zâr-ver | Identificar discretamente quem é o "Brown-noser" (Puxa-saco) na próxima reunião | Missão | C1
+The Self-Check | Dâ sélf tchék | Garantir que você não seja um "Clock-watcher" (Olhando o relógio) hoje à tarde | Missão | B1
+The Compliment | Dâ cóm-pli-ment | Elogiar um colega dizendo que ele é um "Team player" (Colaborativo) | Missão | A2
+
+// MÓDULO: ZUEIRA ENTRE AMIGOS (FRIEND BANTER)
+Cheapskate | Tchíip-skêit | Mão de vaca / Pão duro | Friend Banter | B2
+Simp | Símp | Gado (Faz tudo pela pessoa que gosta) | Friend Banter | B1
+The Flake | Dâ flêik | O que fura o rolê (Desmarca em cima da hora) | Friend Banter | C1
+Third wheel | Fârd uíil | Segura vela (O que sobra no casal) | Friend Banter | B1
+Buzzkill | Bâz-kíl | Estraga-prazeres (Corta a vibe) | Friend Banter | B2
+Party animal | Pár-ti é-ni-mal | O inimigo do fim (Festeiro louco) | Friend Banter | A2
+Chicken | Tchí-ken | Medroso / Frangote | Friend Banter | A1
+Noob | Núub | Novato / Ruim de jogo (Perna de pau nos games) | Friend Banter | A1
+Boomer | Bú-mer | Tiozão (Mentalidade velha, mesmo se for jovem) | Friend Banter | B1
+Karen | Ké-ren | A reclamona (Pede pra falar com o gerente) | Friend Banter | B1
+Airhead | Ér-réd | Cabeça de vento / Lerdão | Friend Banter | B2
+Moocher | Mú-tcher | O "filão" / Pidão (Come e bebe de graça) | Friend Banter | C1
+Big mouth | Bíg máuf | Boca aberta / Fofoqueiro (Não guarda segredo) | Friend Banter | A2
+Smarty-pants | Smár-ti pénts | Sabichão (Irônico) | Friend Banter | B1
+Doormat | Dór-mét | Capacho (Deixa todos pisarem nele) | Friend Banter | B2
+Debbie Downer | Dé-bi Dáu-ner | A pessimista (Só vê o lado ruim) | Friend Banter | C1
+Clout chaser | Cláut tchêi-ser | O que quer fama / Biscoiteiro | Friend Banter | C1
+Control freak | Con-trôl fríik | Controlador / Maníaco por controle | Friend Banter | B2
+Lightweight | Láit-uêit | Fraco pra bebida (Bebe um copo e cai) | Friend Banter | B2
+Chad | Tchéd | O "Brabo" / Alpha (Geralmente usado de forma irônica) | Friend Banter | B1
+
+// MISSÕES: O ZUERY (THE BANTER KING)
+The Bill Watcher | Dâ bíl uó-tcher | Identificar quem é o "Cheapskate" (Mão de vaca) na hora de dividir a conta da pizza | Missão | B2
+The Courage Test | Dâ câ-redj tést | Chamar um amigo de "Chicken" (Medroso) se ele recusar um desafio bobo | Missão | A1
+The Vibe Check | Dâ váib tchék | Não ser o "Buzzkill" (Estraga-prazeres) quando a música mudar na festa | Missão | B2
+
+// MÓDULO: AEROPORTO E AVIÃO (TRAVEL BANTER)
+Gate lice | Guêit láis | "Piolhos de portão" (Pessoas que aglomeram na fila antes da hora) | Travel Banter | C1
+The clapper | Dâ clé-per | O batedor de palmas (Aplaude quando o avião pousa - Cringe) | Travel Banter | B1
+Middle seat lottery | Mí-dol síit ló-te-ri | Loteria do meio (O azar de pegar o assento do meio) | Travel Banter | B1
+Armrest war | Árm-rést uór | Guerra do apoio de braço (Disputa silenciosa com o vizinho) | Travel Banter | B2
+Knee crusher | Ní crâ-sher | Esmagador de joelhos (Quem reclina a poltrona com tudo) | Travel Banter | B2
+Sardine class | Sar-dín klés | Classe sardinha (Classe econômica apertada) | Travel Banter | A2
+Walk of shame | Uók óv shêim | Caminhada da vergonha (Voltar do corredor porque a mala não cabe) | Travel Banter | C1
+Mystery meat | Mís-te-ri míit | Carne misteriosa (A comida duvidosa do avião) | Travel Banter | A2
+Premature stander | Pri-ma-tiúr stén-der | O "Levantadinho" (Fica em pé assim que o avião toca o chão) | Travel Banter | B2
+Mile high prices | Máil hái prái-ces | Preços nas alturas (Tudo caro no aeroporto) | Travel Banter | B1
+TSA strip tease | Tí-és-êi stríp tíiz | Strip-tease da segurança (Tirar cinto, sapato, casaco no raio-x) | Travel Banter | C1
+Baggage claim anxiety | Bé-guedj clêim ang-zái-e-ti | Ansiedade da esteira (Medo da mala ter sumido) | Travel Banter | B2
+Jet lag zombie | Djét lég zôm-bi | Zumbi do fuso horário (Cara de acabado pós-voo) | Travel Banter | A2
+Crying baby alarm | Crái-ing bêi-bi a-lárm | Alarme de bebê chorando (O terror do voo longo) | Travel Banter | A1
+Window seat bladder | Uín-dou síit blé-der | Bexiga de janela (Vontade de ir ao banheiro estando na janela) | Travel Banter | C1
+Duty free wanderer | Dú-ti frí uán-de-rer | O "passeador" do Duty Free (Só olha e espirra perfume) | Travel Banter | B1
+Running for my life | Râ-ning fór mái láif | Correndo pela vida (Conexão curta) | Travel Banter | A2
+Overpacker | Ô-ver-pé-ker | O exagerado (Leva a casa inteira na mala) | Travel Banter | B1
+Legroom dream | Lég-rúm dríim | Sonho de espaço para as pernas (Saída de emergência) | Travel Banter | B1
+Priority boarding flex | Prái-ó-ri-ti bór-ding fléks | O "metido" do embarque prioritário | Travel Banter | C1
+
+// MISSÕES: O VIAJANTE (THE TRAVELER)
+The Armrest Champion | Dâ árm-rést tchém-pion | Tentar ganhar a "Armrest war" (Guerra do braço) sem olhar para o vizinho | Missão | B2
+The Observer | Dâ ob-zâr-ver | Contar quantos "Gate lice" (Pessoas aglomeradas) estão no portão antes da chamada | Missão | C1
+The Silent Judger | Dâ sái-lent djâ-djer | Não ser o "The Clapper" (Quem bate palma) quando o avião pousar | Missão | B1
+
+// MÓDULO: UBER, TÁXI E CARONAS (RIDESHARE BANTER)
+Five stars for silence | Fáiv stárs fór sái-lens | 5 estrelas pelo silêncio (O melhor tipo de viagem) | Rideshare | A2
+Backseat driver | Bék-síit drái-ver | Passageiro palpiteiro (Quer ensinar o caminho pro Waze) | Rideshare | B2
+Don't slam the door | Dônt slém dâ dór | Não bate a porta! (O pesadelo do motorista) | Rideshare | A2
+Surge pricing | Sârdj prái-sing | Preço dinâmico (A facada quando chove) | Rideshare | B1
+The cancel chicken | Dâ kén-sel tchí-ken | Jogo do cancelamento (Esperar o motorista cancelar pra não pagar taxa) | Rideshare | C1
+Aux cord DJ | Óks córd dí-djev | O DJ do carro (Quer controlar o som do motorista) | Rideshare | B1
+Speed racer | Spíid rêi-ser | O piloto de fuga (Corre como se não houvesse amanhã) | Rideshare | A2
+Sunday driver | Sân-dêi drái-ver | Motorista de domingo (Lento demais / Vovô no volante) | Rideshare | B1
+Awkward silence | ó-ku-ard sái-lens | Silêncio constrangedor (Ninguém sabe se fala ou não) | Rideshare | B2
+Small talk nightmare | Smól tók náit-mér | Pesadelo da conversa fiada (Quando você só quer dormir) | Rideshare | B2
+The GPS is drunk | Dâ Djí-pi-és íz drânk | O GPS tá bêbado (Mandando entrar na contramão) | Rideshare | A2
+I am outside | Ái ém áut-sáid | "Tô aqui fora" (Mentira, ainda está descendo o elevador) | Rideshare | A1
+Ghost car | Gôust cár | Carro fantasma (No app diz que chegou, mas a rua está vazia) | Rideshare | B1
+Rating anxiety | Rêi-ting ang-zái-e-ti | Medo da nota (Conferir se caiu de 5.0 para 4.9) | Rideshare | B2
+Shotgun | Shót-gân | Ir no banco da frente (O lugar do copiloto) | Rideshare | B1
+Can we stop at Mcdonalds? | Kén uí stóp ét... | Podemos parar no Mcdonalds? (O pedido ousado na volta da balada) | Rideshare | B1
+Tip baiting | Típ bêi-ting | Prometer gorjeta alta só pro cara vir rápido (Golpe) | Rideshare | C1
+A/C blasting | Êi-sí blés-ting | Ar condicionado no máximo (Pólo Norte) | Rideshare | B1
+Windows down | Uín-dous dáun | Janelas abertas (Economia de gasolina / Calor infernal) | Rideshare | A2
+Forgot my phone | Fór-gót mái fôn | Esqueci meu celular (O pânico pós-corrida) | Rideshare | A1
+
+// MISSÕES: O PASSAGEIRO (THE RIDER)
+The Gentle Closer | Dâ djên-tol clôu-zer | Fechar a porta com delicadeza cirúrgica para ganhar 5 estrelas | Missão | A2
+The Ninja | Dâ nín-dja | Estar na calçada EXATAMENTE quando o carro encostar (Sem fazer o motorista esperar) | Missão | B1
+The Silent Agree | Dâ sái-lent a-grí | Apenas sorrir e concordar quando o motorista começar a reclamar do trânsito ou política | Missão | B2
+
+// MÓDULO: VIDA DE HOTEL E POUSADA (HOTEL LIFE)
+Room with a view | Rúm uíf a viú | Quarto com vista (Geralmente para um muro de tijolos) | Hotel Life | B1
+Minibar robbery | Mí-ni-bar ró-be-ri | Assalto do frigobar (Uma água custa 20 reais) | Hotel Life | B1
+Paper thin walls | Pêi-per fín uóls | Paredes de papel (Dá para ouvir o vizinho espirrar) | Hotel Life | B2
+Do not disturb | Dú nót dis-târb | Não perturbe (O sinal sagrado para dormir até tarde) | Hotel Life | A2
+Late check-out | Lêit tchék-áut | Check-out tardio (Implorar para sair às 14h) | Hotel Life | B1
+Continental breakfast | Con-ti-nén-tal brék-fest | Café da manhã "continental" (Só pão seco e suco ralo) | Hotel Life | B2
+Key card struggle | Kí cárd strâ-gol | Luta com o cartão (A luz vermelha nunca fica verde) | Hotel Life | A2
+Tiny shampoos | Tái-ni shêm-púus | Shampoos minúsculos (Que vão direto para a sua mala) | Hotel Life | A2
+Housekeeping wake up | Ráus-kí-ping uêik âp | Despertador da camareira (Batendo na porta às 8 da manhã) | Hotel Life | B1
+Elevator silence | É-le-vêi-tor sái-lens | Silêncio do elevador (Constrangedor, olhando pro chão) | Hotel Life | B1
+Hidden fees | Rí-den fíis | Taxas escondidas (Surpresa ruim na hora de pagar) | Hotel Life | B2
+Towel origami | Táu-el o-ri-gá-mi | Origami de toalha (Cisnes em cima da cama) | Hotel Life | B1
+Mystery stain | Mís-te-ri stêin | Mancha misteriosa (Melhor não perguntar o que é aquilo no carpete) | Hotel Life | A2
+Ice machine hunt | Áis ma-shín hânt | Caça à máquina de gelo (Sempre fica no outro andar) | Hotel Life | B1
+Room service splurge | Rúm sâr-vis splârdj | Extravagância do serviço de quarto (Pedir hambúrguer na madrugada) | Hotel Life | C1
+Wake-up call | Uêik-âp cól | Chamada de despertar (Que você pediu e se arrependeu) | Hotel Life | A2
+Lumpy mattress | Lâm-pi mé-três | Colchão irregular (Cheio de caroços/buracos) | Hotel Life | B2
+Free upgrade | Frí âp-grêid | Upgrade grátis (O sonho de todo viajante) | Hotel Life | B1
+Lobby smell | Ló-bi smél | Cheiro do lobby (Aquele perfume forte de hotel chique) | Hotel Life | A2
+Fully booked | Fú-li bú-kd | Lotado / Sem vagas (O pesadelo de quem não reservou) | Hotel Life | B1
+
+// MISSÕES: O HÓSPEDE (THE GUEST)
+The Collector | Dâ co-léc-tor | Levar embora os "Tiny shampoos" e sabonetes (sem sentir culpa) | Missão | A2
+The Buffet Warrior | Dâ bu-fêi uó-ri-or | Comer no café da manhã o suficiente para não precisar almoçar | Missão | B1
+The Hermit | Dâ hâr-mit | Colocar o aviso "Do not disturb" e hibernar até o meio-dia | Missão | A2
+
+// MÓDULO: RESTAURANTE E COMER FORA (EATING OUT)
+Food coma | Fúud côu-ma | Coma alimentar (Aquele sono pesado pós-almoço) | Eating Out | B1
+Hangry | Hêng-gri | Faminto e bravo (Hungry + Angry) | Eating Out | B2
+Eyes bigger than your stomach | Áis bí-guer dén iór stâ-mak | Olho maior que a barriga | Eating Out | B2
+Doggy bag | Dó-gui bég | A "quentinha" para levar (Sobras) | Eating Out | B1
+All you can eat | Ól iú kén íit | Rodízio / Buffet livre (Comer à vontade) | Eating Out | A2
+Let's go dutch | Léts gôu dâtch | Vamos dividir a conta (Cada um paga o seu) | Eating Out | C1
+It is on me | Ít íz ón mí | É por minha conta (Eu pago) | Eating Out | A2
+Bottomless refill | Bó-tom-les ri-fíl | Refil infinito (Bebida liberada) | Eating Out | B2
+Food envy | Fúud én-vi | Inveja da comida (O prato do vizinho parece melhor) | Eating Out | B2
+I am stuffed | Ái ém stâfd | Estou estufado / Cheio demais | Eating Out | A2
+Chef's kiss | Shéfs kís | "Um primor" (Gesto de beijar os dedos, perfeito) | Eating Out | B1
+Keep the change | Kíip dâ tchêin-dj | Fique com o troco | Eating Out | A2
+On the house | ón dâ háus | Por conta da casa (Grátis) | Eating Out | B1
+Cheat meal | Tchíit míl | Refeição do lixo (Dia de furar a dieta) | Eating Out | B1
+Table for two | Têi-bol fór tú | Mesa para dois | Eating Out | A1
+Service charge | Sâr-vis tchárdj | Taxa de serviço (Os 10%) | Eating Out | B1
+Comfort food | Côm-fort fúud | Comida afetiva (Que dá um "abraço") | Eating Out | B1
+Dine and dash | Dáin end désh | Comer e sair correndo (Calote) | Eating Out | C2
+Same again please | Sêm a-guên plíiz | O mesmo de novo (Mais uma rodada) | Eating Out | A2
+Mouth-watering | Máuf uó-te-ring | De dar água na boca | Eating Out | B1
+
+// MISSÕES: O GOURMET (THE FOODIE)
+The Big Spender | Dâ bíg spén-der | Dizer "It is on me" para pagar um café ou lanche para um amigo | Missão | A2
+The Scavenger | Dâ ské-ven-djer | Pedir uma "Doggy bag" sem vergonha nenhuma no final do jantar | Missão | B1
+The Dutch Master | Dâ dâtch més-ter | Sugerir "Let's go dutch" quando a conta chegar numa mesa grande | Missão | C1
