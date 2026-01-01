@@ -8664,3 +8664,138 @@ Is there a bathroom break? | Íz dér a béf-rum brêik? | Tem uma pausa para o 
 The Photographer | Dâ fo-tó-gra-fer | Tirar uma foto de algo interessante e descrever em inglês | Missão | A1
 The Souvenir | Dâ su-ve-nír | Escolher uma "lembrancinha" em casa e dizer quanto custaria em dólares | Missão | A2
 The Buddy System | Dâ bâ-di sís-tem | Ensinar uma frase desse módulo para um amigo ou parente | Missão | B1
+
+// MÓDULO: RESOLVENDO EXERCÍCIOS (DOING EXERCISES)
+What page is it? | Uót pêidj íz ít? | Que página é? | Exercises | A1
+I don't understand question five | Ái dôunt ân-der-sténd qués-tchan fáiv | Eu não entendo a questão cinco | Exercises | A2
+Can you help me, please? | Kén iú rélp mí, plís? | Você pode me ajudar, por favor? | Exercises | A1
+Is this correct? | Íz dís co-réct? | Isso está correto? | Exercises | A1
+I think the answer is B | Ái tínk di én-ser íz Bí | Eu acho que a resposta é B | Exercises | A2
+Can I borrow your eraser? | Kén ái bó-rou iór i-rêi-zer? | Posso pegar sua borracha emprestada? | Exercises | B1
+Did you finish the exercise? | Díd iú fí-nish di éks-er-sáiz? | Você terminou o exercício? | Exercises | A2
+I need more time | Ái níd mór táim | Eu preciso de mais tempo | Exercises | A1
+How do you spell that? | Ráu dú iú spél dét? | Como se soletra isso? | Exercises | A2
+Fill in the blanks | Fíl ín dâ blénks | Preencha as lacunas (espaços em branco) | Exercises | B1
+Circle the correct option | Câr-col dâ co-réct óp-shân | Circule a opção correta | Exercises | B1
+Cross out the wrong word | Crós áut dâ róng uôrd | Risque a palavra errada | Exercises | B2
+Let's compare our answers | Léts com-pér áu-ar én-sers | Vamos comparar nossas respostas | Exercises | B1
+It's on the board | Íts ón dâ bórd | Está no quadro/lousa | Exercises | A1
+I made a mistake | Ái mêid a mis-têik | Eu cometi um erro | Exercises | A2
+What is the homework? | Uóts íz dâ rôm-uôrk? | Qual é a tarefa de casa? | Exercises | A1
+Raise your hand | Rêiz iór rénd | Levante sua mão | Exercises | A1
+Turn to page ten | Târn tú pêidj tén | Vira para a página dez | Exercises | A2
+Match the columns | Métch dâ có-lâm-ns | Relacione as colunas | Exercises | B1
+Read out loud | Ríd áut láud | Leia em voz alta | Exercises | B2
+
+// MISSÕES: O ESTUDANTE ATIVO
+The Helper | Dâ rél-per | Explicar como fazer algo simples em inglês (tutorial) | Missão | B2
+The Questioner | Dâ qués-tio-ner | Formular 3 perguntas sobre um texto/imagem em inglês | Missão | A2
+The Checker | Dâ tché-ker | Revisar um texto antigo seu e encontrar um erro | Missão | B1
+
+// MÓDULO: COMEMORAÇÕES E FESTAS (CELEBRATIONS)
+Happy Birthday to you! | Ré-pi Bâr-dêi tú iú! | Feliz aniversário para você! | Celebrations | A1
+Make a wish | Mêik a uísh | Faça um pedido | Celebrations | A1
+Blow out the candles | Blôu áut dâ kén-dols | Sopre as velas | Celebrations | A2
+It's a surprise party | Íts a sâr-práiz pár-ti | É uma festa surpresa | Celebrations | A2
+Merry Christmas | Mé-ri Crís-mas | Feliz Natal | Celebrations | A1
+Trick or Treat? | Trík ór trít? | Gostosuras ou travessuras? (Halloween) | Celebrations | A1
+Happy New Year! | Ré-pi Níu Í-er! | Feliz Ano Novo! | Celebrations | A1
+Wear a costume | Uér a cós-tium | Usar uma fantasia | Celebrations | A2
+Prom Night | Próm náit | Noite do baile de formatura | Celebrations | B1
+Graduation Day | Gré-du-êi-shân dêi | Dia da formatura | Celebrations | B1
+Cap and gown | Kép énd gáun | Capelo e beca (roupa de formatura) | Celebrations | B2
+Exchange gifts | Eks-tchêindj guifts | Trocar presentes | Celebrations | B1
+Decorate the room | Dé-co-reit dâ rúm | Decorar a sala | Celebrations | B1
+Send an invitation | Sénd én in-vi-têi-shân | Enviar um convite | Celebrations | A2
+Throw a party | Trôu a pár-ti | Dar uma festa (organizar) | Celebrations | B2
+Best wishes | Bést uí-shes | Melhores votos / Felicidades | Celebrations | B1
+Let's celebrate! | Léts ce-le-breit! | Vamos celebrar/comemorar! | Celebrations | A1
+Fireworks display | Fái-er-uôrks dis-plêi | Show de fogos de artifício | Celebrations | B2
+Thanksgiving dinner | Tênks-guí-ving dî-ner | Jantar de Ação de Graças | Celebrations | B1
+RSVP by Friday | Ár-és-ví-pí bái Frái-dei | Confirme presença até sexta-feira | Celebrations | B2
+
+// MISSÕES: O FESTEIRO
+The Party Planner | Dâ pár-ti plé-ner | Escrever uma lista de convidados ou itens para festa em inglês | Missão | A2
+The Singer | Dâ sín-guer | Cantar "Happy Birthday" completo em inglês para alguém (ou pet) | Missão | A1
+The Card Maker | Dâ cárd mêi-ker | Criar um cartão de Natal ou Aniversário com uma mensagem em inglês | Missão | B1
+
+// MÓDULO: MOMENTOS BONS (GOOD TIMES)
+This is the best day ever! | Dís íz dâ bést dêi é-ver! | Este é o melhor dia de todos! | Good Times | A1
+I passed the test! | Ái pés-sed dâ tést! | Eu passei na prova! | Good Times | A1
+I can't stop laughing | Ái ként stóp lá-fing | Eu não consigo parar de rir | Good Times | A2
+We had a blast! | Uí réd a blést! | Nós nos divertimos muito! | Good Times | B1
+Good vibes only | Gúd váibs ôun-li | Apenas boas energias/vibrações | Good Times | B1
+Let's take a selfie | Léts têik a sél-fi | Vamos tirar uma selfie | Good Times | A1
+I am so proud of you | Ái ém sôu práud óv iú | Eu estou tão orgulhoso de você | Good Times | B1
+What a relief! | Uót a ri-líf! | Que alívio! | Good Times | B1
+Chilling with friends | Tchí-ling uíf frénds | Relaxando/Curtindo com amigos | Good Times | B1
+Memories for a lifetime | Mé-mo-ris fór a láif-táim | Memórias para a vida toda | Good Times | B2
+Dreams come true | Dríms câm trú | Sonhos se tornam realidade | Good Times | B1
+High five! | Rái fáiv! | Toca aqui! (Cumprimento) | Good Times | A1
+Everything worked out | É-vri-ting uôr-ked áut | Tudo deu certo | Good Times | B2
+Hard work pays off | Rárd uôrk pêis óf | Trabalho duro vale a pena / compensa | Good Times | B2
+Enjoy the moment | En-djói dâ mô-ment | Aproveite o momento | Good Times | A2
+I feel great today | Ái fíl grêit tu-dêi | Eu me sinto ótimo hoje | Good Times | A1
+Best friends forever | Bést frénds fo-ré-ver | Melhores amigos para sempre | Good Times | A1
+It was a piece of cake | Ít uóz a pís óv kêik | Foi muito fácil (Expressão: mamão com açúcar) | Good Times | B2
+Thank God it's Friday | Tênk Gód íts Frái-dei | Graças a Deus é sexta-feira | Good Times | A2
+Keep smiling | Kíp smái-ling | Continue sorrindo | Good Times | A1
+
+// MISSÕES: GRATIDÃO E POSITIVIDADE
+The Gratitude List | Dâ gré-ti-tud líst | Escrever 3 coisas pelas quais você é grato em inglês | Missão | A2
+The Compliment | Dâ com-pli-ment | Elogiar a roupa ou o trabalho de alguém em inglês | Missão | B1
+The Happy Caption | Dâ ré-pi kép-shân | Postar uma foto ou status com uma legenda feliz em inglês | Missão | A2
+
+// MÓDULO: MOMENTOS RUINS (BAD TIMES)
+I failed the test | Ái fêi-old dâ tést | Eu reprovei na prova | Bad Times | A1
+Leave me alone | Lív mí a-lôn | Me deixe em paz | Bad Times | B1
+I don't feel well | Ái dôunt fíl uél | Eu não me sinto bem | Bad Times | A1
+It's not fair! | Íts nót fér! | Não é justo! | Bad Times | A1
+I lost my wallet | Ái lóst mái uó-let | Eu perdi minha carteira | Bad Times | A2
+My phone screen cracked | Mái fôn scrín cré-ked | A tela do meu celular quebrou/trincou | Bad Times | B1
+I am in trouble | Ái ém ín tró-bol | Eu estou encrencado | Bad Times | B1
+Everyone is laughing at me | É-vri-uân íz lá-fing ét mí | Todo mundo está rindo de mim | Bad Times | B1
+I missed the bus | Ái mís-sed dâ bâs | Eu perdi o ônibus | Bad Times | A2
+I have a headache | Ái rév a réd-eik | Estou com dor de cabeça | Bad Times | A2
+This is a disaster | Dís íz a di-zás-ter | Isso é um desastre | Bad Times | B1
+I am grounded | Ái ém gráun-ded | Estou de castigo | Bad Times | B2
+Don't talk to me | Dôunt tók tú mí | Não fale comigo | Bad Times | A1
+We broke up | Uí brôuk âp | Nós terminamos (o namoro) | Bad Times | B1
+I feel lonely | Ái fíl lôn-li | Eu me sinto solitário | Bad Times | A2
+What a bad day | Uót a béd dêi | Que dia ruim | Bad Times | A1
+My computer crashed | Mái com-piú-ter cré-shed | Meu computador travou/quebrou | Bad Times | B1
+I forgot my password | Ái fór-gót mái pés-uôrd | Eu esqueci minha senha | Bad Times | A1
+I am so stressed | Ái ém sôu strés-sed | Eu estou tão estressado | Bad Times | B1
+It was an accident | Ít uóz én éc-si-dent | Foi um acidente | Bad Times | A2
+
+// MISSÕES: SUPERANDO OBSTÁCULOS
+The Venting | Dâ vén-ting | Desabafar sobre algo que te irrita em 3 frases em inglês | Missão | B2
+The Apology | Dâ a-pó-lo-dji | Pedir desculpas a alguém por um erro cometido | Missão | A2
+The Recovery | Dâ ri-có-ve-ri | Dizer "I will try again" (Vou tentar de novo) após errar algo | Missão | A1
+
+// MÓDULO: MOMENTOS DESCONTRAÍDOS (RELAXING)
+I'm just chilling | Áim djâst tchí-ling | Estou só relaxando/de boa | Relaxing | B1
+Let's hang out | Léts réng áut | Vamos "dar um rolê"/ficar juntos | Relaxing | A2
+Do you want to come over? | Dú iú uónt tú câm ôu-ver? | Você quer vir aqui em casa? | Relaxing | A2
+Binge-watch a series | Bíndj-uótch a sí-rís | Maratonar uma série | Relaxing | B2
+I am bored | Áim bórd | Estou entediado | Relaxing | A1
+Whatever | Uót-é-ver | Tanto faz / Que seja | Relaxing | A2
+Take it easy | Têik ít í-zi | Vá com calma / Relaxa | Relaxing | B1
+Couch potato | Cáutch po-têi-tou | Pessoa sedentária/preguiçosa (Batata de sofá) | Relaxing | B2
+Grab a snack | Gréb a snék | Pegar um lanche/beliscar algo | Relaxing | A2
+Scroll through social media | Scrôl trû sô-shal mí-dia | Rolar o feed das redes sociais | Relaxing | B1
+Let's order pizza | Léts ór-der pít-za | Vamos pedir pizza | Relaxing | A1
+Put on some music | Pút ón sâm miú-zic | Coloca uma música | Relaxing | A2
+I need a nap | Ái níd a nép | Preciso de um cochilo | Relaxing | A1
+No worries | Nôu uó-rís | Sem problemas / Não se preocupe | Relaxing | B1
+Just kidding | Djâst kí-ding | Estou só brincando / É zoeira | Relaxing | A2
+Sleepover | Slí-pôu-ver | Festa do pijama / Dormir na casa do amigo | Relaxing | A2
+Turn on the TV | Târn ón dâ tí-ví | Liga a TV | Relaxing | A1
+It's up to you | Íts âp tú iú | Você que sabe / Você decide | Relaxing | B1
+Weekend vibes | Uí-kend váibs | Clima de fim de semana | Relaxing | A1
+Catch you later | Kétch iú lêi-ter | Te vejo mais tarde / Até mais | Relaxing | B1
+
+// MISSÕES: MODO ZEN
+The DJ | Dâ dí-djêi | Escolher uma música em inglês e cantar o refrão | Missão | A1
+The Movie Critic | Dâ mú-vi crí-tic | Dizer se gostou ou não de um filme usando "It was..." | Missão | B1
+The Lazy Day | Dâ lêi-zi dêi | Descrever sua roupa confortável (pajamas, shorts) em inglês | Missão | A2
