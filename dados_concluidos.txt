@@ -1213,14 +1213,66 @@ Family | Fé-mi-li | Família (Grupo de parentes) | Collective Noun | A1
 Flock | Flóc | Rebanho / Bando (Grupo de animais/pássaros) | Collective Noun | B1
 Crowd | Cráud | Multidão (Grupo de pessoas) | Collective Noun | A2
 
+// MÓDULO: NOUNS - COLLECTIVE NOUNS
+Team | Tím | Equipe / Time | Substantivo Coletivo | A1
+Staff | Stéf | Equipe (de funcionários) / Pessoal | Substantivo Coletivo | A2
+Board | Bórd | Conselho / Diretoria | Substantivo Coletivo | B1
+Committee | Co-mí-ti | Comitê | Substantivo Coletivo | B2
+Crowd | Cráud | Multidão | Substantivo Coletivo | A2
+Audience | Ó-di-ens | Público / Plateia | Substantivo Coletivo | B1
+Fleet | Flít | Frota (veículos) | Substantivo Coletivo | B2
+Suite | Suít | Conjunto / Suíte (Software ou Quartos) | Substantivo Coletivo | B2
+Batch | Bétch | Lote / Bateria (Dados ou Produtos) | Substantivo Coletivo | B2
+Panel | Pé-nel | Painel (de especialistas) | Substantivo Coletivo | B2
+Crew | Crú | Tripulação / Equipe Técnica | Substantivo Coletivo | B1
+Stack | Stéck | Pilha (Tecnologia/Papéis) | Substantivo Coletivo | B2
 
+// MÓDULO: NOUNS - COLLECTIVE NOUNS
+The team is working on the new release. | Dê tím íz uôr-king ón dê niú ri-lís. | A equipe está trabalhando no novo lançamento. | Gestão de Projetos | A1
+Our staff needs more technical training. | Áu-ar stéf níds mór téc-ni-cal trêi-ning. | Nosso pessoal precisa de mais treinamento técnico. | RH | A2
+The board of directors approved the merger. | Dê bórd óv di-réc-tors a-prúvd dê mêr-djer. | O conselho de diretores aprovou a fusão. | Corporativo | B1
+A safety committee was established today. | A sêif-ti co-mí-ti uóz es-té-blish-d tu-dêi. | Um comitê de segurança foi estabelecido hoje. | Segurança do Trabalho | B2
+The audience asked many questions. | Di ó-di-ens ésk-d mé-ni kués-tchons. | O público fez muitas perguntas. | Apresentação | B1
+We track the truck fleet via GPS. | Ui trék dê trâck flít vía djí-pi-és. | Nós rastreamos a frota de caminhões via GPS. | Logística | B2
+We use the full Office suite. | Ui iúz dê fúl Ó-fi-ce suít. | Usamos o pacote (suíte) Office completo. | TI / Software | B2
+The system processes the data in batches. | Dê sís-tem pró-ces-ses dê dêi-ta ín bé-tches. | O sistema processa os dados em lotes. | TI / Dados | B2
+A panel of experts will review the case. | A pé-nel óv eks-pêrts uíl ri-viú dê kêis. | Um painel de especialistas revisará o caso. | Jurídico / Consultoria | B2
+The camera crew is ready to record. | Dê ké-me-ra crú íz ré-di tu re-córd. | A equipe técnica de câmera está pronta para gravar. | Mídia / Produção | B1
+Our tech stack includes Python and React. | Áu-ar téc stéck in-clúds Pái-ton ênd Ri-éct. | Nossa pilha tecnológica inclui Python e React. | TI / Desenvolvimento | B2
 
-// MÓDULO: NOUNS - GENDER NOUNS (L6)
-Actor | Ác-tor | Ator (Masculino) | Masculine Noun | A1
-Actress | Ác-tres | Atriz (Feminino) | Feminine Noun | A1
-Waiter | Uêi-ter | Garçom (Masculino) | Masculine Noun | A1
-Waitress | Uêi-tres | Garçonete (Feminino) | Feminine Noun | A1
-Parent | Pé-rent | Pai ou Mãe (Neutro/Genérico) | Neutral Noun | A2
+// MÓDULO: NOUNS - GENDER NOUNS
+Husband | Râz-band | Marido | Substantivo Masc. | A1
+Wife | Uáif | Esposa | Substantivo Fem. | A1
+Nephew | Né-fiu | Sobrinho | Substantivo Masc. | A2
+Niece | Nís | Sobrinha | Substantivo Fem. | A2
+Uncle | Ân-col | Tio | Substantivo Masc. | A1
+Aunt | Ént | Tia | Substantivo Fem. | A1
+Widower | Uí-do-uêr | Viúvo | Substantivo Masc. | B2
+Widow | Uí-dou | Viúva | Substantivo Fem. | B2
+Waiter | Uêi-ter | Garçom | Substantivo Masc. | A1
+Waitress | Uêi-tres | Garçonete | Substantivo Fem. | A1
+Landlord | Lénd-lórd | Senhorio (Proprietário) | Substantivo Masc. | B2
+Landlady | Lénd-lêi-di | Senhoria (Proprietária) | Substantivo Fem. | B2
+Host | Rôust | Anfitrião | Substantivo Masc. | B1
+Hostess | Rôus-tes | Anfitriã / Recepcionista | Substantivo Fem. | B1
+Chairman | Tchér-man | Presidente (Conselho) | Substantivo Masc. | B2
+Chairwoman | Tchér-uû-man | Presidente (Conselho) | Substantivo Fem. | B2
+
+// MÓDULO: NOUNS - GENDER NOUNS
+My husband is an engineer. | Mái râz-band íz ên en-dji-ní-ar. | Meu marido é engenheiro. | Família | A1
+His wife manages the family business. | Ríz uáif mé-na-djes dê fé-mi-li bí-zi-nes. | A esposa dele gerencia o negócio da família. | Negócios Familiares | A1
+I have a nephew who codes in Python. | Ái rév a né-fiu ru côuds ín Pái-ton. | Tenho um sobrinho que programa em Python. | Social / TI | A2
+My niece is studying law. | Mái nís íz stâ-di-ing ló. | Minha sobrinha está estudando direito. | Social / Educação | A2
+The pension is paid to the widow. | Dê pén-shon íz pêid tu dê uí-dou. | A pensão é paga à viúva. | Fiscal / Previdenciário (ConPrev) | B2
+The widower updated his marital status. | Dê uí-do-uêr âp-dei-ted ríz má-ri-tal sté-tus. | O viúvo atualizou seu estado civil. | Administrativo | B2
+The waiter brought the menu immediately. | Dê uêi-ter brót dê mé-niu i-mí-di-at-li. | O garçom trouxe o cardápio imediatamente. | Restaurante | A1
+She works as a waitress on weekends. | Shí uôrks éz a uêi-tres ón uí-kends. | Ela trabalha como garçonete nos fins de semana. | Emprego | A1
+The landlord increased the rent. | Dê lénd-lórd in-crísd dê rént. | O senhorio (dono) aumentou o aluguel. | Imobiliário | B2
+The landlady requires a deposit. | Dê lénd-lêi-di ri-kuái-ars a di-pó-zit. | A senhoria requer um depósito. | Contrato | B2
+He was the host of the event. | Rí uóz dê rôust óv di i-vént. | Ele foi o anfitrião do evento. | Social / Eventos | B1
+Please ask the hostess for a table. | Plíz ésk dê rôus-tes fór a têi-bol. | Por favor, peça uma mesa à recepcionista. | Restaurante | B1
+The chairman called the meeting to order. | Dê tchér-man cóld dê mí-ting tu ór-der. | O presidente (do conselho) iniciou a reunião. | Corporativo | B2
+She is the first chairwoman of the board. | Shí íz dê fârst tchér-uû-man óv dê bórd. | Ela é a primeira presidente do conselho. | Corporativo / Liderança | B2
 
 // MÓDULO: NOUNS - COMPOUND NOUNS (L7)
 Toothpaste | Tús-peist | Pasta de dente (Tooth + Paste) | Compound Noun | A1
@@ -1228,88 +1280,299 @@ Bedroom | Béd-rum | Quarto (Bed + Room) | Compound Noun | A1
 Bus stop | Bâs stóp | Ponto de ônibus (Duas palavras separadas) | Compound Noun | A1
 Mother-in-law | Má-der in ló | Sogra (Com hífens) | Compound Noun | A2
 
-// MÓDULO: NOUNS - NOUN CASES (L8 - POSSESSIVE)
-John's | Djóns | Do John (Indica posse: John's car) | Genitive Case | A1
-Teacher's | Tí-tchers | Do professor (Singular: Teacher's book) | Genitive Case | A1
-Teachers' | Tí-tchers | Dos professores (Plural: Teachers' room) | Genitive Case | B1
+// MÓDULO: NOUNS - COMPOUND NOUNS
+Database | Dêi-ta-bêis | Banco de dados | Subst. Composto | A2
+Deadline | Déd-láin | Prazo final | Subst. Composto | B1
+Feedback | Fíd-bék | Retorno / Opinião | Subst. Composto | B1
+Follow-up | Fó-lou-âp | Acompanhamento | Subst. Composto | B2
+Hardware | Rárd-uér | Hardware (Peças físicas) | Subst. Composto | A2
+Network | Nét-uôrk | Rede | Subst. Composto | A2
+Notebook | Nôut-bûk | Caderno / Notebook (Laptop) | Subst. Composto | A1
+Software | Sóft-uér | Software (Programas) | Subst. Composto | A2
+Teamwork | Tím-uôrk | Trabalho em equipe | Subst. Composto | B1
+Username | Iú-zer-nêim | Nome de usuário | Subst. Composto | A2
+Website | Uéb-sáit | Site / Sítio eletrônico | Subst. Composto | A1
+Workplace | Uôrk-plêis | Local de trabalho | Subst. Composto | B1
 
-// MÓDULO: PRONOUNS - PERSONAL PRONOUNS (L9)
-I | Ái | Eu (Sujeito) | Personal Pronoun | A1
-You | Iú | Você (Sujeito ou Objeto) | Personal Pronoun | A1
-He | Rí | Ele (Sujeito) | Personal Pronoun | A1
-She | Xí | Ela (Sujeito) | Personal Pronoun | A1
-It | Ít | Ele/Ela/Isso (Neutro para coisas/animais) | Personal Pronoun | A1
-We | Uí | Nós (Sujeito) | Personal Pronoun | A1
-They | Dêi | Eles/Elas (Sujeito) | Personal Pronoun | A1
-Me | Mí | Me/Mim (Objeto: "Help me") | Personal Pronoun | A1
-Him | Rím | O/Ele (Objeto: "Call him") | Personal Pronoun | A1
-Them | Dém | Os/Eles (Objeto: "Tell them") | Personal Pronoun | A1
+// MÓDULO: NOUNS - COMPOUND NOUNS
+The database needs to be updated. | Dê dêi-ta-bêis níds tu bi âp-dei-ted. | O banco de dados precisa ser atualizado. | TI / Dados | A2
+We have a tight deadline for this tax report. | Ui rév a táit déd-láin fór dís téks ri-pórt. | Temos um prazo apertado para este relatório fiscal. | Gestão de Projetos | B1
+Please give me honest feedback. | Plíz gív mi ó-nest fíd-bék. | Por favor, me dê um retorno honesto. | RH / Desenvolvimento | B1
+We need a follow-up meeting next week. | Ui níd a fó-lou-âp mí-ting nécst uík. | Precisamos de uma reunião de acompanhamento na próxima semana. | Vendas / Gestão | B2
+The hardware is old, but functional. | Dê rárd-uér íz ôuld, bât fânc-sho-nal. | O hardware é velho, mas funcional. | TI / Infraestrutura | A2
+The network connection is very slow. | Dê nét-uôrk co-néc-shon íz vé-ri slôu. | A conexão de rede está muito lenta. | TI / Conectividade | A2
+I write my ideas in a notebook. | Ái ráit mái ai-dí-as ín a nôut-bûk. | Eu escrevo minhas ideias em um caderno. | Criatividade | A1
+This software automates email sending. | Dís sóft-uér ó-to-mêits í-meil sén-ding. | Este software automatiza o envio de e-mails. | TI / Automação | B1
+Good teamwork is essential for success. | Gûd tím-uôrk íz e-sén-shal fór sac-sés. | Bom trabalho em equipe é essencial para o sucesso. | Liderança | B1
+Enter your username and password. | Ên-ter iór iú-zer-nêim ênd péss-uôrd. | Digite seu nome de usuário e senha. | Login / Segurança | A2
+Visit our website for more details. | Ví-zit áu-ar uéb-sáit fór mór di-têils. | Visite nosso site para mais detalhes. | Marketing | A1
+Safety in the workplace is mandatory. | Sêif-ti ín dê uôrk-plêis íz mén-da-tó-ri. | Segurança no local de trabalho é obrigatória. | RH / Segurança | B1
 
-// MÓDULO: PRONOUNS - POSSESSIVE PRONOUNS (L10)
-Mine | Máin | O meu / A minha (Substitui o substantivo: "It's mine") | Possessive Pronoun | A2
-Yours | Iórs | O seu / O teu (Substitui o substantivo) | Possessive Pronoun | A2
-His | Ríz | O dele (Substitui o substantivo) | Possessive Pronoun | A2
-Hers | Rârs | O dela (Substitui o substantivo) | Possessive Pronoun | A2
-Ours | Áu-ars | O nosso (Substitui o substantivo) | Possessive Pronoun | B1
-Theirs | Dérs | O deles (Substitui o substantivo) | Possessive Pronoun | B1
+// MÓDULO: NOUNS - NOUN CASES (POSSESSIVE 'S)
+Client's | Clái-ents | Do cliente | Possessive Singular ('s) | A2
+Clients' | Clái-ents | Dos clientes | Possessive Plural (') | B1
+Boss's | Bó-ses | Do chefe | Possessive Singular (Terminado em S) | B1
+Men's | Mêns | Dos homens | Possessive Irregular ('s) | B1
+Women's | Uí-mens | Das mulheres | Possessive Irregular ('s) | B1
+Children's | Tchíl-drens | Das crianças | Possessive Irregular ('s) | A2
+Company's | Câm-pa-nis | Da empresa | Possessive Singular ('s) | A2
+Companies' | Câm-pa-nis | Das empresas | Possessive Plural (') | B2
+Today's | Tu-dêis | De hoje | Possessive Tempo ('s) | B1
+Year's | Í-ars | Do ano | Possessive Tempo ('s) | B1
+End of | Ênd óv | Fim de (Uso de 'Of' para coisas/partes) | Noun Case (Of) | A2
 
-// MÓDULO: PRONOUNS - DEMONSTRATIVE PRONOUNS (L11)
-This | Dís | Este/Isto (Singular, perto) | Demonstrative Pronoun | A1
-That | Dét | Aquele/Aquilo (Singular, longe) | Demonstrative Pronoun | A1
-These | Dí-iz | Estes (Plural, perto) | Demonstrative Pronoun | A1
-Those | Dôuz | Aqueles (Plural, longe) | Demonstrative Pronoun | A1
+// MÓDULO: NOUNS - NOUN CASES (POSSESSIVE 'S)
+I need the client's signature on this form. | Ái níd dê clái-ents sig-na-tchar ón dís fórm. | Preciso da assinatura do cliente neste formulário. | Singular | A2
+We analyze our clients' feedback carefully. | Ui é-na-laiz áu-ar clái-ents fíd-bék kér-fu-li. | Analisamos o feedback dos clientes (plural) cuidadosamente. | Plural | B1
+The boss's decision is final. | Dê bó-ses di-sí-zhon íz fái-nal. | A decisão do chefe é final. | Singular terminado em S | B1
+The men's restroom is on the left. | Dê mêns rést-rúm íz ón dê léft. | O banheiro dos homens fica à esquerda. | Plural Irregular | B1
+We launched a new women's clothing line. | Ui lóntch-d a niú uí-mens clôu-fing láin. | Lançamos uma nova linha de roupas femininas (das mulheres). | Plural Irregular | B1
+The children's playground is closed. | Dê tchíl-drens plêi-gráund íz clôuzd. | O parquinho das crianças está fechado. | Plural Irregular | A2
+The company's goal is to reduce waste. | Dê câm-pa-nis gôul íz tu ri-diús uêist. | O objetivo da empresa é reduzir desperdício. | Entidade Corporativa | A2
+The companies' merger was announced today. | Dê câm-pa-nis mêr-djer uóz a-náuns-d tu-dêi. | A fusão das empresas foi anunciada hoje. | Plural Corporativo | B2
+Download today's report from the server. | Dáun-lôud tu-dêis ri-pórt fróm dê sêr-ver. | Baixe o relatório de hoje do servidor. | Tempo | B1
+We exceeded last year's revenue. | Ui ek-sí-ded lést í-ars ré-ve-niu. | Nós superamos a receita do ano passado. | Tempo / Financeiro | B1
+We are at the end of the fiscal year. | Ui ár ét di ênd óv dê fís-cal í-ar. | Estamos no fim do ano fiscal. | Estrutura "Of" (Parte de algo) | A2
 
-// MÓDULO: PRONOUNS - INDEFINITE PRONOUNS (L12)
-Someone | Sâm-uan | Alguém (Frases afirmativas) | Indefinite Pronoun | A1
-Anybody | É-ni-bó-di | Ninguém/Qualquer um (Perguntas/Negativas) | Indefinite Pronoun | A1
-Everything | É-vri-ting | Tudo (Coisas) | Indefinite Pronoun | A1
-Nothing | Nó-ting | Nada (Coisas) | Indefinite Pronoun | A1
-Everyone | É-vri-uan | Todos / Todo mundo (Pessoas) | Indefinite Pronoun | A1
+// MÓDULO: PRONOUNS - PERSONAL PRONOUNS
+I | Ái | Eu | Pronome Sujeito | A1
+Me | Mi | Me / Mim | Pronome Objeto | A1
+You | Iú | Você / Vocês | Pronome Suj/Obj | A1
+He | Rí | Ele | Pronome Sujeito | A1
+Him | Rím | Ele / O (quem recebe) | Pronome Objeto | A1
+She | Shí | Ela | Pronome Sujeito | A1
+Her | Râr | Ela / A (quem recebe) | Pronome Objeto | A1
+It | Ít | Ele / Ela (Coisas/Animais) | Pronome Suj/Obj | A1
+We | Ui | Nós | Pronome Sujeito | A1
+Us | Âs | Nos / Nós (quem recebe) | Pronome Objeto | A1
+They | Dêi | Eles / Elas | Pronome Sujeito | A1
+Them | Dêm | Eles / Elas / Os / As (quem recebe) | Pronome Objeto | A1
 
-// MÓDULO: PRONOUNS - INTERROGATIVE PRONOUNS (L13)
-Who | Rú | Quem? (Para pessoas) | Interrogative Pronoun | A1
-What | Uót | O que? / Qual? (Para coisas) | Interrogative Pronoun | A1
-Which | Uítch | Qual? (Opções limitadas) | Interrogative Pronoun | A1
-Whose | Rúz | De quem? (Posse) | Interrogative Pronoun | A2
-Whom | Rúm | Quem? (Objeto formal: "Whom did you call?") | Interrogative Pronoun | C1
+// MÓDULO: PRONOUNS - PERSONAL PRONOUNS
+I manage the database. | Ái mé-na-dj dê dêi-ta-bêis. | Eu gerencio o banco de dados. | Profissional (Sujeito) | A1
+Please send the email to me. | Plíz sénd di í-meil tu mi. | Por favor, envie o e-mail para mim. | Solicitação (Objeto) | A1
+You need to restart the system. | Iú níd tu ri-stárt dê sís-tem. | Você precisa reiniciar o sistema. | Instrução | A1
+He is our lead developer. | Rí íz áu-ar líd di-vé-lo-per. | Ele é nosso desenvolvedor líder. | Apresentação (Sujeito) | A1
+I called him yesterday regarding the error. | Ái cóld rím iés-ter-dêi ri-gár-ding di é-rror. | Eu liguei para ele ontem a respeito do erro. | Comunicação (Objeto) | A2
+She approved the budget plan. | Shí a-prúvd dê bâ-djet plén. | Ela aprovou o plano de orçamento. | Gestão (Sujeito) | A1
+We invited her to the conference. | Ui in-vái-ted râr tu dê cón-fe-rens. | Nós a convidamos para a conferência. | Social Corporativo (Objeto) | A2
+It works perfectly on my machine. | Ít uôrks pêr-fect-li ón mái ma-shín. | Ele (o software/código) funciona perfeitamente na minha máquina. | TI (Sujeito) | A1
+We fixed it this morning. | Ui fík-sd ít dís mór-ning. | Nós o consertamos (o problema) esta manhã. | Manutenção (Objeto) | A1
+We are analyzing the tax implications. | Ui ár é-na-lai-zing dê téks im-pli-kêi-shons. | Nós estamos analisando as implicações fiscais. | Fisco (Sujeito) | B1
+Please join us for a quick meeting. | Plíz djóin âs fór a kuík mí-ting. | Por favor, junte-se a nós para uma reunião rápida. | Convite (Objeto) | A1
+They are waiting for the contract. | Dêi ár uêi-ting fór dê cón-tract. | Eles (os clientes) estão esperando pelo contrato. | Negociação (Sujeito) | A1
+I sent them the updated files. | Ái sént dêm di âp-dei-ted fáils. | Eu enviei a eles os arquivos atualizados. | Transferência (Objeto) | A2
 
-// MÓDULO: PRONOUNS - RELATIVE PRONOUNS (L14)
-Who | Rú | Que/Quem (Liga frases sobre pessoas) | Relative Pronoun | A2
-Which | Uítch | Que/O qual (Liga frases sobre coisas) | Relative Pronoun | A2
-That | Dét | Que (Liga frases sobre pessoas ou coisas) | Relative Pronoun | A2
-Whose | Rúz | Cujo/Cuja (Indica posse na oração) | Relative Pronoun | B1
+// MÓDULO: PRONOUNS - POSSESSIVE PRONOUNS
+My | Mái | Meu(s) / Minha(s) | Adjetivo Possessivo | A1
+Mine | Máin | O meu / A minha (substitui nome) | Pronome Possessivo | A2
+Your | Iór | Seu(s) / Sua(s) | Adjetivo Possessivo | A1
+Yours | Iórs | O seu / A sua (substitui nome) | Pronome Possessivo | A2
+His | Ríz | Dele / O dele | Adj/Pron Possessivo | A1
+Her | Râr | Dela | Adjetivo Possessivo | A1
+Hers | Rârs | O dela (substitui nome) | Pronome Possessivo | A2
+Its | Íts | Dele/Dela (Neutro/Coisas) | Adjetivo Possessivo | A1
+Our | Áu-ar | Nosso(s) / Nossa(s) | Adjetivo Possessivo | A1
+Ours | Áu-ars | O nosso / A nossa (substitui nome) | Pronome Possessivo | A2
+Their | Dér | Deles / Delas | Adjetivo Possessivo | A1
+Theirs | Dérs | Os deles / As delas (substitui nome) | Pronome Possessivo | A2
 
-// MÓDULO: PRONOUNS - REFLEXIVE AND INTENSIVE (L15)
-Myself | Mái-sélf | A mim mesmo / Eu mesmo | Reflexive Pronoun | A2
-Yourself | Iór-sélf | A você mesmo / Você mesmo | Reflexive Pronoun | A2
-Himself | Rím-sélf | A ele mesmo | Reflexive Pronoun | A2
-Themselves | Dêm-sélvs | A eles mesmos | Reflexive Pronoun | B1
+// MÓDULO: PRONOUNS - POSSESSIVE PRONOUNS
+This is my computer. | Dís íz mái com-piú-ter. | Este é meu computador. | Adjetivo (Antes) | A1
+This computer is mine. | Dís com-piú-ter íz máin. | Este computador é meu (o meu). | Pronome (Final) | A2
+Is this your password? | Íz dís iór péss-uôrd? | Esta é a sua senha? | Segurança | A1
+The decision is yours. | Dê di-sí-zhon íz iórs. | A decisão é sua. | Liderança | B1
+His code is very clean. | Ríz côud íz vé-ri clín. | O código dele é muito limpo. | TI / Programação | A1
+The responsibility is his. | Dê ris-pón-sa-bi-li-ti íz ríz. | A responsabilidade é dele. | Gestão | B1
+We reviewed her proposal today. | Ui ri-viúd râr pro-pôu-zal tu-dêi. | Revisamos a proposta dela hoje. | Corporativo | A2
+This desk is hers. | Dís désk íz rârs. | Esta mesa é dela. | Escritório | A2
+The company updated its privacy policy. | Dê câm-pa-ni âp-dei-ted íts prái-va-si pó-li-si. | A empresa atualizou sua política de privacidade (dela, da empresa). | Corporativo | B1
+Our goal is to increase efficiency. | Áu-ar gôul íz tu in-crís e-fí-shen-si. | Nosso objetivo é aumentar a eficiência. | Metas | A1
+The profit is entirely ours. | Dê pró-fit íz in-tái-ar-li áu-ars. | O lucro é inteiramente nosso. | Financeiro | B2
+Their team is working remotely. | Dér tím íz uôr-king ri-môut-li. | A equipe deles está trabalhando remotamente. | RH | A1
+The problem is theirs to solve. | Dê pró-blem íz dérs tu sól-v. | O problema é deles para resolver (responsabilidade deles). | Gestão de Conflito | B2
+
+// MÓDULO: PRONOUNS - DEMONSTRATIVE PRONOUNS
+This | Dís | Este / Esta / Isto (Singular + Perto) | Pronome Dem. | A1
+That | Dét | Aquele / Aquela / Aquilo (Singular + Longe) | Pronome Dem. | A1
+These | Díz | Estes / Estas (Plural + Perto) | Pronome Dem. | A1
+Those | Dôuz | Aqueles / Aquelas (Plural + Longe) | Pronome Dem. | A1
+
+// MÓDULO: PRONOUNS - DEMONSTRATIVE PRONOUNS
+This is the main server. | Dís íz dê mêin sêr-ver. | Este é o servidor principal. | TI / Infraestrutura | A1
+That looks like a coding error. | Dét lûks láik a côu-ding é-rror. | Aquilo parece um erro de código. | TI / Debugging | A2
+Look at these numbers! | Lûk ét díz nâm-bers! | Olhe para estes números! (Aqui perto). | Análise de Dados | A1
+Please archive those files immediately. | Plíz ar-cáiv dôuz fáils i-mí-di-at-li. | Por favor, arquive aqueles arquivos imediatamente. | Organização | B1
+Hello, this is Samuel speaking. | Re-lôu, dís íz Samuel spí-king. | Olá, aqui é o Samuel falando. | Telefone / Chamada | A1
+That is exactly what I meant. | Dét íz eg-zéc-tli uót Ái mént. | É (aquilo é) exatamente o que eu quis dizer. | Concordância | B1
+These changes are mandatory for compliance. | Díz tchêin-djes ár mén-da-tó-ri fór com-plái-ans. | Estas mudanças são obrigatórias para conformidade. | Jurídico / Regras | B2
+Do you remember those days? | Du iú ri-mém-ber dôuz dêis? | Você se lembra daqueles dias? | Nostalgia / Tempo | A2
+Is this seat taken? | Íz dís sít têi-ken? | Este assento está ocupado? | Social / Eventos | A1
+Who is that man over there? | Ru íz dét mén ôu-ver dér? | Quem é aquele homem lá? | Identificação | A1
+This report needs revision. | Dís ri-pórt níds ri-ví-zhon. | Este relatório (aqui) precisa de revisão. | Administrativo | A1
+That server is unreachable. | Dét sêr-ver íz ân-rí-tcha-bol. | Aquele servidor (lá) está inacessível. | TI / Infraestrutura | A2
+These files are corrupted. | Díz fáils ár co-râp-ted. | Estes arquivos (aqui) estão corrompidos. | TI / Dados | A2
+Those regulations apply to federal taxes. | Dôuz re-guiu-lêi-shons a-plái tu fé-de-ral ték-ses. | Aquelas regulamentações se aplicam a impostos federais. | Fiscal / Jurídico | B2
+Please sign this document. | Plíz sáin dís dó-kiu-ment. | Por favor, assine este documento. | Contratos | A1
+Who authorized that transaction? | Ru ó-fo-ráizd dét tran-zéc-shon? | Quem autorizou aquela transação? | Auditoria | B1
+Check these numbers again. | Tchék díz nâm-bers a-guên. | Verifique estes números novamente. | Contabilidade | A1
+Those strategies were very effective. | Dôuz stré-te-djis uêr vé-ri e-féc-tiv. | Aquelas estratégias foram muito eficazes. | Gestão / Review | B2
+
+// MÓDULO: PRONOUNS - INDEFINITE PRONOUNS
+Someone | Sâm-uân | Alguém (Afirmativo) | Pessoas | A1
+Anyone | Ê-ni-uân | Alguém? / Qualquer um / Ninguém (com not) | Pessoas | A1
+No one | Nôu uân | Ninguém (Verbo positivo) | Pessoas | A1
+Everyone | É-vri-uân | Todo mundo / Todos | Pessoas | A1
+Something | Sâm-fing | Algo / Alguma coisa | Coisas | A1
+Anything | Ê-ni-fing | Algo? / Qualquer coisa / Nada (com not) | Coisas | A1
+Nothing | Nâ-fing | Nada (Verbo positivo) | Coisas | A1
+Everything | É-vri-fing | Tudo | Coisas | A1
+Somewhere | Sâm-uér | Algum lugar | Lugares | A2
+Anywhere | Ê-ni-uér | Qualquer lugar / Nenhum lugar | Lugares | A2
+Nowhere | Nôu-uér | Lugar nenhum | Lugares | B1
+All | Ól | Tudo / Todos | Quantidade | A1
+None | Nân | Nenhum (de um grupo) | Quantidade | B1
+Each | Ítch | Cada | Distributivo | A1
+Both | Bôuf | Ambos / Os dois | Distributivo | A1
+
+// MÓDULO: PRONOUNS - INDEFINITE PRONOUNS
+Someone needs to authorize this payment. | Sâm-uân níds tu ó-fo-ráiz dís pêi-ment. | Alguém precisa autorizar este pagamento. | Financeiro | A2
+Is there anyone in the server room? | Íz dér ê-ni-uân ín dê sêr-ver rúm? | Tem alguém na sala de servidores? | Segurança | A2
+No one knows the admin password. | Nôu uân nôuz di éd-min péss-uôrd. | Ninguém sabe a senha de administrador. | TI / Acesso | A2
+Everyone must update their credentials. | É-vri-uân mâst âp-deit dér cri-dén-shals. | Todos devem atualizar suas credenciais. | Corporativo | B1
+There is something wrong with the code. | Dér íz sâm-fing rông uíf dê côud. | Tem algo errado com o código. | Debugging | A1
+Do you need anything else? | Du iú níd ê-ni-fing éls? | Você precisa de mais alguma coisa? (Algo mais). | Atendimento | A1
+I can see nothing on the screen. | Ái kén sí nâ-fing ón dê scrín. | Eu não consigo ver nada na tela (Posso ver nada). | Hardware | A1
+Everything is ready for the launch. | É-vri-fing íz ré-di fór dê lóntch. | Tudo está pronto para o lançamento. | Gestão de Projetos | A2
+The file must be somewhere on the drive. | Dê fái-ol mâst bi sâm-uér ón dê dráiv. | O arquivo deve estar em algum lugar no drive. | Busca de Dados | A2
+You can access the system from anywhere. | Iú kén éc-sess dê sís-tem fróm ê-ni-uér. | Você pode acessar o sistema de qualquer lugar. | Nuvem / Remoto | B1
+This road leads nowhere. | Dís rôud líds nôu-uér. | Esta estrada não leva a lugar nenhum. | Direção | B1
+All systems are operational. | Ól sís-tems ár o-pe-rêi-sho-nal. | Todos os sistemas estão operacionais. | Status | A1
+None of the emails were delivered. | Nân óv di í-meils uêr di-lí-verd. | Nenhum dos e-mails foi entregue. | TI / Erro | B1
+Each employee has a unique ID. | Ítch em-pló-i-í réz a iu-ník ái-dí. | Cada funcionário tem um ID único. | RH | A2
+Both options are viable. | Bôuf óp-shons ár vái-a-bol. | Ambas as opções são viáveis. | Tomada de Decisão | B1
+
+// MÓDULO: PRONOUNS - INTERROGATIVE PRONOUNS
+Who | Ru | Quem (Sujeito) | Pessoas | A1
+Whom | Rum | Quem (Objeto Formal) | Pessoas | B2
+Whose | Rúz | De quem | Posse | A2
+What | Uót | O que / Qual (Geral) | Coisas | A1
+Which | Uítch | Qual (Escolha limitada) | Escolha | A1
+Where | Uér | Onde | Lugares | A1
+When | Uén | Quando | Tempo | A1
+Why | Uái | Por que | Razão | A1
+How | Ráu | Como | Modo | A1
+
+// MÓDULO: PRONOUNS - INTERROGATIVE PRONOUNS
+Who is the project manager? | Ru íz dê pró-dject mé-na-djer? | Quem é o gerente de projeto? | Corporativo | A1
+To whom should I send this report? | Tu rum xûd Ái sénd dís ri-pórt? | Para quem devo enviar este relatório? | Formal / E-mail | B2
+Whose laptop is this? | Rúz lép-tóp íz dís? | De quem é este notebook? | Escritório | A2
+What is the status of the ticket? | Uót íz dê sté-tus óv dê tí-ket? | Qual é o status do chamado? | Suporte TI | A1
+Which browser are you using? | Uítch bráu-zer ár iú iú-zing? | Qual navegador você está usando? (Entre as opções existentes). | TI / Suporte | A1
+Where is the meeting room? | Uér íz dê mí-ting rúm? | Onde fica a sala de reuniões? | Localização | A1
+When is the deadline? | Uén íz dê déd-láin? | Quando é o prazo final? | Gestão de Tempo | A1
+Why did the system crash? | Uái díd dê sís-tem crésh? | Por que o sistema travou? | Análise de Problema | A2
+How do I reset my password? | Ráu du Ái ri-sét mái péss-uôrd? | Como eu redefino minha senha? | Dúvida Comum | A1
+
+// MÓDULO: PRONOUNS - RELATIVE PRONOUNS
+Who | Ru | Que / Quem | Refere-se a Pessoas | A2
+Which | Uítch | Que / O qual | Refere-se a Coisas | A2
+That | Dét | Que | Refere-se a Pessoas/Coisas | A2
+Whose | Rúz | Cujo / Cuja / De quem | Indica Posse | B1
+Where | Uér | Onde / Em que | Refere-se a Lugares | A2
+When | Uén | Quando / Em que | Refere-se a Tempo | A2
+What | Uót | O que (aquilo que) | Substantivação | B1
+
+// MÓDULO: PRONOUNS - RELATIVE PRONOUNS
+The client who called is urgent. | Dê clái-ent ru cóld íz âr-djent. | O cliente que ligou é urgente. | Atendimento | A2
+This is the software which caused the error. | Dís íz dê sóft-uér uítch cózd di é-rror. | Este é o software que causou o erro. | TI / Análise | A2
+The report that you sent is incomplete. | Dê ri-pórt dét iú sént íz in-com-plít. | O relatório que você enviou está incompleto. | Feedback | A2
+I met a developer whose code is brilliant. | Ái mét a di-vé-lo-per rúz côud íz brí-li-ant. | Conheci um desenvolvedor cujo código é brilhante. | Networking / Posse | B1
+This is the office where I work. | Dís íz di ó-fi-ce uér Ái uôrk. | Este é o escritório onde eu trabalho. | Localização | A2
+I remember the day when we launched the app. | Ái ri-mém-ber dê dêi uén ui lóntch-d di ép. | Eu lembro o dia (quando/em que) lançamos o app. | Memória / Tempo | B1
+I don't understand what you mean. | Ái dôunt ân-der-sténd uót iú mín. | Eu não entendo o que (aquilo que) você quer dizer. | Comunicação | B1
+
+// MÓDULO: PRONOUNS - REFLEXIVE AND INTENSIVE
+Myself | Mái-sélf | A mim mesmo / Eu mesmo | Pronome Refl/Int | A1
+Yourself | Iór-sélf | A você mesmo / Você mesmo | Pronome Refl/Int | A1
+Himself | Rím-sélf | A ele mesmo / Ele mesmo | Pronome Refl/Int | A1
+Herself | Râr-sélf | A ela mesma / Ela mesma | Pronome Refl/Int | A1
+Itself | Ít-sélf | A si mesmo (Coisa/Animal) | Pronome Refl/Int | A2
+Ourselves | Áu-ar-sélvs | A nós mesmos / Nós mesmos | Pronome Refl/Int | A2
+Yourselves | Iór-sélvs | A vocês mesmos / Vocês mesmos | Pronome Refl/Int | A2
+Themselves | Dêm-sélvs | A eles mesmos / Eles mesmos | Pronome Refl/Int | A2
+
+// MÓDULO: PRONOUNS - REFLEXIVE AND INTENSIVE
+I taught myself how to code. | Ái tót mái-sélf ráu tu côud. | Eu ensinei a mim mesmo como programar (Aprendi sozinho). | Autodidata | B1
+Please familiarize yourself with the new rules. | Plíz fa-mí-li-a-ráiz iór-sélf uíf dê niú rúls. | Por favor, familiarize-se com as novas regras. | Onboarding / RH | B2
+The director himself approved the budget. | Dê di-réc-tor rím-sélf a-prúvd dê bâ-djet. | O próprio diretor (ele mesmo) aprovou o orçamento. | Ênfase | B1
+She fixed the bug herself. | Shí fík-sd dê bâg râr-sélf. | Ela mesma consertou o bug. | Competência | A2
+The system updates itself automatically. | Dê sís-tem âp-deits ít-sélf ó-to-mé-ti-ca-li. | O sistema se atualiza (a si mesmo) automaticamente. | TI / Automação | A2
+We pride ourselves on our customer service. | Ui práid áu-ar-sélvs ón áu-ar câs-to-mer sêr-vice. | Nós nos orgulhamos do nosso atendimento ao cliente. | Valores da Empresa | C1
+Did you create the graphics yourselves? | Díd iú cri-êit dê gré-fics iór-sélvs? | Vocês mesmos criaram os gráficos? | Design / Pergunta | B1
+They organized the event themselves. | Dêi ór-ga-náizd di i-vént dêm-sélvs. | Eles mesmos organizaram o evento. | Gestão | A2
 
 // MÓDULO: PRONOUNS - RECIPROCAL PRONOUNS (L16)
 Each other | Ítchi ó-der | Um ao outro (Entre duas pessoas) | Reciprocal Pronoun | B1
 One another | Uan a-nó-der | Uns aos outros (Entre três ou mais) | Reciprocal Pronoun | B2
 
-// MÓDULO: DETERMINERS - ARTICLES (L17)
-The | Dâ / Dí | O, A, Os, As (Artigo Definido) | Definite Article | A1
-A | Â / Êi | Um, Uma (Antes de som de consoante) | Indefinite Article | A1
-An | Én | Um, Uma (Antes de som de vogal) | Indefinite Article | A1
+// MÓDULO: PRONOUNS - RECIPROCAL PRONOUNS
+We help each other every day. | Ui rélp ítch â-der é-vri dêi. | Nós ajudamos um ao outro (nos ajudamos) todo dia. | Trabalho em Equipe | A2
+They understand each other perfectly. | Dêi ân-der-sténd ítch â-der pêr-fect-li. | Eles se entendem perfeitamente. | Comunicação | B1
+The servers communicate with each other. | Dê sêr-vers co-miú-ni-kêit uíf ítch â-der. | Os servidores se comunicam um com o outro. | TI / Redes | B2
+Team members must trust one another. | Tím mém-bers mâst trâst uân a-nó-der. | Membros da equipe devem confiar uns nos outros. | Liderança / Cultura | B1
+The apps interact with one another seamlessly. | Di éps in-te-réct uíf uân a-nó-der sím-les-li. | Os aplicativos interagem uns com os outros perfeitamente. | TI / Integração | B2
+Why are you arguing with each other? | Uái ár iú ár-gui-ing uíf ítch â-der? | Por que vocês estão discutindo um com o outro? | Conflito | B1
 
-// MÓDULO: DETERMINERS - DEMONSTRATIVES (L18)
-This | Dís | Este/Esta (Acompanha substantivo singular perto: "This car") | Demonstrative Determiner | A1
-That | Dét | Aquele/Aquela (Acompanha substantivo singular longe: "That house") | Demonstrative Determiner | A1
-These | Dí-iz | Estes/Estas (Acompanha substantivo plural perto: "These books") | Demonstrative Determiner | A1
-Those | Dôuz | Aqueles/Aquelas (Acompanha substantivo plural longe: "Those birds") | Demonstrative Determiner | A1
+// MÓDULO: DETERMINERS - ARTICLES
+The | Dê / Di | O / A / Os / As | Artigo Definido | A1
+A | A / Êi | Um / Uma (Antes de som de consoante) | Artigo Indefinido | A1
+An | Én | Um / Uma (Antes de som de vogal) | Artigo Indefinido | A1
+No article | (Zero) | (Nenhum) - Generalizações/Nomes | Zero Article | A2
 
-// MÓDULO: DETERMINERS - QUANTIFIERS (L19)
-Some | Sâm | Algum, Alguns (Afirmativas/Ofertas) | Quantifier | A1
-Any | É-ni | Algum, Nenhum (Perguntas/Negativas) | Quantifier | A1
-Many | Mé-ni | Muitos (Para contáveis: "Many friends") | Quantifier | A1
-Much | Mâtch | Muito (Para incontáveis: "Much water") | Quantifier | A1
-A lot of | A-lót-ov | Muito/Muitos (Informal, serve para ambos) | Quantifier | A1
-Few | Fiú | Poucos (Para contáveis) | Quantifier | B1
-Little | Lí-tol | Pouco (Para incontáveis) | Quantifier | B1
-All | Ól | Tudo/Todos (Totalidade) | Quantifier | A1
-Every | É-vri | Todo/Cada (Individualmente) | Quantifier | A2
+// MÓDULO: DETERMINERS - ARTICLES
+The system is offline. | Dê sís-tem íz óf-láin. | O sistema (específico) está offline. | TI / Status ("Dê" antes de consoante) | A1
+The error caused a crash. | Di é-rror cózd a crésh. | O erro causou um travamento. | TI / Análise ("Di" antes de vogal) | A2
+I need a new computer. | Ái níd a niú com-piú-ter. | Preciso de um computador novo (qualquer um). | Solicitação | A1
+He is a university professor. | Rí íz a iu-ni-vêr-si-ti pro-fé-ssor. | Ele é um professor universitário. | Exceção (Som de 'Y' usa 'A') | B1
+She is an accountant. | Shí íz én a-cáun-tant. | Ela é uma contadora. | Profissão (Som de vogal) | A1
+It takes an hour to process. | Ít têiks én áu-ar tu pró-cess. | Leva uma hora para processar. | Tempo (H mudo usa 'An') | B1
+Python is a great language. | Pái-ton íz a grêit lén-guadj. | (O) Python é uma ótima linguagem. | Zero Article (Nomes de Linguagens) | A1
+Taxes are complex in Brazil. | Ték-ses ár com-pléx ín Bra-zíl. | (Os) Impostos são complexos no Brasil. | Zero Article (Generalização Plural) | B1
+Information is power. | In-for-mêi-shon íz páu-er. | (A) Informação é poder. | Zero Article (Conceito Abstrato) | B2
+We have a meeting with the director. | Ui rév a mí-ting uíf dê di-réc-tor. | Temos uma reunião com o diretor. | Corporativo | A2
+
+// MÓDULO: DETERMINERS - QUANTIFIERS
+Many | Mé-ni | Muitos / Muitas (Contáveis) | Quantificador | A1
+Much | Mâtch | Muito / Muita (Incontáveis/Negativas) | Quantificador | A1
+A lot of | A lót óv | Muito(s) / Muita(s) (Informal/Geral) | Quantificador | A1
+Some | Sâm | Alguns / Um pouco (Afirmativas) | Quantificador | A1
+Any | Ê-ni | Nenhum / Algum? / Qualquer (Neg/Int) | Quantificador | A1
+Few | Fiú | Poucos (Quase nada - Sentido negativo) | Quantificador Contável | B1
+A few | A fiú | Alguns (Alguns poucos - Sentido positivo) | Quantificador Contável | A2
+Little | Lí-tol | Pouco (Quase nada - Sentido negativo) | Quantificador Incontável | B1
+A little | A lí-tol | Um pouco (Algum - Sentido positivo) | Quantificador Incontável | A2
+Enough | E-nâf | Suficiente / Bastante | Quantificador | B1
+Several | Sé-ve-ral | Vários / Diversos (Mais que 'a few') | Quantificador Contável | B2
+Plenty of | Plên-ti óv | De sobra / Mais que suficiente | Quantificador | B2
+All | Ól | Tudo / Todos | Quantificador | A1
+None | Nân | Nenhum (Substantivo implícito) | Quantificador | B1
+
+// MÓDULO: DETERMINERS - QUANTIFIERS
+How many employees work here? | Ráu mé-ni em-pló-i-ís uôrk rí-ar? | Quantos funcionários trabalham aqui? | RH / Contável | A1
+We don't have much time left. | Ui dôunt rév mâtch táim léft. | Não temos muito tempo restante. | Gestão de Prazo / Incontável | A1
+He has a lot of experience in Python. | Rí réz a lót óv eks-pí-ri-ens ín Pái-ton. | Ele tem muita experiência em Python. | Currículo | A1
+I need some help with this report. | Ái níd sâm rélp uíf dís ri-pórt. | Preciso de uma ajuda (um pouco de ajuda) com este relatório. | Colaboração | A1
+Do you have any questions? | Du iú rév ê-ni kués-tchons? | Você tem alguma pergunta? | Reunião | A1
+We have few options in this case. | Ui rév fiú óp-shons ín dís kêis. | Temos poucas (quase nenhuma) opções neste caso. | Análise de Risco / Negativo | B1
+I have a few ideas for the project. | Ái rév a fiú ai-dí-as fór dê pró-dject. | Tenho algumas (poucas, mas boas) ideias para o projeto. | Brainstorming / Positivo | A2
+There is little hope of recovery. | Dér íz lí-tol rôup óv ri-cô-ve-ri. | Há pouca (quase nenhuma) esperança de recuperação. | Crise / Negativo | B1
+I speak a little English. | Ái spík a lí-tol Ín-glish. | Eu falo um pouco de inglês. | Habilidade / Positivo | A2
+We have enough data to proceed. | Ui rév e-nâf dêi-ta tu pro-síd. | Temos dados suficientes para prosseguir. | Análise | B1
+Several users reported the bug. | Sé-ve-ral iú-zers ri-pór-ted dê bâg. | Vários usuários reportaram o bug. | TI / Suporte | B2
+There is plenty of space on the disk. | Dér íz plên-ti óv spêis ón dê dísk. | Há espaço de sobra no disco. | Hardware | B2
+All systems are go. | Ól sís-tems ár gôu. | Todos os sistemas estão prontos/ativos. | Lançamento | A1
+None of the files were saved. | Nân óv dê fáils uêr sêivd. | Nenhum dos arquivos foi salvo. | Erro / Perda de Dados | B1
 
 // MÓDULO: DETERMINERS - POSSESSIVES (L20)
 My | Mái | Meu/Minha (Sempre antes do nome: "My car") | Possessive Determiner | A1
@@ -1320,12 +1583,79 @@ Its | Íts | Dele/Dela (Neutro/Animais/Coisas) | Possessive Determiner | A1
 Our | Áu-ar | Nosso/Nossa (Antes do nome) | Possessive Determiner | A1
 Their | Dér | Deles/Delas (Antes do nome) | Possessive Determiner | A1
 
+// MÓDULO: DETERMINERS - POSSESSIVES
+My credentials are not working. | Mái cri-dén-shals ár nót uôr-king. | Minhas credenciais não estão funcionando. | TI / Acesso | A2
+Please update your contact information. | Plíz âp-deit iór cón-tact in-for-mêi-shon. | Por favor, atualize suas informações de contato. | Cadastro | A1
+His performance was outstanding this year. | Ríz per-fór-mans uóz áut-stén-ding dís í-ar. | O desempenho dele foi excepcional este ano. | Avaliação de RH | B2
+We received her application yesterday. | Ui ri-sívd râr a-pli-kêi-shon iés-ter-dêi. | Recebemos a candidatura (currículo) dela ontem. | Recrutamento | A2
+The bank changed its privacy policy. | Dê bênk tchêin-djd íts prái-va-si pó-li-si. | O banco mudou sua política de privacidade (dele, do banco). | Corporativo / "Its" | B1
+Python has its own syntax rules. | Pái-ton réz íts ôun sín-tacs rúls. | Python tem suas próprias regras de sintaxe. | TI / Programação | A2
+Our team achieved all the targets. | Áu-ar tím a-tchívd ól dê tár-gets. | Nossa equipe alcançou todas as metas. | Gestão | B1
+They completed their training on time. | Dêi com-plí-ted dér trêi-ning ón táim. | Eles completaram o treinamento deles no prazo. | Educação Corporativa | A2
+Our priority is data security. | Áu-ar prai-ó-ri-ti íz dêi-ta si-kiú-ri-ti. | Nossa prioridade é a segurança de dados. | Segurança | B1
+Make sure your Python environment is set up. | Mêik shûr iór Pái-ton en-vái-ron-ment íz sét âp. | Certifique-se de que seu ambiente Python está configurado. | Instrução Técnica | B1
+
 // MÓDULO: VERBS - ACTION AND STATIVE (L21)
 Run | Rân | Correr (Ação física) | Action Verb | A1
 Study | Stâ-di | Estudar (Ação mental/física) | Action Verb | A1
 Know | Nôu | Saber/Conhecer (Estado mental, não ação) | Stative Verb | A1
 Believe | Bi-lív | Acreditar (Estado mental) | Stative Verb | A2
 Like | Láik | Gostar (Sentimento/Estado) | Stative Verb | A1
+Write | Ráit | Escrever | Action Verb | A1
+Calculate | Cal-cu-leit | Calcular | Action Verb | A2
+Analyze | É-na-láiz | Analisar | Action Verb | B1
+Understand | Ân-der-sténd | Entender | Stative Verb | A2
+Belong | Bi-lóng | Pertencer | Stative Verb | B1
+Cost | Cóst | Custar | Stative Verb | A1
+Contain | Con-têin | Conter | Stative Verb | B1
+Seem | Sím | Parecer (Impressão) | Stative Verb | B1
+Own | Ôun | Possuir (Ter) | Stative Verb | B1
+Need | Níd | Precisar | Stative Verb | A1
+Exist | Eg-zíst | Existir | Stative Verb | B1
+
+// MÓDULO: VERBS - ACTION AND STATIVE
+I am writing a new script in Python. | Ái ém rái-ting a niú scrípt ín Pái-ton. | Estou escrevendo um novo script em Python. | Ação (Aceita -ing) | A1
+The program calculates the tax automatically. | Dê pró-gram cal-cu-leits dê téks ó-to-mé-ti-ca-li. | O programa calcula o imposto automaticamente. | Ação | A2
+We are analyzing the fiscal data. | Ui ár é-na-lai-zing dê fís-cal dêi-ta. | Estamos analisando os dados fiscais. | Ação (Aceita -ing) | B1
+I know how to solve this error. | Ái nôu ráu tu sól-v dís é-rror. | Eu sei como resolver este erro. | Estado (Nunca 'I am knowing') | A1
+Do you understand the new regulations? | Du iú ân-der-sténd dê niú re-guiu-lêi-shons? | Você entende as novas regulamentações? | Estado (Nunca 'Are you understanding') | A2
+This laptop belongs to the company. | Dís lép-tóp bi-lóngs tu dê câm-pa-ni. | Este notebook pertence à empresa. | Posse | B1
+The software costs too much. | Dê sóft-uér cósts tú mâtch. | O software custa muito caro. | Estado | A1
+The file contains confidential information. | Dê fái-ol con-têins con-fi-dén-shal in-for-mêi-shon. | O arquivo contém informações confidenciais. | Estado | B1
+The solution seems risky. | Dê so-lú-shon síms rís-ki. | A solução parece arriscada. | Estado / Opinião | B1
+We need more memory for the server. | Ui níd mór mé-mo-ri fór dê sêr-ver. | Precisamos de mais memória para o servidor. | Estado / Necessidade | A1
+The error exists in the database. | Di é-rror eg-zísts ín dê dêi-ta-bêis. | O erro existe no banco de dados. | Estado | B1
+
+// MÓDULO: VERBS - ACTION AND STATIVE (V2 - MISTOS E AVANÇADOS)
+Have | Rév | Ter (Posse - Stative) / Comer ou Experienciar (Action) | Mixed Verb | A1
+Think | Fink | Achar (Opinião - Stative) / Pensar (Processo - Action) | Mixed Verb | A1
+See | Sí | Ver (Sentido - Stative) / Encontrar ou Consultar (Action) | Mixed Verb | A1
+Look | Lûk | Parecer (Estado - Stative) / Olhar (Ação - Action) | Mixed Verb | A1
+Weigh | Uêi | Pesar (Ter o peso - Stative) / Pesar (Ação de medir - Action) | Mixed Verb | B1
+Measure | Mé-zhur | Medir (Ter a medida - Stative) / Medir (Ação de medir - Action) | Mixed Verb | B1
+Matter | Mé-ter | Importar (Ser importante) | Stative Verb | A2
+Mind | Máind | Importar-se / Ligar | Stative Verb | A2
+Depend | Di-pénd | Depender | Stative Verb | B1
+Deserve | Di-zârv | Merecer | Stative Verb | B1
+Prefer | Pri-fâr | Preferir | Stative Verb | A1
+Realize | Rí-a-láiz | Perceber / Dar-se conta | Stative Verb | B1
+
+// MÓDULO: VERBS - ACTION AND STATIVE (V2 - MISTOS E AVANÇADOS)
+I have a fast computer. | Ái rév a fést com-piú-ter. | Eu tenho um computador rápido. | Posse (Stative - Nunca 'Having') | A1
+I am having connection issues. | Ái ém ré-ving co-néc-shon í-shus. | Estou tendo problemas de conexão. | Experiência (Action - Aceita 'Having') | B1
+I think this strategy is risky. | Ái fink dís stré-te-dji íz rís-ki. | Eu acho (opinião) que esta estratégia é arriscada. | Opinião (Stative) | B1
+I am thinking about the proposal. | Ái ém fin-king a-báut dê pro-pôu-zal. | Estou pensando (processando) sobre a proposta. | Processo Mental (Action) | B1
+I see the point clearly now. | Ái sí dê póint clír-li náu. | Eu vejo (entendo) o ponto claramente agora. | Percepção (Stative) | A1
+I am seeing the client tomorrow. | Ái ém sí-ing dê clái-ent tu-mó-rrou. | Estou vendo (encontrando/reunião) o cliente amanhã. | Agendamento (Action) | A2
+The interface looks very clean. | Di in-ter-fêis lûks vé-ri clín. | A interface parece muito limpa. | Aparência (Stative) | A2
+We are looking at the logs. | Ui ár lû-king ét dê lógs. | Estamos olhando para os logs. | Foco Visual (Action) | A2
+The box weighs 5kg. | Dê bóks uêis fáiv ki-lo-gréms. | A caixa pesa 5kg. | Característica (Stative) | B1
+He is weighing the products. | Rí íz uê-ing dê pró-dâcts. | Ele está pesando os produtos. | Ação Física (Action) | B1
+It doesn't matter to me. | Ít dâ-zent mé-ter tu mi. | Isso não importa para mim. | Relevância (Stative) | A2
+Do you mind if I open the window? | Du iú máind íf Ái ôu-pen dê uín-dou? | Você se importa se eu abrir a janela? | Polidez (Stative) | A2
+Success depends on teamwork. | Sac-sés di-pénds ón tím-uôrk. | Sucesso depende de trabalho em equipe. | Condição (Stative) | B1
+He deserves a promotion. | Rí di-zârvs a pro-môu-shon. | Ele merece uma promoção. | Mérito (Stative) | B1
+I didn't realize the mic was on. | Ái díd-nt rí-a-láiz dê máic uóz ón. | Eu não percebi que o microfone estava ligado. | Percepção (Stative) | B1
 
 // MÓDULO: VERBS - TRANSITIVE AND INTRANSITIVE (L22)
 Buy | Bái | Comprar (Precisa de objeto: Buy a car) | Transitive Verb | A1
@@ -1334,6 +1664,34 @@ Arrive | A-ráiv | Chegar (Não pede objeto direto) | Intransitive Verb | A2
 Sleep | Slíp | Dormir (Ação completa em si) | Intransitive Verb | A1
 Die | Dái | Morrer (Ação completa em si) | Intransitive Verb | A2
 
+// MÓDULO: VERBS - TRANSITIVE AND INTRANSITIVE
+Discuss | Dis-câss | Discutir (Algo) | Transitive (Exige Objeto) | B1
+Verify | Vé-ri-fái | Verificar (Algo) | Transitive (Exige Objeto) | A2
+Send | Sénd | Enviar (Algo) | Transitive (Exige Objeto) | A1
+Raise | Rêiz | Aumentar / Levantar (Algo) | Transitive (Exige Objeto) | B1
+Complete | Com-plít | Completar (Algo) | Transitive (Exige Objeto) | A2
+Arrive | A-ráiv | Chegar | Intransitive (Sem Objeto) | A1
+Occur | O-câr | Ocorrer / Acontecer | Intransitive (Sem Objeto) | B1
+Rise | Ráiz | Subir / Aumentar (Sozinho) | Intransitive (Sem Objeto) | B1
+Expire | Eks-pái-ar | Expirar / Vencer | Intransitive (Sem Objeto) | B1
+Fail | Fêil | Falhar | Intransitive (Geralmente) | A2
+Run | Rân | Executar (Algo) ou Rodar (Sozinho) | Ambos (Misto) | A1
+Manage | Mé-na-dj | Gerenciar (Algo) ou Se virar (Sozinho) | Ambos (Misto) | B1
+
+// MÓDULO: VERBS - TRANSITIVE AND INTRANSITIVE
+We need to discuss the budget. | Ui níd tu dis-câss dê bâ-djet. | Precisamos discutir o orçamento. | Transitivo (Nunca 'Discuss about') | B1
+Please verify the data integrity. | Plíz vé-ri-fái dê dêi-ta in-té-gri-ti. | Por favor, verifique a integridade dos dados. | Transitivo | A2
+I sent the email regarding the taxes. | Ái sént di í-meil ri-gár-ding dê ték-ses. | Eu enviei o e-mail a respeito dos impostos. | Transitivo | A1
+The central bank raised the interest rates. | Dê cên-tral bênk rêizd di ín-trest rêits. | O banco central aumentou as taxas de juros. | Transitivo (Ação externa) | B1
+The user completed the form. | Dê iú-zer com-plí-ted dê fórm. | O usuário completou o formulário. | Transitivo | A2
+The package arrived yesterday. | Dê pé-kadj a-ráivd iés-ter-dêi. | O pacote chegou ontem. | Intransitivo (Fim da ideia) | A1
+An unknown error occurred. | Én ân-nôun é-rror o-cârd. | Um erro desconhecido ocorreu. | Intransitivo (Fim da ideia) | B1
+Inflation rose significantly last year. | In-flêi-shon rôuz sig-ní-fi-cant-li lést í-ar. | A inflação subiu significativamente ano passado. | Intransitivo (Ação interna) | B1
+Your password will expire in 3 days. | Iór péss-uôrd uíl eks-pái-ar ín frí dêis. | Sua senha vai expirar em 3 dias. | Intransitivo | B1
+The hard drive failed. | Dê rárd dráiv fêild. | O disco rígido falhou. | Intransitivo | A2
+I run python scripts every day. | Ái rân Pái-ton scrípts é-vri dêi. | Eu rodo (executo) scripts Python todo dia. | Transitivo (Executar algo) | A1
+The software runs smoothly on Linux. | Dê sóft-uér râns smúf-li ón Lí-nux. | O software roda suavemente no Linux. | Intransitivo (Funcionar) | B1
+
 // MÓDULO: VERBS - FORMS V1 V2 V3 (L23)
 Go | Gôu | Ir (Presente/Base) | Verb Form V1 | A1
 Went | Uént | Fui/Foi (Passado Simples de Go) | Verb Form V2 | A1
@@ -1341,6 +1699,53 @@ Gone | Gón | Ido (Particípio de Go) | Verb Form V3 | B1
 See | Sí | Ver (Presente/Base) | Verb Form V1 | A1
 Saw | Só | Vi/Viu (Passado Simples de See) | Verb Form V2 | A1
 Seen | Sín | Visto (Particípio de See) | Verb Form V3 | B1
+Do | Du | Fazer (Ação/Executar) | Verb Form V1 | A1
+Did | Díd | Fiz/Fez (Passado de Do) | Verb Form V2 | A1
+Done | Dân | Feito (Particípio de Do) | Verb Form V3 | B1
+Make | Mêik | Fazer (Criar/Produzir) | Verb Form V1 | A1
+Made | Mêid | Fiz/Fez/Criou (Passado de Make) | Verb Form V2 | A1
+Made | Mêid | Feito/Criado (Particípio de Make) | Verb Form V3 | B1
+Write | Ráit | Escrever (Base) | Verb Form V1 | A1
+Wrote | Rôut | Escrevi/Escreveu (Passado de Write) | Verb Form V2 | A2
+Written | Rí-ten | Escrito (Particípio de Write) | Verb Form V3 | B1
+Read | Ríd | Ler (Base - Som de "i") | Verb Form V1 | A1
+Read | Réd | Li/Leu (Passado - Som de "é") | Verb Form V2 | A1
+Read | Réd | Lido (Particípio - Som de "é") | Verb Form V3 | B1
+Send | Sénd | Enviar (Base) | Verb Form V1 | A1
+Sent | Sént | Enviei/Enviou (Passado de Send) | Verb Form V2 | A1
+Sent | Sént | Enviado (Particípio de Send) | Verb Form V3 | B1
+Pay | Pêi | Pagar (Base) | Verb Form V1 | A1
+Paid | Pêid | Paguei/Pagou (Passado de Pay) | Verb Form V2 | A1
+Paid | Pêid | Pago (Particípio de Pay) | Verb Form V3 | B1
+Buy | Bái | Comprar (Base) | Verb Form V1 | A1
+Bought | Bót | Comprei/Comprou (Passado de Buy) | Verb Form V2 | A2
+Bought | Bót | Comprado (Particípio de Buy) | Verb Form V3 | B1
+Take | Têik | Pegar / Levar / Tomar (Base) | Verb Form V1 | A1
+Took | Tûk | Peguei/Levou (Passado de Take) | Verb Form V2 | A2
+Taken | Têi-ken | Pegado/Levado (Particípio de Take) | Verb Form V3 | B1
+Speak | Spík | Falar (Base) | Verb Form V1 | A1
+Spoke | Spôuk | Falei/Falou (Passado de Speak) | Verb Form V2 | A2
+Spoken | Spôu-ken | Falado (Particípio de Speak) | Verb Form V3 | B1
+Cost | Cóst | Custar (Base) | Verb Form V1 | A1
+Cost | Cóst | Custou (Passado de Cost - Igual) | Verb Form V2 | A2
+Cost | Cóst | Custado (Particípio de Cost - Igual) | Verb Form V3 | B1
+
+// MÓDULO: VERBS - FORMS V1 V2 V3 (L23)
+I write python scripts daily. | Ái ráit Pái-ton scrípts dêi-li. | Eu escrevo scripts Python diariamente. | V1 (Rotina) | A1
+I wrote the documentation yesterday. | Ái rôut dê do-kiu-men-têi-shon iés-ter-dêi. | Eu escrevi a documentação ontem. | V2 (Passado Definido) | A2
+The report was written by Samuel. | Dê ri-pórt uóz rí-ten bái Samuel. | O relatório foi escrito por Samuel. | V3 (Voz Passiva) | B1
+Did you do the backup? | Díd iú du dê bék-âp? | Você fez o backup? | V1 (Pergunta com Did) | A1
+We did the audit last month. | Ui díd di ó-dit lést mânf. | Nós fizemos a auditoria mês passado. | V2 (Passado) | A1
+The job is done. | Dê djób íz dân. | O trabalho está feito. | V3 (Status) | B1
+Please send the invoice. | Plíz sénd di ín-vois. | Por favor, envie a fatura. | V1 (Imperativo) | A1
+I sent the email to the client. | Ái sént di í-meil tu dê clái-ent. | Eu enviei o e-mail para o cliente. | V2 (Ação Passada) | A1
+The file has been sent successfully. | Dê fái-ol réz bín sént sac-sés-fu-li. | O arquivo foi enviado com sucesso. | V3 (Passiva/Perfect) | B1
+We need to pay the suppliers. | Ui níd tu pêi dê su-plái-ars. | Precisamos pagar os fornecedores. | V1 (Necessidade) | A1
+He paid the fee via Pix. | Rí pêid dê fí vía Pícs. | Ele pagou a taxa via Pix. | V2 (Passado) | A1
+The taxes are already paid. | Dê ték-ses ár ól-ré-di pêid. | Os impostos já estão pagos. | V3 (Status) | B1
+I read the manual carefully. | Ái réd dê mé-niu-al kér-fu-li. | Eu li o manual cuidadosamente. | V2 (Pronúncia 'Réd') | A2
+This book is widely read. | Dís bûk íz uáid-li réd. | Este livro é amplamente lido. | V3 (Pronúncia 'Réd') | B1
+The project cost more than expected. | Dê pró-dject cóst mór dên eks-péc-ted. | O projeto custou mais que o esperado. | V2 (Igual ao V1) | A2
 
 // MÓDULO: VERBS - INFINITIVE AND CONJUGATION (L24, L25)
 To be | Tu bí | Ser/Estar (Infinitivo) | Infinitive | A1
@@ -1350,9 +1755,64 @@ Is | Íz | É/Está (Conjugação 3ª pessoa: He is) | Conjugation | A1
 Are | Ár | São/Estão (Conjugação Plural: We are) | Conjugation | A1
 Has | Réz | Tem (Conjugação 3ª pessoa de Have) | Conjugation | A1
 
+// MÓDULO: VERBS - INFINITIVE AND CONJUGATION (L24, L25)
+To do | Tu du | Fazer (Infinitivo) | Infinitive | A1
+Does | Dâz | Faz (Conjugação 3ª pes. He/She/It) | Conjugation (Irregular) | A1
+To go | Tu gôu | Ir (Infinitivo) | Infinitive | A1
+Goes | Gôuz | Vai (Conjugação 3ª pes. He/She/It) | Conjugation (Irregular) | A1
+To say | Tu sêi | Dizer (Infinitivo) | Infinitive | A1
+Says | Séz | Diz (Conjugação 3ª pes. He/She/It) | Conjugation (Irregular) | A1
+To work | Tu uôrk | Trabalhar / Funcionar (Infinitivo) | Infinitive | A1
+Works | Uôrks | Trabalha / Funciona (Conjugação 3ª pes.) | Conjugation (+s) | A1
+To try | Tu trái | Tentar (Infinitivo) | Infinitive | A1
+Tries | Tráis | Tenta (Conjugação 3ª pes.) | Conjugation (y -> ies) | A2
+To study | Tu stâ-di | Estudar (Infinitivo) | Infinitive | A1
+Studies | Stâ-dis | Estuda (Conjugação 3ª pes.) | Conjugation (y -> ies) | A2
+To need | Tu níd | Precisar (Infinitivo) | Infinitive | A1
+Needs | Níds | Precisa (Conjugação 3ª pes.) | Conjugation (+s) | A1
+
+// MÓDULO: VERBS - INFINITIVE AND CONJUGATION (L24, L25)
+I need to do this report now. | Ái níd tu du dís ri-pórt náu. | Preciso fazer este relatório agora. | Infinitivo | A1
+He does the heavy lifting. | Rí dâz dê ré-vi líf-ting. | Ele faz o trabalho pesado. | 3ª Pessoa (Does) | A2
+We plan to go to the event. | Ui plén tu gôu tu di i-vént. | Planejamos ir ao evento. | Infinitivo | A1
+She goes to the office every day. | Shí gôuz tu di ó-fi-ce é-vri dêi. | Ela vai ao escritório todo dia. | 3ª Pessoa (Goes) | A1
+I have something to say. | Ái rév sâm-fing tu sêi. | Tenho algo a dizer. | Infinitivo | A1
+The report says profits are up. | Dê ri-pórt séz pró-fits ár âp. | O relatório diz que os lucros subiram. | 3ª Pessoa (Says) | B1
+The code needs to work properly. | Dê côud níds tu uôrk pró-per-li. | O código precisa funcionar adequadamente. | Infinitivo | A1
+It works perfectly on my machine. | Ít uôrks pêr-fect-li ón mái ma-shín. | Ele (o código) funciona perfeitamente na minha máquina. | 3ª Pessoa (Works) | A1
+We must try to optimize the database. | Ui mâst trái tu óp-ti-máiz dê dêi-ta-bêis. | Devemos tentar otimizar o banco de dados. | Infinitivo | B1
+He tries to learn a new tool every month. | Rí tráis tu lêrn a niú túl é-vri mânf. | Ele tenta aprender uma ferramenta nova todo mês. | 3ª Pessoa (Tries) | A2
+She studies tax law at night. | Shí stâ-dis téks ló ét náit. | Ela estuda direito tributário à noite. | 3ª Pessoa (Studies) | A2
+The system needs an update. | Dê sís-tem níds én âp-deit. | O sistema precisa de uma atualização. | 3ª Pessoa (Needs) | A1
+
 // MÓDULO: VERBS - GERUND -ING (L26)
 Working | Uôr-kin | Trabalhando (Ação em progresso) | Gerund/Participle | A1
 Swimming | Suí-min | Natação/Nadando (Como substantivo ou ação) | Gerund | A2
+Writing | Rái-tin | Escrevendo / O ato de escrever | Gerund (Drop 'e') | A1
+Running | Rân-nin | Correndo / Corrida (O ato) | Gerund (Double 'n') | A2
+Coding | Côu-din | Programando / Programação (O ato) | Gerund (Drop 'e') | A2
+Learning | Lêr-nin | Aprendendo / Aprendizado | Gerund | A1
+Planning | Plé-nin | Planejando / Planejamento | Gerund (Double 'n') | B1
+Testing | Tés-tin | Testando / Teste (O ato) | Gerund | B1
+Reading | Rí-din | Lendo / Leitura | Gerund | A1
+Listening | Lís-nin | Ouvindo / Escuta | Gerund | A1
+Developing | Di-vé-lo-pin | Desenvolvendo / Desenvolvimento | Gerund | B1
+Analyzing | É-na-lai-zin | Analisando / Análise | Gerund | B2
+
+// MÓDULO: VERBS - GERUND -ING (L26)
+I am writing a new Python script. | Ái ém rái-tin a niú Pái-ton scrípt. | Estou escrevendo um novo script Python. | Ação Contínua | A1
+Writing clean code is essential. | Rái-tin clín côud íz e-sén-shal. | Escrever código limpo é essencial. | Substantivo (Sujeito) | B1
+He is running a system check. | Rí íz rân-nin a sís-tem tchék. | Ele está rodando (executando) uma verificação de sistema. | Ação Contínua | A2
+Running is good for your health. | Rân-nin íz gûd fór iór rélf. | Correr é bom para sua saúde. | Substantivo (Hobby) | A2
+I am coding a new interface. | Ái ém côu-din a niú in-ter-fêis. | Estou programando uma nova interface. | Ação Contínua | A2
+Coding requires logic. | Côu-din ri-kuái-ars ló-djic. | Programar (programação) requer lógica. | Substantivo | B1
+We are planning the budget for 2026. | Ui ár plé-nin dê bâ-djet fór tuén-ti-tuén-ti-síks. | Estamos planejando o orçamento para 2026. | Ação Contínua | B1
+Planning prevents poor performance. | Plé-nin pri-vénts pûr per-fór-mans. | Planejar previne desempenho ruim. | Substantivo | B2
+Stop testing manually; automate it. | Stóp tés-tin mé-niu-a-li; ó-to-meit ít. | Pare de testar manualmente; automatize isso. | Imperativo + Gerúndio | B1
+He is developing a mobile app. | Rí íz di-vé-lo-pin a mó-bail ép. | Ele está desenvolvendo um aplicativo móvel. | Ação Contínua | B1
+Developing skills takes time. | Di-vé-lo-pin skíls têiks táim. | Desenvolver habilidades leva tempo. | Substantivo | B1
+Analyzing data is part of my job. | É-na-lai-zin dêi-ta íz párt óv mái djób. | Analisar dados é parte do meu trabalho. | Substantivo (Fisco/Dados) | B2
+Thank you for listening. | Tênk iú fór lís-nin. | Obrigado por ouvir (pela escuta). | Pós-Preposição (Sempre ING) | A1
 
 // MÓDULO: VERBS - AUXILIARY AND MODALS (L27, L28)
 Do | Dú | (Auxiliar para perguntas/negativas no presente) | Auxiliary Verb | A1
@@ -1362,6 +1822,26 @@ Could | Kûd | Poderia (Passado de Can/Polidez) | Modal Verb | A2
 Should | Xûd | Deveria (Conselho) | Modal Verb | A2
 Must | Mâst | Deve (Obrigação) | Modal Verb | B1
 May | Mêi | Pode (Possibilidade/Permissão formal) | Modal Verb | B1
+Does | Dâz | (Auxiliar para perguntas/negativas 3ª pessoa) | Auxiliary Verb | A1
+Will | Uíl | Vai (Auxiliar de Futuro) | Auxiliary Verb | A1
+Would | Uûd | -ia (Condicional / Polidez) | Modal Verb | A2
+Might | Máit | Poderia / Talvez (Probabilidade remota) | Modal Verb | B1
+Shall | Xél | Deve / Vamos? (Sugestão/Formal/Jurídico) | Modal Verb | B2
+Ought to | Ót tu | Deveria (Conselho formal/Moral) | Modal Verb | B2
+Have to | Rév tu | Ter que (Obrigação externa) | Semi-Modal | A2
+Must not | Mâst nót | Não deve (Proibição) | Modal Verb | B1
+
+// MÓDULO: VERBS - AUXILIARY AND MODALS (L27, L28)
+Does the server support this version? | Dâz dê sêr-ver su-pórt dís vâr-zhon? | O servidor suporta esta versão? | Auxiliar (Pergunta 3ª Pes.) | A1
+He does not have access to the code. | Rí dâz nót rév éc-sess tu dê côud. | Ele não tem acesso ao código. | Auxiliar (Negativa 3ª Pes.) | A1
+We will update the system tonight. | Ui uíl âp-deit dê sís-tem tu-náit. | Nós vamos atualizar (atualizaremos) o sistema esta noite. | Futuro (Certeza) | A1
+I would like to schedule a meeting. | Ái uûd láik tu ské-diul a mí-ting. | Eu gostaria de agendar uma reunião. | Polidez (Would Like) | A2
+It would be risky to deploy now. | Ít uûd bi rís-ki tu di-plói náu. | Seria arriscado fazer o deploy agora. | Condicional | B1
+The update might fix the bug. | Di âp-deit máit fíks dê bâg. | A atualização talvez conserte o bug (tem uma chance). | Probabilidade Incerta | B1
+Shall we start the presentation? | Xél ui stárt dê pre-zen-têi-shon? | Vamos começar a apresentação? | Sugestão Formal | B2
+You have to change your password. | Iú rév tu tchêindj iór péss-uôrd. | Você tem que mudar sua senha. | Obrigação (Regra do Sistema) | A2
+You must not share your credentials. | Iú mâst nót shér iór cri-dén-shals. | Você não deve partilhar as suas credenciais. | Proibição | B1
+We ought to backup the data first. | Ui ót tu bék-âp dê dêi-ta fârst. | Deveríamos fazer backup dos dados primeiro. | Conselho (Recomendação forte) | B2
 
 // MÓDULO: VERBS - SIMPLE TENSES (L29)
 I work | Ái uôrk | Eu trabalho (Hábito/Presente Simples) | Simple Present | A1
@@ -11640,4 +12120,5 @@ She is the apple of my eye. | Shí íz di é-pol óv mái ái. | Ela é a menina
 We need to clear the air. | Ui níd tu clí-ar di ér. | Precisamos limpar o ar (resolver um mal-entendido/tensão). | Relacionamentos e Família | C1
 He wears the pants in the relationship. | Rí uérs dê pênts in dê ri-lei-shon-shíp. | Ele é quem manda na relação. | Relacionamentos e Família | C1
 Through thick and thin. | Frú fík ênd fín. | Na alegria e na tristeza / Nos bons e maus momentos. | Relacionamentos e Família | C2
+
 
