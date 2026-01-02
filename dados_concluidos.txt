@@ -107,6 +107,97 @@ Urgent | Âr-djent | Urgente | Negócios | A2
 Feasible | Fí-zi-bol | Viável / Possível de fazer | Negócios | C1
 Viable | Vái-a-bol | Viável (economicamente) | Negócios | C1
 
+// MÓDULO: THE FLUENCY OVERLORD: PROFESSIONAL TRAITS
+We need a reliable partner for this project. | Ui níd a ri-lái-a-bol párt-ner fór dís pró-dject. | Precisamos de um parceiro confiável para este projeto. | Adjetivo Profissional | B1
+This new software is highly efficient. | Dís niú sóft-uér íz rái-li e-fí-shent. | Este novo software é altamente eficiente. | Adjetivo Profissional | B2
+You need to be proactive to solve issues. | Iú níd tu bi pro-ác-tiv tu sólv í-shus. | Você precisa ser proativo para resolver problemas. | Adjetivo Profissional | B2
+He is a diligent and focused employee. | Rí íz a dí-li-djent ênd fôu-casd em-ploi-í. | Ele é um funcionário diligente e focado. | Adjetivo Profissional | C1
+Don't be so stubborn, listen to the team. | Dôunt bi sôu stâ-born, lí-sen tu dê tím. | Não seja tão teimoso, escute a equipe. | Adjetivo Pessoal | B1
+We offer flexible working hours here. | Ui ó-fer flék-si-bol uôr-king áu-ars rí-ar. | Oferecemos horários de trabalho flexíveis aqui. | Adjetivo Profissional | B1
+She has ambitious goals for the company. | Shí réz em-bí-shas gôuls fór dê côm-pa-ni. | Ela tem metas ambiciosas para a empresa. | Adjetivo Profissional | B2
+Please be punctual for the daily meeting. | Plíz bi pânk-tchu-al fór dê dêi-li mí-ting. | Por favor, seja pontual para a reunião diária. | Adjetivo Profissional | A2
+He is resourceful when facing challenges. | Rí íz ri-sór-sful uén fêi-cing tchá-len-djes. | Ele é engenhoso quando enfrenta desafios. | Adjetivo Profissional | C1
+Is this data source trustworthy? | Íz dís dêi-ta sórs trâst-uôr-di? | Essa fonte de dados é digna de confiança? | Adjetivo Profissional | B2
+We need a decisive leader right now. | Ui níd a di-sái-siv lí-der ráit náu. | Precisamos de um líder decisivo agora mesmo. | Adjetivo Profissional | B2
+The job requires a detail-oriented person. | Dê djób ri-kuái-ars a di-têil-o-ri-én-ted pêr-son. | O trabalho requer uma pessoa detalhista. | Adjetivo Profissional | B2
+They offer innovative solutions for IT. | Dêi ó-fer í-no-vei-tiv so-lú-shons fór ái-tí. | Eles oferecem soluções inovadoras para TI. | Adjetivo Profissional | B2
+You have to be assertive in negotiations. | Iú rév tu bi a-sêr-tiv ín ne-go-shi-êi-shons. | Você tem que ser assertivo em negociações. | Adjetivo Profissional | C1
+The market is resilient to economic changes. | Dê már-ket íz ri-zí-li-ent tu e-co-nó-mic tchêin-djes. | O mercado é resiliente a mudanças econômicas. | Adjetivo Profissional | C1
+
+// MÓDULO: THE FLUENCY OVERLORD: IT & TECH
+The system architecture must be scalable. | Dê sís-tem ar-ki-téc-tchar mâst bi skêi-la-bol. | A arquitetura do sistema deve ser escalável. | TI | B2
+We built a robust security framework. | Ui bílt a ro-bâst se-kiú-ri-ti frêim-uôrk. | Nós construímos uma estrutura de segurança robusta. | TI | B2
+This function is deprecated in Python 3. | Dís fânk-shon íz dé-pre-kei-ted ín Pái-ton frí. | Esta função está descontinuada no Python 3. | TI | C1
+The value returned by the API was null. | Dê vé-liu ri-târnd bái di êi-pi-ái uóz nâl. | O valor retornado pela API foi nulo. | TI | A2
+All sensitive data is encrypted. | Ól sén-si-tiv dêi-ta íz en-críp-ted. | Todos os dados sensíveis são criptografados. | TI | B2
+Make sure the connection is secure. | Mêik shûr dê co-néc-shon íz se-kiúr. | Certifique-se de que a conexão é segura. | TI | A2
+The server is currently offline. | Dê sêr-ver íz câ-rent-li óf-láin. | O servidor está atualmente offline. | TI | A1
+Is the website online yet? | Íz dê uéb-sáit ón-láin iét? | O site já está online? | TI | A1
+This software is compatible with Windows. | Dís sóft-uér íz com-pé-ti-bol uíf Uín-dous. | Este software é compatível com Windows. | TI | B1
+The interface is very user-friendly. | Di ín-ter-feis íz vé-ri iú-zer-frénd-li. | A interface é muito fácil de usar. | TI | B1
+We have an automated backup system. | Ui rév ên ó-to-mei-ted bé-cap sís-tem. | Nós temos um sistema de backup automatizado. | TI | B2
+The beta version is still a bit buggy. | Dê bê-ta vâr-zhon íz stíl a bít bâ-gui. | A versão beta ainda está meio cheia de erros. | TI | B1
+The design is fully responsive on mobile. | Dê di-záin íz fú-li ris-pón-siv ón môu-bái-ol. | O design é totalmente responsivo no celular. | TI | B2
+We are holding a virtual meeting via Zoom. | Ui ár rôul-ding a vûr-tchu-al mí-ting vá-ia Zúm. | Estamos realizando uma reunião virtual via Zoom. | TI | A2
+Digital transformation is essential today. | Dí-dji-tal trans-for-mêi-shon íz e-sén-shal tu-dêi. | A transformação digital é essencial hoje. | TI | A1
+
+// MÓDULO: THE FLUENCY OVERLORD: FISCAL, LEGAL & FINANCE
+The company is liable for the damages. | Dê côm-pa-ni íz lái-a-bol fór dê dá-ma-djes. | A empresa é responsável pelos danos. | Fisco | C1
+Some goods are exempt from tax. | Sâm gúds ár eg-zêmpt fróm téks. | Algumas mercadorias são isentas de imposto. | Fisco | B2
+These expenses are tax deductible. | Díz eks-pén-ses ár téks di-dâc-ti-bol. | Essas despesas são dedutíveis do imposto. | Fisco | C1
+We need to review the fiscal policy. | Ui níd tu ri-viú dê fís-cal pó-li-si. | Precisamos revisar a política fiscal. | Fisco | B2
+We must comply with statutory requirements. | Ui mâst com-plái uíf stá-tchu-tó-ri ri-kuái-ar-ments. | Devemos cumprir os requisitos estatutários/legais. | Fisco | C1
+This contract is legally binding. | Dís cón-tract íz lí-ga-li báin-ding. | Este contrato é juridicamente vinculativo. | Jurídico | C1
+The contract was declared void. | Dê cón-tract uóz di-clé-ard vóid. | O contrato foi declarado nulo. | Jurídico | C1
+The payment is due tomorrow. | Dê pêi-ment íz diú tu-mó-rou. | O pagamento vence amanhã. | Financeiro | B1
+Your account is currently overdue. | Iór a-cáunt íz câ-rent-li ôu-ver-diú. | Sua conta está atualmente atrasada. | Financeiro | B2
+What is your net income per month? | Uót íz iór nét ín-cam pâr mânf? | Qual é a sua renda líquida por mês? | Financeiro | B1
+The gross profit was higher than expected. | Dê grôs pró-fit uóz rái-er dên eks-péc-ted. | O lucro bruto foi maior que o esperado. | Financeiro | B1
+Ideally, the venture will be profitable. | Ai-dí-a-li, dê vén-tchar uíl bi pró-fi-ta-bol. | Idealmente, o empreendimento será lucrativo. | Financeiro | B2
+The firm went bankrupt last year. | Dê fêrm uént bênk-râpt lést í-ar. | A firma foi à falência no ano passado. | Financeiro | B2
+We need to keep the company solvent. | Ui níd tu kíp dê côm-pa-ni sól-vent. | Precisamos manter a empresa solvente. | Financeiro | C1
+
+// MÓDULO: THE FLUENCY OVERLORD: GENERAL DESCRIPTIONS
+I bought a brand-new car. | Ái bót a brénd-niú cár. | Eu comprei um carro novinho em folha. | Geral | A2
+It is a second-hand laptop. | Its a sé-cond-rénd lép-tóp. | É um notebook de segunda mão. | Geral | B1
+The wiring in this house is faulty. | Dê uái-ring ín dís ráus íz fól-ti. | A fiação nesta casa está defeituosa. | Geral | B2
+The elevator is broken again. | Di é-le-vei-tor íz brôu-ken a-guên. | O elevador está quebrado de novo. | Geral | A1
+The package arrived damaged. | Dê pé-kadj a-ráivd dá-ma-djed. | O pacote chegou danificado. | Geral | B1
+Her English pronunciation is impeccable. | Râr Ín-glish pro-nân-ci-ei-shon íz im-pé-ca-bol. | A pronúncia de inglês dela é impecável. | Geral | C1
+This room is absolutely filthy. | Dís rúm íz éb-so-lút-li fíl-fi. | Este quarto está absolutamente imundo. | Geral | B2
+The kitchen must be spotless. | Dê kít-chen mâst bi spót-les. | A cozinha deve estar impecável (limpa). | Geral | B2
+You did an outstanding job today. | Iú díd ên áut-stén-ding djób tu-dêi. | Você fez um trabalho excepcional hoje. | Geral | B2
+The quality is just average. | Dê cuá-li-ti íz djâst é-ve-radj. | A qualidade é apenas mediana. | Geral | A2
+That is a unique opportunity for us. | Dét íz a iu-ník o-por-tú-ni-ti fór âs. | Aquela é uma oportunidade única para nós. | Geral | B1
+It is a common mistake among beginners. | Its a có-mon mis-têik a-mông bi-gí-ners. | É um erro comum entre iniciantes. | Geral | A1
+
+// MÓDULO: THE FLUENCY OVERLORD: EMOTIONS
+I am grateful for your help. | Ái ém grêit-ful fór iór rélp. | Sou grato pela sua ajuda. | Emoção | B1
+I am very proud of you. | Ái ém vé-ri práud óv iú. | Estou muito orgulhoso de você. | Emoção | A2
+I feel overwhelmed by the workload. | Ái fíl ôu-ver-uél-md bái dê uórk-lôud. | Sinto-me sobrecarregado pela carga de trabalho. | Emoção | B2
+He is anxious about the results. | Rí íz ënk-shas a-báut dê ri-zâlts. | Ele está ansioso com os resultados. | Emoção | B1
+She is confident in her skills. | Shí íz cón-fi-dent ín râr skíls. | Ela está confiante em suas habilidades. | Emoção | B1
+Don't get upset about it. | Dôunt guét âp-sét a-báut ít. | Não fique chateado com isso. | Emoção | A2
+My team is very supportive. | Mái tím íz vé-ri su-pór-tiv. | Minha equipe apoia muito / é compreensiva. | Emoção | B2
+The rules are very strict here. | Dê rúls ár vé-ri stríkt rí-ar. | As regras são muito rigorosas aqui. | Emoção | B1
+They have a loving family environment. | Dêi rév a lâ-ving fé-mi-li en-vái-ron-ment. | Eles têm um ambiente familiar amoroso. | Emoção | A2
+He gets jealous easily. | Rí guéts djé-las í-zi-li. | Ele fica com ciúmes facilmente. | Emoção | B1
+I was just curious about the process. | Ái uóz djâst kiú-ri-as a-báut dê pró-cess. | Eu estava apenas curioso sobre o processo. | Emoção | A2
+I am absolutely exhausted today. | Ái ém éb-so-lút-li eg-zós-ted tu-dêi. | Estou absolutamente exausto hoje. | Emoção | B1
+
+// MÓDULO: THE FLUENCY OVERLORD: BUSINESS PRIORITY
+This step is crucial for success. | Dís stép íz crú-shal fór sac-sés. | Este passo é crucial para o sucesso. | Negócios | B2
+Experience is essential for this job. | Eks-pí-ri-ens íz e-sén-shal fór dís djób. | Experiência é essencial para este trabalho. | Negócios | B1
+Attendance is mandatory for all staff. | A-tén-dans íz mén-da-tó-ri fór ól stéf. | A presença é obrigatória para toda a equipe. | Negócios | B2
+The workshop is optional. | Dê uórk-shóp íz óp-sho-nal. | O workshop é opcional. | Negócios | A2
+There was a significant improvement. | Dér uóz a sig-ní-fi-cant im-prúv-ment. | Houve uma melhoria significativa. | Negócios | B2
+It is just a minor issue. | It íz djâst a mái-nor í-shu. | É apenas um problema menor. | Negócios | B1
+This is a major problem for the project. | Dís íz a mêi-djor pró-blem fór dê pró-dject. | Este é um problema maior/principal para o projeto. | Negócios | B1
+Please keep the comments relevant. | Plíz kíp dê có-ments ré-le-vant. | Por favor, mantenha os comentários relevantes. | Negócios | B2
+I have an urgent message for you. | Ái rév ên âr-djent mé-sadj fór iú. | Tenho uma mensagem urgente para você. | Negócios | A2
+Is the plan feasible with our budget? | Íz dê plén fí-zi-bol uíf áu-ar bâ-djet? | O plano é viável com nosso orçamento? | Negócios | C1
+We need a viable alternative. | Ui níd a vái-a-bol ól-têr-na-tiv. | Precisamos de uma alternativa viável (economicamente). | Negócios | C1
+
 // MÓDULO: VARIAÇÕES E EXPRESSÕES COM "SO"
 So | Sôu | Então / Por isso | Conjunção | A1
 So | Sôu | Tão / Muito | Intensificador | A1
@@ -130,6 +221,29 @@ So long as | Sôu lóng éz | Contanto que | Conjunção | C1
 So be it | Sôu bi ít | Que assim seja | Expressão Formal | C2
 So to speak | Sôu tu spík | Por assim dizer | Expressão Idiomática | C2
 
+// MÓDULO: VARIAÇÕES E EXPRESSÕES COM "SO"
+It was late, so I went home. | Ít uóz lêit, sôu Ái uént rôum. | Estava tarde, então eu fui para casa. | Conjunção (Consequência) | A1
+The meeting was so long. | Dê mí-ting uóz sôu lóng. | A reunião foi tão longa. | Intensificador | A1
+I have so much work to do. | Ái rév sôu mátch uórk tu du. | Eu tenho tanto trabalho para fazer. | Quantificador (Incontável) | A1
+There were so many people there. | Dér uêr sôu mé-ni pí-pol dér. | Havia tantas pessoas lá. | Quantificador (Contável) | A1
+Is it going to rain? I think so. | Íz ít gô-ing tu rêin? Ái fink sôu. | Vai chover? Acho que sim. | Expressão de Concordância | A1
+Can we finish today? I don't think so. | Kén ui fí-nish tu-dêi? Ái dôunt fink sôu. | Podemos terminar hoje? Acho que não. | Expressão de Discordância | A1
+The presentation was just so-so. | Dê pre-zen-têi-shon uóz djâst sôu-sôu. | A apresentação foi apenas mais ou menos. | Qualidade Mediana | A2
+He discussed sales, marketing, and so on. | Rí dis-câssd sêils, már-ke-ting, ênd sôu ón. | Ele discutiu vendas, marketing e assim por diante. | Continuação de lista | B1
+The project is going well so far. | Dê pró-dject íz gô-ing uél sôu far. | O projeto está indo bem até agora. | Marcador de Tempo | B1
+Speak up so that everyone can hear. | Spík âp sôu dét é-vri-uãn kén rí-ar. | Fale alto para que todos possam ouvir. | Propósito | B1
+Will we succeed? I hope so. | Uíl ui sac-síd? Ái rôup sôu. | Nós teremos sucesso? Espero que sim. | Desejo/Esperança | B1
+Is it urgent? If so, call me. | Íz ít âr-djent? Íf sôu, cól mi. | É urgente? Se sim, me ligue. | Condicional | B1
+How is the update? So far so good. | Ráu íz di âp-deit? Sôu far sôu gud. | Como está a atualização? Até aqui, tudo bem. | Checagem de Progresso | B2
+They complained. So what? | Dêi com-plêind. Sôu uót? | Eles reclamaram. E daí? | Indiferença (Informal) | B2
+He quit the job. Is that so? | Rí kuít dê djób. Íz dét sôu? | Ele largou o emprego. É mesmo? | Surpresa/Dúvida | B2
+It will take a week or so. | Ít uíl têik a uík ór sôu. | Vai levar uma semana ou mais ou menos isso. | Aproximação | B2
+It is risky. Even so, we must try. | Its rís-ki. Íven sôu, ui mâst trái. | É arriscado. Mesmo assim, devemos tentar. | Contraste | C1
+We left early so as to avoid traffic. | Ui léft êr-li sôu éz tu a-vóid tré-fic. | Saímos cedo a fim de evitar o trânsito. | Propósito (Formal) | C1
+You can go so long as you finish. | Iú kén gôu sôu lóng éz iú fí-nish. | Você pode ir contanto que termine. | Condição | C1
+If they refuse, then so be it. | Íf dêi ri-fiúz, dên sôu bi ít. | Se eles recusarem, então que assim seja. | Resignação/Aceitação | C2
+He is the architect of the plan, so to speak. | Rí íz di ár-ki-tect óv dê plén, sôu tu spík. | Ele é o arquiteto do plano, por assim dizer. | Metáfora | C2
+
 // MÓDULO: VARIAÇÕES E EXPRESSÕES COM "GET"
 Get | Gét | Pegar / Obter / Receber | Verbo Irregular | A1
 Get up | Gét âp | Levantar-se | Phrasal Verb | A1
@@ -147,6 +261,23 @@ Get by | Gét bái | Se virar (sobreviver) | Phrasal Verb | C1
 Get away with | Gét a-uêi uíf | Sair impune | Phrasal Verb | C1
 Get the hang of | Gét dâ réng óv | Pegar o jeito | Expressão Idiomática | C2
 
+// MÓDULO: VARIAÇÕES E EXPRESSÕES COM "GET"
+Did you get the quarterly report? | Díd iú gét dê cuór-ter-li ri-pórt? | Você recebeu o relatório trimestral? | Corporativo (Receber) | A1
+I usually get up at 6 AM for the gym. | Ái iú-zhu-a-li gét âp ét síks ei-ém fór dê djím. | Eu geralmente levanto às 6 da manhã para a academia. | Dia a dia (Rotina) | A1
+We need to get out of this contract. | Ui níd tu gét áut óv dís cón-tract. | Precisamos sair deste contrato. | Corporativo (Jurídico) | A1
+Get ready for the audit meeting. | Gét ré-di fór di ó-dit mí-ting. | Prepare-se para a reunião de auditoria. | Corporativo (Preparação) | A2
+I need to get dressed for the party. | Ái níd tu gét drésd fór dê pár-ti. | Preciso me vestir para a festa. | Social (Evento) | A2
+My colleague is getting married. | Mái co-líg íz gé-ting mé-rid. | Meu colega está se casando. | Social (Novidade) | A2
+Take a day off to get well. | Têik a dêi óf tu gét uél. | Tire um dia de folga para melhorar. | Corporativo (Saúde/RH) | A2
+The data got lost during migration. | Dê dêi-ta gót lóst diú-ring mai-grêi-shon. | Os dados se perderam durante a migração. | TI / Corporativo | B1
+Our departments don't get along well. | Áu-ar di-párt-ments dôunt gét a-lóng uél. | Nossos departamentos não se dão bem. | Corporativo (Relacionamento) | B1
+We must get rid of redundant costs. | Ui mâst gét ríd óv ri-dân-dant cósts. | Devemos nos livrar de custos redundantes. | Financeiro (Cortar gastos) | B2
+We need to get over this loss and move on. | Ui níd tu gét ôu-ver dís lós ênd múv ón. | Precisamos superar esse prejuízo/perda e seguir em frente. | Corporativo (Resiliência) | B2
+You will get used to the new software. | Iú uíl gét iúzd tu dê niú sóft-uér. | Você vai se acostumar com o novo software. | TI / Adaptação | B2
+We can't just get by; we need to grow. | Ui ként djâst gét bái; ui níd tu grôu. | Não podemos apenas sobreviver/nos virar; precisamos crescer. | Corporativo (Ambição) | C1
+They won't get away with tax evasion. | Dêi uôunt gét a-uêi uíf téks i-vêi-zhon. | Eles não vão sair impunes da sonegação fiscal. | Fisco / Jurídico | C1
+It takes time to get the hang of the algorithm. | Ít têiks táim tu gét dê réng óv di ál-go-ri-dm. | Leva tempo para pegar o jeito do algoritmo. | TI / Aprendizado | C2
+
 // MÓDULO: VARIAÇÕES E EXPRESSÕES COM "WAY"
 Way | Uêi | Caminho / Jeito / Maneira | Substantivo | A1
 No way | Nôu uêi | De jeito nenhum | Expressão (Informal) | A2
@@ -159,6 +290,19 @@ All the way | Ól dâ uêi | Até o fim / Totalmente | Expressão | B2
 Out of the way | Áut óv dâ uêi | Fora do caminho / Isolado | Expressão | C1
 Have it your way | Rév ít iór uêi | Faça do seu jeito | Expressão | C1
 Pave the way | Pêiv dâ uêi | Abrir caminho (preparar o terreno) | Expressão Idiomática | C2
+
+// MÓDULO: VARIAÇÕES E EXPRESSÕES COM "WAY"
+This is the best way to solve the problem. | Dís íz dê bést uêi tu sólv dê pró-blem. | Este é o melhor jeito/caminho para resolver o problema. | Solução de problemas | A1
+No way I am signing this without a lawyer. | Nôu uêi Ái ém sái-ning dís uí-dáut a ló-yer. | De jeito nenhum eu vou assinar isso sem um advogado. | Recusa enfática | A2
+By the way, did you send the invoice? | Bái dê uêi, díd iú sénd di ín-vois? | A propósito, você enviou a fatura? | Lembrete casual | A2
+I am on my way to the client's office. | Ái ém ón mái uêi tu dê clái-ents ó-fi-ce. | Estou a caminho do escritório do cliente. | Status de localização | A2
+Anyway, let's focus on the quarterly results. | Ê-ni-uêi, léts fôu-cas ón dê cuór-ter-li ri-zâlts. | Enfim/De qualquer forma, vamos focar nos resultados trimestrais. | Retomando o foco | B1
+In a way, this failure taught us a lot. | Ín a uêi, dís fêi-li-ar tót âs a lót. | De certa maneira, esse fracasso nos ensinou muito. | Reflexão | B2
+Email or call, either way is fine for me. | Í-meil ór cól, í-der uêi íz fáin fór mi. | E-mail ou ligação, de qualquer modo está bom para mim. | Escolha entre opções | B2
+We support this project all the way. | Ui su-pórt dís pró-dject ól dê uêi. | Nós apoiamos este projeto totalmente/até o fim. | Comprometimento | B2
+Let's get this administrative issue out of the way. | Léts guét dís ad-mi-nis-trêi-tiv í-shu áut óv dê uêi. | Vamos tirar esse problema administrativo do caminho (resolver logo). | Priorização | C1
+Fine, have it your way. | Fáin, rév ít iór uêi. | Tudo bem, faça do seu jeito. | Concessão (Informal) | C1
+This agreement will pave the way for future growth. | Dís a-grí-ment uíl pêiv dê uêi fór fiú-tchar grôuf. | Este acordo vai abrir caminho para o crescimento futuro. | Estratégia | C2
 
 // MÓDULO: VARIAÇÕES E EXPRESSÕES COM "COULD"
 Could | Kûd | Podia / Poderia | Verbo Modal | A2
@@ -177,6 +321,23 @@ I couldn't agree more | Ai kû-dênt a-grí mór | Concordo plenamente | Express
 Could do with | Kûd du uíf | Estar precisando de / Cairia bem | Expressão Idiomática | C2
 Couldn't care less | Kû-dênt kér lés | Não estou nem aí | Expressão (Informal) | C2
 
+// MÓDULO: VARIAÇÕES E EXPRESSÕES COM "COULD"
+We could try a different strategy. | Ui kûd trái a dí-fe-rent stré-te-dji. | Nós poderíamos tentar uma estratégia diferente. | Sugestão (Corporativo) | A2
+I couldn't attend the meeting yesterday. | Ái kû-dênt a-ténd dê mí-ting iés-ter-dêi. | Eu não pude comparecer à reunião ontem. | Justificativa | A2
+Could I ask a question about the budget? | Kûd ái ésk a kués-tchan a-báut dê bâ-djet? | Eu poderia fazer uma pergunta sobre o orçamento? | Permissão (Polido) | A2
+Could you send me the file, please? | Kûd iú sénd mi dê fái-ol, plíz? | Você poderia me enviar o arquivo, por favor? | Pedido (Polido) | A2
+The delay could be due to a server error. | Dê di-lêi kûd bi diú tu a sêr-ver é-rror. | O atraso pode/poderia ser devido a um erro no servidor. | Possibilidade Técnica | B1
+We could have saved more money. | Ui kûd rév sêivd mór mâ-nei. | Nós poderíamos ter economizado mais dinheiro. | Passado Modal (Arrependimento) | B1
+If I could help, I certainly would. | Íf ái kûd rélp, Ái sêr-tan-li uûd. | Se eu pudesse ajudar, eu certamente ajudaria. | Condicional | B1
+I replied to the email as fast as I could. | Ái ri-pláid tu di í-meil éz fést éz ái kûd. | Respondi ao e-mail o mais rápido que pude. | Eficiência | B1
+How could you forget the deadline? | Ráu kûd iú for-guét dê déd-láin? | Como você pôde esquecer o prazo? | Indignação (Trabalho) | B2
+We lost a client, but it could be worse. | Ui lóst a clái-ent, bât ít kûd bi uârs. | Perdemos um cliente, mas poderia ser pior. | Consolo/Otimismo | B2
+Who could be calling at this hour? | Ru kûd bi có-ling ét dís áu-ar? | Quem poderia estar ligando a esta hora? | Especulação | B2
+I laughed at the joke, I couldn't help it. | Ái léfd ét dê djôuk, Ái kû-dênt rélp ít. | Eu ri da piada, não consegui evitar. | Reação espontânea | C1
+I couldn't agree more with your proposal. | Ái kû-dênt a-grí mór uíf iór pro-pôu-zal. | Concordo plenamente com sua proposta. | Concordância forte | C1
+I could really do with a coffee right now. | Ái kûd rí-li du uíf a có-fi ráit náu. | Eu realmente estou precisando de um café agora (cairia bem). | Expressão de necessidade | C2
+I couldn't care less about office politics. | Ái kû-dênt kér lés a-báut ó-fi-ce pó-li-tics. | Não estou nem aí para política de escritório. | Indiferença (Informal) | C2
+
 // MÓDULO: VARIAÇÕES E EXPRESSÕES COM "SHOULD"
 Should | Xûd | Deveria / Deve | Verbo Modal | A2
 Shouldn't | Xû-dênt | Não deveria | Verbo Modal | A2
@@ -193,6 +354,8 @@ Should you need | Xûd iú níd | Caso você precise | Condicional (Formal) | C1
 I should think so | Ai xûd fink sôu | Acredito que sim / Tomara que sim | Expressão | C1
 Should've, Would've, Could've | Xû-dav, Uû-dav, Kû-dav | Teria, poderia, deveria (falar do passado sem agir) | Expressão Idiomática | C2
 Lest you should | Lést iú xûd | Para que você não... | Gramática Arcaica/Formal | C2
+
+
 
 // MÓDULO: VARIAÇÕES E EXPRESSÕES COM "WOULD"
 Would | Uûd | (Terminação -ia) Faria / Seria | Verbo Modal | A2
@@ -10972,3 +11135,52 @@ Hidden fees | RRí-den fíiz | Taxas escondidas | Shopping | C1
 The Tracker | Dâ trré-ker | Usar o "Tracking number" para saber onde está a sua encomenda | Missão | B1
 The Refund Master | Dâ rrí-fând més-ter | Solicitar um "Refund" após receber um produto "Damaged" | Missão | B2
 The Deal Hunter | Dâ díiol rrân-ter | Aplicar um "Discount code" antes do "Checkout" para poupar ouro | Missão | A2
+
+// MÓDULO: THE FLUENCY OVERLORD: CORPORATE & LEADERSHIP
+We need to drill down into the details. | Ui níd tu dríl dáun ín-tu dê di-têils. | Precisamos esmiuçar/aprofundar nos detalhes. | Negociação e Estratégia | C1
+Let's leverage our core competencies. | Léts lé-ve-radj áu-ar cór com-pé-ten-cis. | Vamos alavancar nossas competências principais. | Negociação e Estratégia | C2
+This is a low-hanging fruit. | Dís íz a lôu-rên-guing frút. | Isso é algo fácil de conseguir/resolver (fruta baixa). | Negociação e Estratégia | C1
+We are burning the candle at both ends. | Ui ár bâr-ning dê kén-dol ét bôuf énds. | Estamos trabalhando exaustivamente (de manhã à noite). | Negociação e Estratégia | C2
+It's time to think outside the box. | Its táim tu fink áut-sáid dê bóks. | É hora de pensar fora da caixa (ser criativo). | Negociação e Estratégia | B2
+Let's touch base next week. | Léts tâtch bêis nékst uík. | Vamos nos falar/atualizar na semana que vem. | Negociação e Estratégia | C1
+I want to play devil's advocate here. | Ái uónt tu plêi dé-vols éd-vo-keit rí-ar. | Quero fazer o papel de advogado do diabo aqui. | Negociação e Estratégia | C2
+We need to get everyone on the same page. | Ui níd tu guét é-vri-uãn ón dê sêim pêidj. | Precisamos alinhar todo mundo (estar na mesma página). | Negociação e Estratégia | B2
+This is a deal-breaker for us. | Dís íz a dí-ol-brêi-ker fór âs. | Isso é um fator impeditivo para nós (quebra o negócio). | Negociação e Estratégia | C1
+Let's circle back to this later. | Léts sêr-col bék tu dís lêi-ter. | Vamos voltar a este assunto mais tarde. | Negociação e Estratégia | C1
+I want to empower you to make decisions. | Ái uónt tu em-páu-er iú tu mêik di-sí-zhons. | Quero te dar autonomia/poder para tomar decisões. | Liderança e Gestão de Pessoas | C1
+We need to foster a culture of innovation. | Ui níd tu fós-ter a câl-tchar óv i-no-vêi-shon. | Precisamos promover/cultivar uma cultura de inovação. | Liderança e Gestão de Pessoas | C2
+He really stepped up to the plate. | Rí rí-li stép-t âp tu dê plêit. | Ele realmente assumiu a responsabilidade (subiu no palco). | Liderança e Gestão de Pessoas | C2
+Let's keep the ball rolling. | Léts kíp dê ból rôu-ling. | Vamos manter o processo andando/continuar o progresso. | Liderança e Gestão de Pessoas | B2
+We need to bite the bullet. | Ui níd tu báit dê bú-let. | Precisamos encarar a situação difícil (morder a bala). | Liderança e Gestão de Pessoas | C2
+My door is always open. | Mái dór íz ól-uêis ôu-pen. | Minha porta está sempre aberta (para conversas). | Liderança e Gestão de Pessoas | B1
+We are on the same wavelength. | Ui ár ón dê sêim uêiv-lénf. | Estamos na mesma sintonia/comprimento de onda. | Liderança e Gestão de Pessoas | C1
+Don't micromanage me. | Dôunt mái-cro-mé-nadj mi. | Não me microgerencie (controle cada detalhe). | Liderança e Gestão de Pessoas | C1
+We need to streamline the process. | Ui níd tu strím-láin dê pró-cess. | Precisamos otimizar/agilizar o processo. | Liderança e Gestão de Pessoas | C1
+Let's call it a day. | Léts cól ít a dêi. | Vamos encerrar por hoje. | Liderança e Gestão de Pessoas | B2
+The bottom line is profitability. | Dê bó-tom láin íz pro-fi-ta-bí-li-ti. | O ponto principal/resultado final é a lucratividade. | Financeiro e Jurídico | C1
+We need to mitigate the risks. | Ui níd tu mí-ti-gueit dê rísks. | Precisamos mitigar/reduzir os riscos. | Financeiro e Jurídico | C1
+This agreement is null and void. | Dís a-grí-ment íz nâl ênd vóid. | Este acordo é nulo e sem efeito. | Financeiro e Jurídico | C2
+We are in the red / in the black. | Ui ár in dê réd / in dê blék. | Estamos no prejuízo / no lucro. | Financeiro e Jurídico | B2
+Due diligence is required. | Diú dí-li-djen-s íz ri-kuái-ard. | A diligência prévia (investigação) é necessária. | Financeiro e Jurídico | C2
+
+// MÓDULO: THE FLUENCY OVERLORD: SOCIAL & RELATIONSHIPS
+Let's paint the town red! | Léts pêint dê táun réd! | Vamos cair na gandaia / fazer uma festa de arromba! | Socialização e Festas | C2
+He is the life of the party. | Rí íz dê láif óv dê pár-ti. | Ele é a alma da festa (muito animado). | Socialização e Festas | B2
+I'm just chilling. | Áim djâst tchí-ling. | Só estou relaxando / de boa. | Socialização e Festas | B1
+It's on me tonight. | Its ón mi tu-náit. | É por minha conta hoje à noite (eu pago). | Socialização e Festas | B1
+Let's grab a bite. | Léts gréb a báit. | Vamos comer alguma coisa rápida. | Socialização e Festas | B2
+I'm feeling a bit under the weather. | Áim fí-ling a bít ân-der dê ué-der. | Estou me sentindo meio mal/indisposto. | Socialização e Festas | C1
+Make yourself at home. | Mêik iór-sélf ét rôum. | Sinta-se em casa. | Socialização e Festas | B1
+Let's catch up soon. | Léts kétch âp sún. | Vamos colocar o papo em dia em breve. | Socialização e Festas | B2
+He's a dark horse. | Ríz a dárk rórs. | Ele é uma caixinha de surpresas (tem talentos ocultos). | Socialização e Festas | C2
+Spill the tea! | Spíl dê tí! | Conta a fofoca! / Desembucha! | Socialização e Festas | C1
+We embrace the chaos. | Ui em-brêis dê kêi-ós. | Nós abraçamos o caos (aceitamos a bagunça da vida/filhos). | Relacionamentos e Família | C1
+They are like chalk and cheese. | Dêi ár láik tchók ênd tchíz. | Eles são como água e vinho (totalmente diferentes). | Relacionamentos e Família | C2
+I have a soft spot for her. | Ái rév a sóft spót fór râr. | Tenho um fraco por ela / Gosto muito dela. | Relacionamentos e Família | C1
+He popped the question. | Rí póp-t dê kués-tchan. | Ele fez o pedido (de casamento). | Relacionamentos e Família | C1
+We tied the knot. | Ui táid dê nót. | Nós nos casamos (demos o nó). | Relacionamentos e Família | C1
+Blood is thicker than water. | Blôd íz fí-ker dên uó-ta. | O sangue é mais grosso que a água (família vem primeiro). | Relacionamentos e Família | B2
+She is the apple of my eye. | Shí íz di é-pol óv mái ái. | Ela é a menina dos meus olhos (minha favorita/amada). | Relacionamentos e Família | C2
+We need to clear the air. | Ui níd tu clí-ar di ér. | Precisamos limpar o ar (resolver um mal-entendido/tensão). | Relacionamentos e Família | C1
+He wears the pants in the relationship. | Rí uérs dê pênts in dê ri-lei-shon-shíp. | Ele é quem manda na relação. | Relacionamentos e Família | C1
+Through thick and thin. | Frú fík ênd fín. | Na alegria e na tristeza / Nos bons e maus momentos. | Relacionamentos e Família | C2
