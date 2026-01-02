@@ -355,7 +355,22 @@ I should think so | Ai xûd fink sôu | Acredito que sim / Tomara que sim | Expr
 Should've, Would've, Could've | Xû-dav, Uû-dav, Kû-dav | Teria, poderia, deveria (falar do passado sem agir) | Expressão Idiomática | C2
 Lest you should | Lést iú xûd | Para que você não... | Gramática Arcaica/Formal | C2
 
-
+// MÓDULO: VARIAÇÕES E EXPRESSÕES COM "SHOULD"
+You should double-check the report. | Iú xûd dâ-bol-tchék dê ri-pórt. | Você deveria checar o relatório duas vezes. | Conselho Corporativo | A2
+You shouldn't ignore the warning signs. | Iú xû-dênt ig-nór dê uór-ning sáins. | Você não deveria ignorar os sinais de aviso. | Conselho / Alerta | A2
+It is getting late, I should go. | It íz gé-ting lêit, Ái xûd gôu. | Está ficando tarde, eu deveria ir. | Despedida Social | A2
+You should try this new restaurant. | Iú xûd trái dís niú rés-to-rant. | Você deveria experimentar este novo restaurante. | Recomendação Social | A2
+The system crashed, what should I do? | Dê sís-tem crésh-d, uót xûd ái du? | O sistema travou, o que eu deveria fazer? | Pedido de Instrução (TI) | B1
+The package should be here by noon. | Dê pé-kadj xûd bi rí-ar bái nún. | O pacote deve estar aqui por volta do meio-dia. | Probabilidade / Logística | B1
+We should have invested earlier. | Ui xûd rév in-vés-ted êr-li-er. | Nós deveríamos ter investido mais cedo. | Arrependimento (Negócios) | B2
+I should have known about the fees. | Ái xûd rév nôun a-báut dê fíz. | Eu deveria ter sabido sobre as taxas. | Autocrítica | B2
+You really should take a vacation. | Iú rí-li xûd têik a vei-kêi-shon. | Você realmente deveria tirar férias. | Ênfase / Cuidado Pessoal | B2
+Why should I change my strategy? | Uái xûd ái tchêindj mái stré-te-dji? | Por que eu deveria mudar minha estratégia? | Defensiva / Argumentação | B2
+Restart the app, it should work now. | Ri-stárt di ép, ít xûd uôrk náu. | Reinicie o aplicativo, deve funcionar agora. | Expectativa Técnica | B2
+Should you need assistance, please call. | Xûd iú níd a-sís-tans, plíz cól. | Caso você precise de assistência, por favor ligue. | Formal (E-mail/Contrato) | C1
+Will he win? I should think so. | Uíl rí uín? Ái xûd fink sôu. | Ele vai ganhar? Acredito que sim / Imagino que sim. | Opinião Confiante | C1
+No more should've, would've, could've. | Nôu mór xû-dav, uû-dav, kû-dav. | Chega de "se eu tivesse", "poderia ter"... (lamúrias do passado). | Expressão Idiomática | C2
+Write it down, lest you should forget. | Uráit ít dáun, lést iú xûd for-guét. | Anote, para que você não esqueça (caso venha a esquecer). | Gramática Formal/Literária | C2
 
 // MÓDULO: VARIAÇÕES E EXPRESSÕES COM "WOULD"
 Would | Uûd | (Terminação -ia) Faria / Seria | Verbo Modal | A2
@@ -374,6 +389,23 @@ Wouldn't miss it | Uû-dênt mís ít | Não perderia por nada | Expressão Idio
 Whatever it would take | Uót-é-ver ít uûd têik | O que fosse necessário | Expressão | C1
 As luck would have it | Éz lâck uûd rév ít | Por obra do acaso / Por sorte | Expressão Idiomática | C2
 
+// MÓDULO: VARIAÇÕES E EXPRESSÕES COM "WOULD"
+I would travel more if I had time. | Ái uûd tré-vel mór íf ái réd táim. | Eu viajaria mais se tivesse tempo. | Condicional (Dia a dia) | A2
+I wouldn't recommend this strategy. | Ái uû-dênt re-co-ménd dís stré-te-dji. | Eu não recomendaria esta estratégia. | Opinião (Corporativo) | A2
+I would like to schedule a meeting. | Ái uûd láik tu ské-djul a mí-ting. | Eu gostaria de agendar uma reunião. | Solicitação Polida | A2
+Would you like some coffee? | Uûd iú láik sâm có-fi? | Você gostaria de um pouco de café? | Oferta (Social) | A2
+It would take weeks to fix this bug. | Ít uûd têik uíks tu fíks dís bâg. | Levaria semanas para consertar esse erro. | Estimativa de Tempo (TI) | B1
+I would say the market is stable. | Ái uûd sêi dê már-ket íz stêi-bol. | Eu diria que o mercado está estável. | Opinião/Análise | B1
+That would be perfect for our team. | Dét uûd bi pâr-fect fór áu-ar tím. | Isso seria perfeito para nossa equipe. | Reação Positiva | B1
+I would rather email than call. | Ái uûd rá-der í-meil dên cól. | Eu preferiria mandar e-mail do que ligar. | Preferência de Comunicação | B2
+Would you mind reviewing this report? | Uûd iú máind ri-viú-ing dís ri-pórt? | Você se importaria de revisar este relatório? | Pedido Formal | B2
+We would have signed the deal earlier. | Ui uûd rév sáind dê dí-ol êr-li-er. | Nós teríamos assinado o acordo mais cedo. | Passado (Arrependimento) | B2
+We would never compromise on quality. | Ui uûd né-ver com-pro-máiz ón cuá-li-ti. | Nós nunca comprometeríamos a qualidade. | Valores da Empresa | B2
+If I were you, I would accept the offer. | Íf ái uâr iú, ái uûd ac-cépt di ó-fer. | Se eu fosse você, eu aceitaria a oferta. | Conselho de Carreira | B2
+The launch party? I wouldn't miss it. | Dê lóntch pár-ti? Ái uû-dênt mís ít. | A festa de lançamento? Eu não perderia por nada. | Compromisso Social | C1
+They did whatever it would take to win. | Dêi díd uót-é-ver ít uûd têik tu uín. | Eles fizeram o que fosse necessário para vencer. | Determinação | C1
+As luck would have it, the server crashed. | Éz lâck uûd rév ít, dê sêr-ver crésh-d. | Por azar/sorte, o servidor travou (bem na hora). | Coincidência (Idiomática) | C2
+
 // MÓDULO: VARIAÇÕES E EXPRESSÕES COM "WILL"
 Will | Uíl | Vai / Irá (Indicador de Futuro) | Verbo Auxiliar | A1
 Won't | Uôunt | Não vai / Não irá | Verbo Auxiliar (Negativo) | A1
@@ -390,6 +422,23 @@ That will do | Dét uíl du | Já serve / É o suficiente | Expressão Idiomáti
 At will | Ét uíl | À vontade / Quando quiser | Expressão Formal | C1
 Good will | Gûd uíl | Boa vontade | Substantivo | C1
 Last will | Lést uíl | Testamento / Último desejo | Termo Legal | C2
+
+// MÓDULO: VARIAÇÕES E EXPRESSÕES COM "WILL"
+We will launch the product next month. | Ui uíl lóntch dê pró-duct nékst mânf. | Nós lançaremos o produto no mês que vem. | Futuro Simples | A1
+The new update won't affect the speed. | Dê niú âp-deit uôunt a-féct dê spíd. | A nova atualização não vai afetar a velocidade. | Previsão Técnica (Negativo) | A1
+Don't worry, I'll send the invoice. | Dôunt uô-ri, Ail sénd di ín-vois. | Não se preocupe, eu enviarei a fatura. | Decisão Espontânea | A1
+Will you be available for a call? | Uíl iú bi a-vêi-la-bol fór a cól? | Você estará disponível para uma ligação? | Pedido/Convite | A1
+Can we count on you? Yes, I will. | Kén ui cáunt ón iú? Iés, ái uíl. | Podemos contar com você? Sim, eu vou/podem. | Resposta Curta | A1
+He will be the project manager. | Rí uíl bi dê pró-dject mé-na-djer. | Ele será o gerente do projeto. | Estado Futuro | A2
+Send me the logs. Will do. | Sénd mi dê lógs. Uíl du. | Me mande os logs. Pode deixar/Farei isso. | Confirmação Informal | B1
+It takes a lot of will power to save money. | Ít têiks a lót óv uíl páu-er tu sêiv mâ-nei. | É preciso muita força de vontade para guardar dinheiro. | Disciplina Pessoal | B1
+They signed the contract of their own free will. | Dêi sáind dê cón-tract óv dér ôun frí uíl. | Eles assinaram o contrato por livre e espontânea vontade. | Jurídico/Decisão | B2
+I was transferred against my will. | Ái uóz trans-fêrd a-gênst mái uíl. | Fui transferido contra a minha vontade. | Reclamação (RH) | B2
+By Friday, we will have finished the audit. | Bái Frái-dei, ui uíl rév fí-nish-d di ó-dit. | Até sexta-feira, teremos terminado a auditoria. | Futuro Perfeito (Prazo) | B2
+That's enough explanation, that will do. | Déts i-nâf eks-pla-nêi-shon, dét uíl du. | Chega de explicação, isso já serve/é o suficiente. | Encerramento | C1
+The contract allows termination at will. | Dê cón-tract a-láus têr-mi-nêi-shon ét uíl. | O contrato permite rescisão a qualquer momento (sem justa causa). | Jurídico (Employment Law) | C1
+We did it as a gesture of good will. | Ui díd ít éz a djés-tchar óv gûd uíl. | Fizemos isso como um gesto de boa vontade. | Negociação | C1
+The lawyer is reading the last will. | Dê ló-yer íz rí-ding dê lést uíl. | O advogado está lendo o testamento. | Jurídico/Sucessão | C2
 
 // MÓDULO: VARIAÇÕES E EXPRESSÕES COM "GOT"
 Got | Gót | Consegui / Peguei / Recebi | Verbo (Passado) | A1
@@ -408,6 +457,23 @@ Got to go | Gót tu gôu | Tenho que ir | Despedida | B2
 Got out of hand | Gót áut óv rénd | Saiu do controle | Expressão Idiomática | C1
 Got wind of | Gót uínd óv | Ouviu falar / Descobriu (rumor) | Expressão Idiomática | C2
 
+// MÓDULO: VARIAÇÕES E EXPRESSÕES COM "GOT"
+I got the confirmation email. | Ái gót dê con-fir-mêi-shon í-meil. | Recebi o e-mail de confirmação. | Corporativo (Passado) | A1
+I've got a lot on my plate right now. | Áiv gót a lót ón mái plêit ráit náu. | Eu tenho muita coisa para fazer agora. | Expressão (Ocupado) | A1
+We have got to solve this bug today. | Ui rév gót tu sólv dís bâg tu-dêi. | Nós temos que resolver esse bug hoje. | Obrigação (Urgência) | A2
+Send me the logs. Got it. | Sénd mi dê lógs. Gót ít. | Me mande os logs. Entendi / Recebido. | Confirmação | A2
+Oh, I see the logic error. Gotcha. | Ôu, Ái sí dê ló-djic é-rror. Gót-cha. | Ah, vejo o erro de lógica. Saquei. | Gíria (Informal) | B1
+The shipment got lost in transit. | Dê shíp-ment gót lóst ín trán-sit. | A remessa se perdeu no trânsito. | Logística | B1
+The market situation got better. | Dê már-ket si-tchu-êi-shon gót bé-ter. | A situação do mercado melhorou. | Análise de Mercado | B1
+The exam is hard, but you got this. | Di eg-zém íz rárd, bât iú gót dís. | O exame é difícil, mas você consegue. | Incentivo | B1
+I finally got used to the new layout. | Ái fái-na-li gót iúzd tu dê niú lêi-áut. | Eu finalmente me acostumei com o novo layout. | Adaptação | B2
+The upload got stuck at 99%. | Di âp-lôud gót stâck ét nái-ni-náin per-cént. | O upload travou em 99%. | Problema Técnico | B2
+He got fired for leaking data. | Rí gót fá-ird fór lí-king dêi-ta. | Ele foi demitido por vazar dados. | Corporativo (Grave) | B2
+The potential client got away. | Dê po-tén-shal clái-ent gót a-uêi. | O cliente em potencial escapou (perdemos a venda). | Vendas | B2
+The meeting started, I got to go. | Dê mí-ting stár-ted, Ái gót tu gôu. | A reunião começou, tenho que ir. | Pressa / Despedida | B2
+The project costs got out of hand. | Dê pró-dject cósts gót áut óv rénd. | Os custos do projeto saíram do controle. | Financeiro / Gestão | C1
+The press got wind of the merger. | Dê prés gót uínd óv dê mêr-djer. | A imprensa ouviu falar sobre a fusão. | Segredo Corporativo | C2
+
 // MÓDULO: ADJETIVOS POR SUFIXO (PART 1: -AN, -ABLE, -IBLE)
 Urban | Âr-ban | Urbano | Adjetivo (-an) | B2
 American | A-mé-ri-can | Americano | Adjetivo (-an) | A1
@@ -418,6 +484,17 @@ Available | A-vêi-la-bol | Disponível | Adjetivo (-able) | A2
 Responsible | Ris-pón-sa-bol | Responsável | Adjetivo (-ible) | A2
 Invisible | In-ví-zi-bol | Invisível | Adjetivo (-ible) | B1
 Incorrigible | In-có-ri-dji-bol | Incorrigível | Adjetivo (-ible) | C2
+
+// MÓDULO: ADJETIVOS POR SUFIXO (PART 1: -AN, -ABLE, -IBLE)
+Urban development is increasing rapidly. | Âr-ban di-vé-lop-ment íz in-crí-sing rá-pid-li. | O desenvolvimento urbano está aumentando rapidamente. | Planejamento / Cidades | B2
+The American market is huge. | Di A-mé-ri-can már-ket íz riúd-j. | O mercado americano é enorme. | Negócios Internacionais | A1
+I really like Indian cuisine. | Ái rí-li láik Ín-di-an cui-zín. | Eu realmente gosto da culinária indiana. | Social / Gastronomia | A1
+Your puppy is absolutely adorable. | Iór pâ-pi íz éb-so-lút-li a-dó-ra-bol. | Seu cachorrinho é absolutamente adorável. | Social / Elogio | B1
+This office chair is very comfortable. | Dís ó-fi-ce tché-ar íz vé-ri kâm-for-ta-bol. | Esta cadeira de escritório é muito confortável. | Mobiliário / Conforto | A1
+Are you available for a meeting? | Ár iú a-vêi-la-bol fór a mí-ting? | Você está disponível para uma reunião? | Agendamento | A2
+Who is responsible for this task? | Ru íz ris-pón-sa-bol fór dís tésk? | Quem é responsável por esta tarefa? | Gestão de Projetos | A2
+The changes are almost invisible. | Dê tchêin-djes ár ól-môust in-ví-zi-bol. | As mudanças são quase invisíveis. | Detalhes / Visual | B1
+He is an incorrigible optimist. | Rí íz ên in-có-ri-dji-bol óp-ti-mist. | Ele é um otimista incorrigível. | Personalidade | C2
 
 // MÓDULO: ADJETIVOS POR SUFIXO (PART 2: -AL, -AR, -IC, -ICAL)
 Viral | Vái-ral | Viral | Adjetivo (-al) | B2
@@ -433,6 +510,20 @@ Identical | Ai-dên-ti-cal | Idêntico | Adjetivo (-ical) | B2
 Magical | Mé-dji-cal | Mágico | Adjetivo (-ical) | A2
 Comical | Có-mi-cal | Cômico / Engraçado | Adjetivo (-ical) | C1
 
+// MÓDULO: ADJETIVOS POR SUFIXO (PART 2: -AL, -AR, -IC, -ICAL)
+Our campaign went viral on social media. | Áu-ar kem-pêin uént vái-ral ón sôu-shal mí-dia. | Nossa campanha viralizou nas redes sociais. | Marketing Digital | B2
+This content is for educational purposes. | Dís cón-tent íz fór e-du-kêi-xo-nal pâr-po-ses. | Este conteúdo é para fins educacionais. | Aviso Legal / Educação | B2
+We used a drone for aerial photography. | Ui iúzd a drôn fór é-ri-al fo-tó-gra-fi. | Usamos um drone para fotografia aérea. | Tecnologia / Imagem | C1
+Python is a popular programming language. | Pái-ton íz a pó-piu-lar pro-gré-ming lén-guadj. | Python é uma linguagem de programação popular. | TI / Geral | A1
+They are discussing nuclear safety protocols. | Dêi ár dis-câ-ssing nú-cli-ar sêif-ti pró-to-cols. | Eles estão discutindo protocolos de segurança nuclear. | Engenharia / Segurança | B1
+The modern design has an angular shape. | Dê mó-dern di-záin réz ên ên-guiu-lar shêip. | O design moderno tem uma forma angular. | Arquitetura / Design | C1
+He is very athletic and runs daily. | Rí íz vé-ri ef-lé-tic ênd râns dêi-li. | Ele é muito atlético e corre diariamente. | Descrição Pessoal | B1
+We need scientific data to prove this. | Ui níd sai-en-tí-fic dêi-ta tu prúv dís. | Precisamos de dados científicos para provar isso. | Pesquisa / Corporativo | B1
+A leader shouldn't be too dogmatic. | A lí-der xû-dênt bi tú dóg-mé-tic. | Um líder não deveria ser muito dogmático (inflexível). | Liderança | C2
+The twin servers are identical. | Dê tuín sêr-vers ár ai-dên-ti-cal. | Os servidores gêmeos são idênticos. | TI / Infraestrutura | B2
+The sunset view was magical. | Dê sân-sét viú uóz mé-dji-cal. | A vista do pôr do sol foi mágica. | Social / Viagem | A2
+The error message was almost comical. | Di é-rror mé-sadj uóz ól-môust có-mi-cal. | A mensagem de erro foi quase cômica. | Relato de Situação | C1
+
 // MÓDULO: ADJETIVOS POR SUFIXO (PART 3: -INE, -ILE, -IVE)
 Masculine | Més-kiu-lin | Masculino | Adjetivo (-ine) | B1
 Feminine | Fé-mi-nin | Feminino | Adjetivo (-ine) | B1
@@ -443,6 +534,17 @@ Hostile | Rós-tail | Hostil | Adjetivo (-ile) | C1
 Talkative | Tó-ka-tiv | Falador / Conversador | Adjetivo (-ive) | B1
 Native | Nêi-tiv | Nativo | Adjetivo (-ive) | B1
 Furtive | Fâr-tiv | Furtivo / Discreto | Adjetivo (-ive) | C2
+
+// MÓDULO: ADJETIVOS POR SUFIXO (PART 3: -INE, -ILE, -IVE)
+The branding has a masculine appeal. | Dê brén-ding réz a més-kiu-lin a-píl. | A marca tem um apelo masculino. | Marketing | B1
+She has a soft, feminine voice. | Shí réz a sóft, fé-mi-nin vôis. | Ela tem uma voz suave e feminina. | Descrição Pessoal | B1
+The police deployed the canine unit. | Dê po-lís di-plóid dê kêi-nain iú-nit. | A polícia mobilizou a unidade canina. | Segurança | C1
+The soil here is very fertile. | Dê sóil rí-ar íz vé-ri fâr-tail. | O solo aqui é muito fértil. | Agricultura / Geografia | C1
+We adopted an Agile framework for this project. | Ui a-dóp-ted ên É-djail frêim-uôrk fór dís pró-dject. | Adotamos uma estrutura Ágil para este projeto. | TI / Gestão de Projetos | C1
+They launched a hostile takeover bid. | Dêi lóntch-d a rós-tail têik-ôu-ver bíd. | Eles lançaram uma oferta de aquisição hostil. | Negócios / Finanças | C1
+The new intern is very talkative. | Dê niú ín-tern íz vé-ri tó-ka-tiv. | O novo estagiário é muito falador. | Social / Ambiente de Trabalho | B1
+Are you a native English speaker? | Ár iú a nêi-tiv Ín-glish spí-ker? | Você é um falante nativo de inglês? | Idiomas | B1
+He made a furtive attempt to leave. | Rí mêid a fâr-tiv a-témpt tu lív. | Ele fez uma tentativa furtiva (discreta) de sair. | Comportamento | C2
 
 // MÓDULO: ADJETIVOS POR SUFIXO (PART 4: -ENT, -FUL, -LESS)
 Intelligent | In-té-li-djent | Inteligente | Adjetivo (-ent) | A1
@@ -455,6 +557,17 @@ Careless | Kér-les | Descuidado / Desligado | Adjetivo (-less) | B2
 Useless | Iús-les | Inútil | Adjetivo (-less) | B2
 Timeless | Táim-les | Atemporal / Eterno | Adjetivo (-less) | C1
 
+// MÓDULO: ADJETIVOS POR SUFIXO (PART 4: -ENT, -FUL, -LESS)
+She is a very intelligent leader. | Shí íz a vé-ri in-té-li-djent lí-der. | Ela é uma líder muito inteligente. | Qualidade Pessoal | A1
+Please keep your phone on silent mode. | Plíz kíp iór fôn ón sái-lent môud. | Por favor, mantenha seu telefone no modo silencioso. | Etiqueta Corporativa | B1
+This is a potent marketing strategy. | Dís íz a pôu-tent már-ke-ting stré-te-dji. | Esta é uma estratégia de marketing potente. | Negócios | C1
+The view from the office is beautiful. | Dê viú fróm di ó-fi-ce íz bíu-ti-ful. | A vista do escritório é bonita. | Descrição de Ambiente | A1
+These chemicals are harmful to health. | Díz ké-mi-cals ár rárm-ful tu rélf. | Estes produtos químicos são prejudiciais à saúde. | Segurança do Trabalho | B2
+Misleading ads are considered deceitful. | Mis-lí-ding éds ár con-sí-derd di-sít-ful. | Anúncios enganosos são considerados desonestos. | Ética / Marketing | C2
+It was a careless mistake in the code. | Ít uóz a kér-les mis-têik ín dê côud. | Foi um erro descuidado no código. | Feedback / TI | B2
+Without data, this report is useless. | Uí-dáut dêi-ta, dís ri-pórt íz iús-les. | Sem dados, este relatório é inútil. | Análise de Dados | B2
+The classic design is timeless. | Dê clé-ssic di-záin íz táim-les. | O design clássico é atemporal. | Design / Estilo | C1
+
 // MÓDULO: ADJETIVOS POR SUFIXO (PART 5: -OUS, -SOME)
 Dangerous | Dên-dje-rôs | Perigoso | Adjetivo (-ous) | A2
 Enormous | I-nór-môs | Enorme | Adjetivo (-ous) | B1
@@ -462,6 +575,14 @@ Fibrous | Fái-brôs | Fibroso | Adjetivo (-ous) | C2
 Awesome | Ó-sam | Incrível / Demais | Adjetivo (-some) | A2
 Handsome | Rén-sam | Bonito (geralmente p/ homens) | Adjetivo (-some) | A2
 Lonesome | Lôn-sam | Solitário | Adjetivo (-some) | C2
+
+// MÓDULO: ADJETIVOS POR SUFIXO (PART 5: -OUS, -SOME)
+It is dangerous to ignore the warnings. | It íz dên-dje-rôs tu ig-nór dê uór-nings. | É perigoso ignorar os avisos. | Segurança | A2
+The project has enormous potential. | Dê pró-dject réz i-nór-môs po-tén-shal. | O projeto tem um potencial enorme. | Avaliação de Negócios | B1
+This insulation material is fibrous. | Dís in-su-lêi-shon ma-tí-ri-al íz fái-brôs. | Este material de isolamento é fibroso. | Técnico / Engenharia | C2
+The new app feature is awesome. | Dê niú ép fí-tchar íz ó-sam. | O novo recurso do aplicativo é incrível. | Feedback Informal | A2
+He looked very handsome in his suit. | Rí lúkd vé-ri rén-sam ín ríz sút. | Ele parecia muito bonito no terno dele. | Social / Descrição | A2
+Remote work can be quite lonesome. | Ri-môut uórk kén bi kuáit lôn-sam. | Trabalho remoto pode ser bem solitário. | Psicologia do Trabalho | C2
 
 // MÓDULO: ADJETIVOS E QUANTIFICADORES IRREGULARES (COMPARATIVOS E SUPERLATIVOS)
 Good | Gûd | Bom | Adjetivo Irregular | A1
@@ -486,6 +607,20 @@ Further | Fâr-der | Mais longe (metafórico/distância) | Comparativo | B1
 Farther | Fár-der | Mais longe (distância física) | Comparativo | B1
 The furthest | Dâ fâr-dest | O mais distante | Superlativo | B2
 
+// MÓDULO: ADJETIVOS E QUANTIFICADORES IRREGULARES
+This version is better than the old one. | Dís vâr-zhon íz bé-ter dên di ôuld uãn. | Esta versão é melhor que a antiga. | Comparativo (Good) | A1
+It was the best decision we made. | Ít uóz dê bést di-sí-zhon ui mêid. | Foi a melhor decisão que tomamos. | Superlativo (Good) | A2
+The situation is getting worse. | Dê si-tchu-êi-shon íz gé-ting uôrs. | A situação está ficando pior. | Comparativo (Bad) | A2
+That is the worst possible outcome. | Dét íz dê uôrst pó-ssi-bol áut-cam. | Aquele é o pior resultado possível. | Superlativo (Bad) | B1
+We need further information. | Ui níd fâr-der in-for-mêi-shon. | Precisamos de mais informações (adicionais). | Comparativo (Far - Abstrato) | B2
+Pluto is the farthest planet. | Plú-to íz dê fár-dest plé-net. | Plutão é o planeta mais distante. | Superlativo (Far - Distância) | B2
+I have less time than you. | Ái rév lés táim dên iú. | Tenho menos tempo do que você. | Comparativo (Little - Incontável) | A2
+This is the least expensive option. | Dís íz dê líst eks-pén-siv óp-shon. | Esta é a opção menos cara (mais barata). | Superlativo (Little) | B1
+We need more data to analyze. | Ui níd mór dêi-ta tu é-na-láiz. | Precisamos de mais dados para analisar. | Comparativo (Much/Many) | A1
+This is the most critical bug. | Dís íz dê môust crí-ti-cal bâg. | Este é o bug mais crítico. | Superlativo (Much/Many) | A2
+My elder brother is an engineer. | Mái él-der bró-der íz ên en-dji-ní-ar. | Meu irmão mais velho é engenheiro. | Comparativo (Old - Família) | B2
+She is the eldest of three sisters. | Shí íz di él-dest óv frí sís-ters. | Ela é a mais velha de três irmãs. | Superlativo (Old - Família) | B2
+
 // MÓDULO: COMPARATIVOS E SUPERLATIVOS (CASOS ESPECIAIS)
 Old | Ôuld | Velho | Adjetivo | A1
 Older | Ôul-der | Mais velho (que) | Comparativo | A1
@@ -500,6 +635,18 @@ Nearer | Ní-a-rer | Mais perto | Comparativo | A2
 The nearest | Dâ ní-a-rest | O mais próximo (físico) | Superlativo | B1
 The next | Dâ nécst | O próximo (sequência) | Superlativo Irregular | A1
 
+// MÓDULO: COMPARATIVOS E SUPERLATIVOS (CASOS ESPECIAIS)
+This machine is very old. | Dís ma-shín íz vé-ri ôuld. | Esta máquina é muito velha. | Geral / Equipamento | A1
+This version is older than the current one. | Dís vâr-zhon íz ôul-der dên dê câ-rrent uãn. | Esta versão é mais velha que a atual. | TI / Comparação | A1
+It is the oldest company in the sector. | Ít íz di ôul-dest côm-pa-ni ín dê séc-tor. | É a empresa mais antiga do setor. | Corporativo | A2
+The report is late again. | Dê ri-pórt íz lêit a-guên. | O relatório está atrasado de novo. | Corporativo | A1
+Let's discuss this later. | Léts dis-câss dís lêi-ter. | Vamos discutir isso mais tarde. | Gestão de Tempo | A1
+Download the latest update. | Dáun-lôud dê lêi-test âp-deit. | Baixe a atualização mais recente (última lançada). | TI / Software | B1
+Is there a bank near here? | Íz dér a bênk ní-ar rí-ar? | Tem um banco perto daqui? | Localização | A2
+The deadline is getting nearer. | Dê déd-láin íz gé-ting ní-a-rer. | O prazo está ficando mais perto. | Gestão de Projetos | A2
+Where is the nearest hospital? | Uér íz dê ní-a-rest rós-pi-tal? | Onde fica o hospital mais próximo? | Emergência / Física | B1
+The next step is implementation. | Dê nécst stép íz im-ple-men-têi-shon. | O próximo passo é a implementação. | Sequência / Processo | A1
+
 // MÓDULO: COMPARATIVOS CVC (DOBRA A LETRA)
 Big | Big | Grande | Adjetivo | A1
 Bigger | Bí-guer | Maior (que) | Comparativo | A1
@@ -512,6 +659,17 @@ The hottest | Dâ ró-test | O mais quente | Superlativo | A2
 Thin | Fin | Magro / Fino | Adjetivo | A2
 Thinner | Fí-ner | Mais magro | Comparativo | B1
 The thinnest | Dâ fí-nest | O mais magro | Superlativo | B1
+
+// MÓDULO: COMPARATIVOS CVC (DOBRA A LETRA)
+We have a big challenge ahead. | Ui rév a bíg tchá-lendj a-réd. | Temos um grande desafio pela frente. | Corporativo | A1
+Our market share is bigger now. | Áu-ar már-ket shér íz bí-guer náu. | Nossa fatia de mercado é maior agora. | Negócios | A1
+It was the biggest sale of the year. | Ít uóz dê bí-guest sêil óv dê í-ar. | Foi a maior venda do ano. | Vendas | A1
+Be careful, the coffee is hot. | Bi kér-ful, dê có-fi íz rót. | Cuidado, o café está quente. | Dia a dia | A1
+Today is hotter than yesterday. | Tu-dêi íz ró-ter dên iés-ter-dêi. | Hoje está mais quente que ontem. | Clima | A1
+This is the hottest trend right now. | Dís íz dê ró-test trénd ráit náu. | Esta é a tendência mais quente no momento. | Marketing | A2
+The new design is very thin. | Dê niú di-záin íz vé-ri fín. | O novo design é muito fino. | Produto / Design | A2
+The profit margins are getting thinner. | Dê pró-fit már-djins ár gé-ting fí-ner. | As margens de lucro estão ficando mais finas (apertadas). | Financeiro | B1
+It is the thinnest laptop available. | It íz dê fí-nest lép-tóp a-vêi-la-bol. | É o notebook mais fino disponível. | Tecnologia | B1
 
 // MÓDULO: COMPARATIVOS TERMINADOS EM Y
 Happy | Ré-pi | Feliz | Adjetivo | A1
@@ -526,6 +684,17 @@ Busy | Bí-zi | Ocupado | Adjetivo | A1
 Busier | Bí-zi-er | Mais ocupado | Comparativo | A2
 The busiest | Dâ bí-zi-est | O mais ocupado / O mais movimentado | Superlativo | B1
 
+// MÓDULO: COMPARATIVOS TERMINADOS EM Y
+I am very happy with the results. | Ái ém vé-ri ré-pi uíf dê ri-zâlts. | Estou muito feliz com os resultados. | Feedback Profissional | A1
+She seems happier in the new role. | Shí síms ré-pi-er ín dê niú rôul. | Ela parece mais feliz no novo cargo. | RH / Gestão | A1
+He is the happiest person I know. | Rí íz dê ré-pi-est pêr-son Ái nôu. | Ele é a pessoa mais feliz que conheço. | Social | A2
+The installation process is easy. | Di ins-ta-lêi-shon pró-cess íz í-zi. | O processo de instalação é fácil. | TI / Manual | A1
+This software is easier to use. | Dís sóft-uér íz í-zi-er tu iúz. | Este software é mais fácil de usar. | TI / Comparação | A1
+That was the easiest solution found. | Dét uóz di í-zi-est so-lú-shon fáund. | Aquela foi a solução mais fácil encontrada. | Resolução de Problemas | A2
+I am very busy right now. | Ái ém vé-ri bí-zi ráit náu. | Estou muito ocupado agora. | Dia a dia | A1
+This week is busier than the last one. | Dís uík íz bí-zi-er dên dê lést uãn. | Esta semana está mais ocupada que a última. | Carga de Trabalho | A2
+December is our busiest month. | Di-cém-ber íz áu-ar bí-zi-est mânf. | Dezembro é o nosso mês mais movimentado. | Vendas / Varejo | B1
+
 // MÓDULO: COMPARATIVOS LONGOS (MORE/MOST)
 Important | Im-pór-tant | Importante | Adjetivo | A1
 More important | Mór im-pór-tant | Mais importante | Comparativo | A2
@@ -538,6 +707,17 @@ The most expensive | Dâ môust eks-pên-siv | O mais caro | Superlativo | A2
 Dangerous | Dên-dje-rôs | Perigoso | Adjetivo | A2
 More dangerous | Mór dên-dje-rôs | Mais perigoso | Comparativo | A2
 The most dangerous | Dâ môust dên-dje-rôs | O mais perigoso | Superlativo | A2
+
+// MÓDULO: COMPARATIVOS LONGOS (MORE/MOST)
+Customer satisfaction is important. | Câs-to-mer sa-tis-féc-shon íz im-pór-tant. | A satisfação do cliente é importante. | Negócios | A1
+Time is more important than money. | Táim íz mór im-pór-tant dên mâ-nei. | Tempo é mais importante que dinheiro. | Prioridade / Ditado | A2
+Safety is the most important factor. | Sêif-ti íz dê môust im-pór-tant féc-tor. | Segurança é o fator mais importante. | Regra de Ouro | A2
+Living in London is expensive. | Lí-ving ín Lân-don íz eks-pên-siv. | Morar em Londres é caro. | Custo de Vida | A1
+This option is more expensive. | Dís óp-shon íz mór eks-pên-siv. | Esta opção é mais cara. | Orçamento | A1
+It was the most expensive mistake. | Ít uóz dê môust eks-pên-siv mis-têik. | Foi o erro mais caro. | Prejuízo Corporativo | A2
+The chemical is very dangerous. | Dê ké-mi-cal íz vé-ri dên-dje-rôs. | O produto químico é muito perigoso. | Segurança do Trabalho | A2
+Driving fast is more dangerous at night. | Drái-ving fést íz mór dên-dje-rôs ét náit. | Dirigir rápido é mais perigoso à noite. | Trânsito | A2
+It is the most dangerous job in the world. | Ít íz dê môust dên-dje-rôs djób ín dê uôrld. | É o trabalho mais perigoso do mundo. | Curiosidade / Fato | A2
 
 // MÓDULO: VERBOS + PREPOSIÇÕES (COMUNICAÇÃO E AÇÃO)
 Agree on | A-grí ón | Concordar com (um preço/plano) | Verbo + Prep | B1
@@ -566,6 +746,33 @@ Wait for | Uêit fór | Esperar por | Verbo + Prep | A1
 Work for | Uôrk fór | Trabalhar para | Verbo + Prep | A1
 Worry about | Uâ-ri a-báut | Preocupar-se com | Verbo + Prep | A2
 
+// MÓDULO: VERBOS + PREPOSIÇÕES (COMUNICAÇÃO E AÇÃO)
+We need to agree on a final price. | Ui níd tu a-grí ón a fái-nal práis. | Precisamos concordar com um preço final. | Negociação | B1
+We agree in principle, but not on details. | Ui a-grí ín prín-si-pol, bât nót ón di-têils. | Concordamos em princípio, mas não nos detalhes. | Contratos / Formal | C1
+I apologize for the delay in replying. | Ái a-pó-lo-djaiz fór dê di-lêi ín ri-plái-ing. | Peço desculpas pela demora em responder. | E-mail Corporativo | B1
+You should apologize to the client. | Iú xûd a-pó-lo-djaiz tu dê clái-ent. | Você deveria pedir desculpas ao cliente. | Gestão de Crise | B1
+They always argue about politics. | Dêi ól-uêis ár-guiu a-báut pó-li-tics. | Eles sempre discutem sobre política. | Social | B1
+Don't argue with your supervisor. | Dôunt ár-guiu uíf iór su-per-vái-zor. | Não discuta com seu supervisor. | Conselho de Carreira | B1
+Did you ask about the salary range? | Díd iú ésk a-báut dê sé-la-ri rêindj? | Você perguntou sobre a faixa salarial? | Entrevista de Emprego | A1
+Feel free to ask for assistance. | Fíl frí tu ésk fór a-sís-tans. | Sinta-se à vontade para pedir assistência. | Atendimento | A1
+This laptop belongs to the company. | Dís lép-tóp bi-lóngs tu dê côm-pa-ni. | Este notebook pertence à empresa. | Patrimônio / TI | A2
+We care about customer satisfaction. | Ui kér a-báut câs-to-mer sa-tis-féc-shon. | Nós nos importamos com a satisfação do cliente. | Valores da Empresa | A2
+She cares for her elderly parents. | Shí kérs fór râr él-der-li pé-rents. | Ela cuida de seus pais idosos. | Pessoal / Família | B1
+He compared the economy to a roller coaster. | Rí com-pérd di e-co-no-mi tu a rôu-ler côus-ter. | Ele comparou a economia a uma montanha-russa (semelhança). | Metáfora | B2
+Compare this year's results with last year's. | Com-pér dís í-ars ri-zâlts uíf lést í-ars. | Compare os resultados deste ano com os do ano passado (análise). | Análise de Dados | B2
+Our product differs from the competition. | Áu-ar pró-duct dí-fers fróm dê com-pe-ti-shon. | Nosso produto difere da concorrência. | Marketing | B2
+I must differ with you on that point. | Ái mâst dí-fer uíf iú ón dét póint. | Devo discordar de você nesse ponto. | Discordância Formal | C2
+Who will pay for the dinner? | Ru uíl pêi fór dê dí-ner? | Quem vai pagar pelo jantar? | Social | A1
+We must prepare for the upcoming audit. | Ui mâst pri-pér fór di âp-câ-ming ó-dit. | Devemos nos preparar para a próxima auditoria. | Corporativo | A2
+How much do we spend on advertising? | Ráu mátch du ui spênd ón éd-ver-tái-zing? | Quanto nós gastamos em publicidade? | Financeiro | A2
+I am studying for a certification exam. | Ái ém stâ-di-ing fór a cer-ti-fi-kêi-shon eg-zém. | Estou estudando para um exame de certificação. | Desenvolvimento Pessoal | A1
+We need to talk about the budget. | Ui níd tu tók a-báut dê bâ-djet. | Precisamos falar sobre o orçamento. | Reunião | A1
+I will think about your proposal. | Ái uíl fink a-báut iór pro-pôu-zal. | Vou pensar sobre sua proposta. | Negociação | A1
+You must trust in the process. | Iú mâst trâst ín dê pró-cess. | Você deve confiar no processo. | Motivação | B2
+I am waiting for a reply from HR. | Ái ém uêi-ting fór a ri-plái fróm eit-chá-ar. | Estou esperando uma resposta do RH. | Corporativo | A1
+I work for a multinational firm. | Ái uôrk fór a mul-ti-né-sho-nal fêrm. | Eu trabalho para uma firma multinacional. | Apresentação Pessoal | A1
+Don't worry about the costs for now. | Dôunt uâ-ri a-báut dê cósts fór náu. | Não se preocupe com os custos por enquanto. | Gestão de Projetos | A2
+
 // MÓDULO: ADJETIVOS E EMOÇÕES + PREPOSIÇÕES
 Angry at | Ên-gri ét | Bravo com (uma pessoa) | Adjetivo + Prep | A2
 Angry about | Ên-gri a-báut | Bravo por causa de (algo) | Adjetivo + Prep | A2
@@ -586,6 +793,26 @@ Sure of | Xâr óv | Certo de | Adjetivo + Prep | B1
 Tired of | Tái-ard óv | Cansado de | Adjetivo + Prep | A2
 Worried about | Uâ-rid a-báut | Preocupado com | Adjetivo + Prep | A2
 
+// MÓDULO: ADJETIVOS E EMOÇÕES + PREPOSIÇÕES
+Why are you angry at him? | Uái ár iú ên-gri ét rím? | Por que você está bravo com ele? | Conflito Pessoal | A2
+He is angry about the flight cancellation. | Rí íz ên-gri a-báut dê fláit can-ce-lêi-shon. | Ele está bravo por causa do cancelamento do voo. | Situação | A2
+We are aware of the security risks. | Ui ár a-uér óv dê se-kiú-ri-ti rísks. | Estamos cientes dos riscos de segurança. | Corporativo / TI | B2
+The system is capable of handling millions of users. | Dê sís-tem íz kêi-pa-bol óv rén-dling mí-li-ons óv iú-zers. | O sistema é capaz de lidar com milhões de usuários. | TI / Capacidade | B2
+Don't be careless about your passwords. | Dôunt bi kér-les a-báut iór péss-uôrds. | Não seja descuidado com suas senhas. | Segurança Digital | B2
+Are you familiar with this software? | Ár iú fa-mí-li-ar uíf dís sóft-uér? | Você está familiarizado com este software? | Habilidades | B2
+I am very fond of this team. | Ái ém vé-ri fónd óv dís tím. | Eu gosto muito desta equipe / Sou afeiçoado a ela. | Liderança / Afeto | B2
+We are happy about the sales figures. | Ui ár ré-pi a-báut dê sêils fí-gui-urs. | Estamos felizes com os números de vendas. | Resultados | A2
+I am so happy for your promotion! | Ái ém sôu ré-pi fór iór pro-môu-shon! | Estou tão feliz pela sua promoção! | Social / Parabenizando | A2
+He was jealous of his colleague's success. | Rí uóz djé-lôs óv ríz co-lígs sac-sés. | Ele estava com ciúmes do sucesso do colega. | Emoção | B1
+The prototype is made of plastic. | Dê pró-to-taip íz mêid óv plés-tic. | O protótipo é feito de plástico. | Descrição de Produto | B1
+She is married to a lawyer. | Shí íz mé-rid tu a ló-yer. | Ela é casada com um advogado. | Pessoal (Nota: usa-se TO, não WITH) | A1
+I am proud of what we achieved. | Ái ém práud óv uót ui a-tchívd. | Estou orgulhoso do que conquistamos. | Motivação | B1
+This error is similar to the last one. | Dís é-rror íz sí-mi-lar tu dê lést uãn. | Este erro é similar ao último. | TI / Debugging | A2
+I am sorry for the inconvenience. | Ái ém só-ri fór di in-con-ví-ni-ens. | Peço desculpas pelo inconveniente. | Atendimento ao Cliente | A1
+Are you sure of the data accuracy? | Ár iú xâr óv dê dêi-ta é-kiu-ra-si? | Você tem certeza da precisão dos dados? | Análise | B1
+Consumers are tired of high prices. | Con-sú-mers ár tái-ard óv rái prái-ces. | Os consumidores estão cansados de preços altos. | Economia | A2
+I am worried about the project timeline. | Ái ém uâ-rid a-báut dê pró-dject táim-lain. | Estou preocupado com o cronograma do projeto. | Gestão | A2
+
 // MÓDULO: PHRASAL VERBS (AÇÃO + PREPOSIÇÃO)
 Bring up | Bring âp | Mencionar / Criar (filhos) | Phrasal Verb | B2
 Find out | Fáind áut | Descobrir | Phrasal Verb | A2
@@ -595,6 +822,17 @@ Look for | Lûk fór | Procurar | Phrasal Verb | A1
 Look forward to | Lûk fór-uard tu | Aguardar ansiosamente | Phrasal Verb | B1
 Look up | Lûk âp | Pesquisar / Consultar | Phrasal Verb | A2
 Make up | Mêik âp | Inventar / Compensar / Fazer as pazes | Phrasal Verb | B1
+
+// MÓDULO: PHRASAL VERBS (AÇÃO + PREPOSIÇÃO)
+Don't bring up this topic during the meeting. | Dôunt bring âp dís tó-pic diú-ring dê mí-ting. | Não mencione este tópico durante a reunião. | Corporativo / Reunião | B2
+We need to find out who accessed the server. | Ui níd tu fáind áut ru ac-cés-d dê sêr-ver. | Precisamos descobrir quem acessou o servidor. | TI / Segurança | A2
+Don't give up on your goals. | Dôunt gív âp ón iór gôuls. | Não desista dos seus objetivos. | Motivação | A2
+Where did you grow up? | Uér díd iú grôu âp? | Onde você cresceu? | Social / Conversa | A1
+I am looking for a new job opportunity. | Ái ém lû-king fór a niú djób o-por-tú-ni-ti. | Estou procurando uma nova oportunidade de emprego. | Carreira | A1
+We look forward to hearing from you. | Ui lûk fór-uard tu rí-ring fróm iú. | Aguardamos ansiosamente por notícias suas. | Formal (Final de E-mail) | B1
+I need to look up this error code online. | Ái níd tu lûk âp dís é-rror côud ón-láin. | Preciso pesquisar este código de erro online. | TI / Pesquisa | A2
+You can't just make up the numbers. | Iú ként djâst mêik âp dê nâm-bers. | Você não pode simplesmente inventar os números. | Corporativo / Ética | B1
+Let's try to make up for lost time. | Léts trái tu mêik âp fór lóst táim. | Vamos tentar compensar o tempo perdido. | Gestão de Tempo | B1
 
 // MÓDULO: SUBSTANTIVOS + PREPOSIÇÕES
 Approval of | A-prú-val óv | Aprovação de | Substantivo + Prep | C1
@@ -616,6 +854,26 @@ Respect for | Ris-péct fór | Respeito por | Substantivo + Prep | B1
 Success in | Sac-sés ín | Sucesso em | Substantivo + Prep | B1
 Understanding of | Ân-der-stên-ding óv | Entendimento de | Substantivo + Prep | B2
 
+// MÓDULO: SUBSTANTIVOS + PREPOSIÇÕES
+We are waiting for the approval of the board. | Ui ár uêi-ting fór di a-prú-val óv dê bórd. | Estamos esperando a aprovação do conselho. | Corporativo | C1
+We need to raise awareness of cyber risks. | Ui níd tu rêiz a-uér-nes óv sái-ber rísks. | Precisamos aumentar a consciência dos riscos cibernéticos. | TI / Segurança | B2
+My belief in this team is unshakable. | Mái bi-líf ín dís tím íz ân-shêi-ka-bol. | Minha crença nesta equipe é inabalável. | Liderança | B2
+He showed concern for the safety regulations. | Rí shôud con-sârn fór dê sêif-ti re-guiu-lêi-shons. | Ele demonstrou preocupação com as normas de segurança. | Segurança do Trabalho | C1
+There is confusion about the new policy. | Dér íz con-fiú-jan a-báut dê niú pó-li-si. | Há confusão sobre a nova política. | RH / Comunicação | B2
+The market has a desire for innovation. | Dê már-ket réz a di-zái-ar fór i-no-vêi-shon. | O mercado tem desejo por inovação. | Vendas / Marketing | C1
+I have a fondness for Italian food. | Ái rév a fónd-nes fór I-tá-lian fúd. | Tenho uma afeição/gosto por comida italiana. | Pessoal | C2
+She has a solid grasp of the technology. | Shí réz a só-lid grésp óv dê tec-nó-lo-dji. | Ela tem um domínio sólido da tecnologia. | Competência Técnica | C1
+His hatred of bureaucracy is well known. | Ríz rêi-tred óv biu-ró-cra-si íz uél nôun. | O ódio dele pela burocracia é bem conhecido. | Cultura Corporativa | C1
+We have hope for a quick recovery. | Ui rév rôup fór a kuík ri-có-ve-ri. | Temos esperança de uma recuperação rápida. | Economia / Crise | B1
+Investors expressed interest in the project. | In-vés-tors eks-prés-d ín-trest ín dê pró-dject. | Investidores expressaram interesse no projeto. | Negócios | A2
+Her love of art is inspiring. | Râr lâv óv árt íz in-spái-ring. | O amor dela pela arte é inspirador. | Pessoal | B1
+There is a need for more resources. | Dér íz a níd fór mór ri-sór-ces. | Há necessidade de mais recursos. | Gestão de Projetos | B1
+Participation in the event is mandatory. | Par-ti-ci-pêi-xon ín di i-vént íz mén-da-tó-ri. | A participação no evento é obrigatória. | Corporativo | B2
+What is the reason for this error? | Uót íz dê rí-zon fór dís é-rror? | Qual é a razão para este erro? | Debugging / Análise | A2
+I have deep respect for my mentors. | Ái rév díp ris-péct fór mái mén-tors. | Tenho profundo respeito pelos meus mentores. | Profissional | B1
+We wish you success in your new role. | Ui uísh iú sac-sés ín iór niú rôul. | Desejamos sucesso no seu novo cargo. | Despedida / RH | B1
+Do you have an understanding of the code? | Du iú rév ên ân-der-stên-ding óv dê côud? | Você tem um entendimento do código? | TI | B2
+
 // MÓDULO: ADVÉRBIOS DE MODO (HOW? - ESSENCIAL PARA TI/OBRAS)
 Automatically | Ó-to-mé-ti-ca-li | Automaticamente | Advérbio | B1
 Manually | Mé-niu-a-li | Manualmente | Advérbio | B1
@@ -636,6 +894,26 @@ Hastily | RÊIS-ti-li | Apressadamente | Advérbio | C2
 Steadily | STÉ-di-li | Constantemente / De forma estável | Advérbio | B2
 Vigorously | VÍ-go-ros-li | Vigorosamente | Advérbio | C1
 
+// MÓDULO: ADVÉRBIOS DE MODO (HOW? - ESSENCIAL PARA TI/OBRAS)
+The backup runs automatically every night. | Dê bé-cap râns ó-to-mé-ti-ca-li é-vri náit. | O backup roda automaticamente toda noite. | TI / Automação | B1
+You must update the driver manually. | Iú mâst âp-deit dê drái-ver mé-niu-a-li. | Você deve atualizar o driver manualmente. | TI / Manutenção | B1
+The code runs efficiently on the new server. | Dê côud râns e-fí-shent-li ón dê niú sêr-ver. | O código roda eficientemente no novo servidor. | TI / Performance | B2
+We need to test the application thoroughly. | Ui níd tu tést di ép fó-rôu-li. | Precisamos testar o aplicativo minuciosamente. | QA / Testes | C1
+He deliberately ignored the error message. | Rí di-lí-be-rat-li ig-nórd di é-rror mé-sadj. | Ele deliberadamente ignorou a mensagem de erro. | Comportamento / Compliance | C1
+I accidentally deleted the wrong file. | Ái ak-si-dén-ta-li di-lí-ted dê rông fái-ol. | Eu acidentalmente deletei o arquivo errado. | Erro Operacional | B1
+We have barely enough storage left. | Ui rév bér-li i-nâf stó-radj léft. | Temos mal/apenas o suficiente de armazenamento restante. | Infraestrutura | B2
+The tool was designed specifically for developers. | Dê túl uóz di-záind spe-sí-fi-ca-li fór di-vé-lo-pers. | A ferramenta foi projetada especificamente para desenvolvedores. | Produto | B2
+The system crashes randomly. | Dê sís-tem cré-shes rén-dom-li. | O sistema trava aleatoriamente. | Debugging | B1
+Users can edit the document simultaneously. | Iú-zers kén é-dit dê dó-kiu-ment sai-mul-têi-ni-as-li. | Usuários podem editar o documento simultaneamente. | Colaboração | C1
+Ensure the cable is connected properly. | In-shûr dê kêi-bol íz co-néc-ted pró-per-li. | Garanta que o cabo esteja conectado adequadamente. | Hardware / Redes | B1
+Please reply to the ticket promptly. | Plíz ri-plái tu dê tí-ket prómpt-li. | Por favor, responda ao chamado prontamente. | Suporte / SLA | C1
+He reluctantly agreed to the new terms. | Rí ri-lâc-tant-li a-gríd tu dê niú têrms. | Ele relutantemente concordou com os novos termos. | Negociação | C2
+The team is eagerly waiting for the launch. | Dê tím íz í-guer-li uêi-ting fór dê lóntch. | A equipe está ansiosamente esperando pelo lançamento. | Gestão de Projetos | C1
+The app integrates seamlessly with the cloud. | Di ép in-te-grêits sím-les-li uíf dê cláud. | O app se integra perfeitamente (sem interrupções) com a nuvem. | Integração de Sistemas | C2
+The report was written hastily. | Dê ri-pórt uóz urí-ten rêis-ti-li. | O relatório foi escrito apressadamente. | Qualidade | C2
+Web traffic is growing steadily. | Uéb tré-fic íz grô-ing sté-di-li. | O tráfego web está crescendo constantemente/de forma estável. | Analytics | B2
+We vigorously defended our patent. | Ui ví-go-ros-li di-fén-ded áu-ar pé-tent. | Nós defendemos vigorosamente nossa patente. | Jurídico | C1
+
 // MÓDULO: TEMPO E FREQUÊNCIA (WHEN? - CRONOGRAMAS)
 Currently | CÂ-rrent-li | Atualmente | Advérbio | B1
 Nowadays | NÁU-a-dêis | Hoje em dia | Advérbio | B1
@@ -655,6 +933,25 @@ Permanently | PÊR-ma-nent-li | Permanentemente | Advérbio | B2
 Indefinitely | In-dé-fi-nit-li | Indefinidamente (sem prazo) | Advérbio | C1
 Meanwhile | MÍN-uái-ol | Entretanto / Enquanto isso | Advérbio | B2
 
+// MÓDULO: TEMPO E FREQUÊNCIA (WHEN? - CRONOGRAMAS)
+We are currently migrating the database. | Ui ár câ-rrent-li mai-grêi-ting dê dêi-ta-bêis. | Estamos atualmente migrando o banco de dados. | TI / Projetos | B1
+Nowadays, cloud storage is standard. | Náu-a-dêis, cláud stó-radj íz stén-dard. | Hoje em dia, armazenamento em nuvem é padrão. | Tecnologia | B1
+Have you noticed any latency lately? | Rév iú nôu-tisd ê-ni lêi-ten-si lêit-li? | Você notou alguma latência ultimamente? | Suporte Técnico | B1
+We recently updated the firewall rules. | Ui rí-cent-li âp-dei-ted dê fái-er-uól rúls. | Nós atualizamos recentemente as regras do firewall. | Segurança | A2
+The CEO was formerly a developer. | Dê sí-í-ôu uóz fór-mer-li a di-vé-lo-per. | O CEO era anteriormente um desenvolvedor. | Corporativo | C1
+As previously discussed, the deadline is fixed. | Éz prí-vi-as-li dis-câssd, dê déd-láin íz fík-sd. | Como discutido previamente, o prazo é fixo. | Gestão de Projetos | B2
+The fiscal report is generated annually. | Dê fís-cal ri-pórt íz dje-ne-rei-ted é-niu-a-li. | O relatório fiscal é gerado anualmente. | Fisco / Contabilidade | B1
+We pay corporate taxes quarterly. | Ui pêi cór-po-reit ték-ses kuór-ter-li. | Nós pagamos impostos corporativos trimestralmente. | Financeiro | B2
+This error seldom occurs in production. | Dís é-rror sél-dom o-kârs ín pro-dâc-shon. | Este erro raramente ocorre em produção. | TI / Debugging | C1
+I occasionally work from the branch office. | Ái o-kêi-zho-na-li uôrk fróm dê bréntch ó-fi-ce. | Eu ocasionalmente trabalho da filial. | Rotina de Trabalho | B2
+The requirements are constantly changing. | Dê ri-kuái-ar-ments ár cóns-tant-li tchêin-djing. | Os requisitos estão constantemente mudando. | Desenvolvimento Ágil | B2
+We will eventually find a solution. | Ui uíl i-vén-tchu-a-li fáind a so-lú-shon. | Nós eventualmente (no final das contas) encontraremos uma solução. | Resolução de Problemas | B2
+Please report the breach immediately. | Plíz ri-pórt dê brítch i-mí-di-at-li. | Por favor, relate a violação imediatamente. | Segurança da Informação | B1
+The server is temporarily down for maintenance. | Dê sêr-ver íz tém-po-ré-ri-li dáun fór mêin-te-nans. | O servidor está temporariamente fora do ar para manutenção. | Status de Serviço | B2
+These files were permanently deleted. | Díz fáils uêr pêr-ma-nent-li di-lí-ted. | Estes arquivos foram permanentemente deletados. | Gestão de Dados | B2
+The launch was postponed indefinitely. | Dê lóntch uóz pôst-pôund in-dé-fi-nit-li. | O lançamento foi adiado indefinidamente (sem prazo). | Gestão de Crise | C1
+I'll fix the code; meanwhile, test the API. | Ail fíks dê côud; mín-uái-ol, tést di êi-pi-ái. | Vou consertar o código; enquanto isso, teste a API. | Trabalho em Equipe | B2
+
 // MÓDULO: GRAU E INTENSIDADE (HOW MUCH? - NEGOCIAÇÃO)
 Extremely | Eks-trím-li | Extremamente | Advérbio | B1
 Entirely | In-tái-ar-li | Inteiramente | Advérbio | B2
@@ -671,6 +968,23 @@ Scarcely | SCÉRS-li | Escassamente / Mal (quase não) | Advérbio | C2
 Overwhelmingly | Ôu-ver-uél-min-li | Esmagadoramente | Advérbio | C2
 Practically | PRÁC-ti-ca-li | Praticamente | Advérbio | B1
 Utterly | Â-ter-li | Totalmente / Completamente (negativo) | Advérbio | C2
+
+// MÓDULO: GRAU E INTENSIDADE (HOW MUCH? - NEGOCIAÇÃO)
+This matter is extremely urgent. | Dís mé-ter íz eks-trím-li âr-djent. | Este assunto é extremamente urgente. | Negociação / Pressão | B1
+I am entirely responsible for this decision. | Ái ém in-tái-ar-li ris-pón-sa-bol fór dís di-sí-zhon. | Sou inteiramente responsável por esta decisão. | Liderança / Accountability | B2
+I totally understand your point of view. | Ái tôu-ta-li ân-der-sténd iór póint óv viú. | Eu entendo totalmente o seu ponto de vista. | Empatia / Acordo | A2
+That is absolutely correct. | Dét íz eb-so-lút-li co-réct. | Isso está absolutamente correto. | Confirmação | B1
+The price seems fairly reasonable. | Dê práis síms fér-li rí-zo-na-bol. | O preço parece razoavelmente justo/sensato. | Negociação de Preço | B2
+It is highly recommended to update the system. | It íz rái-li re-co-mén-ded tu âp-deit dê sís-tem. | É altamente recomendado atualizar o sistema. | TI / Consultoria | B1
+The fund was only partially refunded. | Dê fând uóz ôn-li pár-sha-li ri-fân-ded. | O fundo foi apenas parcialmente reembolsado. | Financeiro | B2
+It is virtually impossible to predict the market. | It íz vûr-tchu-a-li im-pó-ssi-bol tu pre-díct dê már-ket. | É virtualmente (praticamente) impossível prever o mercado. | Análise de Risco | C1
+The project will cost approximately 10k. | Dê pró-dject uíl cóst a-pró-ksi-met-li tén kêi. | O projeto custará aproximadamente 10 mil. | Orçamento | B1
+Revenue increased significantly this quarter. | Ré-ve-niu in-crísd sig-ní-fi-cant-li dís kuór-ter. | A receita aumentou significativamente neste trimestre. | Relatório Financeiro | B2
+We reduced our debt substantially. | Ui ri-diúsd áu-ar dét sab-stén-sha-li. | Nós reduzimos nossa dívida substancialmente. | Financeiro | C1
+There was scarcely any budget left. | Dér uóz scérs-li ê-ni bâ-djet léft. | Havia escassamente (mal) algum orçamento restante. | Gestão de Recursos | C2
+The feedback was overwhelmingly positive. | Dê fíd-bék uóz ôu-ver-uél-min-li pó-zi-tiv. | O feedback foi esmagadoramente positivo. | Marketing / RH | C2
+The office is practically empty today. | Di ó-fi-ce íz prác-ti-ca-li émp-ti tu-dêi. | O escritório está praticamente vazio hoje. | Dia a dia | B1
+The previous strategy failed utterly. | Dê prí-vi-as stré-te-dji fêild â-ter-li. | A estratégia anterior falhou totalmente/completamente. | Análise de Fracasso | C2
 
 // MÓDULO: CONJUNÇÕES COORDENATIVAS (FANBOYS)
 For | Fór | Pois / Visto que | Conjunção (Razão) | B2
@@ -696,6 +1010,15 @@ It is a simple yet effective idea | ... sím-pol iét e-féc-tiv... | É uma ide
 I was hungry, so I made a sandwich | ... sôu ái mêid a sénd-uich | Eu estava com fome, então fiz um sanduíche | Exemplo (So) | A2
 It started to rain, so we went inside | ... sôu ui uênt in-sáid | Começou a chover, por isso entramos | Exemplo (So) | A2
 
+// MÓDULO: CONJUNÇÕES COORDENATIVAS (FANBOYS)
+He apologized, for he knew he was wrong. | Rí a-pó-lo-djaizd, fór rí niú rí uóz rông. | Ele pediu desculpas, pois sabia que estava errado. | Formal / Justificativa | B2
+Please read the terms and accept them. | Plíz ríd dê têrms ênd ac-cépt dém. | Por favor, leia os termos e aceite-os. | Instrução | A1
+The manager was not present, nor was the CEO. | Dê mé-na-djer uóz nót pré-zent, nór uóz dê sí-í-ôu. | O gerente não estava presente, nem o CEO (estava). | Corporativo (Inversão) | C1
+The code is ugly, but it works. | Dê côud íz â-gli, bât ít uôrks. | O código é feio, mas funciona. | TI / Pragmático | A1
+You can pay by card or bank transfer. | Iú kén pêi bái cárd ór bênk trans-fêr. | Você pode pagar com cartão ou transferência bancária. | Financeiro | A1
+It is a small team, yet very productive. | It íz a smól tím, iét vé-ri pro-dâc-tiv. | É uma equipe pequena, contudo muito produtiva. | Avaliação de Desempenho | B2
+The demand increased, so we hired more staff. | Dê di-ménd in-crísd, sôu ui rái-ard mór stéf. | A demanda aumentou, então contratamos mais pessoal. | Gestão / Causa e Efeito | A1
+
 // MÓDULO: INTERJEIÇÕES - EMOÇÕES BÁSICAS
 Oh | Ôu | Ah! / Ó! (Surpresa ou compreensão) | Emoção | A1
 Wow | Uáu | Uau! (Admiração ou surpresa) | Emoção | A1
@@ -705,6 +1028,16 @@ Ugh | Âg | Argh! / Aff! (Nojo ou aborrecimento) | Emoção | A2
 Yuck | Iâk | Eca! (Nojo intenso) | Emoção | A2
 Gosh | Góx | Poxa! / Nossa! (Surpresa leve) | Emoção | B1
 Alas | A-lés | Infelizmente / Ai de mim (Lamento) | Literário/Formal | C2
+
+// MÓDULO: INTERJEIÇÕES - EMOÇÕES BÁSICAS
+Oh, I forgot to attach the file. | Ôu, Ái for-gót tu a-tétch dê fái-ol. | Ah, esqueci de anexar o arquivo. | Esquecimento / Correção | A1
+Wow, the new interface looks great. | Uáu, dê niú in-ter-fêis lûks grêit. | Uau, a nova interface parece ótima. | Admiração / Feedback | A1
+Ouch, I hit my knee against the desk. | Áut-ch, Ái rít mái ní a-gênst dê désk. | Ai, bati meu joelho na mesa. | Dor Física | A1
+Yay, the code finally compiles! | Iêi, dê côud fái-na-li com-páils! | Eba, o código finalmente compila! | Celebração / Sucesso | A1
+Ugh, another meeting regarding protocols. | Âg, a-nó-der mí-ting ri-gár-ding pró-to-cols. | Aff, outra reunião sobre protocolos. | Tédio / Frustração | A2
+Yuck, this coffee is completely cold. | Iâk, dís có-fi íz com-plít-li côuld. | Eca, este café está completamente frio. | Nojo / Desagrado | A2
+Gosh, I didn't realize it was so late. | Góx, Ái díd-nt rí-a-láiz ít uóz sôu lêit. | Nossa/Poxa, não percebi que era tão tarde. | Surpresa Leve | B1
+Alas, the project funding was cut. | A-lés, dê pró-dject fân-ding uóz cât. | Infelizmente (ai de nós), o financiamento do projeto foi cortado. | Dramático / Formal | C2
 
 // MÓDULO: INTERJEIÇÕES - REAÇÕES (ERRO, ALÍVIO, DESCOBERTA)
 Oops | Úps | Opa! / Foi mal (Erro pequeno) | Reação | A1
@@ -722,13 +1055,44 @@ Shh | Xxx | Shh! (Pedindo silêncio) | Comando | A1
 Eh? | Ê? | Hã? / Né? (Pedindo repetição ou confirmação) | Conversacional | A2
 Bravo | Brá-vôu | Bravo! / Muito bem! | Aprovação | B2
 
-// MÓDULO: NOUNS - COMMON AND PROPER (L1)
-City | Sí-ri | Cidade (Lugar genérico) | Common Noun | A1
-Dog | Dóg | Cachorro (Animal genérico) | Common Noun | A1
-Car | Cár | Carro (Veículo genérico) | Common Noun | A1
-London | Lân-dan | Londres (Cidade específica) | Proper Noun | A1
-Toyota | To-iô-ta | Toyota (Marca específica) | Proper Noun | A1
-Brazil | Bra-zíl | Brasil (País específico) | Proper Noun | A1
+// MÓDULO: INTERJEIÇÕES - REAÇÕES (ERRO, ALÍVIO, DESCOBERTA)
+Oops, I sent the email to the wrong person. | Úps, Ái sént di í-meil tu dê rông pêr-son. | Opa, enviei o e-mail para a pessoa errada. | Erro Comum | A1
+Whoops, I made a typo in the title. | Uûps, Ái mêid a tái-pou ín dê tái-tol. | Opa, cometi um erro de digitação no título. | Erro Leve | A2
+Phew, we finished the report just in time. | Fíu, ui fí-nish-d dê ri-pórt djâst ín táim. | Ufa, terminamos o relatório bem a tempo. | Alívio / Prazo | B1
+Aha! I finally found the syntax error. | A-rá! Ái fái-na-li fáund dê sín-tacs é-rror. | Ahá! Finalmente encontrei o erro de sintaxe. | Descoberta / TI | B1
+Uh-oh, the server light is flashing red. | Â-ôu, dê sêr-ver láit íz flé-shing réd. | Ih... a luz do servidor está piscando em vermelho. | Problema Iminente | A2
+
+// MÓDULO: NOUNS - COMMON AND PROPER
+City | Sí-ti | Cidade | Substantivo Comum | A1
+London | Lân-don | Londres | Substantivo Próprio | A1
+Company | Câm-pa-ni | Empresa | Substantivo Comum | A1
+Microsoft | Mái-cro-sóft | Microsoft | Substantivo Próprio | A1
+Month | Mânf | Mês | Substantivo Comum | A1
+January | Djé-niu-é-ri | Janeiro | Substantivo Próprio | A1
+Language | Lén-guadj | Idioma / Linguagem | Substantivo Comum | A2
+Python | Pái-ton | Python | Substantivo Próprio | A1
+Country | Cân-tri | País | Substantivo Comum | A1
+Brazil | Bra-zíl | Brasil | Substantivo Próprio | A1
+Department | Di-párt-ment | Departamento | Substantivo Comum | B1
+Human Resources | Riú-man Ri-sór-ces | Recursos Humanos | Substantivo Próprio | B1
+University | Iu-ni-vêr-si-ti | Universidade | Substantivo Comum | A2
+Harvard | Rár-vard | Harvard | Substantivo Próprio | A1
+
+// MÓDULO: NOUNS - COMMON AND PROPER
+The city is famous for its museums. | Dê sí-ti íz fêi-môs fór íts miu-zí-ams. | A cidade é famosa por seus museus. | Turismo / Geral | A1
+Our headquarters are located in London. | Áu-ar réd-kuór-ters ár lo-kêi-ted ín Lân-don. | Nossa sede está localizada em Londres. | Corporativo | A1
+She works for a technology company. | Shí uôrks fór a tec-nó-lo-dji câm-pa-ni. | Ela trabalha para uma empresa de tecnologia. | Profissional | A1
+Microsoft released a new update. | Mái-cro-sóft ri-lísd a niú âp-deit. | A Microsoft lançou uma nova atualização. | TI / Notícias | A1
+We choose a different month every year. | Ui tchúz a dí-fe-rent mânf é-vri í-ar. | Escolhemos um mês diferente todo ano. | Planejamento | A1
+The fiscal year starts in January. | Dê fís-cal í-ar stárts ín Djé-niu-é-ri. | O ano fiscal começa em janeiro. | Financeiro | A1
+Java is a powerful programming language. | Djá-va íz a páu-er-ful pro-gré-ming lén-guadj. | Java é uma linguagem de programação poderosa. | TI | A2
+I am learning Python for data analysis. | Ái ém lêr-ning Pái-ton fór dêi-ta a-ná-li-sis. | Estou aprendendo Python para análise de dados. | Educação / TI | A1
+Tax laws vary from country to country. | Téks lós vé-ri fróm cân-tri tu cân-tri. | As leis fiscais variam de país para país. | Jurídico / Fiscal | A1
+Brazil is a major exporter of soy. | Bra-zíl íz a mêi-djor eks-pór-ter óv sói. | O Brasil é um grande exportador de soja. | Economia | A1
+Please contact the legal department. | Plíz cón-tact dê lí-gal di-párt-ment. | Por favor, contate o departamento jurídico. | Corporativo | B1
+Human Resources handles the hiring process. | Riú-man Ri-sór-ces rén-dols dê rái-ring pró-cess. | O Recursos Humanos cuida do processo de contratação. | RH | B1
+He applied to a prestigious university. | Rí a-pláid tu a pres-tí-djas iu-ni-vêr-si-ti. | Ele se candidatou a uma universidade de prestígio. | Acadêmico | A2
+He graduated from Harvard in 2010. | Rí gra-dju-êi-ted fróm Rár-vard ín tuén-ti-tén. | Ele se formou em Harvard em 2010. | Biografia | A1
 
 // MÓDULO: NOUNS - CONCRETE AND ABSTRACT (L2)
 Table | Têi-bol | Mesa (Objeto físico) | Concrete Noun | A1
@@ -738,12 +1102,69 @@ Love | Lâv | Amor (Sentimento) | Abstract Noun | A1
 Freedom | Frí-dom | Liberdade (Conceito) | Abstract Noun | B1
 Knowledge | Nó-ledj | Conhecimento (Ideia/Saber) | Abstract Noun | B1
 
+// MÓDULO: NOUNS - CONCRETE AND ABSTRACT
+Computer | Com-piú-ter | Computador | Substantivo Concreto | A1
+Invoice | Ín-vois | Fatura / Nota Fiscal | Substantivo Concreto | B1
+Signature | Sig-na-tchar | Assinatura | Substantivo Concreto | B1
+Screen | Scrín | Tela | Substantivo Concreto | A1
+Keyboard | Kí-bórd | Teclado | Substantivo Concreto | A1
+Report | Ri-pórt | Relatório (Documento físico/arquivo) | Substantivo Concreto | A2
+Knowledge | Nó-ledj | Conhecimento | Substantivo Abstrato | B1
+Information | In-for-mêi-shon | Informação | Substantivo Abstrato | A1
+Efficiency | E-fí-shen-si | Eficiência | Substantivo Abstrato | B2
+Trust | Trâst | Confiança | Substantivo Abstrato | B1
+Freedom | Frí-dom | Liberdade | Substantivo Abstrato | B1
+Strategy | Stré-te-dji | Estratégia | Substantivo Abstrato | B2
+
+// MÓDULO: NOUNS - CONCRETE AND ABSTRACT
+The computer needs a restart. | Dê com-piú-ter níds a ri-stárt. | O computador precisa de uma reinicialização. | TI / Hardware | A1
+Please print the invoice for the client. | Plíz prínt di ín-vois fór dê clái-ent. | Por favor, imprima a fatura para o cliente. | Fiscal / Administrativo | B1
+We need a digital signature on this contract. | Ui níd a dí-dji-tal sig-na-tchar ón dís cón-tract. | Precisamos de uma assinatura digital neste contrato. | Jurídico / TI | B1
+The screen resolution is too low. | Dê scrín re-zo-lú-shon íz tú lôu. | A resolução da tela é muito baixa. | TI / Configuração | A1
+My keyboard is not working properly. | Mái kí-bórd íz nót uôr-king pró-per-li. | Meu teclado não está funcionando adequadamente. | Hardware | A1
+He handed me the printed report. | Rí rén-ded mi dê prín-ted ri-pórt. | Ele me entregou o relatório impresso. | Escritório | A2
+He has extensive knowledge of tax laws. | Rí réz eks-tén-siv nó-ledj óv téks lós. | Ele tem amplo conhecimento de leis tributárias. | Competência Profissional | B1
+Information is a valuable asset. | In-for-mêi-shon íz a vé-lu-a-bol é-sset. | Informação é um ativo valioso. | Dados / Segurança | A1
+We must improve our operational efficiency. | Ui mâst im-prúv áu-ar o-pe-rêi-sho-nal e-fí-shen-si. | Devemos melhorar nossa eficiência operacional. | Gestão | B2
+Trust is essential in business relationships. | Trâst íz e-sén-shal ín bí-zi-nes ri-lêi-shon-ships. | Confiança é essencial em relacionamentos de negócios. | Ética / Liderança | B1
+They fight for freedom of speech. | Dêi fáit fór frí-dom óv spítch. | Eles lutam pela liberdade de expressão. | Social / Direito | B1
+Our strategy focuses on innovation. | Áu-ar stré-te-dji fôu-cu-ses ón i-no-vêi-shon. | Nossa estratégia foca em inovação. | Corporativo | B2
+
+
 // MÓDULO: NOUNS - COUNTABLE AND UNCOUNTABLE (L3)
 Apple | Á-pol | Maçã (Pode contar: 1 apple, 2 apples) | Countable Noun | A1
 Cat | Cét | Gato (Pode contar) | Countable Noun | A1
 Water | Uó-ter | Água (Não se conta unidades sem medida) | Uncountable Noun | A1
 Rice | Ráis | Arroz (Grãos, tratado como massa) | Uncountable Noun | A1
 Information | In-for-mêi-shon | Informação (Conceito abstrato não contável) | Uncountable Noun | A2
+
+// MÓDULO: NOUNS - COUNTABLE AND UNCOUNTABLE
+Employee | Em-pló-i-í | Funcionário | Substantivo Contável | A2
+Device | Di-váis | Dispositivo | Substantivo Contável | A2
+Result | Ri-zâlt | Resultado | Substantivo Contável | A1
+Idea | Ai-dí-a | Ideia | Substantivo Contável | A1
+Information | In-for-mêi-shon | Informação | Substantivo Incontável | A1
+Advice | Ed-váis | Conselho | Substantivo Incontável | B1
+Equipment | E-kuíp-ment | Equipamento | Substantivo Incontável | B1
+Furniture | Fâr-ni-tchar | Mobília / Móveis | Substantivo Incontável | A2
+Traffic | Tré-fic | Trânsito / Tráfego (Dados) | Substantivo Incontável | A2
+Feedback | Fíd-bék | Retorno / Feedback | Substantivo Incontável | B1
+Progress | Pró-gress | Progresso | Substantivo Incontável | B1
+Access | Éc-sess | Acesso | Substantivo Incontável | B1
+
+// MÓDULO: NOUNS - COUNTABLE AND UNCOUNTABLE
+We hired three new employees. | Ui rái-ard frí niú em-pló-i-ís. | Contratamos três novos funcionários. | RH / Contável | A2
+All devices must be registered. | Ól di-vái-ces mâst bi re-djis-terd. | Todos os dispositivos devem ser registrados. | TI / Segurança | A2
+The results were better than expected. | Dê ri-zâlts uêr bé-ter dên eks-péc-ted. | Os resultados foram melhores que o esperado. | Análise de Dados | A1
+I have a few ideas for the project. | Ái rév a fiú ai-dí-as fór dê pró-dject. | Tenho algumas (poucas) ideias para o projeto. | Brainstorming | A1
+Please send me more information. | Plíz sénd mi mór in-for-mêi-shon. | Por favor, me envie mais informações (nunca use 'informations'). | Comunicação | A1
+Can I give you some advice? | Kén Ái gív iú sâm ed-váis? | Posso te dar um conselho? (nunca use 'an advice'). | Mentoria | B1
+The equipment is very expensive. | Di e-kuíp-ment íz vé-ri eks-pên-siv. | O equipamento é muito caro (verbo no singular). | Ativos / Patrimônio | B1
+We ordered new office furniture. | Ui ór-derd niú ó-fi-ce fâr-ni-tchar. | Encomendamos mobília nova para o escritório. | Compras | A2
+There is too much traffic on the network. | Dér íz tú mátch tré-fic ón dê nét-uôrk. | Há tráfego demais na rede. | TI / Redes | A2
+The feedback was overwhelmingly positive. | Dê fíd-bék uóz ôu-ver-uél-min-li pó-zi-tiv. | O feedback foi esmagadoramente positivo. | Avaliação | B1
+We are making good progress. | Ui ár mêi-king gûd pró-gress. | Estamos fazendo um bom progresso. | Gestão de Projetos | B1
+Do you have internet access? | Du iú rév ín-ter-net éc-sess? | Você tem acesso à internet? | Conectividade | B1
 
 // MÓDULO: NOUNS - SINGULAR AND PLURAL (L4)
 Box | Bócs | Caixa (Um objeto) | Singular Noun | A1
@@ -753,11 +1174,46 @@ Children | Tchíl-dren | Crianças (Plural irregular) | Plural Noun | A1
 Mouse | Máus | Camundongo (Um animal) | Singular Noun | A1
 Mice | Máis | Camundongos (Plural irregular) | Plural Noun | A2
 
+// MÓDULO: NOUNS - SINGULAR AND PLURAL
+Tax | Téks | Imposto | Singular | A2
+Taxes | Ték-ses | Impostos | Plural (+es) | A2
+Company | Câm-pa-ni | Empresa | Singular | A1
+Companies | Câm-pa-nis | Empresas | Plural (y -> ies) | A1
+Shelf | Shélf | Prateleira | Singular | A2
+Shelves | Shélvs | Prateleiras | Plural (f -> ves) | B1
+Man | Mén | Homem | Singular | A1
+Men | Mên | Homens | Plural Irregular | A1
+Woman | Uû-man | Mulher | Singular | A1
+Women | Uí-men | Mulheres | Plural Irregular (Pronúncia muda!) | A1
+Person | Pêr-son | Pessoa | Singular | A1
+People | Pí-pol | Pessoas | Plural Irregular | A1
+Child | Tchái-old | Criança | Singular | A1
+Children | Tchíl-dren | Crianças | Plural Irregular | A1
+Mouse | Máus | Mouse (PC) / Camundongo | Singular | A1
+Mice | Máis | Mouses / Camundongos | Plural Irregular | B1
+Analysis | A-ná-li-sis | Análise | Singular | B2
+Analyses | A-ná-li-sís | Análises | Plural (is -> es) | B2
+Criterion | Crái-tí-ri-on | Critério | Singular | C1
+Criteria | Crái-tí-ri-a | Critérios | Plural (on -> a) | C1
+
+// MÓDULO: NOUNS - SINGULAR AND PLURAL
+The government raised taxes again. | Dê gâ-ver-nment rêizd ték-ses a-guên. | O governo aumentou os impostos novamente. | Fiscal / Economia | A2
+Multinational companies are investing here. | Mul-ti-né-sho-nal câm-pa-nis ár in-vés-ting rí-ar. | Empresas multinacionais estão investindo aqui. | Corporativo | A1
+The server rack shelves are full. | Dê sêr-ver rék shélvs ár fúl. | As prateleiras do rack do servidor estão cheias. | TI / Infraestrutura | B1
+Men and women receive equal pay here. | Mên ênd uí-men ri-sív í-kual pêi rí-ar. | Homens e mulheres recebem pagamento igual aqui. | RH / Políticas | A1
+How many people are on the team? | Ráu mé-ni pí-pol ár ón dê tím? | Quantas pessoas estão na equipe? | Gestão | A1
+The program is educational for children. | Dê pró-gram íz e-du-kêi-xo-nal fór tchíl-dren. | O programa é educacional para crianças. | Educação | A1
+We need to replace the old mice. | Ui níd tu ri-plêis di ôuld máis. | Precisamos substituir os mouses velhos. | TI / Hardware | B1
+The quarterly analyses show growth. | Dê kuór-ter-li a-ná-li-sís shôu grôuf. | As análises trimestrais mostram crescimento. | Relatório (Nota: pronúncia final alongada -sís) | B2
+What are the acceptance criteria for this task? | Uót ár di ac-cép-tans crái-tí-ri-a fór dís tésk? | Quais são os critérios de aceitação para esta tarefa? | Gestão de Projetos / Scrum | C1
+
 // MÓDULO: NOUNS - COLLECTIVE NOUNS (L5)
 Team | Tím | Time / Equipe (Grupo de pessoas) | Collective Noun | A1
 Family | Fé-mi-li | Família (Grupo de parentes) | Collective Noun | A1
 Flock | Flóc | Rebanho / Bando (Grupo de animais/pássaros) | Collective Noun | B1
 Crowd | Cráud | Multidão (Grupo de pessoas) | Collective Noun | A2
+
+
 
 // MÓDULO: NOUNS - GENDER NOUNS (L6)
 Actor | Ác-tor | Ator (Masculino) | Masculine Noun | A1
@@ -11184,3 +11640,4 @@ She is the apple of my eye. | Shí íz di é-pol óv mái ái. | Ela é a menina
 We need to clear the air. | Ui níd tu clí-ar di ér. | Precisamos limpar o ar (resolver um mal-entendido/tensão). | Relacionamentos e Família | C1
 He wears the pants in the relationship. | Rí uérs dê pênts in dê ri-lei-shon-shíp. | Ele é quem manda na relação. | Relacionamentos e Família | C1
 Through thick and thin. | Frú fík ênd fín. | Na alegria e na tristeza / Nos bons e maus momentos. | Relacionamentos e Família | C2
+
