@@ -4634,15 +4634,72 @@ If I were you, I would go | Íf ái uér iú ái uûd gôu | Se eu fosse você, 
 If I had known, I would have helped | Íf ái réd nôun ái uûd rév rélp-t | Se eu soubesse, teria ajudado (3ª Condicional: Passado impossível) | Third Conditional | B2
 If you heat ice, it melts | Íf iú rít áis ít mélts | Se esquentar gelo, ele derrete (Zero Condicional: Fato/Verdade universal) | Zero Conditional | A2
 
+If you miss a colon, Python shows an error. | Íf iú mís a có-lon, Pái-ton shôuz an é-rror. | Se você esquecer dois pontos (:), o Python mostra um erro. | Dev / Sintaxe | A2
+If the server overheats, it shuts down. | Íf dê sêr-ver ôu-ver-ríts, ít shâts dáun. | Se o servidor superaquecer, ele desliga. | Hardware | B1
+If you mix blue and yellow, you get green. | Íf iú míks blú end ié-lou, iú guét grín. | Se você misturar azul e amarelo, obtém verde. | Fato Geral | A1
+If the client doesn't pay, the interest increases. | Íf dê clái-ent dâ-zant pêi, di ín-trest in-crí-zes. | Se o cliente não pagar, os juros aumentam. | Fisco | B1
+
+If I finish the script today, I will deploy it tomorrow. | Íf Ái fí-nish dê scrípt tu-dêi, Ái uíl di-plói ít tu-mó-rou. | Se eu terminar o script hoje, vou implementá-lo amanhã. | Trabalho | B1
+If it rains in Senador Canedo, the internet will be slow. | Íf ít rêins ín Senador Canedo, di ín-ter-net uíl bí slôu. | Se chover em Senador Canedo, a internet vai ficar lenta. | Realidade Local | A2
+If Samalper sells 50 items, I will buy a new monitor. | Íf Sa-mal-per sélz fíf-ti ái-tems, Ái uíl bái a niú mó-ni-tor. | Se a Samalper vender 50 itens, eu vou comprar um monitor novo. | Meta Pessoal | B1
+If you help me with the audit, I will help you with the code. | Íf iú rélp mí uíf di ó-dit, Ái uíl rélp iú uíf dê côud. | Se você me ajudar com a auditoria, eu te ajudo com o código. | Negociação | B1
+What will you do if the system crashes? | Uót uíl iú dú íf dê sís-tem cré-shez? | O que você fará se o sistema travar? | Planejamento | B1
+
+If I had more time, I would learn Java. | Íf Ái réd mór táim, Ái uûd lërn Djá-va. | Se eu tivesse mais tempo, aprenderia Java. (Mas não tenho agora). | Carreira | B1
+If I were rich, I would invest in ConPrev. | Íf Ái uér rítch, Ái uûd in-vést ín Con-Prév. | Se eu fosse rico, investiria na ConPrev. | Hipótese | B1
+If I lived in the USA, my English would be perfect. | Íf Ái lív-d ín dê Iu-És-Ei, mái Íng-glish uûd bí pêr-fect. | Se eu morasse nos EUA, meu inglês seria perfeito. | Sonho | B1
+If I were you, I would use a dark theme. | Íf Ái uér iú, Ái uûd iúz a dárk fím. | Se eu fosse você, usaria um tema escuro (no computador). | Conselho | B1
+I would travel more if I didn't have to work. | Ái uûd trá-vel mór íf Ái dí-dant rév tú uôrk. | Eu viajaria mais se não tivesse que trabalhar. | Desejo | A2
+
+If I had saved the file, I wouldn't have lost the code. | Íf Ái réd sêiv-d dê fái-ol, Ái uû-dant rév lóst dê côud. | Se eu tivesse salvo o arquivo, não teria perdido o código. | Erro Crítico | B2
+If you had told me, I would have helped you. | Íf iú réd tôuld mí, Ái uûd rév rélp-t iú. | Se você tivesse me contado, eu teria te ajudado. | Relacionamento | B2
+If the taxes had been paid, there would be no fine. | Íf dê ték-ses réd bín pêid, dér uûd bí nôu fáin. | Se os impostos tivessem sido pagos, não haveria multa. | Fisco | B2
+If I had studied more, I would have passed the test easily. | Íf Ái réd stâ-did mór, Ái uûd rév pés-t dê tést í-zi-li. | Se eu tivesse estudado mais, teria passado no teste facilmente. | Estudo | B2
+Samalper would have grown faster if we had used Instagram earlier. | Sa-mal-per uûd rév grôun fés-ter íf ui réd iúz-d Íns-ta-gram âr-li-er. | A Samalper teria crescido mais rápido se tivéssemos usado o Instagram antes. | Análise de Negócio | B2
+
 // MÓDULO: GRAMMAR - OTHER CONDITIONAL SENTENCES (30)
 Unless | An-lés | A menos que / Salvo se (Significa "If not") | Conjunction | B1
 As long as | Éz lóng éz | Contanto que / Desde que | Conjunction | B1
 Even if | Í-ven íf | Mesmo se / Ainda que | Conjunction | B1
 Provided that | Pro-vái-ded dét | Desde que (Formal) | Conjunction | B2
 
+// MÓDULO: GRAMMAR - OTHER CONDITIONAL SENTENCES (30)
+The script runs forever unless I stop it. | Dê scrípt rânz for-é-ver an-lés Ái stóp ít. | O script roda para sempre a menos que eu o pare. | Python | B1
+Unless you pay the tax, you get a fine. | An-lés iú pêi dê téks, iú guét a fáin. | A menos que pague o imposto, você recebe uma multa. | Fisco | B1
+I will support Samalper as long as it is profitable. | Ái uíl su-pórt Sa-mal-per éz lóng éz ít íz pro-fi-ta-bol. | Eu vou manter a Samalper contanto que seja lucrativa. | Negócios | B1
+You can use the room as long as you clean it. | Iú cén iúz dê rúm éz lóng éz iú clín ít. | Você pode usar a sala desde que a limpe. | Regras | A2
+I will go to the gym even if I am tired. | Ái uíl gôu tú dê djím í-ven íf Ái ém tái-erd. | Eu vou à academia mesmo se estiver cansado. | Mindset | B1
+The code must work even if the user is offline. | Dê côud mâst uôrk í-ven íf dê iú-zer íz óf-lain. | O código deve funcionar mesmo se o usuário estiver offline. | Dev | B2
+The audit is approved provided that documents are valid. | Di ó-dit íz a-prúv-d pro-vái-ded dét dó-kiu-ments ár vá-lid. | A auditoria é aprovada desde que os documentos sejam válidos. | ConPrev | C1
+We will deliver tomorrow provided that stock exists. | Ui uíl di-lí-ver tu-mó-rou pro-vái-ded dét stóc eg-zísts. | Entregaremos amanhã desde que exista estoque. | Logística | B2
+Don't call me unless it's urgent. | Dôunt cól mí an-lés íts âr-djent. | Não me ligue a menos que seja urgente. | Rotina | A2
+I will buy the shoes even if they are expensive. | Ái uíl bái dê shúz í-ven íf dêi ár eks-pén-siv. | Eu vou comprar os sapatos mesmo se forem caros. | Consumo | B1
+
 // MÓDULO: GRAMMAR - CONDITIONAL REVIEW (31)
 I would buy it if I had money | Ái uûd bái ít íf ái réd mâ-ni | Eu compraria se tivesse dinheiro (Imaginário) | Second Conditional | B1
 I will call if I have time | Ái uíl cól íf ái rév táim | Eu ligo se tiver tempo (Real) | First Conditional | A2
+
+// MÓDULO: GRAMMAR - CONDITIONAL REVIEW (31)
+
+If the script works, I will deploy it. | Íf dê scrípt uôrks, Ái uíl di-plói ít. | Se o script funcionar, eu vou implementá-lo. (Estou testando agora, é real). | First (Real) | B1
+
+If the script worked, I would deploy it. | Íf dê scrípt uôrkt, Ái uûd di-plói ít. | Se o script funcionasse, eu implementaria. (Mas ele está quebrado agora). | Second (Imaginário) | B1
+
+I will buy a new server if we have budget. | Ái uíl bái a niú sêr-ver íf ui rév bâ-djet. | Comprarei um servidor novo se tivermos orçamento. (Estamos planejando). | First (Real) | A2
+
+I would buy a new server if we had budget. | Ái uûd bái a niú sêr-ver íf ui réd bâ-djet. | Eu compraria um servidor novo se tivéssemos orçamento. (Mas estamos sem dinheiro). | Second (Imaginário) | B1
+
+If Samalper grows, I will hire a helper. | Íf Sa-mal-per grôuz, Ái uíl rá-ier a rél-per. | Se a Samalper crescer, vou contratar um ajudante. (Meta para 2026). | First (Real) | B1
+
+If Samalper were Amazon, I would be rich. | Íf Sa-mal-per uér Á-ma-zon, Ái uûd bí rítch. | Se a Samalper fosse a Amazon, eu seria rico. (Sonho distante). | Second (Imaginário) | B1
+
+If you click here, the file saves. | Íf iú clíc rír, dê fái-ol sêivs. | Se você clicar aqui, o arquivo salva. (Instrução de sistema). | Zero (Fato) | A2
+
+If I knew the password, I would tell you. | Íf Ái niú dê pés-uôrd, Ái uûd tél iú. | Se eu soubesse a senha, eu te contaria. (Desculpa: Eu não sei). | Second (Imaginário) | B1
+
+I will finish the audit if the client sends the docs. | Ái uíl fí-nish di ó-dit íf dê clái-ent sénds dê dócs. | Terminarei a auditoria se o cliente mandar os documentos. (Dependência real). | First (Real) | B1
+
+If I lived in the USA, I would speak better English. | Íf Ái lív-d ín dê Iu-És-Ei, Ái uûd spík bé-ter Íng-glish. | Se eu morasse nos EUA, falaria inglês melhor. (Hipótese). | Second (Imaginário) | B1
 
 // MÓDULO: GRAMMAR - FUTURE POSSIBILITIES (32)
 It might rain | Ít máit rêin | Pode ser que chova (Possibilidade incerta) | Modal Verb | B1
@@ -4650,11 +4707,45 @@ It could be true | Ít kûd bí trú | Poderia ser verdade | Modal Verb | B1
 It is likely to happen | Ít íz lái-kli tú ré-pen | É provável que aconteça | Adjective Phrase | B2
 Maybe | Mêi-bi | Talvez | Adverb | A1
 
+// MÓDULO: GRAMMAR - FUTURE POSSIBILITIES (32)
+
+It might rain in Goiânia later. | Ít máit rêin ín Goiânia lêi-ter. | Pode ser que chova em Goiânia mais tarde. (50% de chance). | Clima | B1
+
+The server might crash if we don't upgrade. | Dê sêr-ver máit crésh íf ui dôunt âp-grêid. | O servidor pode cair se não atualizarmos. (Risco real). | TI / Infra | B1
+
+Sales are likely to increase in December. | Sêils ár lái-kli tú in-crís ín Di-cém-ber. | É provável que as vendas aumentem em dezembro. (Tendência histórica). | Samalper | B2
+
+It could be a bug in the library. | Ít kûd bí a bâg ín dê lái-bre-ri. | Poderia ser um bug na biblioteca. (Uma das possibilidades). | Debugging | B1
+
+Maybe the client forgot the password. | Mêi-bi dê clái-ent for-gót dê pés-uôrd. | Talvez o cliente tenha esquecido a senha. (Suposição). | Suporte | A1
+
+The audit is unlikely to find errors. | Di ó-dit íz an-lái-kli tú fáind é-rrors. | É improvável que a auditoria encontre erros. (Confiança alta). | ConPrev | B2
+
+He may come to the meeting. | Rí mêi câm tú dê mí-tin. | Ele pode vir à reunião. (Formal / Possibilidade). | Trabalho | B1
+
+It could take a long time to process. | Ít kûd têik a lóng táim tú pro-céss. | Poderia levar muito tempo para processar. (Aviso de possibilidade). | Python | B1
+
+Samalper might not open on holidays. | Sa-mal-per máit nót ôu-pen ón ró-li-dêis. | A Samalper pode não abrir nos feriados. (Possibilidade negativa). | Negócios | B1
+
+That is likely to happen. | Dét íz lái-kli tú ré-pen. | Isso é provável que aconteça. (Concordando com uma previsão). | Geral | B2
+
 // MÓDULO: GRAMMAR - WISHES AND REGRETS (33)
 I wish I were rich | Ái uísh ái uér rítch | Quem dera eu fosse rico / Eu queria ser rico (Desejo irreal agora) | Subjunctive | B1
 I wish I had studied | Ái uísh ái réd stâ-did | Queria ter estudado (Arrependimento do passado) | Past Perfect | B2
 If only | Íf ôn-li | Se ao menos... / Quem dera... (Mais forte que 'I wish') | Expression | B2
 I should have gone | Ái xûd rév gón | Eu deveria ter ido (Arrependimento/Crítica) | Perfect Modal | B2
+
+I wish I had more time to code. | Ái uísh Ái réd mór táim tú côud. | Quem dera eu tivesse mais tempo para programar. (Realidade: Estou ocupado). | Rotina | B1
+I wish the tax law were simpler. | Ái uísh dê téks ló uér sím-pler. | Quem dera a lei fiscal fosse mais simples. (Realidade: É complexa). | Fisco | B1
+If only the internet were faster in Senador Canedo. | Íf ôn-li di ín-ter-net uér fés-ter... | Se ao menos a internet fosse mais rápida... (Desejo forte). | Infraestrutura | B2
+I wish Samalper sold internationally. | Ái uísh Sa-mal-per sôuld in-ter-né-sho-na-li. | Gostaria que a Samalper vendesse internacionalmente. (Ainda não vende). | Sonho | B1
+I wish I knew how to fix this bug. | Ái uísh Ái niú ráu tú fíks dís bâg. | Quem dera saber como corrigir este bug. (Estou bloqueado). | Dev | B1
+
+I wish I had bought Bitcoin in 2015. | Ái uísh Ái réd bót Bít-cóin... | Quem dera ter comprado Bitcoin em 2015. (Perdi a oportunidade). | Investimento | B2
+I should have saved the file. | Ái xûd rév sêiv-d dê fái-ol. | Eu devia ter guardado o ficheiro. (Crítica: Perdi o trabalho). | Erro | B2
+I wish I hadn't deleted that log. | Ái uísh Ái ré-dant di-lí-ted dét lóg. | Quem dera não ter eliminado aquele registo. | TI | B2
+We should have tested before the launch. | Ui xûd rév tés-ted bi-fór dê lóntch. | Deveríamos ter testado antes do lançamento. (Lição aprendida). | Gestão | B2
+I wish I had started the gym earlier. | Ái uísh Ái réd stár-ted dê djím âr-li-er. | Quem dera ter começado o ginásio mais cedo. | Fitness | B2
 
 // MÓDULO: GRAMMAR - FORMING QUESTIONS (34)
 Do you like it? | Dú iú láik ít? | Você gosta disso? (Presente) | Question Form | A1
@@ -4662,6 +4753,28 @@ Did you go? | Díd iú gôu? | Você foi? (Passado) | Question Form | A1
 Have you seen it? | Rév iú sín ít? | Você viu isso? (Present Perfect) | Question Form | A2
 Can I help? | Kén ái rélp? | Posso ajudar? (Modal) | Question Form | A1
 Are you ready? | Ár iú ré-di? | Você está pronto? (Verbo To Be - Inverte) | Question Form | A1
+
+// MÓDULO: GRAMMAR - FORMING QUESTIONS (34)
+
+Do you use Python for automation? | Dú iú iúz Pái-ton fór ó-to-mêi-shon? | Você usa Python para automação? (Presente Simples). | Do/Does | A1
+
+Did the client pay the tax? | Díd dê clái-ent pêi dê téks? | O cliente pagou o imposto? (Passado Simples - Foco na ConPrev). | Did | A2
+
+Is the server running? | Íz dê sêr-ver rân-nin? | O servidor está rodando? (Presente Contínuo - Status agora). | To Be | A1
+
+Have you finished the script? | Rév iú fí-nish-t dê scrípt? | Você já terminou o script? (Present Perfect - Resultado). | Have/Has | A2
+
+Will Samalper offer free shipping? | Uíl Sa-mal-per ó-fer frí xí-pin? | A Samalper vai oferecer frete grátis? (Futuro). | Will | A2
+
+Can you check the log file? | Kén iú tchék dê lóg fái-ol? | Você pode checar o arquivo de log? (Pedido/Capacidade). | Modal | A1
+
+Why is the internet slow today? | Uái íz di ín-ter-net slôu tu-dêi? | Por que a internet está lenta hoje? (Explicação - Wh-Question). | To Be | A2
+
+Where did you buy those shoes? | Uér díd iú bái dôuz shúz? | Onde você comprou esses sapatos? (Passado). | Wh- + Did | A2
+
+Does this code work on Linux? | Dâz dís côud uôrk ón Lí-nux? | Esse código funciona em Linux? (Presente - Terceira pessoa). | Does | A1
+
+How much does it cost? | Ráu mâtch dâz ít cóst? | Quanto custa isso? (Preço). | How much | A1
 
 // MÓDULO: GRAMMAR - QUESTION WORDS (35)
 What | Uót | O que / Qual | Question Word | A1
@@ -4672,6 +4785,28 @@ Why | Uái | Por que | Question Word | A1
 How | Ráu | Como | Question Word | A1
 Which | Uítch | Qual (Opção limitada) | Question Word | A1
 Whose | Rúz | De quem | Question Word | A2
+
+// MÓDULO: GRAMMAR - QUESTION WORDS (35)
+
+What is the status of the audit? | Uót íz dê stá-tâs óv di ó-dit? | Qual é o status da auditoria? (Informação Geral). | ConPrev | A1
+
+Where do you want the delivery? | Uér dú iú uónt dê di-lí-ve-ri? | Onde você quer a entrega? (Endereço/Local). | Samalper | A1
+
+When will the script be ready? | Uén uíl dê scrípt bí ré-di? | Quando o script estará pronto? (Prazo/Tempo). | Dev | A1
+
+Who is responsible for the server? | Rú íz res-pón-si-bol fór dê sêr-ver? | Quem é responsável pelo servidor? (Pessoa). | TI | A1
+
+Why did the payment fail? | Uái díd dê pêi-ment fêil? | Por que o pagamento falhou? (Motivo/Razão). | Vendas/Fisco | A1
+
+How do I import this library? | Ráu dú Ái im-pórt dís lái-bre-ri? | Como eu importo essa biblioteca? (Processo/Método). | Python | A1
+
+Which database is faster: SQL or NoSQL? | Uítch dêi-ta-bêis íz fés-ter...? | Qual banco de dados é mais rápido: SQL ou NoSQL? (Escolha entre opções limitadas). | Tech | A1
+
+Whose computer is this? | Rúz com-piú-ter íz dís? | De quem é este computador? (Posse). | Escritório | A2
+
+What time does the meeting start? | Uót táim dâz dê mí-tin stárt? | Que horas a reunião começa? (Horário específico). | Agenda | A1
+
+How much is the shipping to Goiás? | Ráu mâtch íz dê xí-pin tú Goiás? | Quanto custa o frete para Goiás? (Preço). | Samalper | A1
 
 // MÓDULO: GRAMMAR - OPEN QUESTIONS (36)
 What is your name? | Uót íz iór nêim? | Qual é o seu nome? | Open Question | A1
@@ -14248,6 +14383,7 @@ She is the apple of my eye. | Shí íz di é-pol óv mái ái. | Ela é a menina
 We need to clear the air. | Ui níd tu clí-ar di ér. | Precisamos limpar o ar (resolver um mal-entendido/tensão). | Relacionamentos e Família | C1
 He wears the pants in the relationship. | Rí uérs dê pênts in dê ri-lei-shon-shíp. | Ele é quem manda na relação. | Relacionamentos e Família | C1
 Through thick and thin. | Frú fík ênd fín. | Na alegria e na tristeza / Nos bons e maus momentos. | Relacionamentos e Família | C2
+
 
 
 
