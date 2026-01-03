@@ -4814,11 +4814,55 @@ Where do you live? | Uér dú iú lív? | Onde você mora? | Open Question | A1
 How are you? | Ráu ár iú? | Como vai você? | Open Question | A1
 Why are you here? | Uái ár iú rír? | Por que você está aqui? | Open Question | A1
 
+// MÓDULO: GRAMMAR - OPEN QUESTIONS (36)
+
+What is the deadline for the report? | Uót íz dê déd-lain fór dê ri-pórt? | Qual é o prazo para o relatório? (Informação crítica). | Trabalho | A1
+
+Where do you store the backup files? | Uér dú iú stór dê bé-kâp fái-ols? | Onde você armazena os arquivos de backup? (Infraestrutura). | TI | A2
+
+How does this function work? | Ráu dâz dís fânk-shon uôrk? | Como essa função funciona? (Entendendo o código). | Python | A1
+
+Why is the website offline? | Uái íz dê uéb-sáit óf-lain? | Por que o site está fora do ar? (Troubleshooting). | Samalper | A1
+
+When did the client sign the contract? | Uén díd dê clái-ent sáin dê con-tréct? | Quando o cliente assinou o contrato? (Auditoria). | ConPrev | A2
+
+Who authorized this transaction? | Rú ó-fo-ráiz-d dís tren-zéc-shon? | Quem autorizou esta transação? (Segurança/Fisco). | B1
+
+Which browser are you using? | Uítch bráu-zer ár iú iú-zin? | Qual navegador você está usando? (Suporte técnico). | Dev | A1
+
+How many items did we sell today? | Ráu mé-ni ái-tems díd ui sél tu-dêi? | Quantos itens nós vendemos hoje? (Contabilidade). | Samalper | A1
+
+What happens if I click delete? | Uót ré-pens íf Ái clíc di-lít? | O que acontece se eu clicar em deletar? (Previsão de erro). | Sistema | A2
+
+Whose computer is causing the lag? | Rúz com-piú-ter íz có-zin dê lég? | O computador de quem está causando o atraso? (Rede). | TI | B1
+
 // MÓDULO: GRAMMAR - OBJECT AND SUBJECT QUESTIONS (37)
 Who called you? | Rú cól-d iú? | Quem te ligou? (Sujeito: Quem fez a ação) | Subject Question | B1
 Who did you call? | Rú díd iú cól? | Para quem você ligou? (Objeto: Quem recebeu) | Object Question | B1
 What happened? | Uót ré-pen-d? | O que aconteceu? (Sujeito) | Subject Question | B1
 What did you do? | Uót díd iú dú? | O que você fez? (Objeto) | Object Question | A2
+
+// MÓDULO: GRAMMAR - OBJECT AND SUBJECT QUESTIONS (37)
+
+Who wrote this Python script? | Rú rôut dís Pái-ton scrípt? | Quem escreveu este script Python? (Busco o autor). | Subject | B1
+
+Who did you hire for Samalper? | Rú díd iú rá-ier fór Sa-mal-per? | Quem você contratou para a Samalper? (Você fez a ação). | Object | B1
+
+What caused the system crash? | Uót cóz-d dê sís-tem crésh? | O que causou a queda do sistema? (Busco a causa raiz). | Subject | B1
+
+What did you change in the code? | Uót díd iú tcheindj ín dê côud? | O que você mudou no código? (Você mudou algo). | Object | A2
+
+Who paid the tax invoice? | Rú pêid dê téks ín-vóis? | Quem pagou a guia de imposto? (Busco o pagador). | Subject | B1
+
+Who did the auditor call? | Rú díd di ó-di-tor cól? | Para quem o auditor ligou? (O auditor fez a ligação). | Object | B1
+
+Which computer has the virus? | Uítch com-piú-ter réz dê vái-râs? | Qual computador tem o vírus? (O computador é o sujeito do problema). | Subject | A2
+
+Which computer did you fix? | Uítch com-piú-ter díd iú fíks? | Qual computador você consertou? (Você é o técnico). | Object | A2
+
+How many clients bought the shoes? | Ráu mé-ni clái-ents bót dê shúz? | Quantos clientes compraram os sapatos? (Os clientes fizeram a ação). | Subject | B1
+
+How many shoes did we sell? | Ráu mé-ni shúz díd ui sél? | Quantos sapatos nós vendemos? (Nós vendemos). | Object | A2
 
 // MÓDULO: GRAMMAR - INDIRECT QUESTIONS (38)
 Can you tell me...? | Kén iú tél mí...? | Pode me dizer...? (Início polido) | Indirect Starter | A2
@@ -4826,17 +4870,83 @@ Do you know where...? | Dú iú nôu uér...? | Você sabe onde...? | Indirect S
 I wonder if... | Ái uân-der íf... | Eu me pergunto se... | Indirect Starter | B1
 Do you know where the bank is? | ...uér dâ bénk íz? | Sabe onde é o banco? (Ordem afirmativa no final) | Indirect Question | B1
 
+// MÓDULO: GRAMMAR - INDIRECT QUESTIONS (38)
+
+Can you tell me where the meeting **is**? | Kén iú tél mí uér dê mí-tin íz? | Pode me dizer onde é a reunião? (Polidez no escritório). | ConPrev | A2
+
+Do you know if the client **paid** the tax? | Dú iú nôu íf dê clái-ent pêid dê téks? | Você sabe se o cliente pagou o imposto? (Sem "Did", verbo no passado). | Fisco | B1
+
+I wonder why the script **failed**. | Ái uân-der uái dê scrípt fêil-d. | Eu me pergunto por que o script falhou. (Pensando alto). | Python | B1
+
+Could you tell me how much this **costs**? | Cûd iú tél mí ráu mâtch dís cósts? | Poderia me dizer quanto isso custa? (Atendimento ao cliente). | Samalper | B1
+
+Do you know when the bus **leaves**? | Dú iú nôu uén dê bâs lívs? | Você sabe quando o ônibus sai? (Sem "Does"). | Transporte | A2
+
+Please let me know if you **need** help. | Plíz lét mí nôu íf iú níd rélp. | Por favor, me avise se precisar de ajuda. (E-mail formal). | Trabalho | B1
+
+I don't know where he **lives**. | Ái dôunt nôu uér rí lívz. | Eu não sei onde ele mora. (Afirmação indireta). | Geral | A1
+
+Can you explain how this API **works**? | Kén iú eks-plêin ráu dís Êi-Pi-Ái uôrks? | Pode explicar como essa API funciona? | Dev | B1
+
+Do you have any idea who **did** this? | Dú iú rév é-ni ai-dí-a rú díd dís? | Você tem ideia de quem fez isso? (Investigação suave). | Auditoria | B2
+
+I was wondering if you **are** free. | Ái uóz uân-de-ring íf iú ár frí. | Eu estava me perguntando se você está livre. (Convite muito educado). | Social | B2
+
 // MÓDULO: GRAMMAR - QUESTION TAGS (39)
 You are Brazilian, aren't you? | ... ár-nt iú? | Você é brasileiro, não é? | Question Tag | A2
 He isn't here, is he? | ... íz rí? | Ele não está aqui, está? | Question Tag | A2
 They live here, don't they? | ... dôunt dêi? | Eles moram aqui, não moram? | Question Tag | B1
 She didn't go, did she? | ... díd xí? | Ela não foi, foi? | Question Tag | B1
 
+// MÓDULO: GRAMMAR - QUESTION TAGS (39)
+
+The server is running, isn't it? | Dê sêr-ver íz rân-nin, íz-ant ít? | O servidor está a rodar, não está? (Verificação de status). | TI | A2
+
+You use Python, don't you? | Iú iúz Pái-ton, dôunt iú? | Tu usas Python, não usas? (Presente simples). | Dev | A2
+
+The client didn't pay, did he? | Dê clái-ent díd-ant pêi, díd rí? | O cliente não pagou, pagou? (Confirmação negativa). | Fisco | B1
+
+Samalper sells shoes, doesn't it? | Sa-mal-per sélz shúz, dâ-zant ít? | A Samalper vende sapatos, não vende? (Cuidado: 3ª pessoa 'Does'). | Negócios | B1
+
+You will finish the audit, won't you? | Iú uíl fí-nish di ó-dit, uôunt iú? | Vais terminar a auditoria, não vais? (Pressão suave). | ConPrev | B1
+
+He can fix the bug, can't he? | Rí cén fíks dê bâg, cént rí? | Ele consegue consertar o bug, não consegue? (Capacidade). | Equipa | B1
+
+We have meeting today, don't we? | Ui rév mí-tin tu-dêi, dôunt ui? | Temos reunião hoje, não temos? (Agenda). | Trabalho | A2
+
+It was a difficult day, wasn't it? | Ít uóz a dí-fi-calt dêi, uóz-ant ít? | Foi um dia difícil, não foi? (Passado com To Be). | Pessoal | B1
+
+You wouldn't lie to me, would you? | Iú uû-dant lái tú mí, uûd iú? | Não mentirias para mim, mentirias? (Condicional). | Ética | B2
+
+I am right, aren't I? | Ái ém ráit, ár-nt Ái? | Eu estou certo, não estou? (EXCEÇÃO GRAMATICAL: "Amn't I" não existe). | Regra | C1
+
 // MÓDULO: GRAMMAR - SHORT QUESTIONS (40)
 Why not? | Uái nót? | Por que não? | Short Question | A1
 How about you? | Ráu a-báut iú? | E você? / Que tal você? | Short Question | A1
 Me? | Mí? | Eu? | Short Question | A1
 Really? | Rí-a-li? | Sério? / Verdade? | Short Question | A1
+
+// MÓDULO: GRAMMAR - SHORT QUESTIONS (40)
+
+Any questions? | É-ni kués-tchans? | Alguma pergunta? (Final de reunião). | ConPrev | A1
+
+Done? | Dân? | Terminou? / Pronto? (Verificando tarefa). | Gestão | A1
+
+What for? | Uót fór? | Para quê? (Qual o propósito/objetivo). | Python/Dev | A2
+
+Who else? | Rú éls? | Quem mais? (Adicionando pessoas à lista). | Auditoria | A1
+
+So what? | Sôu uót? | E daí? / Qual o problema? (Desafiador/Grosseiro - Cuidado). | Negociação | B1
+
+Sure? | Xúr? | Tem certeza? | Confirmação | A1
+
+Which one? | Uítch uân? | Qual deles? (Escolhendo produtos). | Samalper | A1
+
+Like what? | Láik uót? | Tipo o quê? / Como o quê? (Pedindo exemplo). | Conversa | A2
+
+Since when? | Síns uén? | Desde quando? (Surpresa com o tempo). | Rotina | B1
+
+Ready? | Ré-di? | Pronto? | Ação | A1
 
 // MÓDULO: GRAMMAR - SHORT ANSWERS (41)
 Yes, I am | Iés ái ém | Sim, eu sou/estou | Short Answer | A1
@@ -4845,21 +4955,100 @@ Yes, she did | Iés xí díd | Sim, ela fez | Short Answer | A1
 No, they haven't | Nôu dêi ré-vent | Não, eles não (têm/fizeram) | Short Answer | A2
 I hope so | Ái rôup sôu | Espero que sim | Short Answer | B1
 
+// MÓDULO: GRAMMAR - SHORT ANSWERS (41)
+
+Are you the administrator? | Yes, I am. / No, I'm not. | Você é o administrador? Sim, sou. | TI / Login | A1
+
+Do you sell leather shoes? | Yes, we do. / No, we don't. | Vocês vendem sapatos de couro? Sim, vendemos. | Samalper | A1
+
+Did the client send the file? | Yes, he did. / No, he didn't. | O cliente mandou o arquivo? Sim, mandou. | ConPrev | A2
+
+Is the server running? | Yes, it is. / No, it isn't. | O servidor está rodando? Sim, está. | Status | A1
+
+Have you finished the audit? | Yes, I have. / No, I haven't. | Você terminou a auditoria? Sim, terminei. | Resultado | A2
+
+Will you be in Senador Canedo? | Yes, I will. / No, I won't. | Você estará em Senador Canedo? Sim, estarei. | Agenda | A2
+
+Can Python do this? | Yes, it can. / No, it can't. | O Python consegue fazer isso? Sim, consegue. | Dev | A1
+
+Should I restart the machine? | Yes, you should. / No, you shouldn't. | Devo reiniciar a máquina? Sim, deve. | Suporte | B1
+
+Is she coming to the meeting? | Yes, she is. / No, she isn't. | Ela vem para a reunião? Sim, vem. | Pessoal | A1
+
+Does he work here? | Yes, he does. / No, he doesn't. | Ele trabalha aqui? Sim, trabalha. (Cuidado com o 'Does'). | RH | A1
+
 // MÓDULO: GRAMMAR - QUESTIONS REVIEW (42)
 Do you know him? | Dú iú nôu rím? | Você conhece ele? | Question Review | A1
 Where is it? | Uér íz ít? | Onde está? | Question Review | A1
 Could you help me? | Kûd iú rélp mí? | Poderia me ajudar? | Question Review | A2
+
+// MÓDULO: GRAMMAR - QUESTIONS REVIEW (42)
+
+Do you have the password? | Dú iú rév dê pés-uôrd? | Tens a palavra-passe? (Básico / Posse). | Acesso | A1
+
+Where did you put the receipt? | Uér díd iú pût dê ri-sít? | Onde puseste o recibo? (Passado + Wh-). | Auditoria | A2
+
+Could you send the logs via email? | Kûd iú sénd dê lógs vá-ia í-mêil? | Poderias enviar os registos por e-mail? (Pedido Formal). | TI | A2
+
+Is the server running on Linux? | Íz dê sêr-ver rân-nin ón Lí-nux? | O servidor está a correr em Linux? (Estado / To Be). | Dev | A1
+
+Why haven't they paid yet? | Uái ré-vent dêi pêid iét? | Porque é que eles ainda não pagaram? (Present Perfect + Why). | Fisco | B1
+
+Will you be at the office tomorrow? | Uíl iú bí ét di ó-fis tu-mó-rou? | Estarás no escritório amanhã? (Futuro). | Agenda | A2
+
+How much does the shipping cost? | Ráu mâtch dâz dê xí-pin cóst? | Quanto custa o envio? (Custo / Do). | Samalper | A1
+
+Can I ask a question? | Kén Ái ásk a kués-tchan? | Posso fazer uma pergunta? (Permissão Simples). | Reunião | A1
+
+Who is responsible for this code? | Rú íz res-pón-si-bol fór dís côud? | Quem é responsável por este código? (Sujeito "Who"). | Gestão | A2
+
+Did you know about the update? | Díd iú nôu a-báut di âp-dêit? | Sabias da atualização? (Passado "Did"). | Informação | A2
 
 // MÓDULO: GRAMMAR - REPORTED SPEECH BASICS (43)
 He said he was happy | Rí séd rí uóz ré-pi | Ele disse que estava feliz (Original: "I am happy") | Reported Statement | A2
 She said she loved it | Xí séd xí lâv-d ít | Ela disse que amou (Original: "I love it") | Reported Statement | A2
 They said they were busy | Dêi séd dêi uér bí-zi | Eles disseram que estavam ocupados | Reported Statement | A2
 
+// MÓDULO: GRAMMAR - REPORTED SPEECH BASICS (43)
+
+He said the server was down. | Rí séd dê sêr-ver uóz dáun. | Ele disse que o servidor estava fora do ar. (Original: "The server is down"). | TI | A2
+
+The client said he wanted a refund. | Dê clái-ent séd rí uón-ted a ri-fând. | O cliente disse que queria um reembolso. (Original: "I want a refund"). | Samalper | B1
+
+Rubens said the audit was urgent. | Rubens séd di ó-dit uóz âr-djent. | Rubens disse que a auditoria era urgente. (Original: "The audit is urgent"). | ConPrev | A2
+
+She said she worked with Python. | Xí séd xí uôrk-t uíf Pái-ton. | Ela disse que trabalhava com Python. (Original: "I work with Python"). | Dev | A2
+
+They said they were ready to buy. | Dêi séd dêi uér ré-di tú bái. | Eles disseram que estavam prontos para comprar. (Original: "We are ready"). | Vendas | A2
+
+I thought you knew about the tax. | Ái fót iú niú a-báut dê téks. | Eu achei que você sabia sobre o imposto. (Original mental: "He knows"). | Fisco | B1
+
+He said he didn't like the design. | Rí séd rí díd-ant láik dê di-záin. | Ele disse que não gostava do design. (Original: "I don't like it"). | Feedback | A2
+
+We told him the price was too high. | Ui tôuld rím dê práis uóz tú rái. | Nós dissemos a ele que o preço estava muito alto. (Original: "The price is high"). | Negociação | B1
+
+She said she could fix the bug. | Xí séd xí cûd fíks dê bâg. | Ela disse que podia consertar o bug. (Original: "I can fix it"). | TI | B1
+
+The logs showed the user was offline. | Dê lógs shôu-d dê iú-zer uóz óf-lain. | Os logs mostraram que o usuário estava offline. (Relato de sistema). | Análise | B2
+
 // MÓDULO: GRAMMAR - TENSES IN REPORTED SPEECH (44)
 He said he worked there | ... rí uôrk-t dér | Ele disse que trabalhava lá (Present -> Past) | Backshift | B1
 She said she was working | ... xí uóz uôr-kin | Ela disse que estava trabalhando (Pres. Cont. -> Past Cont.) | Backshift | B1
 He said he had finished | ... rí réd fí-nish-t | Ele disse que tinha terminado (Past Simple -> Past Perfect) | Backshift | B1
 She said she would go | ... xí uûd gôu | Ela disse que iria (Will -> Would) | Backshift | B1
+
+He said the API was slow. | ...di Êi-Pi-Ái uóz slôu. | Ele disse que a API estava lenta. (Original: "The API is slow"). | TI | B1
+Rubens said the rule applied to everyone. | ...dê rú-ol a-plái-d... | Rubens disse que a regra se aplicava a todos. (Original: "The rule applies"). | ConPrev | B1
+The client said he needed more time. | ...rí ní-ded mór táim. | O cliente disse que precisava de mais tempo. (Original: "I need more time"). | Negociação | B1
+She said Samalper offered good prices. | ...Sa-mal-per ó-ferd gûd prái-ces. | Ela disse que a Samalper oferecia bons preços. (Original: "Samalper offers..."). | Vendas | B1
+
+She said she was testing the script. | ...xí uóz tés-tin... | Ela disse que estava testando o script. (Original: "I am testing"). | Dev | B1
+The driver said he was traveling to Goiás. | ...rí uóz trá-ve-lin... | O motorista disse que estava viajando para Goiás. (Original: "I am traveling"). | Logística | B1
+He said he was studying for the CFC exam. | ...rí uóz stâ-di-in... | Ele disse que estava estudando para o exame do CFC. (Original: "I am studying"). | Pessoal | B1
+
+They said they would buy the shoes. | ...dêi uûd bái... | Eles disseram que comprariam os sapatos. (Original: "We will buy"). | Vendas | B1
+The system said it would restart. | ...ít uûd ri-stárt. | O sistema disse que iria reiniciar. (Original: "I will restart"). | TI | B1
+He promised he would help with the code. | ...rí uûd rélp... | Ele prometeu que ajudaria com o código. (Original: "I will help"). | Dev | B1
 
 // MÓDULO: GRAMMAR - REPORTING VERBS (45)
 Say | Sêi | Dizer (He said that...) | Reporting Verb | A1
@@ -4869,25 +5058,116 @@ Explain | Eks-plêin | Explicar | Reporting Verb | B1
 Suggest | Sa-djést | Sugerir | Reporting Verb | B1
 Promise | Pró-mis | Prometer | Reporting Verb | B1
 
+// MÓDULO: GRAMMAR - REPORTING VERBS (45)
+
+Rubens explained how the new rule works. | Rubens eks-plêin-d ráu dê niú rú-ol uôrks. | Rubens explicou como a nova regra funciona. (Técnico). | ConPrev | B1
+
+I suggested using Python for this task. | Ái sa-djés-ted iú-zin Pái-ton fór dís tásk. | Eu sugeri usar Python para esta tarefa. (Suggest + ING). | Dev | B2
+
+The client asked for a discount. | Dê clái-ent ásk-t fór a dis-cáunt. | O cliente pediu um desconto. (Pedido). | Samalper | A1
+
+He promised to deliver the shoes on Monday. | Rí pró-mis-t tú di-lí-ver dê shúz ón Mân-dêi. | Ele prometeu entregar os sapatos na segunda. (Compromisso). | Logística | B1
+
+She told me the server was offline. | Xí tôuld mí dê sêr-ver uóz óf-lain. | Ela me contou que o servidor estava offline. (Tell + Pessoa). | TI | A2
+
+The auditor explained that the receipt was invalid. | Di ó-di-tor eks-plêin-d dét dê ri-sít uóz in-vá-lid. | O auditor explicou que o recibo era inválido. (Justificativa). | Fisco | B1
+
+I suggest checking the logs first. | Ái sa-djést tché-kin dê lógs fêrst. | Eu sugiro checar os logs primeiro. (Conselho técnico). | Debug | B1
+
+They asked why the system crashed. | Dêi ásk-t uái dê sís-tem crésh-t. | Eles perguntaram por que o sistema travou. (Investigação). | TI | A2
+
+He said he was busy with the CFC exam. | Rí séd rí uóz bí-zi uíf dê C-F-C eg-zém. | Ele disse que estava ocupado com o exame do CFC. (Relato simples). | Pessoal | A1
+
+We promised not to delay the payment. | Ui pró-mis-t nót tú di-lêi dê pêi-ment. | Nós prometemos não atrasar o pagamento. (Negociação). | Finanças | B1
+
 // MÓDULO: GRAMMAR - REPORTED SPEECH WITH NEGATIVES (46)
 He said he didn't like it | ... dí-dant láik ít | Ele disse que não gostava | Reported Negative | B1
 She told me not to go | ... nót tú gôu | Ela me disse para não ir (Imperativo Negativo) | Reported Command | B1
 They said they couldn't help | ... kû-dant rélp | Eles disseram que não podiam ajudar | Reported Modal | B1
+
+Rubens told me not to sign the document. | Rubens tôuld mí nót tú sáin... | O Rubens disse-me para não assinar o documento. (Ordem: "Don't sign"). | ConPrev | B1
+I asked the client not to send cash. | Ái ásk-t dê clái-ent nót tú sénd késh. | Pedi ao cliente para não enviar dinheiro vivo. (Pedido: "Please, don't send"). | Fisco | B1
+The error message told me not to restart. | ...tôuld mí nót tú ri-stárt. | A mensagem de erro disse-me para não reiniciar. (Instrução). | TI | B1
+He warned me not to use that library. | Rí uórn-d mí nót tú iúz dét lái-bre-ri. | Ele avisou-me para não usar aquela biblioteca. (Aviso de segurança). | Dev | B2
+
+He said he didn't receive the email. | ...rí díd-ant ri-sív... | Ele disse que não recebeu o e-mail. (Fato passado). | Comunicação | A2
+The logs showed the user couldn't login. | ...kû-dant ló-guín. | Os registos mostraram que o utilizador não conseguiu entrar. (Capacidade). | Dev | B1
+She said she wouldn't go to Senador Canedo. | ...xí uû-dant gôu... | Ela disse que não iria a Senador Canedo. (Recusa futura: "I won't go"). | Logística | B1
+They said they hadn't finished the script. | ...dêi ré-dant fí-nish-t... | Eles disseram que não tinham terminado o script. (Atraso). | Trabalho | B2
+The auditor said the tax wasn't paid. | ...dê téks uó-zant pêid. | O auditor disse que o imposto não estava pago. | ConPrev | B1
 
 // MÓDULO: GRAMMAR - REPORTED QUESTIONS (47)
 He asked where I lived | ... uér ái lív-d | Ele perguntou onde eu morava (Ordem direta no final) | Reported Question | B1
 She asked if I was ready | ... íf ái uóz ré-di | Ela perguntou se eu estava pronto (Yes/No Question usa 'If') | Reported Question | B1
 He asked what time it was | ... uót táim ít uóz | Ele perguntou que horas eram | Reported Question | B1
 
+// MÓDULO: GRAMMAR - REPORTED QUESTIONS (47)
+
+He asked why the server crashed. | Rí ásk-t uái dê sêr-ver crésh-t. | Ele perguntou por que o servidor travou. (Original: "Why did it crash?"). | TI | B1
+
+The auditor asked when we had paid the tax. | ...uén ui réd pêid... | O auditor perguntou quando tínhamos pago o imposto. (Original: "When did you pay?"). | ConPrev | B2
+
+I asked where the delivery was. | ...uér dê di-lí-ve-ri uóz. | Eu perguntei onde a entrega estava. (Original: "Where is the delivery?"). | Samalper | A2
+
+She asked how much the shoes cost. | ...ráu mâtch dê shúz cóst. | Ela perguntou quanto os sapatos custavam. (Original: "How much do they cost?"). | Vendas | B1
+
+Rubens asked who wrote the script. | ...rú rôut dê scrípt. | Rubens perguntou quem escreveu o script. (Original: "Who wrote the script?"). | Gestão | B1
+
+He asked if I knew Python. | ...íf Ái niú Pái-ton. | Ele perguntou se eu sabia Python. (Original: "Do you know Python?"). | Dev | A2
+
+The client asked if the store was open. | ...íf dê stór uóz ôu-pen. | O cliente perguntou se a loja estava aberta. (Original: "Is the store open?"). | Samalper | A2
+
+They asked if we could extend the deadline. | ...íf ui cûd eks-ténd... | Eles perguntaram se podíamos estender o prazo. (Original: "Can you extend...?"). | Negociação | B1
+
+I asked if he had finished the report. | ...íf rí réd fí-nish-t... | Eu perguntei se ele tinha terminado o relatório. (Original: "Have you finished?"). | Trabalho | B2
+
+She asked if I was from Goiás. | ...íf Ái uóz fróm Goiás. | Ela perguntou se eu era de Goiás. (Original: "Are you from Goiás?"). | Social | A1
+
 // MÓDULO: GRAMMAR - REPORTED SPEECH REVIEW (48)
 He told me he was late | Rí tôuld mí rí uóz lêit | Ele me contou que estava atrasado | Review | B1
 She asked where the station was | Xí ásk-t uér dâ stêi-shan uóz | Ela perguntou onde era a estação | Review | B1
 I said I would do it | Ái séd ái uûd dú ít | Eu disse que faria | Review | B1
 
+// MÓDULO: GRAMMAR - REPORTED SPEECH REVIEW (48)
+
+He said the server was offline. | Rí séd dê sêr-ver uóz óf-lain. | Ele disse que o servidor estava fora do ar. (Statement: Is -> Was). | TI | B1
+
+Rubens told me to send the report. | Rubens tôuld mí tú sénd dê ri-pórt. | Rubens me mandou enviar o relatório. (Command: Send -> To send). | ConPrev | B1
+
+She asked if I knew Python. | Xí ásk-t íf Ái niú Pái-ton. | Ela perguntou se eu sabia Python. (Question Yes/No: Do -> If). | Dev | B1
+
+I told him not to delete the logs. | Ái tôuld rím nót tú di-lít dê lógs. | Eu disse a ele para não deletar os logs. (Negative Command: Don't -> Not to). | Segurança | B1
+
+The client asked where the shoes were. | ...uér dê shúz uér. | O cliente perguntou onde os sapatos estavam. (Wh- Question: Where are -> Where... were). | Samalper | B1
+
+He explained that he had paid yesterday. | ...dét rí réd pêid iés-ter-dêi. | Ele explicou que tinha pago ontem. (Statement: Paid -> Had paid). | Fisco | B2
+
+They promised they would help. | ...dêi uûd rélp. | Eles prometeram que ajudariam. (Future: Will -> Would). | Negociação | B1
+
+I asked how much it cost. | ...ráu mâtch ít cóst. | Eu perguntei quanto custava. (Wh- Question: Does it cost -> It cost). | Compras | A2
+
+She said she was traveling to Goiás. | ...xí uóz trá-ve-lin... | Ela disse que estava viajando para Goiás. (Continuous: Is -> Was). | Social | B1
+
+We suggested checking the receipt. | Ui sa-djés-ted tché-kin dê ri-sít. | Nós sugerimos checar o recibo. (Suggest + ING). | Auditoria | B2
+
 // MÓDULO: GRAMMAR - TYPES OF VERBS (49)
 Main verb | Mêin vârb | Verbo principal (Carrega o sentido: Eat, Sleep) | Grammar Term | A1
 Auxiliary verb | Og-zí-lia-ri vârb | Verbo auxiliar (Ajuda na gramática: Do, Have, Be) | Grammar Term | A2
 Modal verb | Môu-dal vârb | Verbo modal (Altera o sentido: Can, Must, Should) | Grammar Term | A2
+
+I audit the accounts every month. | Ái ó-dit di a-cáunts... | Eu audito as contas todo mês. (Ação: Auditar). | ConPrev | B1
+I write Python scripts. | Ái ráit Pái-ton scrípts. | Eu escrevo scripts em Python. (Ação: Escrever). | Dev | A1
+Samalper sells shoes. | Sa-mal-per sélz shúz. | A Samalper vende sapatos. (Ação: Vender). | Samalper | A1
+
+Do you audit the accounts? | Dú iú ó-dit...? | Você audita as contas? (Do = Presente). | Auxiliar | A1
+Did you write the script? | Díd iú ráit...? | Você escreveu o script? (Did = Passado). | Auxiliar | A1
+I have finished the report. | Ái rév fí-nish-t... | Eu terminei o relatório. (Have = Passado Recente/Efeito). | Auxiliar | B1
+I am working now. | Ái ém uôr-kin náu. | Estou trabalhando agora. (Am/To Be = Continuidade). | Auxiliar | A1
+
+I can write Python code. | Ái kén ráit... | Eu consigo escrever código Python. (Habilidade). | Modal | A2
+You must pay the tax. | Iú mâst pêi... | Você deve pagar o imposto. (Obrigação Legal). | Modal | B1
+The server might crash. | Dê sêr-ver máit crésh. | O servidor pode cair. (Probabilidade). | Modal | B1
+We should check the logs. | Ui xûd tchék... | Deveríamos checar os logs. (Recomendação). | Modal | B1
 
 // MÓDULO: GRAMMAR - ACTION AND STATE VERBS (50)
 I am cooking | Ái ém cû-kin | Estou cozinhando (Ação física visível) | Action Verb | A1
@@ -4895,10 +5175,37 @@ I understand | Ái an-der-sténd | Eu entendo (Estado mental, não se usa 'ing')
 I own a car | Ái ôun a cár | Eu possuo um carro (Posse é estado, não ação) | State Verb | A2
 She seems happy | Xí síms ré-pi | Ela parece feliz (Aparência é estado) | State Verb | B1
 
+I need more time for the audit. | Ái níd mór táim... | Eu preciso de mais tempo para a auditoria. (Necessidade = Estado). | ConPrev | A1
+I know how to fix the bug. | Ái nôu ráu tú fíks... | Eu sei como consertar o bug. (Conhecimento = Estado). | Dev | A1
+The shoes cost R$100. | Dê shúz cóst... | Os sapatos custam R$100. (Preço = Estado). | Samalper | A1
+This report contains errors. | Dís ri-pórt con-têins é-rrors. | Este relatório contém erros. (Conteúdo = Estado). | Auditoria | B1
+I prefer Linux over Windows. | Ái pri-fâr Lí-nux... | Eu prefiro Linux a Windows. (Preferência = Estado). | TI | A1
+I believe the tax is correct. | Ái bi-lív dê téks íz co-rréct. | Eu acredito que o imposto está correto. (Opinião = Estado). | Fisco | B1
+
+I am auditing the accounts. | Ái ém ó-di-tin... | Estou auditando as contas. (Ação acontecendo agora). | ConPrev | B1
+I am running the script. | Ái ém rân-nin dê scrípt. | Estou rodando o script. (Processo). | Dev | A1
+We are selling a lot today. | Ui ár sé-lin a lót... | Estamos vendendo muito hoje. (Atividade). | Samalper | A1
+I am looking at the logs. | Ái ém lú-kin ét dê lógs. | Estou olhando para os logs. (Ação deliberada dos olhos). | TI | A2
+
 // MÓDULO: GRAMMAR - INFINITIVES AND PARTICIPLES (51)
 To be | Tú bí | Ser/Estar (Infinitivo com 'to') | Infinitive | A1
 Broken | Brôu-ken | Quebrado (Particípio passado - V3) | Past Participle | A2
 Swimming | Suí-min | Nadando / Natação (Particípio presente ou Gerúndio) | Present Participle | A2
+
+I need to update the server. | Ái níd tú âp-dêit... | Preciso atualizar o servidor. (Meta). | TI | A1
+We plan to expand Samalper. | Ui plén tú eks-pénd... | Planejamos expandir a Samalper. (Intenção). | Negócios | B1
+It is important to check the tax. | Ít íz im-pór-tant tú tchék... | É importante verificar o imposto. (Regra). | Fisco | A2
+I want to learn English. | Ái uónt tú lâr-n... | Eu quero aprender inglês. (Desejo). | Pessoal | A1
+
+Coding is tiring. | Côu-din íz tái-rin. | Programar é cansativo. (O ato de programar = Sujeito). | Dev | A2
+The running script is fast. | Dê rân-nin scrípt... | O script em execução é rápido. (Adjetivo ativo). | Python | B1
+I am auditing the accounts. | Ái ém ó-di-tin... | Estou auditando as contas. (Processo contínuo). | ConPrev | B1
+Stealing data is a crime. | Stí-lin dêi-ta... | Roubar dados é crime. (A atividade de roubar). | Segurança | B2
+
+The file is deleted. | Dê fái-ol íz di-lí-ted. | O arquivo está deletado. (Estado irreversível). | TI | A2
+The audit is finished. | Di ó-dit íz fí-nish-t. | A auditoria está terminada. (Status Concluído). | ConPrev | A2
+I have seen this error before. | Ái rév sín dís é-rror... | Eu (já) vi este erro antes. (Experiência acumulada). | Debug | B1
+The shoes are sold out. | Dê shúz ár sôuld áut. | Os sapatos estão esgotados. (Estado do estoque). | Vendas | B1
 
 // MÓDULO: GRAMMAR - VERB PATTERNS (52)
 I want to go | Ái uónt tú gôu | Eu quero ir (Verbos de desejo pedem 'To') | Verb + Infinitive | A1
@@ -4906,11 +5213,49 @@ I enjoy reading | Ái in-djói rí-din | Eu curto ler (Enjoy sempre pede 'Ing') 
 I decided to stay | Ái di-sái-ded tú stêi | Decidi ficar | Verb + Infinitive | B1
 I finished working | Ái fí-nish-t uôr-kin | Terminei de trabalhar | Verb + Gerund | B1
 
+I plan to launch the store soon. | Ái plén tú lóntch... | Planejo lançar a loja em breve. (Plan + To). | Samalper | B1
+
+I need to access the server. | Ái níd tú éc-ses... | Preciso acessar o servidor. (Need + To). | TI | A1
+
+We decided to appeal the fine. | Ui di-sái-ded tú a-píl... | Decidimos recorrer da multa. (Decide + To). | ConPrev | B1
+
+I hope to pass the CFC exam. | Ái rôup tú pés... | Espero passar no exame do CFC. (Hope + To). | Pessoal | A2
+
+I promise to send the email. | Ái pró-mis tú sénd... | Prometo enviar o e-mail. (Promise + To). | Trabalho | A2
+
+I finished writing the script. | Ái fí-nish-t rái-tin... | Terminei de escrever o script. (Finish + Ing). | Python | B1
+
+I enjoy running in the park. | Ái in-djói rân-nin... | Eu curto correr no parque. (Enjoy + Ing). | Fitness | A2
+
+Avoid using global variables. | A-vóid iú-zin glôu-bal... | Evite usar variáveis globais. (Avoid + Ing). | Dev | B2
+
+He denied stealing the data. | Rí di-náid stí-lin... | Ele negou ter roubado os dados. (Deny + Ing). | Segurança | B2
+
+I keep trying to learn. | Ái kíp trái-in... | Eu continuo tentando aprender. (Keep = Manter/Continuar + Ing). | Estudo | B1
+
 // MÓDULO: GRAMMAR - VERB PATTERNS WITH OBJECTS (53)
 I told him to go | Ái tôuld rím tú gôu | Eu disse para ele ir (Verbo + Pessoa + To) | Pattern with Object | A2
 She asked me to help | Xí ásk-t mí tú rélp | Ela me pediu para ajudar | Pattern with Object | A2
 He made me cry | Rí mêid mí crái | Ele me fez chorar (Make + Pessoa + Verbo sem 'to') | Pattern without To | B1
 Let me go | Lét mí gôu | Deixe-me ir | Pattern without To | A1
+
+Rubens told me to audit the file. | Rubens tôuld mí tú ó-dit... | Rubens me mandou auditar o arquivo. (Ordem). | ConPrev | A2
+
+I want the client to pay today. | Ái uónt dê clái-ent tú pêi... | Quero que o cliente pague hoje. (Desejo sobre terceiro). | Fisco | A2
+
+We expect the sales to increase. | Ui eks-péct dê sêils tú in-crís. | Esperamos que as vendas aumentem. (Expectativa). | Samalper | B1
+
+The error caused the script to fail. | ...cóz-d dê scrípt tú fêil. | O erro causou a falha do script. (Causa e efeito). | Python | B2
+
+I advised him to study for CFC. | Ái ad-váiz-d rím tú stâ-di... | Aconselhei-o a estudar para o CFC. (Conselho). | Pessoal | B1
+
+The boss made me rewrite the report. | ...mêid mí ri-ráit... | O chefe me fez reescrever o relatório. (Obrigação - NÃO use 'to rewrite'). | Trabalho | B1
+
+Let the script run all night. | Lét dê scrípt rân... | Deixe o script rodar a noite toda. (Permissão - NÃO use 'to run'). | Dev | A1
+
+Don't let the client wait. | Dôunt lét dê clái-ent uêit. | Não deixe o cliente esperar. (Atendimento). | Samalper | A1
+
+This tool makes it work faster. | ...mêiks ít uôrk... | Essa ferramenta faz isso funcionar mais rápido. (Eficiência). | TI | A2
 
 // MÓDULO: GRAMMAR - VERB PATTERNS WITH PREPOSITIONS (54)
 Wait for | Uêit fór | Esperar por (Alguém/Algo) | Verb + Preposition | A1
@@ -4918,12 +5263,134 @@ Listen to | Lís-sen tú | Escutar (Sempre exige 'to') | Verb + Preposition | A1
 Depend on | Di-pénd ón | Depender de (Brasileiro erra usando 'of') | Verb + Preposition | B1
 Think about | Tínk a-báut | Pensar sobre | Verb + Preposition | A2
 
+// MÓDULO: GRAMMAR - VERB PATTERNS WITH PREPOSITIONS (54)
+Wait for | Uêit fór | Esperar por (Alguém/Algo) | Verb + Preposition | A1
+Listen to | Lís-sen tú | Escutar (Sempre exige 'to') | Verb + Preposition | A1
+Depend on | Di-pénd ón | Depender de (Regra: Apoiar-se EM algo) | Verb + Preposition | B1
+Think about | Tínk a-báut | Pensar sobre / Analisar | Verb + Preposition | A2
+Look at | Lúk ét | Olhar para (Visualizar logs/tela) | Verb + Preposition | A1
+Look for | Lúk fór | Procurar por (Buscar arquivo/erro) | Verb + Preposition | A2
+Ask for | Ásk fór | Pedir algo (Solicitar reembolso/ajuda) | Verb + Preposition | A2
+Pay for | Pêi fór | Pagar por algo (Pagar o serviço/produto) | Verb + Preposition | A1
+Talk to | Tók tú | Falar com alguém (Cliente/Rubens) | Verb + Preposition | A1
+Agree with | A-grí uíf | Concordar com (Pessoa ou Ideia) | Verb + Preposition | B1
+Focus on | Fôu-câs ón | Focar em (Tarefa/Código) | Verb + Preposition | B1
+Deal with | Dí-al uíf | Lidar com / Resolver (Problema/Cliente difícil) | Verb + Preposition | B2
+Belong to | Bi-lóng tú | Pertencer a (Dono/Departamento) | Verb + Preposition | B1
+Arrive at | A-ráiv ét | Chegar em (Lugar específico: Escritório/Local) | Verb + Preposition | A2
+Apologize for | A-pó-lo-djáiz fór | Pedir desculpas por (Erro/Atraso) | Verb + Preposition | B2
+Worry about | Uô-rri a-báut | Preocupar-se com (Prazo/Multa) | Verb + Preposition | A2
+Believe in | Bi-lív ín | Acreditar em (Ideia/Pessoa/Deus) | Verb + Preposition | A2
+Spend on | Spénd ón | Gastar com (Dinheiro/Tempo em algo) | Verb + Preposition | B1
+Connect to | Co-néct tú | Conectar a (Banco de dados/Wi-Fi) | Verb + Preposition | A2
+Participate in | Par-tí-ci-pêit ín | Participar de (Reunião/Projeto) | Verb + Preposition | B1
+
 // MÓDULO: GRAMMAR - PHRASAL VERBS (55)
 Wake up | Uêik âp | Acordar | Phrasal Verb | A1
-Turn off | Târn óf | Desligar | Phrasal Verb | A2
-Look for | Lûk fór | Procurar | Phrasal Verb | A2
-Run out of | Rân áut óv | Ficar sem / Esgotar (Ex: Gasolina) | Phrasal Verb | B2
+Turn off | Târn óf | Desligar (Equipamento/Luz) | Phrasal Verb | A2
+Look for | Lûk fór | Procurar (Buscar algo perdido) | Phrasal Verb | A2
+Run out of | Rân áut óv | Ficar sem / Esgotar (Estoque/Combustível/Tempo) | Phrasal Verb | B2
 Give up | Gív âp | Desistir | Phrasal Verb | B1
+Turn on | Târn ón | Ligar (Equipamento/Luz) | Phrasal Verb | A2
+Set up | Sét âp | Configurar / Instalar (Software ou Ambiente) | Phrasal Verb | B1
+Find out | Fáind áut | Descobrir (Informação/Erro) | Phrasal Verb | B1
+Log in | Lóg ín | Entrar no sistema (Login) | Phrasal Verb | A1
+Log out | Lóg áut | Sair do sistema (Logout) | Phrasal Verb | A1
+Call back | Cól béc | Retornar a ligação | Phrasal Verb | A2
+Go over | Gôu ôu-ver | Revisar detalhadamente (Auditoria) | Phrasal Verb | B2
+Break down | Brêik dáun | Quebrar (Máquina) / Analisar (Dados) | Phrasal Verb | B1
+Pick up | Píc âp | Pegar / Buscar (Encomenda/Pessoa) | Phrasal Verb | A2
+Fill out | Fíl áut | Preencher (Formulário/Relatório) | Phrasal Verb | B1
+Come back | Câm béc | Voltar / Retornar | Phrasal Verb | A1
+Get up | Gét âp | Levantar-se (Da cama ou cadeira) | Phrasal Verb | A1
+Carry on | Ké-rri ón | Continuar / Prosseguir (Apesar de problemas) | Phrasal Verb | B2
+Back up | Béc âp | Fazer cópia de segurança / Apoiar alguém | Phrasal Verb | B1
+Point out | Póint áut | Apontar / Destacar (Um erro ou fato) | Phrasal Verb | B2
+
+// MÓDULO: GRAMMAR - PHRASAL VERBS (ROUTINE) (55)
+Work out | Uôrk áut | Malhar / Treinar (Academia ou Corrida) | Phrasal Verb | A1
+Put on | Pût ón | Colocar / Vestir / Calçar (Ação de pôr a roupa/tênis) | Phrasal Verb | A1
+Take off | Têik óf | Tirar (Roupa/Sapatos) | Phrasal Verb | A1
+Get dressed | Gét drés-d | Vestir-se (Preparar-se) | Phrasal Verb | A1
+Chill out | Tchíl áut | Relaxar / Ficar de boa (Descansar a cabeça) | Phrasal Verb | B1
+Stay up | Stêi âp | Ficar acordado até tarde (Geralmente estudando/codando) | Phrasal Verb | B1
+Sleep in | Slíp ín | Dormir até mais tarde (Intencionalmente, no domingo) | Phrasal Verb | B1
+Eat out | ít áut | Comer fora (Restaurante/Lanchonete) | Phrasal Verb | A1
+Clean up | Clín âp | Limpar / Arrumar (A bagunça) | Phrasal Verb | A2
+Drop off | Dróp óf | Deixar alguém/algo (Deixar o filho na escola/carro na oficina) | Phrasal Verb | B1
+Pick out | Píc áut | Escolher (Escolher uma roupa/filme) | Phrasal Verb | B1
+Try on | Trái ón | Experimentar (Roupa/Sapato antes de comprar) | Phrasal Verb | A1
+Throw away | Trôu a-uêi | Jogar fora (Lixo/Coisas velhas) | Phrasal Verb | A2
+Get along | Gét a-lóng | Se dar bem (Ter bom relacionamento com alguém) | Phrasal Verb | B1
+Cut down | Cât dáun | Reduzir (Açúcar, gastos, tempo no celular) | Phrasal Verb | B2
+
+I need to set up the new server. | Ái níd tú sét âp... | Preciso configurar o novo servidor. (Instalar/Preparar). | TI | B1
+
+The script broke down yesterday. | ...brôuk dáun iés-ter-dêi. | O script parou de funcionar/quebrou ontem. (Falha mecânica/lógica). | Python | B1
+
+Please log in to the system. | Plíz lóg ín tú dê sís-tem. | Por favor, entre no sistema. (Acesso). | TI | A1
+
+Don't forget to back up the data. | ...béc âp dê dêi-ta. | Não esqueça de fazer o backup dos dados. (Segurança). | TI | B1
+
+Turn off the firewall to test. | Târn óf dê fái-r-uól... | Desligue o firewall para testar. (Desativar). | TI | A2
+
+Let's go over the tax report again. | Léts gôu ôu-ver... | Vamos revisar o relatório fiscal de novo. (Examinar detalhadamente). | Auditoria | B2
+
+I need to find out why the payment failed. | ...fáind áut uái... | Preciso descobrir por que o pagamento falhou. (Investigação). | Fisco | B1
+
+We cannot run out of cash flow. | Ui ké-nót rân áut óv késh flôu. | Não podemos ficar sem fluxo de caixa. (Esgotar recursos). | Financeiro | B2
+
+Please fill out this form correctly. | Plíz fíl áut dís fórm... | Por favor, preencha este formulário corretamente. (Documentação). | Burocracia | B1
+
+I want to point out a mistake here. | ...póint áut a mis-têik... | Quero apontar/destacar um erro aqui. (Feedback). | Reunião | B2
+
+The shoes ran out of stock. | Dê shúz rén áut óv stóc. | Os sapatos ficaram sem estoque. (Esgotou). | Vendas | B2
+
+Can you pick up the package? | Kén iú píc âp dê pé-kêdj? | Você pode buscar/pegar o pacote? (Correios/Transporte). | Logística | A2
+
+I am looking for a better supplier. | ...lú-kin fór a bé-ter sa-plái-er. | Estou procurando um fornecedor melhor. (Busca). | Compras | A2
+
+We never give up on a sale. | Ui né-ver gív âp ón a sêil. | Nós nunca desistimos de uma venda. (Persistência). | Lema | B1
+
+The customer will call back later. | ...cól béc lêi-ter. | O cliente vai ligar de volta mais tarde. (Retorno). | Atendimento | A2
+
+I wake up at 6 AM every day. | Ái uêik âp... | Eu acordo às 6 da manhã todo dia. (Despertar). | Rotina | A1
+
+I get up immediately. | Ái gét âp i-mí-dia-tli. | Eu levanto (da cama) imediatamente. (Ação física). | Rotina | A1
+
+I need to cut down on sugar. | ...cât dáun ón shú-gar. | Preciso reduzir o açúcar. (Saúde/Dieta). | Pessoal | B2
+
+// FRASES EM APLICAÇÕES PRÁTICAS - ROTINA & REAL LIFE (55)
+
+I work out at the gym during lunch. | Ái uôrk áut ét dê djím dú-rin lântch. | Eu malho na academia durante o almoço. | Fitness | A1
+
+I put on my running shoes. | Ái pût ón mái rân-nin shúz. | Eu calço meus tênis de corrida. | Esporte | A1
+
+Always try on the shoes first. | ól-uêis trái ón dê shúz fêrst. | Sempre experimente os sapatos primeiro. | Samalper | A1
+
+Can you drop off the package? | Kén iú dróp óf dê pé-kêdj? | Você pode deixar o pacote (nos correios/cliente)? | Logística | B1
+
+I usually sleep in on Sundays. | Ái iú-ju-a-li slíp ín ón Sân-dêis. | Eu geralmente durmo até mais tarde aos domingos. | Descanso | B1
+
+We need to clean up the kitchen. | Ui níd tú clín âp dê kít-chen. | Precisamos limpar/arrumar a cozinha. | Casa | A2
+
+I get along well with my mother. | Ái gét a-lóng uél uíf mái mâ-der. | Eu me dou bem com minha mãe. | Família | B1
+
+I stay up late studying Python. | Ái stêi âp lêit stâ-di-in Pái-ton. | Eu fico acordado até tarde estudando Python. | Estudo | B1
+
+I need to cut down on coffee. | Ái níd tú cât dáun ón có-fi. | Preciso reduzir o consumo de café. | Saúde | B2
+
+Let's eat out in Goiânia tonight. | Léts ít áut ín Goiânia tu-náit. | Vamos comer fora em Goiânia hoje à noite. | Social | A1
+
+I just want to chill out. | Ái djâst uónt tú tchíl áut. | Eu só quero relaxar / ficar de boa. | Lazer | B1
+
+Don't forget to wake me up. | Dôunt for-gét tú uêik mí âp. | Não esqueça de me acordar. | Rotina | A2
+
+Go pick up your sister. | Gôu píc âp iór sís-ter. | Vá buscar sua irmã. | Família | A2
+
+Please take off your shoes. | Plíz têik óf iór shúz. | Por favor, tire seus sapatos. | Casa | A1
+
+Never give up on your goals. | Né-ver gív âp ón iór gôuls. | Nunca desista dos seus objetivos. | Motivação | B1
 
 // MÓDULO: GRAMMAR - MODAL VERBS OVERVIEW (56)
 I can swim | Ái kén suím | Eu sei nadar (Habilidade) | Modal Verb | A1
@@ -4931,11 +5398,74 @@ I must go | Ái mâst gôu | Eu devo ir (Obrigação) | Modal Verb | A1
 It might rain | Ít máit rêin | Pode ser que chova (Possibilidade) | Modal Verb | A2
 You should try | Iú xûd trái | Você deveria tentar (Conselho) | Modal Verb | A2
 
+// MÓDULO: GRAMMAR - MODAL VERBS OVERVIEW (56)
+Can | Kén | Poder / Conseguir (Habilidade física ou permissão) | Modal Verb | A1
+Could | Kûd | Podia / Poderia (Passado de Can ou pedido educado) | Modal Verb | A2
+Must | Mâst | Dever / Ter de (Obrigação forte ou proibição) | Modal Verb | A1
+Should | Xûd | Deveria (Conselho ou recomendação) | Modal Verb | A2
+Might | Máit | Poder ser que / Talvez (Possibilidade remota < 50%) | Modal Verb | B1
+May | Mêi | Poder (Permissão formal ou probabilidade média) | Modal Verb | B1
+Would | Uûd | (Terminação -ia) (Transforma o verbo em condicional) | Modal Verb | A2
+Have to | Rév tú | Ter de (Obrigação externa/Regra) | Semi-Modal | A1
+
+// FRASES EM APLICAÇÕES PRÁTICAS - MODAL VERBS (56)
+
+I can automate this report with Python. | Ái kén ô-to-mêit dís ri-pórt... | Eu consigo automatizar este relatório com Python. (Habilidade). | Dev | A2
+
+You must sign the document today. | Iú mâst sáin dê dó-kiu-ment... | Tu tens de assinar o documento hoje. (Obrigação fatal). | ConPrev | A1
+
+We should check the shoes' quality. | Ui xûd tchék dê shúz cuó-li-ti. | Deveríamos verificar a qualidade dos sapatos. (Recomendação). | Samalper | B1
+
+The server might crash if we do this. | Dê sêr-ver máit crésh... | O servidor pode ir abaixo se fizermos isto. (Risco/Possibilidade). | TI | B1
+
+Could you help me with the script? | Kûd iú rélp mí... | Poderias ajudar-me com o script? (Pedido educado). | Dev | A2
+
+Rubens must approve the budget. | Rubens mâst a-prúv dê bâ-djet. | O Rubens tem de aprovar o orçamento. (Hierarquia). | Gestão | B1
+
+It may rain in Senador Canedo later. | Ít mêi rêin... | Pode ser que chova em Senador Canedo mais tarde. (Previsão). | Clima | B1
+
+I would buy that Nike model. | Ái uûd bái dét Náik mó-del. | Eu compraria aquele modelo da Nike. (Condicional/Desejo). | Vendas | A2
+
+We have to pay the tax by Friday. | Ui rév tú pêi dê téks... | Temos de pagar o imposto até sexta-feira. (Regra externa). | Fisco | A2
+
+You shouldn't ignore the error logs. | Iú xû-dant ig-nór di é-rror lógs. | Não deverias ignorar os registos de erro. (Conselho negativo). | Debug | B1
+
 // MÓDULO: GRAMMAR - ABILITY (57)
 I can speak English | Ái kén spík Íng-glish | Eu sei falar inglês (Habilidade no presente) | Ability | A1
 I could run fast | Ái kûd rân fést | Eu conseguia correr rápido (Habilidade no passado) | Past Ability | A2
 I am able to help | Ái ém êi-bol tú rélp | Eu sou capaz de ajudar (Mais formal que 'Can') | Ability | B1
 He was able to escape | Rí uóz êi-bol tú es-kêip | Ele conseguiu escapar (Em uma situação específica) | Past Ability | B2
+
+// MÓDULO: GRAMMAR - ABILITY (57)
+Can | Kén | Poder / Conseguir (Habilidade geral no presente) | Modal Verb | A1
+Could | Kûd | Podia / Conseguia (Habilidade geral no passado) | Modal Verb | A2
+Be able to | Bí êi-bol tú | Ser capaz de (Substituto formal do Can) | Expression | B1
+Was/Were able to | Uóz/Uér êi-bol tú | Conseguiu (Sucesso em uma situação específica do passado) | Expression | B2
+Manage to | Mé-nedj tú | Conseguir (Dar um jeito / Ter sucesso em algo difícil) | Verb Pattern | B2
+Will be able to | Uíl bí êi-bol tú | Poderei / Serei capaz (Futuro de Can) | Future Form | B1
+Succeed in | Sac-síd ín | Ter sucesso em (Formal + Verbo com ING) | Verb Pattern | B2
+
+// FRASES EM APLICAÇÕES PRÁTICAS - ABILITY (57)
+
+I can build a GUI with Tkinter. | Ái kén bíld a Gí-iu-ái... | Eu sei/consigo construir uma interface com Tkinter. (Habilidade Técnica). | Python | B1
+
+I couldn't access the server yesterday. | Ái kû-dant éc-ses... | Eu não conseguia acessar o servidor ontem. (Incapacidade passada). | TI | A2
+
+We were able to recover the data. | Ui uér êi-bol tú ri-có-ver... | Nós conseguimos recuperar os dados. (Sucesso específico naquele evento). | Backup | B2
+
+I managed to pay the tax on time. | Ái mé-nedj-d tú pêi... | Eu consegui (com esforço) pagar o imposto a tempo. | ConPrev | B2
+
+Will you be able to deliver on Monday? | Uíl iú bí êi-bol tú di-lí-ver...? | Você será capaz de entregar na segunda? (Futuro). | Samalper | B1
+
+She can speak English very well. | Xí kén spík Íng-glish... | Ela sabe falar inglês muito bem. (Habilidade Geral). | Pessoal | A1
+
+I haven't been able to finish the script. | Ái ré-vant bín êi-bol... | Eu não tenho conseguido terminar o script. (Present Perfect - Recente). | Dev | B2
+
+Rubens managed to solve the issue. | Rubens mé-nedj-d tú sólv... | Rubens conseguiu resolver o problema. (Ele deu um jeito). | Gestão | B2
+
+Are you able to work this weekend? | Ár iú êi-bol tú uôrk...? | Você tem disponibilidade/capacidade de trabalhar neste fim de semana? | Trabalho | B1
+
+They succeeded in closing the deal. | Dêi sac-sí-ded ín clôu-zin... | Eles tiveram sucesso em fechar o negócio. (Formal). | Vendas | C1
 
 // MÓDULO: GRAMMAR - PERMISSION, REQUESTS, AND OFFERS (58)
 Can I go out? | Kén ái gôu áut? | Posso sair? (Permissão informal) | Permission | A1
@@ -4944,11 +5474,75 @@ Could you help me? | Kûd iú rélp mí? | Poderia me ajudar? (Pedido educado) |
 Would you like water? | Uûd iú láik uó-ter? | Você gostaria de água? (Oferta) | Offer | A1
 Can I help you? | Kén ái rélp iú? | Posso te ajudar? (Oferta de ajuda) | Offer | A1
 
+// MÓDULO: GRAMMAR - PERMISSION, REQUESTS, AND OFFERS (58)
+Can I... | Kén ái... | Posso...? (Permissão/Oferta Informal) | Permission/Offer | A1
+May I... | Mêi ái... | Poderia...? / Dá licença...? (Permissão Formal) | Permission | A2
+Could you... | Kûd iú... | Você poderia...? (Pedido Educado) | Request | A2
+Would you like... | Uûd iú láik... | Você gostaria de...? (Oferta Educada) | Offer | A1
+Do you mind if... | Dú iú máind íf... | Você se importa se...? (Permissão via "incômodo") | Permission | B1
+Shall I... | Shél ái... | Quer que eu...? / Devo...? (Oferta de ação específica) | Offer | B1
+Go ahead | Gôu a-réd | Vá em frente / Pode ir (Concedendo permissão) | Response | A2
+Here you are | Rír iú ár | Aqui está (Ao entregar algo pedido) | Response | A1
+
+// FRASES EM APLICAÇÕES PRÁTICAS - PERMISSION & REQUESTS (58)
+
+May I speak with Mr. Rubens? | Mêi ái spík uíf Mis-ter Rubens? | Poderia falar com o Sr. Rubens? (Formalidade máxima). | ConPrev | A2
+
+Could you check my Python script? | Kûd iú tchék mái Pái-ton scrípt? | Você poderia checar meu script? (Pedido a um colega/mentor). | Dev | A2
+
+Would you like to try these shoes on? | Uûd iú láik tú trái dís shúz ón? | Gostaria de experimentar estes sapatos? (Atendimento ao cliente). | Samalper | A2
+
+Can I use your computer for a second? | Kén ái iúz iór com-piú-ter...? | Posso usar seu computador um segundo? (Informal entre colegas). | TI | A1
+
+Do you mind if I open the window? | Dú iú máind íf Ái ôu-pen...? | Você se importa se eu abrir a janela? (Educação no escritório). | Social | B1
+
+Shall I send the email now? | Shél ái sénd di í-mêil náu? | Quer que eu envie o e-mail agora? (Oferecendo-se para agir). | Trabalho | B1
+
+Can you help me with the audit? | Kén iú rélp mí uíf di ó-dit? | Você pode me ajudar com a auditoria? (Pedido direto). | ConPrev | A1
+
+Could I ask a question about the tax? | Kûd ái ásk a cués-tchan...? | Eu poderia fazer uma pergunta sobre o imposto? (Interrupção educada). | Reunião | B1
+
+Would you like some coffee? | Uûd iú láik sâm có-fi? | Você aceita um café? (Hospitalidade goiana). | Social | A1
+
+You may leave now. | Iú mêi lív náu. | Você pode sair agora. (Permissão concedida por autoridade). | Chefia | B1
+
 // MÓDULO: GRAMMAR - SUGGESTIONS AND ADVICE (59)
 You should study more | Iú xûd stâ-di mór | Você deveria estudar mais (Conselho padrão) | Advice | A2
 You ought to sleep | Iú ót tú slíp | Você deveria dormir (Conselho mais formal/Moral) | Advice | B1
 We could go to the cinema | Uí kûd gôu tú dâ cí-ne-ma | Poderíamos ir ao cinema (Sugestão de atividade) | Suggestion | A2
 Shall we dance? | Xél uí déns? | Vamos dançar? (Sugestão/Convite formal) | Suggestion | B1
+
+// MÓDULO: GRAMMAR - SUGGESTIONS AND ADVICE (59)
+Should | Xûd | Deveria (O conselho mais comum e seguro) | Advice | A2
+Ought to | Ót tú | Deveria / Convém (Mais formal e moral que Should) | Advice | B1
+Could | Kûd | Poderia (Sugestão de uma possibilidade entre várias) | Suggestion | A2
+Shall we...? | Xél uí... | Vamos...? / Que tal...? (Convite formal para fazer algo juntos) | Suggestion | B1
+Why don't we...? | Uái dôunt uí... | Por que não...? (Sugestão democrática) | Suggestion | A2
+How about...? | Ráu a-báut... | Que tal...? (Geralmente seguido de verbo com ING) | Suggestion | A2
+Had better | réd bé-ter | É melhor... (Conselho forte com tom de aviso/urgência) | Strong Advice | B2
+Recommend | Re-co-ménd | Recomendar (Verbo formal de conselho) | Verb | B1
+
+// FRASES EM APLICAÇÕES PRÁTICAS - SUGGESTIONS (59)
+
+You should use a virtual environment for Python. | ...xûd iúz a vâr-tchu-al en-vái-ron-ment... | Você deveria usar um ambiente virtual para Python. (Boa prática). | Dev | B1
+
+We could offer free shipping to Goiânia. | Ui kûd ó-fer frí xí-pin... | Poderíamos oferecer frete grátis para Goiânia. (Uma ideia possível). | Samalper | B1
+
+You ought to rest after the workout. | Iú ót tú rést áf-ter dê uôrk-áut. | Você deveria descansar depois do treino. (Obrigação do corpo). | Fitness | B1
+
+Shall we start the audit now? | Xél uí stárt di ó-dit náu? | Vamos começar a auditoria agora? (Proposta formal). | ConPrev | B1
+
+Why don't we automate this email? | Uái dôunt uí ô-to-mêit dís í-mêil? | Por que não automatizamos este e-mail? (Ideia de melhoria). | Python | A2
+
+How about changing the logo color? | Ráu a-báut tchên-djin dê lô-gou câ-lor? | Que tal mudar a cor da logo? (Sugestão de design). | Samalper | A2
+
+You had better pay the tax today. | Iú réd bé-ter pêi... | É melhor você pagar o imposto hoje. (Senão haverá multa - Aviso). | Fisco | B2
+
+I recommend checking the logs first. | Ái re-co-ménd tché-kin... | Eu recomendo checar os logs primeiro. (Conselho técnico). | Debug | B1
+
+We should focus on Federal Tax issues. | Ui xûd fôu-câs ón Fé-de-ral Téks... | Deveríamos focar nas questões de Fisco Federal. | Estratégia | B2
+
+Maybe you should study for the CFC. | Mêi-bí iú xûd stâ-di... | Talvez você devesse estudar para o CFC. (Conselho suave). | Pessoal | A2
 
 // MÓDULO: GRAMMAR - OBLIGATIONS (60)
 You must stop | Iú mâst stóp | Você deve parar (Obrigação forte/interna ou lei) | Obligation | A2
@@ -4957,15 +5551,111 @@ You don't have to pay | Iú dôunt rév tú pêi | Você não precisa pagar (Aus
 You mustn't smoke | Iú mâs-sant smôuk | Você não deve fumar (Proibição) | Prohibition | A2
 I need to go | Ái níd tú gôu | Preciso ir (Necessidade) | Obligation | A1
 
+// MÓDULO: GRAMMAR - OBLIGATIONS (60)
+Must | Mâst | Deve (Obrigação forte, Lei ou autoridade pessoal) | Modal Verb | A1
+Have to | Rév tú | Ter que (Obrigação externa, rotina ou regra do sistema) | Semi-Modal | A1
+Mustn't | Mâs-sant | Não deve / É proibido (Proibição total) | Prohibition | A2
+Don't have to | Dôunt rév tú | Não precisa (Ausência de obrigação / Opcional) | No Obligation | A2
+Need to | Níd tú | Precisar (Necessidade para atingir um objetivo) | Semi-Modal | A1
+Required | Ri-cuái-rd | Obrigatório / Exigido (Muito comum em formulários/Docs) | Adjective | B1
+Mandatory | Mân-da-tó-ri | Mandatório / Obrigatório (Termo jurídico/Auditoria) | Adjective | B2
+Forbidden | For-bí-den | Proibido (Termo forte para regras) | Adjective | B2
+
+// FRASES EM APLICAÇÕES PRÁTICAS - OBLIGATIONS (60)
+
+You must pay the federal tax. | Iú mâst pêi dê fé-de-ral téks. | Você deve pagar o imposto federal. (Lei/Obrigação forte). | Fisco | A2
+
+I have to finish the script by 5 PM. | Ái rév tú fí-nish... | Eu tenho que terminar o script até as 17h. (Prazo/Chefe mandou). | Trabalho | A2
+
+You mustn't share your password. | Iú mâs-sant shér iór pés-uôrd. | Você não deve/está proibido de compartilhar sua senha. (Segurança). | TI | A2
+
+We don't have to work on Sundays. | Ui dôunt rév tú uôrk... | Não precisamos trabalhar aos domingos. (É opcional/Folga). | Rotina | A2
+
+Indentation is required in Python. | In-den-têi-shan íz ri-cuái-rd... | A indentação é obrigatória em Python. (Regra de sintaxe). | Dev | B1
+
+Customers don't have to pay for returns. | Câs-to-mers dôunt rév tú pêi... | Clientes não precisam pagar por devoluções. (Política Samalper). | Vendas | B1
+
+I need to update the database. | Ái níd tú âp-dêit... | Preciso atualizar o banco de dados. (Necessidade técnica). | TI | A1
+
+You must not ignore the error. | Iú mâst nót ig-nór di é-rror. | Você não pode ignorar o erro. (Proibição enfática). | Debug | B1
+
+Drivers have to carry their CNH. | Drái-vers rév tú ké-rri dêir C-N-H. | Motoristas têm que portar a CNH. (Lei de trânsito). | Logística | B1
+
+The audit is mandatory for this sector. | Di ó-dit íz mân-da-tó-ri... | A auditoria é obrigatória para este setor. (Termo técnico). | ConPrev | B2
+
 // MÓDULO: GRAMMAR - MAKING DEDUCTIONS (61)
 He must be rich | Rí mâst bí rítch | Ele deve ser rico (Tenho quase certeza que sim) | Deduction | B1
 It can't be true | Ít ként bí trú | Não pode ser verdade (Tenho certeza que não é) | Deduction | B1
 She must have left | Xí mâst rév léft | Ela deve ter saído (Dedução no passado) | Past Deduction | B2
 
+// MÓDULO: GRAMMAR - MAKING DEDUCTIONS (61)
+Must be | Mâst bí | Deve ser (Tenho quase certeza lógica / 90%+) | Deduction | B1
+Can't be | Ként bí | Não pode ser (Tenho certeza que é impossível / 0%) | Deduction | B1
+Might be | Máit bí | Pode ser / Talvez seja (Possibilidade média / 50%) | Deduction | B1
+Must have | Mâst rév | Deve ter (Dedução lógica sobre o passado) | Past Deduction | B2
+Can't have | Ként rév | Não pode ter (Certeza que não aconteceu no passado) | Past Deduction | B2
+Couldn't be | Kû-dant bí | Não poderia ser (Impossibilidade lógica) | Deduction | B2
+Look like | Lûk láik | Parecer (Dedução visual) | Verb Phrase | A2
+Seem | Sím | Parecer (Impressão geral) | Verb | B1
+
+// FRASES EM APLICAÇÕES PRÁTICAS - DEDUCTIONS (61)
+
+The error must be in the loop. | Di é-rror mâst bí ín dê lúp. | O erro deve estar no loop (Lógica). | Debug | B1
+
+This value can't be correct. | Dís vá-liu ként bí co-rréct. | Este valor não pode estar correto (Matematicamente impossível). | Auditoria | B1
+
+Rubens isn't answering, he must be busy. | ...rí mâst bí bí-zi. | Rubens não atende, ele deve estar ocupado. | ConPrev | B1
+
+The site is slow, it might be the server. | ...ít máit bí dê sêr-ver. | O site está lento, pode ser (talvez seja) o servidor. | TI | B1
+
+She must have forgotten the password. | Xí mâst rév for-gó-ten... | Ela deve ter esquecido a senha (Única explicação). | Suporte | B2
+
+It can't be a virus, I have antivirus. | Ít ként bí a vái-râs... | Não pode ser vírus, eu tenho antivírus. | TI | B1
+
+The package must have arrived by now. | Dê pé-kêdj mâst rév a-ráiv-d... | O pacote deve ter chegado a esta hora (Cálculo de tempo). | Logística | B2
+
+They can't have paid twice. | Dêi ként rév pêid tuáis. | Eles não podem ter pago duas vezes (O sistema bloqueia). | Fisco | B2
+
+You must be tired after the exam. | Iú mâst bí tái-rd... | Você deve estar cansado depois da prova. (Empatia/Dedução). | Pessoal | A2
+
+It looks like a scam. | Ít lûks láik a scém. | Parece ser um golpe. (Dedução visual). | Segurança | B1
+
 // MÓDULO: GRAMMAR - POSSIBILITY (62)
 It might be true | Ít máit bí trú | Pode ser verdade (Talvez seja) | Possibility | B1
 He could be late | Rí kûd bí lêit | Ele poderia estar atrasado (Possibilidade teórica) | Possibility | B1
 It may happen | Ít mêi ré-pen | Pode acontecer (Possibilidade formal) | Possibility | B1
+
+// MÓDULO: GRAMMAR - POSSIBILITY (62)
+Might | Máit | Pode / Pode ser que (Possibilidade comum / Talvez) | Modal Verb | B1
+May | Mêi | Pode (Possibilidade mais formal) | Modal Verb | B1
+Could | Kûd | Poderia (Possibilidade teórica ou sugestão) | Modal Verb | B1
+Maybe | Mêi-bí | Talvez (Advérbio - Geralmente no início da frase) | Adverb | A1
+Perhaps | Per-réps | Talvez / Porventura (Muito formal) | Adverb | B2
+It is possible | Ít íz pó-ssi-bol | É possível (Afirmação neutra) | Phrase | A2
+Likely | Lái-kli | Provável (Mais que 50% de chance) | Adjective | B2
+Unlikely | Ân-lái-kli | Improvável (Menos que 50% de chance) | Adjective | B2
+
+// FRASES EM APLICAÇÕES PRÁTICAS - POSSIBILITY (62)
+
+The script might fail if the file is missing. | Dê scrípt máit fêil... | O script pode falhar se o arquivo estiver faltando. (Risco). | Python | B1
+
+The tax law may change next year. | Dê téks ló mêi tchêindj... | A lei tributária pode mudar no ano que vem. (Incerteza fiscal). | ConPrev | B1
+
+It could be a connection error. | Ít kûd bí a co-néc-shan é-rror. | Poderia ser um erro de conexão. (Hipótese de debug). | TI | B1
+
+We might open a store in Goiânia. | Ui máit ôu-pen a stór... | Pode ser que a gente abra uma loja em Goiânia. (Plano incerto). | Samalper | B1
+
+Maybe the client is right. | Mêi-bí dê clái-ent íz ráit. | Talvez o cliente esteja certo. (Consideração). | Vendas | A2
+
+The delivery could take longer. | Dê di-lí-ve-ri kûd têik lón-guer. | A entrega poderia demorar mais. (Aviso de risco). | Logística | B1
+
+It may rain later today. | Ít mêi rêin lêi-ter tu-dêi. | Pode chover mais tarde hoje. (Previsão do tempo). | Rotina | A2
+
+They might not accept the document. | Dêi máit nót ac-cépt... | Pode ser que eles não aceitem o documento. (Risco negativo). | Burocracia | B1
+
+It is likely that profits will grow. | Ít íz lái-kli dét pró-fits... | É provável que os lucros cresçam. (Previsão otimista). | Negócios | B2
+
+Perhaps we should wait. | Per-réps ui xûd uêit. | Talvez devêssemos esperar. (Sugestão formal). | Reunião | B2
 
 // MÓDULO: GRAMMAR - ARTICLES (63)
 I have a car | Ái rév a cár | Eu tenho um carro (Indefinido - Mencionado pela 1ª vez) | Indefinite Article | A1
@@ -4973,11 +5663,74 @@ The car is red | Dâ cár íz réd | O carro é vermelho (Definido - Já sabemos
 She is an engineer | Xí íz én en-dji-nír | Ela é engenheira (Usa 'An' antes de som de vogal) | Indefinite Article | A1
 I love music | Ái lâv miú-zic | Eu amo música (Sem artigo para conceitos gerais) | Zero Article | A1
 
+// MÓDULO: GRAMMAR - ARTICLES (63)
+A | Â / Êi | Um / Uma (Antes de som de consoante - Informação nova) | Indefinite Article | A1
+An | Ên | Um / Uma (Antes de som de vogal - Informação nova) | Indefinite Article | A1
+The | Dâ / Dí | O / A / Os / As (Específico - Já sabemos do que se fala) | Definite Article | A1
+Zero Article | (Vazio) | (Sem tradução) - Usado para plurais gerais e conceitos abstratos | Grammar Rule | A2
+Some | Sâm | Alguns / Algum (Indefinido para plural ou incontável) | Quantifier | A1
+Any | Ê-ni | Nenhum / Qualquer (Usado em negativas e perguntas) | Quantifier | A1
+
+// FRASES EM APLICAÇÕES PRÁTICAS - ARTICLES (63)
+
+I found a bug in the code. | Ái fáund a bâg ín dê côud. | Encontrei um bug no código. (Um bug qualquer, num código específico). | Dev | A1
+
+The bug is in line 40. | Dê bâg íz ín láin fór-ti. | O bug está na linha 40. (Aquele bug específico que achei). | Debug | A1
+
+I am an auditor. | Ái ém én ó-di-tor. | Eu sou auditor. (Profissões sempre usam A/An). | ConPrev | A1
+
+He is a Federal Tax expert. | Rí íz a Fé-de-ral Téks eks-pért. | Ele é um especialista em Fisco Federal. | Fisco | B1
+
+I like coffee. | Ái láik có-fi. | Eu gosto de café. (Café em geral, não "o" café). | Pessoal | A1
+
+The coffee at the office is good. | Dê có-fi ét di ó-fís... | O café do escritório é bom. (Aquele café específico). | Social | A1
+
+I bought a pair of shoes. | Ái bót a pér óv shúz. | Comprei um par de sapatos. (Novo item). | Samalper | A1
+
+The shoes are Nike. | Dê shúz ár Náik. | Os sapatos (que comprei) são Nike. | Samalper | A1
+
+Python is powerful. | Pái-ton íz páu-er-ful. | Python é poderoso. (A linguagem em geral - Zero Article). | Dev | A1
+
+I need an HDMI cable. | Ái níd én H-D-M-I kêi-bol. | Preciso de um cabo HDMI. (Som de vogal "Eitc-D-M-I"). | TI | A2
+
 // MÓDULO: GRAMMAR - ARTICLES REVIEW (64)
 The sun is hot | Dâ sân íz rót | O sol é quente (Coisas únicas no mundo usam 'The') | Definite Article | A1
 He goes to school | Rí gôuz tú scúl | Ele vai à escola (Para estudar - Sem 'The') | Zero Article | A2
 He goes to the school | ... tú dâ scúl | Ele vai até a escola (Ao prédio físico) | Definite Article | B1
 The rich live here | Dâ rítch lív rír | Os ricos moram aqui (Adjetivo como grupo de pessoas) | Definite Article | B1
+
+// MÓDULO: GRAMMAR - ARTICLES REVIEW (64)
+The Internet | Di ín-ter-net | A internet (Coisa única - Sempre usa 'The') | Unique Entity | A1
+The Moon | Dâ mún | A lua (Única no nosso sistema) | Unique Entity | A1
+The USA | Dâ iú-és-êi | Os EUA (Países no plural ou com 'Republic/Kingdom' usam 'The') | Geographical Rule | A2
+Brazil | Bra-zíl | Brasil (Maioria dos países NÃO usa artigo) | Geographical Rule | A1
+The rich | Dâ rítch | Os ricos (Adjetivo usado como substantivo plural) | Group Noun | B1
+To work | Tú uôrk | Para o trabalho (Sentido de função/rotina - Sem 'The') | Zero Article | A1
+To the office | Tú di ó-fís | Para o escritório (Lugar físico - Usa 'The') | Definite Article | A2
+At home | Ét rôum | Em casa (Expressão fixa - Sem 'The') | Zero Article | A1
+In the morning | ín dâ mór-nin | De manhã (Partes do dia usam 'The', exceto 'At night') | Fixed Phrase | A1
+
+// FRASES EM APLICAÇÕES PRÁTICAS - ARTICLES REVIEW (64)
+
+The internet is essential for Samalper. | Di ín-ter-net íz e-ssén-shal... | A internet é essencial para a Samalper. (Única). | TI | A1
+
+I live in Brazil. | Ái lív ín Bra-zíl. | Eu moro no Brasil. (País singular = Zero Article). | Pessoal | A1
+
+He is from the United States. | Rí íz fróm dâ Iu-nái-ted Stêits. | Ele é dos Estados Unidos. (Nome composto/Plural = The). | Origem | A2
+
+I go to work every day. | Ái gôu tú uôrk é-vri dêi. | Eu vou trabalhar todo dia. (Função/Rotina). | ConPrev | A1
+
+I need to go to the bank. | Ái níd tú gôu tú dâ bénk. | Preciso ir ao banco. (Prédio físico/Local específico). | Rotina | A2
+
+The poor pay more taxes proportionally. | Dâ púr pêi mór ték-ses... | Os pobres pagam mais impostos proporcionalmente. (Grupo social). | Fisco | B2
+
+The government collects data. | Dâ gâ-ver-nment co-lécts dêi-ta. | O governo coleta dados. (Entidade única num país). | Política | B1
+
+I study Python at night. | Ái stâ-di Pái-ton ét náit. | Estudo Python à noite. (Exceção: In the morning, In the afternoon, AT night). | Estudo | A1
+
+We help the elderly. | Ui rélp di él-der-li. | Nós ajudamos os idosos. (Grupo de pessoas). | Social | B1
+
+The CEO is in a meeting. | Dâ C-I-Ôu íz ín a mí-tin. | O CEO está numa reunião. (Cargo único na empresa). | Corporativo | B1
 
 // MÓDULO: GRAMMAR - THIS / THAT / THESE / THOSE (65)
 This is my book | Dís íz mái bûk | Este é meu livro (Singular / Perto) | Demonstrative | A1
@@ -4985,11 +5738,72 @@ That is your car | Dét íz iór cár | Aquele é seu carro (Singular / Longe) |
 These are my friends | Dí-iz ár mái frénds | Estes são meus amigos (Plural / Perto) | Demonstrative | A1
 Those are birds | Dôuz ár bârds | Aqueles são pássaros (Plural / Longe) | Demonstrative | A1
 
+// MÓDULO: GRAMMAR - THIS / THAT / THESE / THOSE (65)
+This | Dís | Este / Isto / Esse (Singular - Perto de quem fala) | Demonstrative | A1
+That | Dét | Aquele / Aquilo / Isso (Singular - Longe de quem fala) | Demonstrative | A1
+These | Dí-iz | Estes / Estas (Plural - Perto - Som longo "ii") | Demonstrative | A1
+Those | Dôuz | Aqueles / Aquelas (Plural - Longe) | Demonstrative | A1
+This is... | Dís íz... | "Aqui é..." (Usado ao telefone para se apresentar) | Phrase | A1
+Is that...? | Íz dét...? | "Aí é...?" (Usado ao telefone para perguntar quem é) | Phrase | A1
+
+// FRASES EM APLICAÇÕES PRÁTICAS - DEMONSTRATIVES (65)
+
+This script contains a bug. | Dís scrípt con-têins a bâg. | Este script (aqui na minha tela) contém um bug. | Python | A1
+
+That server is very slow. | Dét sêr-ver íz vé-ri slôu. | Aquele servidor (lá longe/na nuvem) está muito lento. | TI | A1
+
+Look at these shoes! | Lûk ét dí-iz shúz! | Olhe estes sapatos! (Segurando os sapatos). | Samalper | A1
+
+Those competitors are aggressive. | Dôuz com-pé-ti-tors... | Aqueles concorrentes (lá no mercado) são agressivos. | Negócios | B1
+
+This tax calculation is wrong. | Dís téks cal-kiu-lêi-shan... | Este cálculo de imposto (neste papel) está errado. | ConPrev | A2
+
+That was a difficult audit. | Dét uóz a dí-fi-cult ó-dit. | Aquela foi uma auditoria difícil. (Passado = Longe no tempo). | ConPrev | A2
+
+Hello, this is Samuel. | Re-lôu, dís íz Samuel. | Olá, aqui é o Samuel. (Ao atender o telefone/WhatsApp). | Social | A1
+
+Who is that speaking? | Rú íz dét spí-kin? | Quem é que está falando (aí do outro lado)? | Social | A1
+
+I need these files right now. | Ái níd dí-iz fái-ols... | Eu preciso destes arquivos agora mesmo. | Trabalho | A1
+
+Those days are over. | Dôuz dêis ár ôu-ver. | Aqueles dias acabaram. (Referência a tempo passado). | Pessoal | B1
+
 // MÓDULO: GRAMMAR - NO / NONE (66)
 I have no money | Ái rév nôu mâ-ni | Eu não tenho dinheiro ('No' vem antes do substantivo) | Quantifier | A2
 I have none | Ái rév nân | Eu não tenho nenhum ('None' substitui o substantivo) | Pronoun | B1
 None of us went | Nân óv âs uént | Nenhum de nós foi | Pronoun | B1
 There is no time | Dér íz nôu táim | Não há tempo | Quantifier | A2
+
+// MÓDULO: GRAMMAR - NO / NONE (66)
+No | Nôu | Nenhum / Sem (Antes de substantivo: "No money") | Determiner | A1
+None | Nân | Nenhum (Sozinho na frase / Resposta curta) | Pronoun | B1
+None of | Nân óv | Nenhum de (Usado com grupos: "None of us") | Phrase | B1
+Nobody | Nôu-bó-di | Ninguém (Para pessoas) | Pronoun | A1
+No one | Nôu uân | Ninguém (Variação mais formal de Nobody) | Pronoun | A2
+Nothing | Nâ-ting | Nada (Para coisas) | Pronoun | A1
+Nowhere | Nôu-uér | Nenhum lugar (Para lugares) | Adverb | A2
+
+// FRASES EM APLICAÇÕES PRÁTICAS - NO / NONE (66)
+
+There are no errors in the script. | Dér ár nôu é-rrors... | Não há (zero) erros no script. (Quantificador). | Python | A1
+
+The function returned None. | Dê fânc-shan ri-târ-nd Nân. | A função retornou "None" (Vazio/Nulo). | Dev | B1
+
+How many shoes are left? None. | ...Nân. | Quantos sapatos sobraram? Nenhum. (Resposta direta). | Samalper | A2
+
+I have no time to waste. | Ái rév nôu táim tú uêist. | Eu não tenho tempo a perder. | Pessoal | A2
+
+None of the files were saved. | Nân óv dê fái-ols uér sêiv-d. | Nenhum dos arquivos foi salvo. (Grupo específico). | TI | B1
+
+We have no budget for this. | Ui rév nôu bâ-djet... | Não temos verba para isso. | Negócios | B1
+
+There is no tax incidence here. | Dér íz nôu téks in-ci-dence... | Não há incidência de imposto aqui. | Fisco | B2
+
+Nobody knows the password. | Nôu-bó-di nôuz dê pés-uôrd. | Ninguém sabe a senha. | Segurança | A2
+
+I saw nothing suspicious. | Ái só nâ-ting sâs-pí-shas. | Não vi nada suspeito. | Auditoria | B1
+
+None of us agreed with him. | Nân óv âs a-gríd uíf rím. | Nenhum de nós concordou com ele. | Reunião | B1
 
 // MÓDULO: GRAMMAR - EACH / EVERY (67)
 Each student has a book | Ítch stú-dent réz a bûk | Cada aluno tem um livro (Foco no indivíduo) | Quantifier | A2
@@ -4997,12 +5811,76 @@ Every house is white | É-vri ráus íz uáit | Toda casa é branca (Foco no gru
 Each of them | Ítch óv dém | Cada um deles | Pronoun | B1
 I go every day | Ái gôu é-vri dêi | Eu vou todo dia (Frequência) | Quantifier | A1
 
+// MÓDULO: GRAMMAR - EACH / EVERY (67)
+Each | Ítch | Cada (Foco no item individual de um grupo) | Determiner | A2
+Every | É-vri | Todo / Toda (Foco no grupo inteiro ou frequência) | Determiner | A1
+Each of | Ítch óv | Cada um de (Usado antes de pronomes ou 'The') | Phrase | B1
+Every day | É-vri dêi | Todo dia (Frequência temporal) | Adverb | A1
+Everyone | É-vri-uân | Todo mundo (Pessoas) | Pronoun | A1
+Everything | É-vri-ting | Tudo (Coisas) | Pronoun | A1
+Everywhere | É-vri-uér | Todo lugar (Lugares) | Adverb | A2
+Each other | Ítch â-der | Um ao outro (Reciprocidade) | Pronoun | B1
+
+// FRASES EM APLICAÇÕES PRÁTICAS - EACH / EVERY (67)
+
+The script processes each file individually. | Dê scrípt pró-ces-ses ítch fái-ol... | O script processa cada arquivo individualmente. (Iteração). | Python | B1
+
+I go to the gym every day. | Ái gôu tú dê djím é-vri dêi. | Eu vou à academia todo dia. (Rotina). | Fitness | A1
+
+Each shoe is checked for quality. | Ítch shú íz tchék-t... | Cada sapato é verificado quanto à qualidade. (Inspeção unitária). | Samalper | B1
+
+Every client needs a receipt. | É-vri clái-ent níds a ri-sít. | Todo cliente precisa de um recibo. (Regra geral). | ConPrev | A2
+
+Each of the auditors has a key. | Ítch óv di ó-di-tors... | Cada um dos auditores tem uma chave. (Indivíduos específicos). | Segurança | B1
+
+Run the backup every 24 hours. | Rân dê bé-kâp é-vri... | Rode o backup a cada 24 horas. (Cronjob/Agendamento). | TI | A2
+
+Everything is ready for the launch. | É-vri-ting íz ré-di... | Tudo está pronto para o lançamento. (O sistema todo). | Samalper | A2
+
+We help each other at the office. | Ui rélp ítch â-der... | Nós ajudamos uns aos outros no escritório. (Colaboração). | Trabalho | B1
+
+Check each line of the code. | Tchék ítch láin óv dê côud. | Verifique cada linha do código. (Depuração minuciosa). | Debug | A2
+
+Every mistake costs money. | É-vri mis-têik cósts mâ-ni. | Todo erro custa dinheiro. (Generalização). | Negócios | B1
+
 // MÓDULO: GRAMMAR - EITHER / NEITHER / BOTH (68)
 Both are good | Bôut ár gûd | Ambos são bons (Dois positivos) | Quantifier | A2
 Either you or me | Í-der iú ór mí | Ou você ou eu (Escolha entre dois) | Conjunction | B1
 Neither of them | Ní-der óv dém | Nenhum dos dois (Dois negativos) | Pronoun | B1
 I don't like either | Ái dôunt láik í-der | Eu não gosto de nenhum dos dois (Verbo negativo pede 'Either') | Adverb | B1
 Me neither | Mí ní-der | Nem eu (Concordando com negativa) | Expression | A2
+
+// MÓDULO: GRAMMAR - EITHER / NEITHER / BOTH (68)
+Both | Bôut | Ambos / Os dois (1 + 1) | Quantifier | A1
+Either | Í-der | Um ou outro / Qualquer um dos dois (Escolha) | Quantifier | B1
+Neither | Ní-der | Nenhum dos dois (Exclusão total) | Quantifier | B1
+Both ... and ... | Bôut ... énd ... | Tanto ... quanto ... (Conjunção aditiva) | Conjunction | B1
+Either ... or ... | Í-der ... ór ... | Ou ... ou ... (Conjunção alternativa) | Conjunction | B1
+Neither ... nor ... | Ní-der ... nór ... | Nem ... nem ... (Conjunção excludente) | Conjunction | B2
+Me neither | Mí ní-der | Nem eu (Concordando com uma frase negativa) | Expression | A2
+Me too | Mí tú | Eu também (Concordando com uma frase afirmativa) | Expression | A1
+
+// FRASES EM APLICAÇÕES PRÁTICAS - LOGICAL OPERATORS (68)
+
+Both scripts are running perfectly. | Bôut scrípts ár rân-nin... | Ambos os scripts estão rodando perfeitamente. (AND). | Python | A2
+
+You can use either Python or Excel. | ...í-der Pái-ton ór Ex-cél. | Você pode usar ou Python ou Excel. (Escolha sua ferramenta). | Trabalho | B1
+
+Neither approach worked. | Ní-der a-prôutch uôrk-t. | Nenhuma das duas abordagens funcionou. (Falha total). | Debug | B1
+
+I have neither time nor money. | ...ní-der táim nór mâ-ni. | Não tenho nem tempo nem dinheiro. (Exclusão dupla formal). | Pessoal | B2
+
+I don't like either option. | Ái dôunt láik í-der óp-shan. | Eu não gosto de nenhuma das duas opções. (Negativa comum). | Decisão | B1
+
+Both Rubens and Glayzer approved. | Bôut Rubens énd Glayzer... | Tanto o Rubens quanto o Glayzer aprovaram. | ConPrev | B1
+
+Do you want black or white? Either. | ...Í-der. | Quer preto ou branco? Tanto faz (Qualquer um dos dois). | Samalper | B1
+
+Neither of the shoes fit. | Ní-der óv dê shúz fít. | Nenhum dos dois sapatos serviu. | Vendas | B1
+
+"I don't like bugs." "Me neither." | ...Mí ní-der. | "Não gosto de bugs." "Nem eu." (Concordância negativa). | Social | A2
+
+Both files are corrupted. | Bôut fái-ols ár co-rrâp-ted. | Os dois arquivos estão corrompidos. | TI | B1
 
 // MÓDULO: GRAMMAR - SINGULAR AND PLURAL NOUNS (69)
 Car | Cár | Carro (Singular) | Singular Noun | A1
@@ -5014,12 +5892,83 @@ Children | Tchíl-dren | Crianças (Plural irregular) | Plural Noun | A1
 Person | Pâr-son | Pessoa | Singular Noun | A1
 People | Pí-pol | Pessoas (Plural irregular) | Plural Noun | A1
 
+// MÓDULO: GRAMMAR - SINGULAR AND PLURAL NOUNS (69)
+City | Cí-ti | Cidade (Singular) | Singular Noun | A1
+Cities | Cí-tis | Cidades (Consoante + Y = Tira Y e põe IES) | Plural Noun | A1
+Tax | Téks | Imposto (Singular) | Singular Noun | A1
+Taxes | Ték-ses | Impostos (Termina em X/S/CH/SH = Põe ES) | Plural Noun | A1
+Man | Mén | Homem (Singular) | Singular Noun | A1
+Men | Mén | Homens (Plural Irregular - Som mais curto) | Plural Noun | A1
+Woman | Uú-man | Mulher (Singular) | Singular Noun | A1
+Women | Uí-men | Mulheres (Plural Irregular - Pronúncia muda o começo!) | Plural Noun | A1
+Foot | Fút | Pé (Singular) | Singular Noun | A1
+Feet | Fít | Pés (Plural Irregular - Samalper precisa saber disso) | Plural Noun | A1
+Data | Dêi-ta | Dados (Técnicamente plural, usado como massa singular) | Uncountable/Plural | B1
+Analysis | A-ná-li-sis | Análise (Singular - Terminação grega) | Singular Noun | B2
+Analyses | A-ná-li-sís | Análises (Plural - IS vira ES) | Plural Noun | B2
+
+// FRASES EM APLICAÇÕES PRÁTICAS - PLURALS (69)
+
+We calculate federal taxes daily. | Ui cal-kiu-lêit fé-de-ral ték-ses... | Calculamos impostos federais diariamente. (Regra do ES). | ConPrev | A2
+
+Samalper sells shoes for men and women. | ...shúz fór mén énd uí-men. | Samalper vende sapatos para homens e mulheres. (Irregulares). | Samalper | A1
+
+The script processes data from two companies. | ...câm-pa-nis. | O script processa dados de duas empresas. (Regra do IES). | Python | B1
+
+How many people are in the team? | Ráu mé-ni pí-pol...? | Quantas pessoas estão na equipe? (Person -> People). | Gestão | A1
+
+Rubens requested three analyses. | Rubens ri-cués-ted trí a-ná-li-sís. | Rubens solicitou três análises. (Pronúncia: Sís). | ConPrev | B2
+
+My feet hurt after running. | Mái fít rârt... | Meus pés doem depois de correr. (Foot -> Feet). | Fitness | A2
+
+These boxes are heavy. | Dí-iz bóc-sez ár ré-vi. | Estas caixas estão pesadas. (Logística/Correios). | Samalper | A1
+
+I have two computer mice. | ...tu com-piú-ter máis. | Tenho dois mouses de computador. (Mouse -> Mice, igual ao animal). | TI | B1
+
+Children usually learn fast. | Tchíl-dren iú-ju-a-li lârn fést. | Crianças geralmente aprendem rápido. (Child -> Children). | Geral | A1
+
+Update the files on the server. | Âp-dêit dê fái-ols... | Atualize os arquivos no servidor. (Plural regular S). | TI | A1
+
 // MÓDULO: GRAMMAR - COUNTABLE AND UNCOUNTABLE NOUNS (70)
 Book | Bûk | Livro (Contável: One book, two books) | Countable Noun | A1
 Water | Uó-ter | Água (Incontável: Não se diz "two waters") | Uncountable Noun | A1
 Advice | Ad-váis | Conselho (Incontável em inglês) | Uncountable Noun | B1
 News | Niúz | Notícia (Incontável, verbo no singular) | Uncountable Noun | A2
 Furniture | Fâr-ni-tchar | Mobília (Incontável em inglês) | Uncountable Noun | B1
+
+// MÓDULO: GRAMMAR - COUNTABLE AND UNCOUNTABLE NOUNS (70)
+Information | In-for-mêi-shan | Informação (Sempre singular/Incontável) | Uncountable Noun | A2
+Equipment | E-kuíp-ment | Equipamento (Sempre singular - Não existe 'Equipments') | Uncountable Noun | B1
+Software | Sóft-uér | Software (Sempre singular - O plural é 'Programs' ou 'Apps') | Uncountable Noun | B1
+Money | Mâ-ni | Dinheiro (Incontável - Você conta Reais/Dólares, não 'dinheiros') | Uncountable Noun | A1
+Knowledge | Nó-ledj | Conhecimento (Sempre singular) | Uncountable Noun | B2
+Bread | Bréd | Pão (Incontável - Você compra 'A loaf' ou 'Slices', não 'a bread') | Uncountable Noun | A1
+Work | Uôrk | Trabalho (A atividade é incontável - 'Job' é contável) | Uncountable Noun | A1
+Feedback | Fíd-béc | Feedback (Sempre singular - Não diga 'feedbacks') | Uncountable Noun | B1
+Time | Táim | Tempo (O conceito é incontável) | Uncountable Noun | A1
+Times | Táims | Vezes (Frequência é contável: 3 times) | Countable Noun | A2
+
+// FRASES EM APLICAÇÕES PRÁTICAS - COUNTABLE VS UNCOUNTABLE (70)
+
+I need more information about the tax. | ...mór in-for-mêi-shan... | Preciso de mais informação sobre o imposto. (Nunca diga "an information"). | ConPrev | A2
+
+The news is good for Samalper. | Dê niúz íz gûd... | A notícia é boa para a Samalper. (News termina em S mas é singular!). | Negócios | B1
+
+We bought new equipment for the office. | ...niú e-kuíp-ment... | Compramos equipamento novo para o escritório. (Nunca "equipments"). | Gestão | B1
+
+Rubens gave me some good advice. | ...sâm gûd ad-váis. | Rubens me deu um bom conselho. (Nunca "an advice"). | Trabalho | B1
+
+How much money do we have? | Ráu mâtch mâ-ni...? | Quanto dinheiro nós temos? (Much = Incontável). | Financeiro | A1
+
+How many shoes did we sell? | Ráu mé-ni shúz...? | Quantos sapatos nós vendemos? (Many = Contável). | Samalper | A1
+
+The software is running smoothly. | Dê sóft-uér íz rân-nin... | O software está rodando liso. | TI | A2
+
+I have a lot of work today. | ...a lót óv uôrk... | Tenho muito trabalho hoje. (Work = Atividade). | Rotina | A1
+
+She has two jobs. | Xí réz tú djóbs. | Ela tem dois empregos. (Job = Cargo/Vaga contável). | Social | A2
+
+Drink plenty of water. | Drínk plén-ti óv uó-ter. | Beba bastante água. (Líquidos são sempre incontáveis). | Saúde | A1
 
 // MÓDULO: GRAMMAR - SUBJECT-VERB AGREEMENT (71)
 She likes music | Xí láiks miú-zic | Ela gosta de música (Singular pede 's') | Agreement Rule | A1
@@ -5028,12 +5977,78 @@ Everyone is here | É-vri-uan íz rír | Todo mundo está aqui ('Everyone' é si
 The team is winning | Dâ tím íz uí-nin | O time está ganhando (Coletivos geralmente singular) | Agreement Rule | B1
 The police are coming | Dâ po-lís ár câ-min | A polícia está vindo ('Police' é sempre plural) | Agreement Rule | B1
 
+// MÓDULO: GRAMMAR - SUBJECT-VERB AGREEMENT (71)
+Everything is | É-vri-ting íz | Tudo está / é (Pronominal indefinido é sempre Singular) | Rule | A2
+Everybody knows | É-vri-bo-di nôuz | Todo mundo sabe (Singular: Trata o grupo como um bloco) | Rule | A2
+The police are | Dâ po-lís ár | A polícia está / é (Exceção: Sempre Plural) | Exception | B1
+People are | Pí-pol ár | As pessoas estão / são (Sempre Plural) | Rule | A1
+The staff is | Dâ stéf íz | A equipe está (Coletivos corporativos: Geralmente Singular nos EUA) | Rule | B1
+Nobody has | Nôu-bó-di réz | Ninguém tem (Singular) | Rule | A2
+The news is | Dâ niúz íz | A notícia é (Parece plural 's', mas é Singular) | Exception | A2
+One of the... is | Uân óv dâ... íz | Um dos... é (O sujeito é 'Um', não o grupo. Cuidado!) | Tricky Case | B1
+
+// FRASES EM APLICAÇÕES PRÁTICAS - AGREEMENT (71)
+
+The list of errors is long. | Dâ líst óv é-rrors íz lóng. | A lista de erros é longa. (Sujeito é 'A Lista', não 'os erros'). | Python | B1
+
+Everyone at ConPrev works hard. | ...uôrks rárd. | Todo mundo na ConPrev trabalha duro. (Singular). | ConPrev | A2
+
+The police are investigating the fraud. | ...ár in-ves-ti-gêi-tin... | A polícia está investigando a fraude. (Plural). | Jurídico | B1
+
+The team is ready for the audit. | Dâ tím íz ré-di... | O time está pronto para a auditoria. (Coletivo Singular). | Gestão | A2
+
+Neither of the scripts works. | Ní-der óv dâ scrípts uôrks. | Nenhum dos dois scripts funciona. (Formalmente Singular). | Python | B1
+
+My family lives in Goiás. | Mái fé-mi-li lívs ín Goiás. | Minha família mora em Goiás. (Coletivo Singular). | Pessoal | A1
+
+Data is processed locally. | Dêi-ta íz pró-ces-sed... | Dados são processados localmente. (Mass noun treated as Singular). | TI | B1
+
+Samalper sells shoes. | Samalper séls shúz. | A Samalper vende sapatos. (Empresa = Ela/It = Singular). | Samalper | A1
+
+Rubens and Glayzer agree. | ...a-grí. | Rubens e Glayzer concordam. (Sujeito composto = Eles/They = Plural). | ConPrev | A1
+
+One of the servers is down. | Uân óv dâ sêr-vers íz dáun. | Um dos servidores está fora do ar. (O foco é 'Um'). | TI | B1
+
 // MÓDULO: GRAMMAR - ABSTRACT AND CONCRETE NOUNS (72)
 Table | Têi-bol | Mesa (Concreto - Pode tocar) | Concrete Noun | A1
 Cloud | Cláud | Nuvem (Concreto - Físico/Visível) | Concrete Noun | A1
 Love | Lâv | Amor (Abstrato - Sentimento) | Abstract Noun | A1
 Freedom | Frí-dom | Liberdade (Abstrato - Conceito) | Abstract Noun | B1
 Knowledge | Nó-ledj | Conhecimento (Abstrato - Ideia) | Abstract Noun | B1
+
+// MÓDULO: GRAMMAR - ABSTRACT AND CONCRETE NOUNS (72)
+Hardware | Rárd-uér | Hardware (Concreto - Físico) | Concrete Noun | A1
+Logic | Ló-djic | Lógica (Abstrato - Raciocínio) | Abstract Noun | B1
+Success | Sac-sés | Sucesso (Abstrato - Resultado desejado) | Abstract Noun | A2
+Shoe | Shú | Sapato (Concreto - Produto físico) | Concrete Noun | A1
+Comfort | Côm-fort | Conforto (Abstrato - Sensação) | Abstract Noun | B1
+Money | Mâ-ni | Dinheiro (Concreto - Notas/Moedas) | Concrete Noun | A1
+Wealth | Uélf | Riqueza (Abstrato - Estado financeiro) | Abstract Noun | B2
+Trust | Trâst | Confiança (Abstrato - Sentimento essencial em vendas) | Abstract Noun | B1
+Evidence | É-vi-dence | Evidência (Pode ser abstrata ou concreta, depende do contexto) | Noun | B2
+Speed | Spíd | Velocidade (Abstrato - Medida de desempenho) | Abstract Noun | A2
+
+// FRASES EM APLICAÇÕES PRÁTICAS - ABSTRACT VS CONCRETE (72)
+
+The computer is fast, but the logic is flawed. | Dê com-piú-ter íz fést... | O computador (Concreto) é rápido, mas a lógica (Abstrato) é falha. | TI | B1
+
+We don't just sell shoes, we sell comfort. | ...shúz... côm-fort. | Não vendemos apenas sapatos (Concreto), vendemos conforto (Abstrato). | Samalper | B1
+
+I need concrete evidence for the audit. | Ái níd con-crít é-vi-dence... | Preciso de evidência concreta para a auditoria. | ConPrev | B2
+
+Honesty is essential in our team. | Ó-nes-ti íz e-ssén-shal... | Honestidade (Abstrato) é essencial na nossa equipe. | Valores | B1
+
+The invoice is on the table. | Di in-vóis íz ón dê têi-bol. | A nota fiscal (Concreto) está na mesa. | Rotina | A2
+
+Patience is a virtue for programmers. | Pêi-xence íz a vâr-tchu... | Paciência (Abstrato) é uma virtude para programadores. | Dev | B2
+
+Happiness is more important than money. | Ré-pi-nes íz mór im-pór-tant... | Felicidade (Abstrato) é mais importante que dinheiro. | Pessoal | A2
+
+Check the connectivity of the network. | Tchék dê co-nec-tí-vi-ti... | Verifique a conectividade (Abstrato) da rede. | TI | B2
+
+He has a lot of courage. | Rí réz a lót óv câ-redj. | Ele tem muita coragem (Abstrato). | Pessoal | B1
+
+Put the box in the storage. | Pût dê bócs ín dê stó-redj. | Coloque a caixa (Concreto) no armazém. | Logística | A2
 
 // MÓDULO: GRAMMAR - COMPOUND NOUNS (73)
 Toothpaste | Tús-peist | Pasta de dente (Uma palavra) | Compound Noun | A1
@@ -5042,6 +6057,40 @@ Swimming pool | Suí-min púl | Piscina (Duas palavras) | Compound Noun | A1
 Bus stop | Bâs stóp | Ponto de ônibus (Duas palavras) | Compound Noun | A1
 Mother-in-law | Mâ-der in ló | Sogra (Com hífens) | Compound Noun | B1
 Passer-by | Pá-ser bái | Transeunte / Pedestre (Plural: Passers-by) | Compound Noun | B2
+
+// MÓDULO: GRAMMAR - COMPOUND NOUNS (73)
+Database | Dêi-ta-bêis | Banco de dados (Palavra única) | Closed Compound | A2
+Website | Uéb-sáit | Site / Sítio eletrônico (Palavra única) | Closed Compound | A1
+Income tax | ín-câm téks | Imposto de renda (Duas palavras, conceito único) | Open Compound | B1
+Source code | Sórs côud | Código-fonte (Duas palavras) | Open Compound | B1
+Running shoes | Rân-nin shúz | Tênis de corrida (Item essencial Samalper) | Open Compound | A2
+Follow-up | Fó-lou âp | Acompanhamento / Retorno (Com hífen) | Hyphenated Compound | B2
+Taxpayer | Téks-pêi-er | Contribuinte (Pagador de impostos) | Closed Compound | B2
+Credit card | Cré-dit cárd | Cartão de crédito | Open Compound | A1
+Deadline | Déd-láin | Prazo final (Linha da morte) | Closed Compound | B1
+Check-in | Tchék-ín | Registro de entrada (Aeroporto ou Hotel) | Hyphenated Compound | A1
+
+// FRASES EM APLICAÇÕES PRÁTICAS - COMPOUND NOUNS (73)
+
+The database is corrupted. | Dê dêi-ta-bêis íz co-rrâp-ted. | O banco de dados está corrompido. (Closed). | TI | B1
+
+Send me the source code. | Sénd mí dê sórs côud. | Me envie o código-fonte. (Open). | Dev | B1
+
+We need to file the income tax. | ...fái-ol di ín-câm téks. | Precisamos declarar o imposto de renda. (Open). | Fisco | B1
+
+The running shoes are on sale. | Dê rân-nin shúz ár ón sêil. | Os tênis de corrida estão em promoção. (Open). | Samalper | A2
+
+Do a follow-up with the client. | Dú a fó-lou âp... | Faça um acompanhamento com o cliente. (Hyphenated). | Vendas | B2
+
+The taxpayer must pay today. | Dê téks-pêi-er mâst pêi... | O contribuinte deve pagar hoje. (Closed). | ConPrev | B2
+
+Use your credit card to buy. | Iúz iór cré-dit cárd... | Use seu cartão de crédito para comprar. (Open). | Compras | A1
+
+We missed the deadline. | Ui mís-t dê déd-láin. | Nós perdemos o prazo final. (Closed). | Trabalho | B1
+
+My bedroom is organized. | Mái béd-rum íz or-ga-náiz-d. | Meu quarto está organizado. (Closed). | Casa | A1
+
+Go to the bus stop early. | Gôu tú dê bâs stóp âr-li. | Vá para o ponto de ônibus cedo. (Open). | Rotina | A2
 
 // MÓDULO: GRAMMAR - NUMBERS (74)
 One | Uân | Um | Cardinal Number | A1
@@ -5053,6 +6102,41 @@ Half | Réf | Metade / Meio | Fraction | A1
 Quarter | Cuór-ter | Um quarto (1/4) | Fraction | A2
 Dozen | Dâ-zen | Dúzia | Noun | A2
 
+// MÓDULO: GRAMMAR - NUMBERS (74)
+Thousand | Táu-zand | Mil (1,000) | Cardinal Number | A1
+Million | Mí-lian | Milhão (1,000,000 - Nunca pluralize se houver número antes) | Cardinal Number | B1
+Billion | Bí-lian | Bilhão (1,000,000,000) | Cardinal Number | B1
+Point | Póint | Ponto (Usado para decimais: 2.5 = Two point five) | Math | A1
+Percent | Per-cént | Por cento (%) | Noun | A1
+Third | Târd | Terceiro (Ordinal) | Ordinal Number | A1
+Three times | Trí táims | Três vezes (A partir de 3, usa-se 'times') | Frequency | A1
+Zero / Oh | Zí-rou / Ôu | Zero (Em versões ou telefones, fala-se 'Oh') | Cardinal Number | A2
+Nil | Níl | Nulo / Zero (Usado em placares ou resultados vazios) | Cardinal Number | B2
+Double | Dâ-bol | Dobro / Duplo | Adjective | A2
+Triple | Trí-pol | Triplo | Adjective | A2
+
+// FRASES EM APLICAÇÕES PRÁTICAS - NUMBERS (74)
+
+I run the script once a day. | ...uâns a dêi. | Eu rodo o script uma vez por dia. (Frequência). | Python | A1
+
+Check the logs twice. | ...tuáis. | Verifique os logs duas vezes. (Frequência). | Debug | A1
+
+The tax is fifteen percent. | ...fíf-tín per-cént. | O imposto é quinze por cento. | Fisco | A1
+
+Python version three point twelve. | ...trí póint tuélv. | Versão Python 3.12 (Em software, lê-se ponto). | TI | A1
+
+Sales reached two million reais. | ...tú mí-lian... | As vendas atingiram dois milhões de reais. (Sem 's' em million). | Samalper | B1
+
+This is the third time it crashed. | ...dê târd táim... | Esta é a terceira vez que travou. | TI | A2
+
+We sold a dozen pairs. | ...a dâ-zen pérs. | Vendemos uma dúzia de pares. | Samalper | A2
+
+The profit increased by half. | ...bái réf. | O lucro aumentou pela metade. | Negócios | B1
+
+Three quarters of the budget is gone. | Trí cuór-ters... | Três quartos do orçamento se foram. (Fração). | ConPrev | B2
+
+It costs five hundred dollars. | ...fáiv rân-dred... | Custa quinhentos dólares. (Sem 's' em hundred). | Compras | A1
+
 // MÓDULO: GRAMMAR - QUANTITY (75)
 A lot of | A lót óv | Muito / Um monte de (Informal) | Quantifier | A1
 Plenty of | Plén-ti óv | De sobra / Abundância de (Mais que suficiente) | Quantifier | B1
@@ -5060,6 +6144,38 @@ Several | Sé-ve-ral | Vários (Mais que alguns, mas não muitos) | Quantifier |
 A couple of | A câ-pol óv | Um par de / Alguns (Geralmente 2 ou 3) | Quantifier | A2
 A bit of | A bít óv | Um pouco de | Quantifier | A2
 Loads of | Lôuds óv | Montes de (Muito informal) | Quantifier | B1
+
+// MÓDULO: GRAMMAR - QUANTITY (75)
+A lot of | A lót óv | Muito / Um monte de (Uso geral - Afirmativo) | Quantifier | A1
+Plenty of | Plén-ti óv | De sobra / Mais que o suficiente (Positivo) | Quantifier | B1
+Several | Sé-ve-ral | Vários (Mais que 'alguns', soa mais formal) | Quantifier | B1
+A couple of | A câ-pol óv | Um par de / Alguns (Geralmente 2 ou 3) | Quantifier | A2
+A bit of | A bít óv | Um pouco de (Apenas para incontáveis: Tempo, água) | Quantifier | A2
+Loads of | Lôuds óv | Montes de / Toneladas de (Muito informal) | Quantifier | B1
+A large amount of | ...a-máunt óv | Uma grande quantidade de (Formal - Incontáveis) | Phrase | B2
+A number of | ...nâm-ber óv | Um número de / Vários (Formal - Contáveis) | Phrase | B2
+
+// FRASES EM APLICAÇÕES PRÁTICAS - QUANTITY (75)
+
+We have plenty of stock. | Ui rév plén-ti óv stóc. | Temos estoque de sobra. (Não vai faltar). | Samalper | B1
+
+I found several bugs in the code. | Ái fáund sé-ve-ral bâgs... | Encontrei vários bugs no código. (Mais técnico que 'many'). | Python | B1
+
+Give me a couple of minutes. | Gív mí a câ-pol óv mí-nutes. | Me dê alguns minutos (2 ou 3). | Trabalho | A2
+
+The script processes a lot of data. | ...a lót óv dêi-ta. | O script processa um monte de dados. | TI | A1
+
+We need a bit of help here. | Ui níd a bít óv rélp rír. | Precisamos de um pouco de ajuda aqui. | Social | A2
+
+There are loads of orders today. | Dér ár lôuds óv ór-ders... | Tem "toneladas" de pedidos hoje. (Entusiasmo informal). | Vendas | B1
+
+A large amount of money was lost. | A lárdj a-máunt óv mâ-ni... | Uma grande quantia de dinheiro foi perdida. (Formal). | Financeiro | B2
+
+A number of clients complained. | A nâm-ber óv clái-ents... | Vários clientes reclamaram. (Relatório formal). | ConPrev | B2
+
+I have a couple of ideas for the logo. | ...a câ-pol óv ai-dí-as... | Tenho algumas ideias para a logo. | Design | A2
+
+It takes a bit of time to load. | Ít têiks a bít óv táim... | Leva um pouco de tempo para carregar. | TI | A2
 
 // MÓDULO: GRAMMAR - APPROXIMATE QUANTITY (76)
 About | A-báut | Cerca de / Sobre (Ex: About 10 people) | Adverb | A1
@@ -5070,12 +6186,77 @@ More or less | Mór ór lés | Mais ou menos | Expression | A2
 Or so | Ór sôu | Ou algo assim / Mais ou menos (No final: "20 people or so") | Expression | B2
 Almost | Ól-moust | Quase | Adverb | A1
 
+// MÓDULO: GRAMMAR - APPROXIMATE QUANTITY (76)
+About | A-báut | Cerca de / Sobre (O mais comum para números gerais) | Adverb | A1
+Around | A-ráund | Por volta de (Muito usado para horários e preços) | Adverb | A1
+Approximately | A-próc-si-meit-li | Aproximadamente (Formal - Uso técnico/científico) | Adverb | B1
+Roughly | Râf-li | Por alto / Grosseiramente (Estimativa rápida sem precisão) | Adverb | B2
+More or less | Mór ór lés | Mais ou menos (Expressão muito comum) | Expression | A2
+Or so | Ór sôu | Ou algo assim / Mais ou menos (Colocado APÓS o número) | Expression | B2
+Almost | Ól-moust | Quase (Faltou pouco para completar) | Adverb | A1
+Nearly | Nír-li | Perto de / Quase (Muito similar a Almost) | Adverb | A2
+Just under | Djâst ân-der | Pouco menos de (Ex: 99% é 'just under' 100%) | Phrase | B1
+Just over | Djâst ôu-ver | Pouco mais de (Ex: 101% é 'just over' 100%) | Phrase | B1
+
+// FRASES EM APLICAÇÕES PRÁTICAS - APPROXIMATE QUANTITY (76)
+
+The project will take approximately two weeks. | ...a-próc-si-meit-li... | O projeto levará aproximadamente duas semanas. (Formal). | Gestão | B1
+
+The shoes cost around 200 reais. | ...a-ráund... | Os sapatos custam por volta de 200 reais. | Samalper | A1
+
+We have roughly 50 clients in this sector. | ...râf-li... | Temos, por alto, 50 clientes neste setor. (Conta de cabeça). | ConPrev | B2
+
+I am almost done with the script. | Ái ém ól-moust dân... | Estou quase terminando o script. | Python | A1
+
+It takes 10 minutes or so to compile. | ...tén mí-nutes ór sôu... | Leva uns 10 minutos ou algo assim para compilar. | TI | B2
+
+Sales increased by more or less 10%. | ...mór ór lés... | As vendas aumentaram mais ou menos 10%. | Negócios | A2
+
+See you at about 5 PM. | ...ét a-báut... | Te vejo cerca das 17h. | Social | A1
+
+The file size is just under 1GB. | ...djâst ân-der... | O tamanho do arquivo é pouco menos de 1GB. | TI | B1
+
+We need nearly a thousand dollars. | Ui níd nír-li a táu-zand... | Precisamos de quase mil dólares. | Financeiro | A2
+
+That is roughly what I expected. | Dét íz râf-li uót ái eks-péc-ted. | É, por alto, o que eu esperava. | Opinião | B2
+
 // MÓDULO: GRAMMAR - PERSONAL PRONOUNS (77)
 I am here | Ái ém rír | Eu estou aqui (Sujeito: Antes do verbo) | Subject Pronoun | A1
 She called me | Xí cól-d mí | Ela me ligou (Objeto: Depois do verbo) | Object Pronoun | A1
 They saw us | Dêi só âs | Eles nos viram | Object Pronoun | A1
 We saw them | Uí só dém | Nós os vimos | Object Pronoun | A1
 He likes her | Rí láiks râr | Ele gosta dela | Object Pronoun | A1
+
+// MÓDULO: GRAMMAR - PERSONAL PRONOUNS (77)
+I / Me | Ái / Mí | Eu / Me, Mim (I speak / She hears me) | Subject/Object | A1
+He / Him | Rí / Rím | Ele / O, Lhe, Dele (He works / I saw him) | Subject/Object | A1
+She / Her | Xí / Râr | Ela / A, Lhe, Dela (She runs / I called her) | Subject/Object | A1
+We / Us | Uí / Âs | Nós / Nos (We know / They help us) | Subject/Object | A1
+They / Them | Dêi / Dém | Eles, Elas / Os, As, Lhes (They pay / I told them) | Subject/Object | A1
+It | Ít | Ele, Ela (Coisa) (A forma é igual para Sujeito e Objeto) | Subject/Object | A1
+You | Iú | Você (A forma é igual para Sujeito e Objeto) | Subject/Object | A1
+
+// FRASES EM APLICAÇÕES PRÁTICAS - PERSONAL PRONOUNS (77)
+
+I told him about the deadline. | Ái tôuld rím... | Eu disse a ele sobre o prazo. (Eu fiz -> Ele recebeu). | Trabalho | A2
+
+She helped us with the audit. | Xí rélp-t âs... | Ela nos ajudou com a auditoria. (Ela fez -> Nós recebemos). | ConPrev | A2
+
+They sent me the wrong file. | Dêi sént mí... | Eles me enviaram o arquivo errado. | TI | A1
+
+We invited them to the meeting. | Ui in-vái-ted dém... | Nós os convidamos para a reunião. | Corporativo | A2
+
+It gave me an error message. | Ít gêiv mí... | Ele (o sistema/script) me deu uma mensagem de erro. | Python | A1
+
+He loves her. | Rí lâvs râr. | Ele a ama. (Clássico). | Pessoal | A1
+
+Call them tomorrow. | Cól dém tu-mó-rrou. | Ligue para eles amanhã. (Imperativo + Objeto). | Samalper | A1
+
+This notebook belongs to me. | ...bi-lóngs tú mí. | Este notebook pertence a mim. | Pessoal | B1
+
+Rubens asked us to wait. | Rubens ásk-t âs... | Rubens nos pediu para esperar. | ConPrev | B1
+
+I can't hear you. | Ái ként rír iú. | Não consigo te ouvir. (Você é o objeto da audição). | Telefone | A1
 
 // MÓDULO: GRAMMAR - REFLEXIVE PRONOUNS (78)
 I cut myself | Ái cât mái-sélf | Eu me cortei (Ação volta para quem fez) | Reflexive Pronoun | A2
@@ -5084,12 +6265,78 @@ Enjoy yourself | En-djói iór-sélf | Divirta-se | Reflexive Pronoun | A2
 They blamed themselves | Dêi blêim-d dém-sélvs | Eles se culparam | Reflexive Pronoun | B1
 We did it ourselves | Uí díd ít áu-ar-sélvs | Nós mesmos fizemos isso (Ênfase) | Intensive Pronoun | B2
 
+// MÓDULO: GRAMMAR - REFLEXIVE PRONOUNS (78)
+Myself | Mái-sélf | A mim mesmo / Eu mesmo (Reflexivo de I) | Reflexive Pronoun | A1
+Yourself | Iór-sélf | A ti mesmo / A você mesmo (Reflexivo de You) | Reflexive Pronoun | A1
+Himself | Rím-sélf | A ele mesmo (Reflexivo de He) | Reflexive Pronoun | A1
+Herself | Râr-sélf | A ela mesma (Reflexivo de She) | Reflexive Pronoun | A1
+Itself | Ít-sélf | A si mesmo (Coisas/Sistemas - Essencial para TI) | Reflexive Pronoun | B1
+Ourselves | Áu-ar-sélvs | A nós mesmos (Reflexivo de We) | Reflexive Pronoun | B1
+Themselves | Dém-sélvs | A eles mesmos (Reflexivo de They) | Reflexive Pronoun | B1
+By myself | Bái mái-sélf | Sozinho / Por conta própria (Sem ajuda) | Idiom | A2
+
+// FRASES EM APLICAÇÕES PRÁTICAS - REFLEXIVE PRONOUNS (78)
+
+The script updates itself every hour. | Dê scrípt âp-dêits ít-sélf... | O script se atualiza a cada hora. (Automação). | Python | B1
+
+I taught myself Python. | Ái tót mái-sélf Pái-ton. | Eu aprendi Python sozinho (Ensinei a mim mesmo). | Estudo | B1
+
+Did you create the logo by yourself? | ...bái iór-sélf? | Você criou a logo sozinho (sem designer)? | Samalper | A2
+
+Rubens himself signed the document. | Rubens rím-sélf sáin-d... | O próprio Rubens assinou o documento. (Ênfase na autoridade). | ConPrev | B2
+
+We prepared the audit ourselves. | Ui pri-pér-d di ó-dit áu-ar-sélvs. | Nós mesmos preparamos a auditoria (Sem consultoria externa). | ConPrev | B2
+
+Don't blame yourself for the bug. | Dôunt blêim iór-sélf... | Não se culpe pelo bug. | Trabalho | B1
+
+Make yourself at home. | Mêik iór-sélf ét rôum. | Sinta-se em casa. (Hospitalidade goiana). | Social | A2
+
+The problem resolved itself. | Dê pró-blem ri-zólv-d ít-sélf. | O problema se resolveu sozinho. (Sorte em TI). | Debug | B1
+
+They introduced themselves to the client. | Dêi in-tro-diús-t dém-sélvs... | Eles se apresentaram ao cliente. | Vendas | A2
+
+Help yourself to some coffee. | Rélp iór-sélf tú sâm có-fi. | Sirva-se de café. (Oferta educada). | Social | B1
+
 // MÓDULO: GRAMMAR - INDEFINITE PRONOUNS (79)
 Someone is calling | Sâm-uan íz có-lin | Alguém está ligando (Pessoa não específica) | Indefinite Pronoun | A1
 Anything is possible | É-ni-ting íz pó-si-bol | Qualquer coisa é possível | Indefinite Pronoun | A2
 I saw nobody | Ái só nôu-bo-di | Eu não vi ninguém (Verbo positivo + Nobody) | Indefinite Pronoun | A2
 Somewhere else | Sâm-uér éls | Algum outro lugar | Indefinite Adverb | B1
 Everybody knows | É-vri-bo-di nôuz | Todo mundo sabe (Verbo no singular) | Indefinite Pronoun | A2
+
+// MÓDULO: GRAMMAR - INDEFINITE PRONOUNS (79)
+Someone / Somebody | Sâm-uan / Sâm-bo-di | Alguém (Afirmativas) | Pronoun | A1
+Anyone / Anybody | É-ni-uan / É-ni-bo-di | Alguém (Perguntas) / Qualquer um (Afirmativa) / Ninguém (Negativa) | Pronoun | A1
+No one / Nobody | Nôu uân / Nôu-bo-di | Ninguém (Verbo deve estar positivo: "I saw nobody") | Pronoun | A2
+Everyone / Everybody | É-vri-uan / É-vri-bo-di | Todo mundo (Verbo no Singular!) | Pronoun | A1
+Something | Sâm-ting | Algo / Alguma coisa | Pronoun | A1
+Anything | É-ni-ting | Qualquer coisa / Nada (Em negativas) | Pronoun | A1
+Nothing | Nâ-ting | Nada (Verbo positivo) | Pronoun | A1
+Everything | É-vri-ting | Tudo (Verbo no Singular!) | Pronoun | A1
+Somewhere | Sâm-uér | Algum lugar | Adverb | A2
+Anywhere | É-ni-uér | Qualquer lugar / Nenhum lugar | Adverb | A2
+
+// FRASES EM APLICAÇÕES PRÁTICAS - INDEFINITE PRONOUNS (79)
+
+Is anyone in the office? | Íz é-ni-uan ín di ó-fís? | Tem alguém no escritório? | ConPrev | A1
+
+I need to tell you something. | Ái níd tú tél iú sâm-ting. | Preciso te contar uma coisa. | Pessoal | A1
+
+Nothing is working today. | Nâ-ting íz uôr-kin tu-dêi. | Nada está funcionando hoje. | TI | A2
+
+We deliver anywhere in Brazil. | Ui di-lí-ver é-ni-uér... | Entregamos em qualquer lugar do Brasil. | Samalper | B1
+
+Did you find anything in the logs? | Díd iú fáind é-ni-ting...? | Você achou alguma coisa nos logs? | Debug | B1
+
+Someone changed the password. | Sâm-uan tchên-dj-d dê pés-uôrd. | Alguém mudou a senha. | Segurança | A2
+
+Everybody likes free shipping. | É-vri-bo-di láiks frí xí-pin. | Todo mundo gosta de frete grátis. (Singular 'Likes'). | Samalper | A1
+
+I saw nobody at the reception. | Ái só nôu-bo-di... | Não vi ninguém na recepção. | Trabalho | A2
+
+Let's go somewhere quiet. | Léts gôu sâm-uér cuái-et. | Vamos para algum lugar quieto. | Estudo | B1
+
+Everything is under control. | É-vri-ting íz ân-der con-trôul. | Tudo está sob controle. | Gestão | A2
 
 // MÓDULO: GRAMMAR - POSSESSION (80)
 It is my car | Ít íz mái cár | É meu carro (Adjetivo: Precisa do objeto) | Possessive Adjective | A1
@@ -5099,22 +6346,150 @@ The legs of the table | Dâ légs óv dâ têi-bol | As pernas da mesa (Posse de
 Whose bag is this? | Rúz bég íz dís? | De quem é esta bolsa? | Question Word | A2
 A friend of mine | A frénd óv máin | Um amigo meu (Expressão comum) | Double Genitive | B1
 
+// MÓDULO: GRAMMAR - POSSESSION (80)
+My / Mine | Mái / Máin | Meu(s), Minha(s) (Adjetivo / Pronome) | Possessive | A1
+Your / Yours | Iór / Iórs | Seu(s), Sua(s) (Adjetivo / Pronome) | Possessive | A1
+His | Ríz | Dele (Serve para Adjetivo e Pronome: "It's his car" / "It's his") | Possessive | A1
+Her / Hers | Râr / Rârs | Dela (Adjetivo / Pronome) | Possessive | A1
+Our / Ours | Áu-ar / Áu-ars | Nosso(s) (Adjetivo / Pronome) | Possessive | A1
+Their / Theirs | Dér / Dérs | Deles, Delas (Adjetivo / Pronome) | Possessive | A1
+Its | Íts | Dele/Dela (Coisa/Animal) - SEM APÓSTROFO! | Possessive Adjective | A1
+Whose | Rúz | De quem (Usado em perguntas) | Question Word | A2
+'s (Apostrophe S) | (Som de S ou Z) | Indicador de posse para pessoas (John's) | Genitive Case | A1
+Of the | Óv dâ | Do / Da (Indicador de posse para coisas inanimadas) | Structure | A2
+
+// FRASES EM APLICAÇÕES PRÁTICAS - POSSESSION (80)
+
+This is my code, not yours. | Dís íz mái côud, nót iórs. | Este é meu código, não seu. (Comparação Adjetivo vs Pronome). | Dev | A1
+
+Whose computer is this? | Rúz com-piú-ter íz dís? | De quem é este computador? | TI | A2
+
+The decision is Rubens's. | Dê di-sí-jan íz Rubens-iz. | A decisão é do Rubens. (Nome terminados em S ganham 's ou só '). | ConPrev | B1
+
+This isn't our error; it's theirs. | ...ít íz dérs. | Este não é nosso erro; é deles. (Cliente/Outro setor). | Debug | B1
+
+The battery of the laptop is dead. | Dê bé-te-ri óv dê lép-tóp... | A bateria do notebook morreu. (Posse de coisa inanimada). | TI | A2
+
+I met a friend of mine at the gym. | ...a frénd óv máin... | Encontrei um amigo meu na academia. (Expressão muito comum). | Social | B1
+
+Check the client's file. | Tchék dê clái-ents fái-ol. | Verifique o arquivo do cliente. (Genitive Case). | ConPrev | A1
+
+Samalper has its own website. | ...íts ôun uéb-sáit. | A Samalper tem seu próprio site. (Its = Da empresa). | Negócios | B1
+
+Are these shoes hers? | Ár dí-iz shúz rârs? | Estes sapatos são dela? (Pronome final). | Vendas | A2
+
+The end of the month is busy. | Di énd óv dê mânf... | O fim do mês é corrido. (Posse temporal/inanimada). | Rotina | A2
+
 // MÓDULO: GRAMMAR - DEFINING RELATIVE CLAUSES (81)
 The man who called | Dâ mén rú cól-d | O homem que ligou (Especifica qual homem) | Relative Clause | A2
 The car which I bought | Dâ cár uítch ái bót | O carro que eu comprei (Usa 'which' para coisas) | Relative Clause | A2
 The book that I read | Dâ bûk dét ái réd | O livro que eu li ('That' serve para pessoas e coisas) | Relative Clause | A2
 The girl I met | Dâ gârl ái mét | A garota que conheci (Omite o 'who' quando é objeto) | Zero Relative Pronoun | B1
 
+// MÓDULO: GRAMMAR - DEFINING RELATIVE CLAUSES (81)
+Who | Rú | Que / Quem (Usado EXCLUSIVAMENTE para pessoas) | Relative Pronoun | A2
+Which | Uítch | Que / O qual (Usado EXCLUSIVAMENTE para coisas/animais) | Relative Pronoun | A2
+That | Dét | Que (O Coringa: Serve para pessoas e coisas em frases definidoras) | Relative Pronoun | A2
+Whose | Rúz | Cujo / De quem (Indica posse: "O cara *cujo* carro...") | Relative Pronoun | B1
+Where | Uér | Onde / Em que (Refere-se a lugares) | Relative Adverb | A2
+When | Uén | Quando / Em que (Refere-se a tempo) | Relative Adverb | A2
+(Omission) | (Vazio) | (Omite-se o pronome quando ele não é o sujeito da ação) | Zero Relative | B1
+
+// FRASES EM APLICAÇÕES PRÁTICAS - DEFINING CLAUSES (81)
+
+The client who called is waiting. | Dâ clái-ent rú cól-d... | O cliente que ligou está esperando. (Filtra qual cliente). | ConPrev | A2
+
+The script that failed is crucial. | Dê scrípt dét fêil-d... | O script que falhou é crucial. (Pode usar 'which' também). | Python | A2
+
+This is the shoe which sells the most. | ...uítch séls dâ môust. | Este é o sapato que mais vende. | Samalper | B1
+
+The file I deleted was empty. | Dê fái-ol ái di-lí-ted... | O arquivo (que) eu deletei estava vazio. (Omissão do 'that'). | TI | B1
+
+The user whose password expired needs help. | ...rúz pés-uôrd eks-pái-rd... | O usuário cuja senha expirou precisa de ajuda. | Suporte | B1
+
+This is the folder where I save logs. | ...fôul-der uér ái sêiv lógs. | Esta é a pasta onde salvo os logs. | TI | A2
+
+Is this the report Rubens requested? | ...ri-pórt Rubens ri-cués-ted? | Este é o relatório (que) o Rubens pediu? (Omissão comum). | ConPrev | B1
+
+The day when we started Samalper. | Dê dêi uén ui stár-ted... | O dia em que começamos a Samalper. | História | B1
+
+I know a guy who fixes computers. | ...gái rú fíc-ses... | Conheço um cara que conserta computadores. | Networking | A2
+
+The error that keeps happening is weird. | Di é-rror dét kíps ré-pe-nin... | O erro que continua acontecendo é estranho. | Debug | B1
+
 // MÓDULO: GRAMMAR - NON-DEFINING RELATIVE CLAUSES (82)
 My mom, who is a cook, ... | Mái mâm, rú íz a cûk... | Minha mãe, que é cozinheira, ... (Informação extra entre vírgulas) | Non-defining Clause | B1
 London, which is big, ... | Lân-dan, uítch íz bíg... | Londres, que é grande, ... (Usa vírgulas e nunca usa 'that') | Non-defining Clause | B1
 This car, which is old, ... | Dís cár, uítch íz ôuld... | Este carro, que é velho, ... | Non-defining Clause | B1
+
+// MÓDULO: GRAMMAR - NON-DEFINING RELATIVE CLAUSES (82)
+, who..., | ...rú... | , que... (Para pessoas - SEMPRE com vírgulas) | Relative Pronoun | B1
+, which..., | ...uítch... | , que... (Para coisas - SEMPRE com vírgulas - NUNCA use 'That') | Relative Pronoun | B1
+, whose..., | ...rúz... | , cujo... / de quem... (Posse extra) | Relative Pronoun | B2
+, where..., | ...uér... | , onde... (Lugar específico já mencionado) | Relative Adverb | B1
+, whom..., | ...rúm... | , a quem... (Objeto formal de pessoa - Raro na fala) | Relative Pronoun | C1
+Commas | Có-mas | Vírgulas (Obrigatórias aqui - Funcionam como parênteses) | Punctuation | B1
+Extra Info | Éx-tra ín-fou | Informação Extra (Pode ser deletada sem quebrar a frase) | Concept | B1
+
+// FRASES EM APLICAÇÕES PRÁTICAS - NON-DEFINING CLAUSES (82)
+
+Rubens, who is the director, approved the plan. | Rubens, rú íz dê di-réc-tor... | Rubens, que é o diretor, aprovou o plano. (Se tirar o cargo, ainda sabemos quem é o Rubens). | ConPrev | B1
+
+Python, which is open-source, is free. | Pái-ton, uítch íz ôu-pen-sórs... | Python, que é código aberto, é grátis. (Jamais use 'That' aqui). | Dev | B1
+
+My mother, who cooks very well, made this salad. | Mái mâ-der, rú cûks... | Minha mãe, que cozinha muito bem, fez esta salada. (Info extra sobre Maria do Socorro). | Pessoal | B1
+
+Goiânia, where I live, is very hot. | Goiânia, uér ái lív... | Goiânia, onde moro, é muito quente. (Onde = Local único). | Pessoal | B1
+
+The server, which was expensive, crashed. | Dê sêr-ver, uítch uóz eks-pén-siv... | O servidor, que foi caro, travou. | TI | B1
+
+Mr. Glayzer, whose office is on the left, is busy. | ...rúz ó-fís... | O Sr. Glayzer, cujo escritório é à esquerda, está ocupado. | ConPrev | B2
+
+The CFC Exam, which is hard, requires study. | Dê C-F-C Eg-zém, uítch íz rárd... | O exame do CFC, que é difícil, exige estudo. | Estudo | B1
+
+This shoe, which I bought on Shopee, is fake. | ...uítch ái bót... | Este sapato, que comprei na Shopee, é falso. | Samalper | B1
+
+He fixed the bug, which made me happy. | ...uítch mêid mí ré-pi. | Ele consertou o bug, o que me deixou feliz. ('Which' referindo-se à frase inteira anterior). | Dev | B2
+
+My car, which is old, needs repairs. | Mái cár, uítch íz ôuld... | Meu carro, que é velho, precisa de reparos. | Pessoal | B1
 
 // MÓDULO: GRAMMAR - OTHER RELATIVE STRUCTURES (83)
 The place where we met | Dâ plêis uér uí mét | O lugar onde nos conhecemos | Relative Adverb | A2
 The day when I was born | Dâ dêi uén ái uóz bórn | O dia em que / quando nasci | Relative Adverb | A2
 The man whose car was stolen | ... rúz cár uóz stôu-len | O homem cujo carro foi roubado (Posse) | Relative Pronoun | B1
 The reason why I came | Dâ rí-zon uái ái kêim | A razão pela qual eu vim | Relative Adverb | B1
+
+// MÓDULO: GRAMMAR - OTHER RELATIVE STRUCTURES (83)
+Where | Uér | Onde / Em que (Refere-se a lugares físicos ou virtuais) | Relative Adverb | A2
+When | Uén | Quando / Em que (Refere-se a tempo/datas) | Relative Adverb | A2
+Whose | Rúz | Cujo / De quem (Refere-se a posse) | Relative Pronoun | B1
+Why | Uái | Pelo qual / Por que (Refere-se a motivos/razões) | Relative Adverb | B1
+The reason why | Dâ rí-zon uái | A razão pela qual (Frase fixa muito útil) | Structure | B1
+The place where | Dâ plêis uér | O lugar onde | Structure | A2
+The time when | Dâ táim uén | A hora em que | Structure | A2
+That | Dét | Que (Informalmente substitui 'when' ou 'why' na fala rápida) | Relative Pronoun | B1
+
+// FRASES EM APLICAÇÕES PRÁTICAS - OTHER RELATIVES (83)
+
+This is the folder where I save the PDFs. | ...fôul-der uér ái sêiv... | Esta é a pasta onde salvo os PDFs. (Local virtual). | TI | A2
+
+Do you remember the day when we started? | ...dê dêi uén ui stár-ted? | Você lembra o dia em que começamos? (Data). | Samalper | A2
+
+The client whose company was audited called. | ...rúz câm-pa-ni uóz ó-di-ted... | O cliente cuja empresa foi auditada ligou. (Posse). | ConPrev | B2
+
+I don't know the reason why it failed. | ...dê rí-zon uái ít fêil-d. | Não sei a razão pela qual falhou. (Debug). | Python | B1
+
+Goiânia is the city where I work. | Goiânia íz dê cí-ti uér ái uôrk. | Goiânia é a cidade onde trabalho. (Local físico). | Pessoal | A1
+
+The year when the tax law changed. | Dê yír uén dê téks ló tchên-dj-d. | O ano em que a lei tributária mudou. | Fisco | B1
+
+This is the code whose logic is complex. | ...côud rúz ló-djic... | Este é o código cuja lógica é complexa. | Dev | B2
+
+That is the reason why I study English. | Dét íz dê rí-zon uái... | Essa é a razão pela qual estudo inglês. | Estudo | B1
+
+Is there a shop where I can buy this? | ...xóp uér ái kén bái... | Tem uma loja onde eu possa comprar isso? | Compras | A2
+
+The moment when the server crashed. | Dê môu-ment uén dê sêr-ver crésh-t. | O momento em que o servidor caiu. (Timestamp). | TI | B1
 
 // MÓDULO: GRAMMAR - QUESTION WORDS WITH "-EVER" (84)
 Whatever you want | Uót-é-ver iú uónt | O que quer que você queira / Qualquer coisa | Indefinite Pronoun | B1
@@ -5123,11 +6498,76 @@ Whoever calls | Rú-é-ver cóls | Quem quer que ligue / Qualquer pessoa | Indef
 Whenever you are ready | Uén-é-ver iú ár ré-di | Quando quer que esteja pronto / A hora que for | Indefinite Adverb | B1
 However you do it | Ráu-é-ver iú dú ít | Como quer que você faça / De qualquer jeito | Indefinite Adverb | B2
 
+// MÓDULO: GRAMMAR - QUESTION WORDS WITH "-EVER" (84)
+Whatever | Uót-é-ver | O que quer que seja / Qualquer coisa / Tanto faz | Pronoun | B1
+Wherever | Uér-é-ver | Onde quer que seja / Qualquer lugar | Adverb | B1
+Whenever | Uén-é-ver | Quando quiser / Sempre que / A qualquer hora | Adverb | B1
+Whoever | Rú-é-ver | Quem quer que seja / Qualquer pessoa | Pronoun | B1
+However | Ráu-é-ver | De qualquer maneira / Não importa como / Por mais que... | Adverb | B2
+Whichever | Uítch-é-ver | Qual quer que seja (Escolha entre opções limitadas) | Determiner | B2
+Whatever happens | ...ré-pens | Aconteça o que acontecer | Phrase | B1
+Or whatever | Ór uót-é-ver | Ou qualquer coisa assim (Informal - Fim de frase) | Expression | B2
+
+// FRASES EM APLICAÇÕES PRÁTICAS - EVER WORDS (84)
+
+Do whatever is necessary to fix the bug. | Dú uót-é-ver íz né-ces-sá-ri... | Faça o que for necessário para consertar o bug. (Permissão total). | Dev | B1
+
+We deliver wherever you are in Goiás. | Ui di-lí-ver uér-é-ver... | Entregamos onde quer que você esteja em Goiás. | Samalper | B1
+
+Call me whenever the audit finishes. | Cól mí uén-é-ver... | Me ligue a hora que a auditoria terminar. (Gatilho de tempo). | ConPrev | A2
+
+Whoever wrote this code is a genius. | Rú-é-ver rôut dís côud... | Quem quer que tenha escrito este código é um gênio. | Dev | B1
+
+However you calculate it, the tax is high. | Ráu-é-ver iú cal-kiu-lêit... | Não importa como você calcule, o imposto é alto. | Fisco | B2
+
+Choose whichever shoe fits best. | Tchúz uítch-é-ver shú... | Escolha qual sapato servir melhor (Dentre estes aqui). | Samalper | B2
+
+I eat whatever is in the fridge. | Ái ít uót-é-ver... | Eu como o que tiver na geladeira. | Pessoal | A2
+
+Sit wherever you like. | Sít uér-é-ver iú láik. | Sente onde você quiser. | Social | A2
+
+However hard it is, don't give up. | Ráu-é-ver rárd ít íz... | Por mais difícil que seja, não desista. | Motivação | B2
+
+Use Python, Excel, or whatever. | ...ór uót-é-ver. | Use Python, Excel, ou qualquer coisa assim. | Trabalho | B1
+
 // MÓDULO: GRAMMAR - "THERE" (85)
 There is a problem | Dér íz a pró-blem | Há um problema (Existência) | Existential There | A1
 There lived a king | Dér lív-d a kíng | Vivia um rei (Literário: Introduz o sujeito) | Existential There | B2
 There seems to be | Dér síms tú bí | Parece haver / Parece que tem | Existential There | B1
 There you are | Dér iú ár | Aí está você (Lugar/Encontro) | Adverb of Place | A1
+
+// MÓDULO: GRAMMAR - "THERE" (85)
+There is | Dér íz | Há / Existe (Singular) | Existential | A1
+There are | Dér ár | Há / Existem (Plural) | Existential | A1
+There was | Dér uóz | Houve / Existia (Passado Singular) | Existential | A1
+There were | Dér uér | Houve / Existiam (Passado Plural) | Existential | A1
+There will be | Dér uíl bí | Haverá / Existirá (Futuro) | Existential | A2
+There seems to be | Dér síms tú bí | Parece haver (Incerteza/Observação) | Existential | B1
+There might be | Dér máit bí | Pode ser que haja (Possibilidade) | Existential | B1
+Over there | Ôu-ver dér | Logo ali / Lá (Indicação de lugar distante) | Adverb | A1
+There you go | Dér iú gôu | Aqui está / Pronto (Ao entregar algo ou confirmar acerto) | Idiom | A2
+
+// FRASES EM APLICAÇÕES PRÁTICAS - "THERE" (85)
+
+There is a syntax error in line 42. | Dér íz a sín-téks é-rror... | Há um erro de sintaxe na linha 42. | Python | A1
+
+There are many shoes in the warehouse. | Dér ár mé-ni shúz... | Há muitos sapatos no armazém. | Samalper | A1
+
+There seems to be a delay in the API. | Dér síms tú bí a di-lêi... | Parece haver um atraso na API. | TI | B1
+
+There was a meeting with Rubens yesterday. | Dér uóz a mí-tin... | Houve uma reunião com o Rubens ontem. | ConPrev | A2
+
+There will be a new tax law next year. | Dér uíl bí a niú téks ló... | Haverá uma nova lei tributária ano que vem. | Fisco | A2
+
+Is there any coffee left? | Íz dér é-ni có-fi léft? | Tem algum café sobrando? | Social | A1
+
+There you are! I was looking for you. | Dér iú ár! Ái uóz lû-kin... | Aí está você! Eu estava te procurando. | Social | A1
+
+There might be a bug in the loop. | Dér máit bí a bâg... | Pode ser que haja um bug no loop. | Debug | B1
+
+There were no files in the folder. | Dér uér nôu fái-ols... | Não havia arquivos na pasta. | TI | A2
+
+There you go, the report is finished. | Dér iú gôu, dê ri-pórt... | Pronto, o relatório está finalizado. | Trabalho | A2
 
 // MÓDULO: GRAMMAR - INTRODUCTORY "IT" (86)
 It is raining | Ít íz rêi-nin | Está chovendo (Sujeito vazio para clima) | Dummy It | A1
@@ -5135,10 +6575,73 @@ It is important to go | Ít íz im-pór-tant tú gôu | É importante ir (Anteci
 It takes time | Ít têiks táim | Leva tempo | Expression | A2
 It appears that | Ít a-pí-ars dét | Parece que... | Anticipatory It | B1
 
+// MÓDULO: GRAMMAR - INTRODUCTORY "IT" (86)
+It is... | Ít íz... | É... / Está... (Usado para abrir frases de opinião ou estado) | Structure | A1
+It takes | Ít têiks | Leva (tempo, esforço, coragem) | Expression | A2
+It seems | Ít síms | Parece (Percepção de algo) | Expression | B1
+It matters | Ít mé-ters | Importa / É relevante | Verb | B1
+It's worth it | Íts uârf ít | Vale a pena | Expression | B2
+It happens | Ít ré-pens | Acontece (Eventos imprevistos) | Verb | A2
+It looks like | Ít lûks láik | Parece que... (Baseado em evidência visual) | Phrase | A2
+It is said that | Ít íz séd dét | Dizem que... / Consta que... (Voz passiva formal) | Phrase | B2
+
+// FRASES EM APLICAÇÕES PRÁTICAS - INTRODUCTORY IT (86)
+
+It is necessary to update the database. | Ít íz né-ces-sá-ri tú âp-dêit... | É necessário atualizar o banco de dados. (Sujeito real: 'atualizar'). | TI | A2
+
+It takes two hours to run the script. | Ít têiks tú áu-ars tú rân... | Leva duas horas para rodar o script. | Python | A2
+
+It's raining a lot in Senador Canedo today. | Íts rêi-nin a lót... | Está chovendo muito em Senador Canedo hoje. | Clima | A1
+
+It is important to check the tax rates. | Ít íz im-pór-tant tú tchék dê téks rêits. | É importante verificar as alíquotas de impostos. | ConPrev | A2
+
+It seems that the server is down. | Ít síms dét dê sêr-ver íz dáun. | Parece que o servidor está fora do ar. | TI | B1
+
+It doesn't matter if the shoe is old. | Ít dâ-zent mé-ter... | Não importa se o sapato é velho. | Samalper | B1
+
+It is worth it to invest in marketing. | Íts uârf ít tú in-vést ín már-ke-tin. | Vale a pena investir em marketing. | Negócios | B2
+
+It is 10 o'clock already. | Ít íz tén o-clóc ól-re-di. | Já são 10 horas. (It para horas). | Tempo | A1
+
+It appears that we have a consensus. | Ít a-pí-ars dét ui rév a con-sén-sus. | Parece que temos um consenso. | Reunião | B2
+
+It is difficult to find this model. | Ít íz dí-fi-cult tú fáind dís mó-del. | É difícil encontrar este modelo. | Samalper | A2
+
 // MÓDULO: GRAMMAR - SHIFTING FOCUS (87)
 What I need is sleep | Uót ái níd íz slíp | O que eu preciso é dormir (Ênfase no objeto) | Cleft Sentence | B2
 It was John who called | Ít uóz Djón rú cól-d | Foi o John que ligou (Ênfase no sujeito) | Cleft Sentence | B2
 The person who saw it was me | ... uóz mí | A pessoa que viu fui eu | Pseudo-cleft | B2
+
+// MÓDULO: GRAMMAR - SHIFTING FOCUS (87)
+What I... is | Uót ái... íz | O que eu... é (Foca na ação ou desejo) | Cleft Sentence | B2
+It was... who | Ít uóz... rú | Foi... quem/que (Foca na pessoa/sujeito) | Cleft Sentence | B2
+It is... that | Ít íz... dét | É... que (Foca na coisa ou circunstância) | Cleft Sentence | B2
+The reason why | Dâ rí-zon uái | A razão pela qual (Foca no motivo) | Pseudo-cleft | B1
+The person who | Dâ pâr-son rú | A pessoa que (Foca no indivíduo) | Pseudo-cleft | B1
+The place where | Dâ plêis uér | O lugar onde (Foca na localização) | Pseudo-cleft | B1
+All I want is | Ól ái uónt íz | Tudo o que eu quero é (Foca na exclusividade) | Expression | B1
+
+// FRASES EM APLICAÇÕES PRÁTICAS - SHIFTING FOCUS (87)
+
+What we need is a more efficient loop. | Uót ui níd íz a mór e-fí-xent lúp. | O que precisamos é de um loop mais eficiente. (Foco na solução). | Python | B2
+
+It was Rubens who approved the budget. | Ít uóz Rubens rú a-prúvd... | Foi o Rubens quem aprovou o orçamento. (Foco em quem deu o OK). | ConPrev | B2
+
+The reason why the script failed was a typo. | ...uóz a tái-pôu. | A razão pela qual o script falhou foi um erro de digitação. | Debug | B2
+
+All I want is to finish this report today. | Ól ái uónt íz tú fí-nish... | Tudo o que eu quero é terminar este relatório hoje. | Trabalho | B1
+
+It is the security of the data that matters. | Ít íz dê se-kiú-ri-ti óv dê dêi-ta dét mé-ters. | É a segurança dos dados que importa. | TI | B2
+
+The person who found the error was Glayzer. | ...uóz Glayzer. | A pessoa que encontrou o erro foi o Glayzer. | ConPrev | B2
+
+What I like about Samalper is the innovation. | ...íz di ín-no-vêi-shan. | O que eu gosto na Samalper é a inovação. | Negócios | B2
+
+The place where we store the shoes is full. | ...uér ui stór dê shúz íz fûl. | O lugar onde guardamos os sapatos está cheio. | Samalper | B1
+
+It was only yesterday that I noticed the bug. | Ít uóz ôun-li iés-ter-dêi dét ái nôu-tic-t... | Foi só ontem que eu notei o bug. (Foco no tempo). | TI | B2
+
+What matters most is the client's satisfaction. | Uót mé-ters môust íz dê clái-ents sa-tis-féc-shan. | O que mais importa é a satisfação do cliente. | ConPrev | B2
 
 // MÓDULO: GRAMMAR - INVERSION (88)
 Never have I seen | Né-ver rév ái sín | Nunca eu vi (Inversão para ênfase dramática) | Inversion | C1
@@ -5147,11 +6650,76 @@ Here comes the bus | Rír câms dâ bâs | Lá vem o ônibus (Inversão de lugar
 So do I | Sôu dú ái | Eu também / Assim faço eu | Inversion | A2
 Neither am I | Ní-der ém ái | Nem eu / Tampouco estou eu | Inversion | A2
 
+// MÓDULO: GRAMMAR - INVERSION (88)
+Never... | Né-ver | Nunca... (Exige inversão se iniciar a frase) | Negative Adverb | C1
+Rarely / Seldom | Ré-rli / Sél-dom | Raramente (Exige inversão se iniciar a frase) | Negative Adverb | C1
+Not only... but also | Nót ôun-li... bât ól-sou | Não só... mas também | Conjunction | B2
+So do I | Sôu dú ái | Eu também (Concordância afirmativa) | Structure | A2
+Neither do I | Ní-der dú ái | Nem eu (Concordância negativa) | Structure | A2
+Here comes... | Rír câms | Aqui vem... (Inversão de lugar) | Structure | B1
+Under no circumstances | Ân-der nôu sâr-cums-tén-ces | Em hipótese alguma | Phrase | C1
+Only then | Ôun-li dén | Só então (Inverte a segunda parte da frase) | Phrase | B2
+
+// FRASES EM APLICAÇÕES PRÁTICAS - INVERSION (88)
+
+"I need to optimize this code." "So do I." | ...Sôu dú ái. | "Eu preciso otimizar este código." "Eu também." | Dev | A2
+
+Never has the database been so fast. | Né-ver réz dê dêi-ta-bêis bín sôu fést. | Nunca o banco de dados esteve tão rápido. (Ênfase total). | TI | C1
+
+Rarely do we see such a complex tax case. | Ré-rli dú uí sín sâtch a cóm-pleks téks kêis. | Raramente vemos um caso tributário tão complexo. | ConPrev | C1
+
+Not only is the shoe cheap, but it is also durable. | Nót ôun-li íz dê shú tchíp... | Não só o sapato é barato, mas também é durável. | Samalper | B2
+
+"I don't like manual testing." "Neither do I." | ...Ní-der dú ái. | "Não gosto de testes manuais." "Nem eu." | TI | A2
+
+Under no circumstances should you share your password. | Ân-der nôu sâr-cums-tén-ces xúd iú... | Em hipótese alguma você deve compartilhar sua senha. | Segurança | C1
+
+Here comes the final report. | Rír câms dê fái-nol ri-pórt. | Aqui vem o relatório final. (Destaque para o documento). | ConPrev | B1
+
+Only then did I realize the script was wrong. | Ôun-li dén díd ái rí-a-láiz... | Só então eu percebi que o script estava errado. | Debug | B2
+
+Seldom does Rubens complain about the results. | Sél-dom dâz Rubens com-plêin... | Raramente o Rubens reclama dos resultados. | ConPrev | C1
+
+"I'm ready for the audit." "So am I." | ...Sôu ém ái. | "Estou pronto para a auditoria." "Eu também." (Verbo TO BE). | Trabalho | A2
+
 // MÓDULO: GRAMMAR - ELLIPSIS (89)
 Sounds good | Sáunds gûd | Parece bom (Omissão de 'It') | Ellipsis | B1
 See you later | Sí iú lêi-ter | Te vejo mais tarde (Omissão de 'I will') | Ellipsis | A1
 Got a minute? | Gót a mí-nut? | Tem um minuto? (Omissão de 'Have you') | Ellipsis | B1
 Don't know | Dôunt nôu | Não sei (Omissão de 'I') | Ellipsis | A2
+
+// MÓDULO: GRAMMAR - ELLIPSIS (89)
+(It) sounds good | Sáunds gûd | Parece bom (Omissão do sujeito 'It') | Ellipsis | B1
+(I) don't know | Dôunt nôu | Não sei (Omissão do 'I' - Muito comum no dia a dia) | Ellipsis | A2
+(Have you) got a minute? | Gót a mí-nut? | Tem um minuto? (Omissão do auxiliar e sujeito) | Ellipsis | B1
+(I will) see you later | Sí iú lêi-ter | Te vejo mais tarde | Ellipsis | A1
+(Is) everything okay? | É-vri-ting o-kêi? | Tudo bem? (Omissão do 'Is') | Ellipsis | A1
+(Do you) want some coffee? | Uónt sâm có-fi? | Quer um café? | Ellipsis | A2
+(I) hope so | Rôup sôu | Espero que sim | Ellipsis | B1
+(It) doesn't matter | Dâ-zent mé-ter | Não importa | Ellipsis | B1
+(Are you) ready? | Ré-di? | Pronto? | Ellipsis | A1
+
+// FRASES EM APLICAÇÕES PRÁTICAS - ELLIPSIS (89)
+
+Done! All tests passed. | Dân! Ól tésts pés-t. | Feito! Todos os testes passaram. (Omissão de "It is done"). | Python | A2
+
+Need any help with the script? | Níd é-ni rélp uíf dê scrípt? | Precisa de ajuda com o script? (Omissão de "Do you"). | TI | B1
+
+Thinking about the tax deadline. | Tín-kin a-báut dê téks déd-láin. | Pensando no prazo do imposto. (Omissão de "I am"). | ConPrev | B1
+
+Found the bug! | Fáund dê bâg! | Achei o bug! (Omissão de "I"). | Debug | A2
+
+Better late than never. | Bé-ter lêit dén né-ver. | Antes tarde do que nunca. (Omissão de "It is"). | Expressão | A2
+
+Back in five minutes. | Béc ín fáiv mí-nutes. | Volto em cinco minutos. (Omissão de "I will be"). | Trabalho | A2
+
+Not sure if Rubens is in. | Nót xúr íf Rubens íz ín. | Não tenho certeza se o Rubens está. (Omissão de "I am"). | ConPrev | B1
+
+Shoes ready for shipping? | Shúz ré-di fór xí-pin? | Sapatos prontos para o envio? (Omissão de "Are the"). | Samalper | B1
+
+Wish you were here. | Uísh iú uér rír. | Queria que você estivesse aqui. (Omissão de "I"). | Social | B2
+
+Problem solved. | Pró-blem sólv-d. | Problema resolvido. (Omissão de "The... was"). | TI | A2
 
 // MÓDULO: GRAMMAR - SHORTENING INFINITIVES (90)
 I don't want to | Ái dôunt uónt tú | Eu não quero (Omissão do verbo: 'want to go') | Reduced Infinitive | B1
@@ -14383,6 +15951,7 @@ She is the apple of my eye. | Shí íz di é-pol óv mái ái. | Ela é a menina
 We need to clear the air. | Ui níd tu clí-ar di ér. | Precisamos limpar o ar (resolver um mal-entendido/tensão). | Relacionamentos e Família | C1
 He wears the pants in the relationship. | Rí uérs dê pênts in dê ri-lei-shon-shíp. | Ele é quem manda na relação. | Relacionamentos e Família | C1
 Through thick and thin. | Frú fík ênd fín. | Na alegria e na tristeza / Nos bons e maus momentos. | Relacionamentos e Família | C2
+
 
 
 
